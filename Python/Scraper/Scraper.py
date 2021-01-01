@@ -58,14 +58,20 @@ def scrapWalterfootball(year, week):
             if len(teams) == 5:
                 teams = teams[1:]
 
+            #Check for false entries and do not include them
+            if not isinstance(teams, list) or len(teams) < 4:
+                continue
+
+            #Do not include entries with not numeric points
+            if not (teams[1].replace(",", "").isnumeric() and teams[3].replace('"', "").isnumeric()):
+                continue
+
+
             temp += ' "Game ' + str(i + 1) + '": {'
 
-            temp += '"Team 1": {"Name" : "' + teams[0].replace('"', "") + '", "Points": "' + teams[1].replace(",",
-                                                                                                              "") + '"},'
+            temp += '"Team 1": {"Name" : "' + teams[0].replace('"', "") + '", "Points": "' + teams[1].replace(",", "") + '"},'
 
-            temp += '"Team 2": {"Name" : "' + teams[2].replace('"', "") + '", "Points": "' + teams[3].replace('"',
-                                                                                                              "").replace(
-                ",", "") + '"},'
+            temp += '"Team 2": {"Name" : "' + teams[2].replace('"', "") + '", "Points": "' + teams[3].replace('"', "").replace(",", "") + '"},'
 
             temp += '"comments" : {'
 
@@ -89,6 +95,7 @@ def scrapWalterfootball(year, week):
             if i != int((len(games) - 1) / 2) - 1:
                 temp += ','
 
+            #temp is used to not write to the json until there is no error
             data += temp
         except:
             pass
@@ -103,20 +110,30 @@ def scrapWalterfootball(year, week):
     #Remove whitespace after "
     data = re.sub('" ', '"', data)
 
+    #Remove control char
+    data = re.sub("	", '', data)
+
+    if data[-2] == ",":
+        data = data[:-2]
+        data += "}"
+
     try:
         data = json.loads(data)
 
-        # Speichern in einer JSON-Datei
-        if not os.path.exists(year):
-            os.makedirs(year)
+        path = "..\\Data\\Walterfootball\\" + year
 
-        f = open(year + "\\week_" + week + ".json", "w")
+        # Speichern in einer JSON-Datei
+        if not os.path.exists(path):
+            os.makedirs(path)
+
+        f = open(path + "\\week_" + week + ".json", "w")
         f.write(json.dumps(data, indent=4))
         f.close()
 
-        print("Week " + week + " of year " + year + " scrapped")
+        print("Week " + week + " of year " + year + " scraped")
     except:
         print("Could not scrap week " + week + " of " + year)
+
 
 
 def removeScripts(soup):
