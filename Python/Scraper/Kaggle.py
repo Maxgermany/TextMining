@@ -71,28 +71,25 @@ def findPlayernameToId(ids):
 
     # ids has the structure { "year1": [playerid1, playerid2, playerid3...], "year2": [playerid1, playerid2, playerid3...]...}
 
-    sourceFile = open("..\\..\\Data\\Kaggle\\profiles.json", 'r')
-
-    objects = ijson.items(sourceFile, 'item')
-
     path = "..\\..\\Data\\Kaggle\\"
 
     for year in ids:
-        data = "{"
-        for playerId in ids[year]:
-            data += '"' + str(playerId) + '":'
-            players = (player for player in objects if int(player["player_id"]) == playerId) # Find the player with the matching id
-            for player in players: # Because ijson gives a list of objects, we need to iterate; even if there is only one element
-                playerFinal = player
-            data += str(playerFinal) + ","
+
+        sourceFile = open("..\\..\\Data\\Kaggle\\profiles.json", 'r')
+        objects = ijson.items(sourceFile, 'item')
+        players = (playerObjects for playerObjects in objects)  # Find the player with the matching id
+
+        data = "["
+
+        # Checks for each player from the big player.json, if he occurs in the id list of the years
+        for player in players:
+            if player['player_id'] in ids[year]:
+                data += '{"player_id": "' + str(player['player_id']) + '", "name": "' + str(player['name']).replace('"', "'") + '"},'
 
         data = data[:-1]
-        data += "}"
+        data += "]"
 
         # json adjustments
-        data = re.sub("'", '"', data)
-        data = re.sub("True", "true", data)
-        data = re.sub("False", "false", data)
         data = re.sub("None", '"None"', data)
 
         data = json.loads(data)
