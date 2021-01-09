@@ -33,6 +33,8 @@ def scrapWalterfootball(year, week):
 
     data += '"week": "' + str(week) + '",'
 
+    numberGames = 1
+
     for i in range(int((len(games) - 1) / 2)):
         temp = ""
         try:
@@ -67,7 +69,7 @@ def scrapWalterfootball(year, week):
                 continue
 
 
-            temp += ' "Game ' + str(i + 1) + '": {'
+            temp += ' "Game ' + str(numberGames) + '": {'
 
             temp += '"Team 1": {"Name" : "' + teams[0].replace('"', "") + '", "Points": "' + teams[1].replace(",", "") + '"},'
 
@@ -97,9 +99,11 @@ def scrapWalterfootball(year, week):
 
             #temp is used to not write to the json until there is no error
             data += temp
+            numberGames += 1
         except:
-            pass
+            print("Problem")
 
+    data += ',"numberOfGames": "' + str(numberGames-1) + '"'
     data += '}'
 
     data = data.replace("<br/>", "")
@@ -120,7 +124,7 @@ def scrapWalterfootball(year, week):
     try:
         data = json.loads(data)
 
-        path = "..\\Data\\Walterfootball\\" + year
+        path = "..\\..\\Data\\Walterfootball\\" + year
 
         # Speichern in einer JSON-Datei
         if not os.path.exists(path):
@@ -153,7 +157,7 @@ weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12",
 
 year = 2008
 
-while (year < 2017):
+while (year <= 2017):
     for i in weeks:
         scrapWalterfootball(str(year), i)
     year += 1
