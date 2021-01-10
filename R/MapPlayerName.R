@@ -48,7 +48,7 @@ for (year in years) {
       
       i <- 1 #For iteration
       
-      while(i <= resultWeek$numberOfGames){
+      while(i <= as.integer(resultWeek$numberOfGames)){
         
         gameName <- paste(c("Game ", i), collapse = "")
         
@@ -56,14 +56,8 @@ for (year in years) {
         
         allComments <- "" #All comments are saved in one var
         
-        firstNum <- TRUE #The first element of the game$comments is the number of comments, we don't want in the text
-        
         for (comment in game$comments) {
-          if(firstNum){
-            firstNum <- FALSE
-          } else {
-            allComments <- paste(allComments, comment, setp=" ")
-          }
+          allComments <- paste(allComments, comment, setp=" ")
         }
         
         game$comments <- allComments
