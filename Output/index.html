@@ -1,0 +1,248 @@
+<html>
+    <head>
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                margin: 0;
+            }
+
+            .navbar {
+                overflow: hidden;
+                background-color: #333;
+            }
+
+            .navbar a {
+                float: left;
+                font-size: 16px;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+
+            .subnav {
+                float: left;
+                overflow: hidden;
+            }
+
+            .subnav .subnavbtn {
+                font-size: 16px;
+                border: none;
+                outline: none;
+                color: white;
+                padding: 14px 16px;
+                background-color: inherit;
+                font-family: inherit;
+                margin: 0;
+            }
+
+            .navbar a:hover, .subnav:hover .subnavbtn {
+                background-color: darkgreen;
+            }
+
+            .subnav-content {
+                display: none;
+                position: absolute;
+                left: 0;
+                background-color: darkgreen;
+                width: 100%;
+                z-index: 1;
+            }
+
+            .subnav-content a {
+                float: left;
+                color: white;
+                text-decoration: none;
+            }
+
+            .subnav-content a:hover {
+                background-color: #eee;
+                color: black;
+            }
+
+            .subnav:hover .subnav-content {
+                display: block;
+            }
+
+            .columnComments {
+                float: left;
+                width: 75%;
+                padding: 10px;
+                height: 300px; /* Should be removed. Only for demonstration */
+            }
+
+            .columnDetails {
+                float: left;
+                width: 25%;
+                padding: 10px;
+                height: 300px; /* Should be removed. Only for demonstration */
+            }
+
+            /* Clear floats after the columns */
+            .row:after {
+                content: "";
+                display: table;
+                clear: both;
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            table{
+                width:100%;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="margin-left: 10px; margin-top: 5px;">NFL Mapping</h1>
+        <div class="navbar" id="navbar"></div>
+        <br>
+        <br>
+        <div id="outputDiv">
+            <div class="columnComments" style="overflow-y: scroll; height: 70%;">
+                <h2>Comments</h2>
+                <p id="outputData" align="justify"></p>
+            </div>
+            <div class="columnDetails">
+                <h2>Details</h2>
+                <p id="outputDetail"></p>
+            </div>
+        </div>
+
+        <script>
+            function generateMenu() {
+
+                let years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
+                let weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
+                let navbar = document.getElementById("navbar");
+
+                for (let year in years) {
+
+                    let menuYear = document.createElement("div");
+
+                    menuYear.setAttribute("class", "subnav")
+
+                    let menuYearButton = document.createElement("button");
+                    menuYearButton.setAttribute("class", "subnavbtn");
+                    menuYearButton.innerText = "Year " + years[year];
+
+                    menuYear.appendChild(menuYearButton);
+
+                    let subContent = document.createElement("div");
+                    subContent.setAttribute("class", "subnav-content");
+
+                    for (week in weeks) {
+                        let menuWeek = document.createElement("a");
+                        menuWeek.setAttribute("href", "?year=" + years[year] + "&week=" + weeks[week]);
+                        menuWeek.innerText = "Week " + weeks[week];
+                        subContent.appendChild(menuWeek);
+                    }
+
+                    menuYearButton.appendChild(subContent);
+
+                    navbar.appendChild(menuYear);
+                }
+            }
+
+            function isParameter(){
+                let urlString = window.location.href;
+                let url = new URL(urlString);
+                return url.searchParams.has("year") && url.searchParams.has("week");
+            }
+
+            async function getData(){
+                let urlString = window.location.href;
+                let url = new URL(urlString);
+                let week = url.searchParams.get("week");
+                let year = url.searchParams.get("year");
+
+                let response = await fetch("..\\Data\\Output\\" + year + "\\week_" + week + ".json")
+
+                let data = await response.json();
+
+                return data;
+
+            }
+
+            function showPlayerData(element, gameNumber){
+                let table = document.createElement('table');
+                let thead = document.createElement('tr');
+                let th = document.createElement('th');
+
+                th.innerText = "Property";
+                thead.appendChild(th);
+
+                th = document.createElement('th');
+                th.innerText = "Value";
+                thead.appendChild(th);
+
+                table.appendChild(thead);
+
+                for(player in MyLib.Data.games[gameNumber].players) {
+                    playerName =  MyLib.Data.games[gameNumber].players[player].name[0].toString();
+                    if (playerName == element.innerText) {
+
+                        let tbody = document.createElement('tr');
+
+                        let td = document.createElement('td');
+                        td.innerText = "PlayerID";
+
+                        tbody.appendChild(td);
+
+                        td = document.createElement('td')
+                        td.innerText =  MyLib.Data.games[gameNumber].players[player].player_id[0].toString();
+                        tbody.appendChild(td);
+
+                        table.appendChild(tbody);
+
+                        tbody = document.createElement('tr');
+
+                        td = document.createElement('td');
+                        td.innerText = "Playername";
+                        tbody.appendChild(td);
+
+                        td = document.createElement('td');
+                        td.innerText = playerName;
+                        tbody.appendChild(td);
+
+                        table.appendChild(tbody);
+                    }
+                }
+                
+                let outputDetail = document.getElementById('outputDetail');
+                outputDetail.innerHTML = '';
+                outputDetail.appendChild(table);
+            }
+
+            generateMenu();
+            if(isParameter()) {
+                outputElement = document.getElementById("outputData");
+                getData()
+                    .then(
+                        data => {
+                            window.MyLib = {};
+                            MyLib.Data = data;
+                            console.log(data);
+                            for (game in data.games) {
+                                let output = data.games[game].comments.toString();
+                                for (player in data.games[game].players) {
+                                    playerName = data.games[game].players[player].name[0].toString()
+                                    output = output.replace(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                }
+
+                                let headline = document.createElement("h2");
+                                headline.innerText = data.games[game]["Team 1"].Name[0] + " " + data.games[game]["Team 1"].Points[0] + " - " + data.games[game]["Team 2"].Name[0] + " " + data.games[game]["Team 2"].Points[0];
+                                outputElement.appendChild(headline);
+
+                                let commentDiv = document.createElement("div");
+                                commentDiv.innerHTML = output;
+                                outputElement.appendChild(commentDiv);
+                            }
+                        }
+                    );
+            }
+        </script>
+
+    </body>
+</html>
