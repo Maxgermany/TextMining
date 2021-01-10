@@ -56,8 +56,14 @@ for (year in years) {
         
         allComments <- "" #All comments are saved in one var
         
+        firstNum <- TRUE #The first element of the game$comments is the number of comments, we don't want in the text
+        
         for (comment in game$comments) {
-          allComments <- paste(allComments, comment, setp=" ")
+          if(firstNum){
+            firstNum <- FALSE
+          } else {
+            allComments <- paste(allComments, comment, setp=" ")
+          }
         }
         
         game$comments <- allComments
