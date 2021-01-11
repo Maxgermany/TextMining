@@ -228,7 +228,7 @@
                                 let output = data.games[game].comments.toString();
                                 for (player in data.games[game].players) {
                                     playerName = data.games[game].players[player].name[0].toString()
-                                    output = output.replace(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                    output = output.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
                                 }
 
                                 let headline = document.createElement("h2");
