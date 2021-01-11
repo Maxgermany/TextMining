@@ -223,7 +223,6 @@
                         data => {
                             window.MyLib = {};
                             MyLib.Data = data;
-                            console.log(data);
                             for (game in data.games) {
                                 let output = data.games[game].comments.toString();
                                 for (player in data.games[game].players) {
@@ -240,7 +239,9 @@
                                 outputElement.appendChild(commentDiv);
                             }
                         }
-                    );
+                    ).catch((error) => {
+                        outputElement.innerText = "Couldn't find File.";
+                });
             }
         </script>
 
