@@ -89,8 +89,20 @@
                 box-sizing: border-box;
             }
 
-            table{
-                width:100%;
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+
+            tr:nth-child(even) {
+                background-color: #dddddd;
             }
         </style>
     </head>
@@ -104,7 +116,7 @@
                 <h2>Comments</h2>
                 <p id="outputData" align="justify"></p>
             </div>
-            <div class="columnDetails">
+            <div class="columnDetails" style="overflow-y: scroll; height: 70%;">
                 <h2>Details</h2>
                 <p id="outputDetail"></p>
             </div>
@@ -183,30 +195,21 @@
                     playerName =  MyLib.Data.games[gameNumber].players[player].name[0].toString();
                     if (playerName == element.innerText) {
 
-                        let tbody = document.createElement('tr');
+                        Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (key) {
+                            if (MyLib.Data.games[gameNumber].players[player][key] != "None") {
+                                let tbody = document.createElement('tr');
 
-                        let td = document.createElement('td');
-                        td.innerText = "PlayerID";
+                                let td = document.createElement('td');
+                                td.innerText = key;
+                                tbody.appendChild(td);
 
-                        tbody.appendChild(td);
+                                td = document.createElement('td');
+                                td.innerText = MyLib.Data.games[gameNumber].players[player][key];
+                                tbody.appendChild(td);
 
-                        td = document.createElement('td')
-                        td.innerText =  MyLib.Data.games[gameNumber].players[player].player_id[0].toString();
-                        tbody.appendChild(td);
-
-                        table.appendChild(tbody);
-
-                        tbody = document.createElement('tr');
-
-                        td = document.createElement('td');
-                        td.innerText = "Playername";
-                        tbody.appendChild(td);
-
-                        td = document.createElement('td');
-                        td.innerText = playerName;
-                        tbody.appendChild(td);
-
-                        table.appendChild(tbody);
+                                table.appendChild(tbody);
+                            }
+                        });
                     }
                 }
                 

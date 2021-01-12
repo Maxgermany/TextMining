@@ -4,20 +4,20 @@ import json
 import re
 
 
-def splitKaggleData():
-    sourceFile = open("..\\..\\Data\\Kaggle\\games.json", 'r')
+def splitKaggleData(splitYear):
+    sourceFile = open("..\\..\\Data\\Kaggle\\games.json", 'r') # Remember to unzip the file and remove it after processing, because it is to big for Github
 
     objects = ijson.items(sourceFile, 'item')
 
     # Filter games that are earlier then 2007
-    games = (game for game in objects if int(game['year']) >= 2007)
+    games = (game for game in objects if int(game['year']) == splitYear)
 
     # The result variables (dictioniary)
     gamesAfterYears = {}
     playerIDsAfterYears = {}
 
     # Create neccesary dictionary entry for all years
-    for year in range(2007, 2018):
+    for year in range(splitYear, splitYear + 1):
         stringYear = str(year)
         gamesAfterYears[stringYear] = '['  # For json notation
         playerIDsAfterYears[stringYear] = [] # Player ids are saved in a list
@@ -27,7 +27,7 @@ def splitKaggleData():
         gamesAfterYears[game['year']] += str(game) + ","
         playerIDsAfterYears[game['year']].append(game['player_id'])
 
-    for year in range(2007, 2018):
+    for year in range(splitYear, splitYear + 1):
         stringYear = str(year)
         
         playerIDsAfterYears[stringYear] = list(dict.fromkeys(playerIDsAfterYears[stringYear])) # Remove duplicates
@@ -69,7 +69,7 @@ def splitKaggleData():
 
 def findPlayernameToId(ids):
 
-    # ids has the structure { "year1": [playerid1, playerid2, playerid3...], "year2": [playerid1, playerid2, playerid3...]...}
+    # ids has the structure { "year1": [playerid1, playerid2, playerid3...], "year2": [playerid1, playerid2, playerid3, ...], ...}
 
     path = "..\\..\\Data\\Kaggle\\"
 
@@ -84,13 +84,13 @@ def findPlayernameToId(ids):
         # Checks for each player from the big player.json, if he occurs in the id list of the years
         for player in players:
             if player['player_id'] in ids[year]:
-                data += '{"player_id": "' + str(player['player_id']) + '", "name": "' + str(player['name']).replace('"', "'") + '"},'
-
+                data += '{'
+                for key, value in player.items():
+                    data += '"' + str(key) + '": "' + str(value).replace('"', "'") + '",'
+                data = data[:-1]
+                data += '},'
         data = data[:-1]
         data += "]"
-
-        # json adjustments
-        data = re.sub("None", '"None"', data)
 
         data = json.loads(data)
 
@@ -98,4 +98,6 @@ def findPlayernameToId(ids):
         jsonOutputFile.write(json.dumps(data, indent=4))
         jsonOutputFile.close()
 
-splitKaggleData()
+for year in range(2008, 2018):
+    splitKaggleData(year)
+    print("Splitted year " + year + ".")
