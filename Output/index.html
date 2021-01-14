@@ -192,7 +192,7 @@
                 table.appendChild(thead);
 
                 for(player in MyLib.Data.games[gameNumber].players) {
-                    playerName =  MyLib.Data.games[gameNumber].players[player].name[0].toString();
+                    playerName =  MyLib.Data.games[gameNumber].players[player].name.toString();
                     if (playerName == element.innerText) {
 
                         Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (key) {
@@ -229,12 +229,12 @@
                             for (game in data.games) {
                                 let output = data.games[game].comments.toString();
                                 for (player in data.games[game].players) {
-                                    playerName = data.games[game].players[player].name[0].toString()
+                                    playerName = data.games[game].players[player].name.toString()
                                     output = output.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
                                 }
 
                                 let headline = document.createElement("h2");
-                                headline.innerText = data.games[game]["Team 1"].Name[0] + " " + data.games[game]["Team 1"].Points[0] + " - " + data.games[game]["Team 2"].Name[0] + " " + data.games[game]["Team 2"].Points[0];
+                                headline.innerText = data.games[game]["Team 1"].Name + " " + data.games[game]["Team 1"].Points + " - " + data.games[game]["Team 2"].Name + " " + data.games[game]["Team 2"].Points;
                                 outputElement.appendChild(headline);
 
                                 let commentDiv = document.createElement("div");

@@ -89,8 +89,19 @@ for (year in years) {
       
       exportJSON <- jsonlite::toJSON(finalJSON, pretty = TRUE) #Generate JSON
       
-      write(exportJSON, paste(c("..\\Data\\Output\\" , year, "\\week_",  week, ".json"), collapse = "")) #Save JSON to file
+      fileName <- paste(c("..\\Data\\Output\\" , year, "\\week_",  week, ".json"), collapse = "")
+      
+      write(exportJSON, fileName) #Save JSON to file
     
+      
+      #jsonlite saves single values as list, below it is reversed: ["value"] -> "value"
+      fileLines <- readLines(fileName)
+      
+      replaceLines <- gsub(pattern = '\\["', replace = '"', x = fileLines)
+      
+      replaceLines <- gsub(pattern = '"\\]', replace = '"', x = replaceLines)
+      
+      writeLines(replaceLines, con=fileName)
     }
   }
 }
