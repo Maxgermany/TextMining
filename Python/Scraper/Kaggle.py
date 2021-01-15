@@ -104,7 +104,7 @@ def findPlayernameToId(ids):
         jsonOutputFile.write(json.dumps(data, indent=4))
         jsonOutputFile.close()
 
-#Splits the year data in to
+#Splits the year data in to weeks after season
 def splitYearAfterWeek(year):
 
     calendarWeeks = getCalenderWeeksAsArray(year)
@@ -153,7 +153,13 @@ def splitYearAfterWeek(year):
             if not os.path.exists(path):
                 os.makedirs(path)
 
-            jsonOutputFile = open(path + "week" + str(nflWeekNumber) + ".json", "w")
+            if nflWeekNumber < 10:
+                nflWeekNumberStr = str(nflWeekNumber)
+                nflWeekNumberStr = "0" + nflWeekNumberStr
+            else:
+                nflWeekNumberStr = str(nflWeekNumber)
+
+            jsonOutputFile = open(path + "week_" + str(nflWeekNumberStr) + ".json", "w")
             jsonOutputFile.write(json.dumps(data, indent=4))
             jsonOutputFile.close()
 
@@ -196,7 +202,13 @@ def splitYearAfterWeek(year):
             if not os.path.exists(path):
                 os.makedirs(path)
 
-            jsonOutputFile = open(path + "week" + str(nflWeekNumber) + ".json", "w")
+            if nflWeekNumber < 10:
+                nflWeekNumberStr = str(nflWeekNumber)
+                nflWeekNumberStr = "0" + nflWeekNumberStr
+            else:
+                nflWeekNumberStr = str(nflWeekNumber)
+
+            jsonOutputFile = open(path + "week_" + str(nflWeekNumberStr) + ".json", "w")
             jsonOutputFile.write(json.dumps(data, indent=4))
             jsonOutputFile.close()
 
@@ -229,5 +241,5 @@ def getCalenderWeeksAsArray(year):
 
 
 for year in range(2008, 2018):
-    splitKaggleData(year)
+    splitYearAfterWeek(year)
     print("Scrapped year " + str(year) + ".")
