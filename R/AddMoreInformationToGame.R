@@ -22,7 +22,7 @@ for(year in years) {
   
   for (week in weeks) {
     
-    weekFile <- paste(c("..\\Data\\Output\\", year, "\\week_", week, ".json"), collapse = "") # File with the information of the week and the comments
+    weekFile <- paste(c("..\\Data\\RPlayerNames\\", year, "\\week_", week, ".json"), collapse = "") # File with the information of the week and the comments
     
     gameFile <- paste(c("..\\Data\\Kaggle\\", year, "\\week_", week, ".json"), collapse = "") # File with the detailed information of the player stats in a week
     

@@ -6,13 +6,13 @@ weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
 
 #Creating the Folders if not exists
-path <- "..\\Data\\Output"
+path <- "..\\Data\\RPlayerNames"
 if (!(dir.exists(path))){
   dir.create(path)
 }
 for (year in years) {
   for (week in weeks) {
-    path <- paste(c("..\\Data\\Output\\", year), collapse = "")
+    path <- paste(c("..\\Data\\RPlayerNames\\", year), collapse = "")
     if (!(dir.exists(path))){
       dir.create(path)
     }
@@ -89,7 +89,7 @@ for (year in years) {
       
       exportJSON <- jsonlite::toJSON(finalJSON, pretty = TRUE) #Generate JSON
       
-      fileName <- paste(c("..\\Data\\Output\\" , year, "\\week_",  week, ".json"), collapse = "")
+      fileName <- paste(c("..\\Data\\RPlayerNames\\" , year, "\\week_",  week, ".json"), collapse = "")
       
       write(exportJSON, fileName) #Save JSON to file
     
