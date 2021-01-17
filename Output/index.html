@@ -178,8 +178,12 @@
             }
 
             function showPlayerData(element, gameNumber){
+
                 let table = document.createElement('table');
 
+                let outputElement = document.getElementById("outputData");
+
+                let output = MyLib.text;
                 for(player in MyLib.Data.games[gameNumber].players) {
                     if(Object.keys(MyLib.Data.games[gameNumber].players[player]).length == 2) {
                         playerName = MyLib.Data.games[gameNumber].players[player]["player information"].name.toString();
@@ -213,9 +217,19 @@
                                             td = document.createElement('td');
                                             td.innerHTML = '<b style="color:indianred">' + MyLib.Data.games[gameNumber].players[player][key][key1]["propertyValue"] + "</b>";
                                             tbody.appendChild(td);
+                                            Object.keys(MyLib.Data.games[gameNumber].players[player]["game information"]).forEach(function (key) {
+                                                if (typeof(MyLib.Data.games[gameNumber].players[player]["game information"][key]) == "object"){
+                                                    number = MyLib.Data.games[gameNumber].players[player]["game information"][key]["propertyValue"];
+                                                    output = output.replaceAll(" " + number + " ", '<b style="color:indianred"> ' + number + " </b>");
+                                                    output = output.replaceAll(" " + number + "-", '<b style="color:indianred"> ' + number + "</b>-");
+                                                    output = output.replaceAll("-" + number + " ", '-<b style="color:indianred">' + number + " </b>");
+                                                }
+                                            });
                                         }
 
                                         table.appendChild(tbody);
+
+                                        outputElement.innerHTML = output;
                                     }
                                 });
                             });
@@ -257,34 +271,36 @@
                             window.MyLib = {};
                             MyLib.Data = data;
                             console.log(data);
+
+                            let output = "";
                             for (game in data.games) {
-                                let output = data.games[game].comments.toString();
+
+                                output += "<h2>";
+                                output += data.games[game]["Team 1"].Name + " " + data.games[game]["Team 1"].Points + " - " + data.games[game]["Team 2"].Name + " " + data.games[game]["Team 2"].Points;
+                                output += "</h2>"
+
+                                let temp = data.games[game].comments.toString();
+
                                 for (player in data.games[game].players) {
                                     if(Object.keys(data.games[game].players[player]).length == 2) {
                                         playerName = data.games[game].players[player]["player information"].name.toString()
-                                        output = output.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
-                                        Object.keys(data.games[game].players[player]["game information"]).forEach(function (key) {
-                                            if (typeof(data.games[game].players[player]["game information"][key]) == "object"){
-                                                number = data.games[game].players[player]["game information"][key]["propertyValue"];
-                                                output = output.replaceAll(" " + number + " ", '<b style="color:indianred"> ' + number + " </b>");
-                                                output = output.replaceAll(" " + number + "-", '<b style="color:indianred"> ' + number + "</b>-");
-                                                output = output.replaceAll("-" + number + " ", '-<b style="color:indianred">' + number + " </b>");
-                                            }
-                                        });
+                                        temp = temp.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
                                     } else {
                                         playerName = data.games[game].players[player].name.toString()
-                                        output = output.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                        temp = temp.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
                                     }
                                 }
 
-                                let headline = document.createElement("h2");
-                                headline.innerText = data.games[game]["Team 1"].Name + " " + data.games[game]["Team 1"].Points + " - " + data.games[game]["Team 2"].Name + " " + data.games[game]["Team 2"].Points;
-                                outputElement.appendChild(headline);
+                                output += "<div>";
+                                output += temp;
+                                output += "</div>";
 
-                                let commentDiv = document.createElement("div");
-                                commentDiv.innerHTML = output;
-                                outputElement.appendChild(commentDiv);
                             }
+
+                            MyLib.text = output;
+
+                            outputElement.innerHTML = output;
+
                         }
                     ).catch((error) => {
                         outputElement.innerText = error;
