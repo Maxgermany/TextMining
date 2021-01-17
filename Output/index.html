@@ -215,14 +215,14 @@
                                             tbody.appendChild(td);
                                         } else {
                                             td = document.createElement('td');
-                                            td.innerHTML = '<b style="color:indianred">' + MyLib.Data.games[gameNumber].players[player][key][key1]["propertyValue"] + "</b>";
+                                            td.innerHTML = '<strong style="color:red">' + MyLib.Data.games[gameNumber].players[player][key][key1]["propertyValue"] + "</strong>";
                                             tbody.appendChild(td);
                                             Object.keys(MyLib.Data.games[gameNumber].players[player]["game information"]).forEach(function (key) {
                                                 if (typeof(MyLib.Data.games[gameNumber].players[player]["game information"][key]) == "object"){
                                                     number = MyLib.Data.games[gameNumber].players[player]["game information"][key]["propertyValue"];
-                                                    output = output.replaceAll(" " + number + " ", '<b style="color:indianred"> ' + number + " </b>");
-                                                    output = output.replaceAll(" " + number + "-", '<b style="color:indianred"> ' + number + "</b>-");
-                                                    output = output.replaceAll("-" + number + " ", '-<b style="color:indianred">' + number + " </b>");
+                                                    output = output.replaceAll(" " + number + " ", '<strong style="color:red"> ' + number + " </strong>");
+                                                    output = output.replaceAll(" " + number + "-", '<strong style="color:red"> ' + number + "</strong>-");
+                                                    output = output.replaceAll("-" + number + " ", '-<strong style="color:red">' + number + " </strong>");
                                                 }
                                             });
                                         }
@@ -284,16 +284,18 @@
                                 for (player in data.games[game].players) {
                                     if(Object.keys(data.games[game].players[player]).length == 2) {
                                         playerName = data.games[game].players[player]["player information"].name.toString()
-                                        temp = temp.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                        temp = temp.replaceAll(playerName, "<strong onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></strong>");
                                     } else {
                                         playerName = data.games[game].players[player].name.toString()
-                                        temp = temp.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                        temp = temp.replaceAll(playerName, "<strong onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></strong>");
                                     }
                                 }
 
                                 output += "<div>";
                                 output += temp;
                                 output += "</div>";
+                                output += "<br>";
+                                output += '<hr style="height:2px;border-width:0;color:gray;background-color:gray">';
 
                             }
 
