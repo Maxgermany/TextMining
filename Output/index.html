@@ -66,14 +66,14 @@
 
             .columnComments {
                 float: left;
-                width: 75%;
+                width: 60%;
                 padding: 10px;
                 height: 300px; /* Should be removed. Only for demonstration */
             }
 
             .columnDetails {
                 float: left;
-                width: 25%;
+                width: 40%;
                 padding: 10px;
                 height: 300px; /* Should be removed. Only for demonstration */
             }
@@ -125,7 +125,7 @@
         <script>
             function generateMenu() {
 
-                let years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
+                let years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016]
                 let weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20"]
                 let navbar = document.getElementById("navbar");
 
@@ -144,7 +144,7 @@
                     let subContent = document.createElement("div");
                     subContent.setAttribute("class", "subnav-content");
 
-                    for (week in weeks) {
+                    for (let week in weeks) {
                         let menuWeek = document.createElement("a");
                         menuWeek.setAttribute("href", "?year=" + years[year] + "&week=" + weeks[week]);
                         menuWeek.innerText = "Week " + weeks[week];
@@ -179,37 +179,66 @@
 
             function showPlayerData(element, gameNumber){
                 let table = document.createElement('table');
-                let thead = document.createElement('tr');
-                let th = document.createElement('th');
-
-                th.innerText = "Property";
-                thead.appendChild(th);
-
-                th = document.createElement('th');
-                th.innerText = "Value";
-                thead.appendChild(th);
-
-                table.appendChild(thead);
 
                 for(player in MyLib.Data.games[gameNumber].players) {
-                    playerName =  MyLib.Data.games[gameNumber].players[player].name.toString();
-                    if (playerName == element.innerText) {
+                    if(Object.keys(MyLib.Data.games[gameNumber].players[player]).length == 2) {
+                        playerName = MyLib.Data.games[gameNumber].players[player]["player information"].name.toString();
+                        if (playerName == element.innerText) {
 
-                        Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (key) {
-                            if (MyLib.Data.games[gameNumber].players[player][key] != "None") {
-                                let tbody = document.createElement('tr');
+                            Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (key) {
+                                let thead = document.createElement('tr');
 
-                                let td = document.createElement('td');
+                                let td = document.createElement('th');
+
                                 td.innerText = key;
-                                tbody.appendChild(td);
+                                td.setAttribute("colspan", "2");
+                                thead.appendChild(td);
 
-                                td = document.createElement('td');
-                                td.innerText = MyLib.Data.games[gameNumber].players[player][key];
-                                tbody.appendChild(td);
+                                table.appendChild(thead);
 
-                                table.appendChild(tbody);
-                            }
-                        });
+
+                                Object.keys(MyLib.Data.games[gameNumber].players[player][key]).forEach(function (key1) {
+                                    if (MyLib.Data.games[gameNumber].players[player][key][key1] != "None" && MyLib.Data.games[gameNumber].players[player][key][key1] != 0) {
+                                        let tbody = document.createElement('tr');
+
+                                        let td = document.createElement('td');
+                                        td.innerText = key1;
+                                        tbody.appendChild(td);
+
+                                        if (typeof(MyLib.Data.games[gameNumber].players[player][key][key1]) == "string" || typeof(MyLib.Data.games[gameNumber].players[player][key][key1]) == "number" || typeof(MyLib.Data.games[gameNumber].players[player][key][key1]) == "boolean") {
+                                            td = document.createElement('td');
+                                            td.innerText = MyLib.Data.games[gameNumber].players[player][key][key1];
+                                            tbody.appendChild(td);
+                                        } else {
+                                            td = document.createElement('td');
+                                            td.innerHTML = '<b style="color:indianred">' + MyLib.Data.games[gameNumber].players[player][key][key1]["propertyValue"] + "</b>";
+                                            tbody.appendChild(td);
+                                        }
+
+                                        table.appendChild(tbody);
+                                    }
+                                });
+                            });
+                        }
+                    } else {
+                        if (playerName == element.innerText) {
+
+                            Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (key) {
+                                if (MyLib.Data.games[gameNumber].players[player][key] != "None") {
+                                    let tbody = document.createElement('tr');
+
+                                    let td = document.createElement('td');
+                                    td.innerText = key;
+                                    tbody.appendChild(td);
+
+                                    td = document.createElement('td');
+                                    td.innerText = MyLib.Data.games[gameNumber].players[player][key];
+                                    tbody.appendChild(td);
+
+                                    table.appendChild(tbody);
+                                }
+                            });
+                        }
                     }
                 }
                 
@@ -219,6 +248,7 @@
             }
 
             generateMenu();
+
             if(isParameter()) {
                 outputElement = document.getElementById("outputData");
                 getData()
@@ -226,11 +256,25 @@
                         data => {
                             window.MyLib = {};
                             MyLib.Data = data;
+                            console.log(data);
                             for (game in data.games) {
                                 let output = data.games[game].comments.toString();
                                 for (player in data.games[game].players) {
-                                    playerName = data.games[game].players[player].name.toString()
-                                    output = output.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                    if(Object.keys(data.games[game].players[player]).length == 2) {
+                                        playerName = data.games[game].players[player]["player information"].name.toString()
+                                        output = output.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                        Object.keys(data.games[game].players[player]["game information"]).forEach(function (key) {
+                                            if (typeof(data.games[game].players[player]["game information"][key]) == "object"){
+                                                number = data.games[game].players[player]["game information"][key]["propertyValue"];
+                                                output = output.replaceAll(" " + number + " ", '<b style="color:indianred"> ' + number + " </b>");
+                                                output = output.replaceAll(" " + number + "-", '<b style="color:indianred"> ' + number + "</b>-");
+                                                output = output.replaceAll("-" + number + " ", '-<b style="color:indianred">' + number + " </b>");
+                                            }
+                                        });
+                                    } else {
+                                        playerName = data.games[game].players[player].name.toString()
+                                        output = output.replaceAll(playerName, "<b onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></b>");
+                                    }
                                 }
 
                                 let headline = document.createElement("h2");
@@ -243,10 +287,9 @@
                             }
                         }
                     ).catch((error) => {
-                        outputElement.innerText = "Couldn't find File.";
+                        outputElement.innerText = error;
                 });
             }
         </script>
-
     </body>
 </html>
