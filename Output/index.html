@@ -263,7 +263,7 @@
 
             generateMenu();
 
-            if(isParameter()) {
+            if (isParameter()) {
                 outputElement = document.getElementById("outputData");
                 getData()
                     .then(
@@ -303,7 +303,7 @@
 
                         }
                     ).catch((error) => {
-                        outputElement.innerText = error;
+                        outputElement.innerText = "Week wasn't scrapped yet."
                 });
             }
         </script>
