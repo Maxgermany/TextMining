@@ -97,8 +97,6 @@ for(year in years) {
         
         replaceLines <- str_replace_all(replaceLines, "\\[([:digit:]*)\\]", "\\1")
         
-        replaceLines <- str_replace_all(replaceLines, '\\"NoPlayersFound\\"', "\\[\\]")
-        
         replaceLines <- gsub(pattern = '\\[false\\]', replace = 'false', x = replaceLines)
         
         replaceLines <- gsub(pattern = '\\[true\\]', replace = 'true', x = replaceLines)
