@@ -1,4 +1,5 @@
 library(stringr)
+library(rjson)
 
 weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")
 
@@ -82,26 +83,12 @@ for(year in years) {
           
         }
         
-        exportJSON <- jsonlite::toJSON(resultWeek, pretty = TRUE) #Generate JSON
+        exportJSON <- rjson::toJSON(resultWeek, 1) #Generate JSON
         
         fileName <- paste(c("..\\Data\\RMoreInformation\\", year, "\\week_", week, ".json"), collapse = "")
         
         write(exportJSON, fileName) #Save JSON to file
-        
-        #jsonlite saves single values as list, below it is reversed: ["value"] -> "value"
-        fileLines <- readLines(fileName)
-        
-        replaceLines <- gsub(pattern = '\\["', replace = '"', x = fileLines)
-        
-        replaceLines <- gsub(pattern = '"\\]', replace = '"', x = replaceLines)
-        
-        replaceLines <- str_replace_all(replaceLines, "\\[([:digit:]*)\\]", "\\1")
-        
-        replaceLines <- gsub(pattern = '\\[false\\]', replace = 'false', x = replaceLines)
-        
-        replaceLines <- gsub(pattern = '\\[true\\]', replace = 'true', x = replaceLines)
-        
-        writeLines(replaceLines, con=fileName)
+       
       }
     }
   }
