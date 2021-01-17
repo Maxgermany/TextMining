@@ -4,14 +4,15 @@ weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
 
+
 #Creating the Folders if not exists
-path <- "..\\Data\\Output"
+path <- "..\\Data\\RMoreInformation"
 if (!(dir.exists(path))){
   dir.create(path)
 }
 for (year in years) {
   for (week in weeks) {
-    path <- paste(c("..\\Data\\Output\\", year), collapse = "")
+    path <- paste(c("..\\Data\\RMoreInformation\\", year), collapse = "")
     if (!(dir.exists(path))){
       dir.create(path)
     }
@@ -40,34 +41,42 @@ for(year in years) {
           
           j <- 1 # For iteration purpose
           
-          for(playerInGame in game$players) {
+          if (length(game$players) < 1) {
             
-            for(playerInWeek in resultGame) {
+            resultWeek$games[[i]]$players <- "NoPlayersFound"
+            
+          } else {
+          
+            for(playerInGame in game$players) {
               
-              if (playerInGame$player_id == playerInWeek$player_id) {
+              for(playerInWeek in resultGame) {
                 
-                game$players[[j]] <- list(playerInGame, playerInWeek)
-                names(game$players[[j]]) <- c("player information", "game information")
-                j <- j + 1
+                if (playerInGame$player_id == playerInWeek$player_id) {
+                  
+                  game$players[[j]] <- list(playerInGame, playerInWeek)
+                  names(game$players[[j]]) <- c("player information", "game information")
+                  j <- j + 1
+                  
+                }
                 
               }
               
             }
             
-          }
-          
-          resultPlayers <- list()
-          
-          j <- 1 # for iteration purpose
-          
-          for (player in game$players) { # Remove duplicates (duplicates don't have two sublists)
-            if (length(player) == 2) {
-              resultPlayers[[j]] <- player
-              j <- j + 1
+            resultPlayers <- list()
+            
+            j <- 1 # for iteration purpose
+            
+            for (player in game$players) { # Remove duplicates (duplicates don't have two sublists)
+              if (length(player) == 2) {
+                resultPlayers[[j]] <- player
+                j <- j + 1
+              }
             }
+            
+            resultWeek$games[[i]]$players <- resultPlayers
+            
           }
-          
-          resultWeek$games[[i]]$players <- resultPlayers
           
           i <- i + 1
           
@@ -75,7 +84,7 @@ for(year in years) {
         
         exportJSON <- jsonlite::toJSON(resultWeek, pretty = TRUE) #Generate JSON
         
-        fileName <- paste(c("..\\Data\\Output\\", year, "\\week_", week, ".json"), collapse = "")
+        fileName <- paste(c("..\\Data\\RMoreInformation\\", year, "\\week_", week, ".json"), collapse = "")
         
         write(exportJSON, fileName) #Save JSON to file
         
@@ -87,6 +96,8 @@ for(year in years) {
         replaceLines <- gsub(pattern = '"\\]', replace = '"', x = replaceLines)
         
         replaceLines <- str_replace_all(replaceLines, "\\[([:digit:]*)\\]", "\\1")
+        
+        replaceLines <- str_replace_all(replaceLines, '\\"NoPlayersFound\\"', "\\[\\]")
         
         replaceLines <- gsub(pattern = '\\[false\\]', replace = 'false', x = replaceLines)
         
