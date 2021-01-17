@@ -27,6 +27,7 @@ for (year in years) {
   }
 }
 
+id <- 1
 
 for (year in years) {
   
@@ -66,9 +67,10 @@ for (year in years) {
                   
                   if (number != 0) {
                     
-                    playerInformation[[propertyName]] <- list(propertyValue, 13)
-                    names(playerInformation[[propertyName]]) <- c("propertyValue", "annotationID") # Add marker for annotation, if match is found
+                    playerInformation[[propertyName]] <- list(propertyValue, id) # Add marker and unique ID for annotation, if match is found
+                    names(playerInformation[[propertyName]]) <- c("propertyValue", "annotationID") 
                   
+                    id <- id + 1
                   }
                 
                 }
