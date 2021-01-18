@@ -112,15 +112,20 @@
         <br>
         <br>
         <div id="outputDiv">
-            <div class="columnComments" style="overflow-y: scroll; height: 70%;">
+            <div class="columnComments" style="overflow-y: scroll; height: 65%;">
                 <h2>Comments</h2>
                 <p id="outputData" align="justify"></p>
             </div>
-            <div class="columnDetails" style="overflow-y: scroll; height: 70%;">
+            <div class="columnDetails" style="overflow-y: scroll; height: 65%;">
                 <h2>Details</h2>
                 <p id="outputDetail"></p>
             </div>
         </div>
+
+        <footer>
+            Reportsource: <a href="http://www.walterfootball.com">Walterfootball.com</a> <br>
+            Datasource: <a href="https://www.kaggle.com/zynicide/nfl-football-player-stats">Kaggle</a>
+        </footer>
 
         <script>
             function generateMenu() {
@@ -372,6 +377,9 @@
                                                     output = output.replaceAll(" " + number + " ", '<strong style="color:red"> ' + number + " </strong>");
                                                     output = output.replaceAll(" " + number + "-", '<strong style="color:red"> ' + number + "</strong>-");
                                                     output = output.replaceAll("-" + number + " ", '-<strong style="color:red">' + number + " </strong>");
+                                                    output = output.replaceAll("(" + number + " ", '(<strong style="color:red">' + number + " </strong>");
+                                                    output = output.replaceAll(" " + number + ")", '<strong style="color:red">' + number + "</strong>)");
+
                                                 }
                                             });
                                         }
