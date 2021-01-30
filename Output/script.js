@@ -137,13 +137,21 @@ function showPlayerData(element, gameNumber) {
 
                                     if (typeof(MyLib.Data.games[gameNumber].players[player]["game information"][key2]) == "object"){
 
-                                        number = MyLib.Data.games[gameNumber].players[player]["game information"][key2]["propertyValue"];
+                                        number = MyLib.Data.games[gameNumber].players[player]["game information"][key2]["propertyValue"].toString();
 
                                         output = output.replaceAll(" " + number + " ", '<strong style="color:red"> ' + number + " </strong>");
                                         output = output.replaceAll(" " + number + "-", '<strong style="color:red"> ' + number + "</strong>-");
                                         output = output.replaceAll("-" + number + " ", '-<strong style="color:red">' + number + " </strong>");
                                         output = output.replaceAll("(" + number + " ", '(<strong style="color:red">' + number + " </strong>");
-                                        output = output.replaceAll(" " + number + ")", '<strong style="color:red">' + number + "</strong>)");
+
+                                        //output = output.replaceAll(" " + number + ")", '<strong style="color:red"> ' + number + "</strong>)"); //This line somehow produces an error sometimes; for example on week 1 of 2008 when changing from Julius Jones to Maurice Morris
+
+                                        output = output.replaceAll("(" + number + "-", '(<strong style="color:red">' + number + "</strong>-");
+                                        output = output.replaceAll("(" + number + ")", '(<strong style="color:red">' + number + "</strong>)")
+                                        output = output.replaceAll("-" + number + ")", '-<strong style="color:red">' + number + "</strong>)");
+                                        output = output.replaceAll("-" + number + ",", '-<strong style="color:red">' + number + "</strong>,");
+                                        output = output.replaceAll("," + number + ")", ',<strong style="color:red">' + number + "</strong>)");
+                                        output = output.replaceAll("," + number + " ", ',<strong style="color:red">' + number + " </strong>");
 
                                     }
 
