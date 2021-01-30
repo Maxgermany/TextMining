@@ -1,28 +1,50 @@
 <html>
+
     <head>
+
         <link rel="stylesheet" href="style.css">
+
     </head>
+
     <body>
+
         <h1 style="margin-left: 10px; margin-top: 5px;">NFL Mapping</h1>
+
         <div class="navbar" id="navbar"></div>
-        <br>
-        <br>
-        <div id="outputDiv">
-            <div class="columnComments" style="overflow-y: scroll; height: 65%;">
+
+        <div id="outputDiv" class="outputDiv">
+
+            <div class="columnComments">
+
                 <h2>Comments</h2>
+
                 <p id="outputData" align="justify"></p>
+
             </div>
-            <div class="columnDetails" style="overflow-y: scroll; height: 65%;">
+
+            <div class="columnDetails">
+
                 <h2>Details</h2>
+
                 <p id="outputDetail"></p>
+
             </div>
+
         </div>
 
-        <footer>
+
+        <footer style="margin-top: 50px">
+
             Reportsource: <a href="http://www.walterfootball.com">Walterfootball.com</a> <br>
+
             Datasource: <a href="https://www.kaggle.com/zynicide/nfl-football-player-stats">Kaggle</a>
+
         </footer>
 
+        <script type="text/javascript" src="abbreviationDictionary.js"></script>
+
         <script src="script.js"></script>
+
     </body>
+
 </html>

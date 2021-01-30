@@ -5,7 +5,8 @@ body {
 
 .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: black;
+    margin-bottom: 10px;
 }
 
 .navbar a {
@@ -34,14 +35,14 @@ body {
 }
 
 .navbar a:hover, .subnav:hover .subnavbtn {
-    background-color: darkgreen;
+    background-color: #006600;
 }
 
 .subnav-content {
     display: none;
     position: absolute;
     left: 0;
-    background-color: darkgreen;
+    background-color: #006600;
     width: 100%;
     z-index: 1;
 }
@@ -61,18 +62,24 @@ body {
     display: block;
 }
 
+.outputDiv {
+}
+
 .columnComments {
     float: left;
     width: 60%;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow-y: scroll;
+    height: 80%;
 }
 
 .columnDetails {
     float: left;
     width: 40%;
     padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+    overflow-y: scroll;
+    height: 80%;
 }
 
 /* Clear floats after the columns */
@@ -100,4 +107,17 @@ td, th {
 
 tr:nth-child(even) {
     background-color: #dddddd;
+}
+
+footer {
+    padding: 2px;
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom:0;
+}
+
+footer a {
+    color: white;
 }
