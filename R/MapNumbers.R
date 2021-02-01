@@ -14,7 +14,7 @@ weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
 
 # Creating the Folders if not exists
-path <- "..\\Data\\Output"
+path <- "..\\Data\\Output\\"
 if (!(dir.exists(path))){
   dir.create(path)
 }
@@ -39,11 +39,9 @@ for (year in years) {
       
       resultWeek <- rjson::fromJSON(file = weekFile)
       
-      i <- 1 # For iteration purpsoe
+      i <- 1 # For iteration purpose
       
       for (game in resultWeek$games) {
-        
-        numbers <- numExtract(game$comments) # Get numbers from text
         
         j <- 1
         
@@ -54,6 +52,32 @@ for (year in years) {
             playerInformation <- player$`game information` # Get the detailed information of the player for this game
             
             properties <- paste(names(playerInformation), playerInformation)
+            
+            playerComment <- "" # All parts in the comment belonging to the player
+            
+            for (tempCurrentPlayerOccurence in str_locate_all(game$comments, player$`player information`$name)) { # If a player occurs more than once in a comment, we have to find all belonging parts
+              
+              firstOccurenceOfOtherPlayerInText <- str_length(game$comments) # Upper bound
+            
+              for (playerTemp in game$players) { # For all players in the comment
+                
+                playerOccurenceInText <- str_locate_all(game$comments, playerTemp$`player information`$name) # All occurences of the current player in the comment
+                
+                for (occurenceIndex in playerOccurenceInText) {
+                  
+                  if (firstOccurenceOfOtherPlayerInText > occurenceIndex[[1]] && occurenceIndex[[1]] > tempCurrentPlayerOccurence[[2]]) { # If the position of the temp player is between the current player and the current upper bound we change the upper bound
+                    firstOccurenceOfOtherPlayerInText <- occurenceIndex[[1]] - 1 # Char position before the temp player
+                  }
+                  
+                }
+                
+              }
+              
+              playerComment <- paste(c(playerComment, substr(game$comments, tempCurrentPlayerOccurence[[1]], firstOccurenceOfOtherPlayerInText)), collapse="") # The belonging comment part
+              
+            }
+            
+            numbers <- numExtract(playerComment) # Get numbers from text
             
             # Check for each number if it occurs in the statistics of the player
             for (number in numbers) {
