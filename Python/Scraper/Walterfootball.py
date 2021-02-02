@@ -143,6 +143,40 @@ def scrapWalterfootball(year, week):
         print("Could not scrap week " + week + " of " + year)
 
 
+def scrapWalterfootballCorpus(year, week):
+
+    print("Now Scrapping week " + week + " of " + year + " for corpus")
+
+    url = 'https://walterfootball.com/nflreview' + year + '_' + week + '.php'
+    page = requests.get(url)
+
+    soup = BeautifulSoup(page.content, 'html.parser')
+
+    removeScripts(soup)
+
+    removeNoScripts(soup)
+
+    removeFonts(soup)
+
+    removeLinks(soup)
+
+    removeTable(soup)
+
+    removeBold(soup)
+
+    if "We do not have an article for URL" in str(soup):
+        print("Couldn't scrap week " + week + " of " + year + " for corpus")
+    else:
+
+        file = open("..\\..\\Data\\Corpus\\corpus.txt", "a+")
+
+        soup = soup.find('div', id='MainContentBlock')
+
+        for listElement in soup.find_all("li"):
+            file.write(' '.join(listElement.text.replace('\n', ' ').replace('\r', ' ').split()))
+
+        file.close()
+
 
 def removeScripts(soup):
     [s.extract() for s in soup('script')]
@@ -164,6 +198,10 @@ def removeTable(soup):
     [s.extract() for s in soup('table')]
 
 
+def removeBold(soup):
+    [s.extract() for s in soup('b')]
+
+
 weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18",
          "19", "20"]
 
@@ -172,4 +210,5 @@ year = 2008
 while (year <= 2017):
     for i in weeks:
         scrapWalterfootball(str(year), i)
+        scrapWalterfootballCorpus(str(year), i)
     year += 1
