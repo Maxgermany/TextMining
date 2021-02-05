@@ -36,7 +36,7 @@ var wordMap = {
     "receiving_targets" : "Receiving targets",
     "receiving_receptions" : "Receiving receptions",
     "receiving_yards" : "Receiving yards",
-    "receiving_touchdowns" : "Receiving toruchdowns",
+    "receiving_touchdowns" : "Receiving touchdowns",
 
     "punt_return_attempts" : "Punt return attempts",
     "punt_return_yards" : "Punt return yards",
