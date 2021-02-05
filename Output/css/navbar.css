@@ -1,13 +1,10 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
-}
 
 .navbar {
     overflow: hidden;
     background-color: black;
     margin-bottom: 10px;
 }
+
 
 .navbar a {
     float: left;
@@ -60,64 +57,4 @@ body {
 
 .subnav:hover .subnav-content {
     display: block;
-}
-
-.outputDiv {
-}
-
-.columnComments {
-    float: left;
-    width: 60%;
-    padding-left: 10px;
-    padding-right: 10px;
-    overflow-y: scroll;
-    height: 80%;
-}
-
-.columnDetails {
-    float: left;
-    width: 40%;
-    padding: 10px;
-    overflow-y: scroll;
-    height: 80%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even) {
-    background-color: #dddddd;
-}
-
-footer {
-    padding: 2px;
-    background-color: black;
-    color: white;
-    width: 100%;
-    position: fixed;
-    bottom:0;
-}
-
-footer a {
-    color: white;
 }

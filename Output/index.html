@@ -2,48 +2,22 @@
 
     <head>
 
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/style.css">
 
     </head>
 
     <body>
 
-        <h1 style="margin-left: 10px; margin-top: 5px;">NFL Mapping</h1>
+        <h1>
+            NFL Mapping
+            <span class="subtitle"><a href="index.html" style="color: IndianRed">Statistics</a> | <a href="games.html">Games</a> | <a href="players.html">Players</a></span>
+        </h1>
 
-        <div class="navbar" id="navbar"></div>
+        <h2 style="margin-left: 10px">Statistics</h2>
 
-        <div id="outputDiv" class="outputDiv">
+        <p style="margin-left: 10px" id="statistics"></p>
 
-            <div class="columnComments">
-
-                <h2>Comments</h2>
-
-                <p id="outputData" align="justify"></p>
-
-            </div>
-
-            <div class="columnDetails">
-
-                <h2>Details</h2>
-
-                <p id="outputDetail"></p>
-
-            </div>
-
-        </div>
-
-
-        <footer style="margin-top: 50px">
-
-            Reportsource: <a href="http://www.walterfootball.com">Walterfootball.com</a> <br>
-
-            Datasource: <a href="https://www.kaggle.com/zynicide/nfl-football-player-stats">Kaggle</a>
-
-        </footer>
-
-        <script type="text/javascript" src="abbreviationDictionary.js"></script>
-
-        <script src="script.js"></script>
+        <script type="text/javascript" src="js/statistics.js"></script>
 
     </body>
 
