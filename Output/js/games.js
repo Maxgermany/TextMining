@@ -226,21 +226,25 @@ if (isParameter()) {
 
                     let temp = data.games[game].comments.toString();
 
-                    for (let playerIndex in data.games[game].players) {
+                    if (data.games[game].players != "NoPlayersFound") {
 
-                        if(Object.keys(data.games[game].players[playerIndex]).length == 2) {
+                        for (let playerIndex in data.games[game].players) {
 
-                            let playerName = data.games[game].players[playerIndex]["player information"].name.toString()
+                            if (Object.keys(data.games[game].players[playerIndex]).length == 2) {
 
-                            temp = temp.replaceAll(playerName, "<strong onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></strong>");
+                                let playerName = data.games[game].players[playerIndex]["player information"].name.toString()
 
-                        } else {
+                                temp = temp.replaceAll(playerName, "<strong onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></strong>");
 
-                            let playerName = data.games[game].players[playerIndex].name.toString()
+                            } else {
 
-                            temp = temp.replaceAll(playerName, "<strong onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></strong>");
+                                let playerName = data.games[game].players[playerIndex].name.toString()
 
+                                temp = temp.replaceAll(playerName, "<strong onclick='showPlayerData(this, " + game + ")'><strong>" + playerName + "</strong></strong></strong>");
+
+                            }
                         }
+
                     }
 
                     output += "<div>";
