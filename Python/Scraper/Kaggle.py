@@ -4,6 +4,7 @@ import json
 import re
 import datetime
 
+# TODO: Combine split function of year and week in one
 
 def splitKaggleData(splitYear):
     sourceFile = open("..\\..\\Data\\Kaggle\\games.json",
@@ -92,10 +93,12 @@ def findPlayernameToId(ids):
             if player['player_id'] in ids[year]:
                 data += '{'
                 for key, value in player.items():
+                    if str(value)[-1] == ' ': # e.g. "Andrew Johnson " -> "Andrew Johnson"
+                        value = value[:-1]
                     data += '"' + str(key) + '": "' + str(value).replace('"', "'") + '",'
-                data = data[:-1]
+                data = data[:-1] # Remove last comma
                 data += '},'
-        data = data[:-1]
+        data = data[:-1] # Remove last comma
         data += "]"
 
         data = json.loads(data)
@@ -109,7 +112,7 @@ def splitYearAfterWeek(year):
 
     calendarWeeks = getCalenderWeeksAsArray(year)
 
-    if year != 2017:  # For year 2017 is the datase only
+    if year != 2017:  # For year 2017 is the dataset only partly available
 
         nflWeekNumber = 18  # A season goes from year to the other, so year x has the last 4 weeks of year x-1
         pathYear = year - 1  # Same reason as above
@@ -166,7 +169,9 @@ def splitYearAfterWeek(year):
             nflWeekNumber += 1
 
     else:
+
         nflWeekNumber = 1
+
         for week in calendarWeeks:
 
             weekGames = '['
@@ -240,6 +245,11 @@ def getCalenderWeeksAsArray(year):
     return calendarWeeks
 
 
-for year in range(2008, 2018):
-    splitYearAfterWeek(year)
+for year in range(2008, 2018): # Splits the kaggle-data after year
+    splitKaggleData(year)
     print("Scrapped year " + str(year) + ".")
+
+
+for year in range(2008, 2018): # Splits the year futher in weeks
+    splitYearAfterWeek(year)
+    print("Scrapped weeks of year " + str(year) + ".")
