@@ -5,6 +5,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
+    height: 100%;
 }
 
 h1 {
@@ -28,13 +29,27 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 
+.wrapper {
+    min-height: 100%;
+    margin-bottom: -35px;
+}
+
+.push {
+    height: 35px;
+}
+
 footer {
     padding: 2px;
+    clear: both;
+    position: relative;
     background-color: black;
     color: white;
     width: 100%;
-    position: fixed;
+    font-size: 13px;
     bottom:0;
+    margin-top: auto;
+    height: 35px;
+
 }
 
 footer a {
@@ -53,6 +68,10 @@ footer a {
 .subtitle a {
     text-decoration: none;
     color: gray;
+}
+
+.outputDiv {
+    height: auto;
 }
 
 .columnComments {
