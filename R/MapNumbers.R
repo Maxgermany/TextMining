@@ -9,6 +9,28 @@ numExtract <- function(string) {
   return(allNumbers)
 }
 
+#Replace all numbers (from one to ten) that occur as string as integer
+numReplace <- function(text) {
+  
+  numbersList <- list(
+    list(" one ", " 1 "),
+    list(" two ", " 2 "),
+    list(" three ", " 3 "),
+    list(" four ", " 4 "),
+    list(" five ", " 5 "),
+    list(" six ", " 6 "),
+    list(" seven ", " 7 "),
+    list(" eight ", " 8 "),
+    list(" nine ", " 9 "),
+    list(" ten ", " 10 "))
+  
+  for (numberName in numbersList) {
+    text <- gsub(numberName[[1]], numberName[[2]], text)
+  }
+  
+  return(text)
+}
+
 weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
@@ -42,6 +64,10 @@ for (year in years) {
       i <- 1 # For iteration purpose
       
       for (game in resultWeek$games) {
+        
+        game$comments <- numReplace(game$comments)
+        
+        resultWeek$games[[i]]$comments <- game$comments
         
         j <- 1
         

@@ -12,7 +12,7 @@
     "Name":"Bills",
     "Points":"10"
    },
-   "comments":" It's pretty hilarious how pathetic Buffalo's offense is. Here are some fun numbers: - At one point, Trent Edwards was 4-of-7 for 8 yards. When he hit his next pass, I posted the following on the forum, Trent Edwards has hit double-digit passing yards!!! - The Bills had just nine first downs in this game. - Buffalo was 3-of-14 on third downs (as a comparison, Miami was 8-of-18). - The Bills had only 72 yards on their first nine possessions. - Of Buffalo's first seven possessions, five were three-and-outs. - This one is from LeeLee: The Bills have 76 yards of offense after 3 quarters. Three NFL teams have had single plays longer than that today.    Edwards finished 18-of-34 for 139 yards and a touchdown. His refusal to throw the ball downfield - even at the end of the game when he had no choice - is really disturbing. He cannot be allowed to start any longer.    C.J. Spiller's numbers made him look like a ninth-round pick rather than a No. 9 overall selection. He rushed for just six yards on seven attempts, and also chipped in with four receptions for eight receiving yards. Spiller took numerous losses, as his offensive line couldn't open up any lanes for him. No surprise there.    I'll have time to bash the Bills even further for the next 16 weeks. As for the Dolphins, they were nearly as anemic on offense, especially in the second half, where they had only 37 yards on their first four possessions.    Chad Henne was just 21-of-34 for 182 yards. As in the preseason, Henne continued to be plagued by drops, as Brandon Marshall had a 40-yard reception fall out of his hands. Marshall had a solid PPR performance overall, snagging eight receptions for 53 yards. Davone Bess, meanwhile, had six grabs for 51 yards.    Miami was able to win this contest by gashing Buffalo on the ground yet again; Ronnie Brown had 65 yards and a touchdown on 13 carries, while Ricky Williams totaled 62 yards on 18 attempts.   ",
+   "comments":" It's pretty hilarious how pathetic Buffalo's offense is. Here are some fun numbers: - At 1 point, Trent Edwards was 4-of-7 for 8 yards. When he hit his next pass, I posted the following on the forum, Trent Edwards has hit double-digit passing yards!!! - The Bills had just 9 first downs in this game. - Buffalo was 3-of-14 on third downs (as a comparison, Miami was 8-of-18). - The Bills had only 72 yards on their first 9 possessions. - Of Buffalo's first 7 possessions, 5 were three-and-outs. - This 1 is from LeeLee: The Bills have 76 yards of offense after 3 quarters. Three NFL teams have had single plays longer than that today.    Edwards finished 18-of-34 for 139 yards and a touchdown. His refusal to throw the ball downfield - even at the end of the game when he had no choice - is really disturbing. He cannot be allowed to start any longer.    C.J. Spiller's numbers made him look like a ninth-round pick rather than a No. 9 overall selection. He rushed for just 6 yards on 7 attempts, and also chipped in with 4 receptions for 8 receiving yards. Spiller took numerous losses, as his offensive line couldn't open up any lanes for him. No surprise there.    I'll have time to bash the Bills even further for the next 16 weeks. As for the Dolphins, they were nearly as anemic on offense, especially in the second half, where they had only 37 yards on their first 4 possessions.    Chad Henne was just 21-of-34 for 182 yards. As in the preseason, Henne continued to be plagued by drops, as Brandon Marshall had a 40-yard reception fall out of his hands. Marshall had a solid PPR performance overall, snagging 8 receptions for 53 yards. Davone Bess, meanwhile, had 6 grabs for 51 yards.    Miami was able to win this contest by gashing Buffalo on the ground yet again; Ronnie Brown had 65 yards and a touchdown on 13 carries, while Ricky Williams totaled 62 yards on 18 attempts.   ",
    "players":[
     {
      "player information":{
@@ -58,10 +58,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       9950
+      },
       "receiving_yards":{
        "propertyValue":"51",
-       "annotationID":       6273
+       "annotationID":       9951
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -120,15 +123,15 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"21",
-       "annotationID":       6274
+       "annotationID":       9952
       },
       "passing_completions":{
        "propertyValue":"34",
-       "annotationID":       6275
+       "annotationID":       9953
       },
       "passing_yards":{
        "propertyValue":"182",
-       "annotationID":       6276
+       "annotationID":       9954
       },
       "passing_rating":      75.9,
       "passing_touchdowns":      0,
@@ -206,11 +209,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"13",
-       "annotationID":       6278
+       "annotationID":       9956
       },
       "rushing_yards":{
        "propertyValue":"65",
-       "annotationID":       6277
+       "annotationID":       9955
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      3,
@@ -281,11 +284,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"18",
-       "annotationID":       6280
+       "annotationID":       9958
       },
       "rushing_yards":{
        "propertyValue":"62",
-       "annotationID":       6279
+       "annotationID":       9957
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -354,12 +357,24 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      7,
-      "rushing_yards":      6,
+      "rushing_attempts":{
+       "propertyValue":"7",
+       "annotationID":       9960
+      },
+      "rushing_yards":{
+       "propertyValue":"6",
+       "annotationID":       9959
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
-      "receiving_receptions":      4,
-      "receiving_yards":      8,
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       9963
+      },
+      "receiving_yards":{
+       "propertyValue":"8",
+       "annotationID":       9962
+      },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      1,
       "kick_return_yards":      11,
@@ -407,7 +422,10 @@
       "player_id":      6296,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       9966
+      },
       "age":"26-317",
       "team":"BUF",
       "game_location":"H",
@@ -417,22 +435,25 @@
       "opponent_score":"15",
       "passing_attempts":{
        "propertyValue":"18",
-       "annotationID":       6284
+       "annotationID":       9969
       },
       "passing_completions":{
        "propertyValue":"34",
-       "annotationID":       6285
+       "annotationID":       9970
       },
       "passing_yards":{
        "propertyValue":"139",
-       "annotationID":       6286
+       "annotationID":       9971
       },
       "passing_rating":      73,
-      "passing_touchdowns":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       9967
+      },
       "passing_interceptions":      0,
       "passing_sacks":{
        "propertyValue":"3",
-       "annotationID":       6283
+       "annotationID":       9968
       },
       "passing_sacks_yards_lost":      23,
       "rushing_attempts":      2,
@@ -508,10 +529,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      13,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       9972
+      },
       "receiving_yards":{
        "propertyValue":"53",
-       "annotationID":       6287
+       "annotationID":       9973
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -547,7 +571,7 @@
     "Name":"Browns",
     "Points":"14"
    },
-   "comments":" The Browns finished the year hot. They had a new, $7 million quarterback who looked pretty solid in the preseason. They were playing a team whose signal-caller was coming off a broken thumb. If they couldn't win this game, they weren't going to have much of a chance to do anything this year. Well, they lost. They had more net yardage and first downs than Tampa, but simply made too many mistakes. Jake Delhomme looked like a $7 quarterback with a kidnapped son, tossing two interceptions in addition to his 20-of-37 for 227 yards and a touchdown. Peyton Hillis, ironically getting a lot of work because Jerome Harrison fumbled too many times in the preseason, lost the ball twice. Harrison out-gained Hillis in rushing yardage, 52-41, with both runners getting nine carries. Eric Mangini may go back to Harrison now that both backs have proven themselves to be too sloppy with the football. It's too bad Montario Hardesty is out for the year.    Mohamed Massaquoi caught Delhomme's touchdown, but finished with only two grabs for 46 yards. He's physically talented, but it's hard to like him in fantasy as long as the Browns keep refusing to draft franchise quarterbacks and instead trot out garbage every year.    I was glad to see that Evan Moore led the Browns in receiving yardage with 87 off three catches. His 49-yard reception was on a bit of a fluky play though, so don't get too excited.    Like the Browns, the Buccaneers committed a couple of dumb errors, though not nearly as many. Earnest Graham, getting a goal-line carry instead of Cadillac Williams for some unknown reason, fumbled inside the 5-yard line. Josh Freeman also had Mike Williams open for a touchdown, but overthrew his stud rookie receiver. Freeman finished 17-of-28 for 182 yards, two touchdowns and a pick, and also ran twice for 34 more yards. All in all, Freeman played well considering he was coming off a broken thumb.    Rookie receiver Mike Williams had five grabs for 30 yards and a score. As noted earlier, Freeman missed him for another potential touchdown. Williams' numbers can only get better as Freeman's thumb continues to heal.    Cadillac Williams had a decent game. He had 98 total yards (75 rushing, 23 receiving), but was going against a pretty solid Browns front.   ",
+   "comments":" The Browns finished the year hot. They had a new, $7 million quarterback who looked pretty solid in the preseason. They were playing a team whose signal-caller was coming off a broken thumb. If they couldn't win this game, they weren't going to have much of a chance to do anything this year. Well, they lost. They had more net yardage and first downs than Tampa, but simply made too many mistakes. Jake Delhomme looked like a $7 quarterback with a kidnapped son, tossing 2 interceptions in addition to his 20-of-37 for 227 yards and a touchdown. Peyton Hillis, ironically getting a lot of work because Jerome Harrison fumbled too many times in the preseason, lost the ball twice. Harrison out-gained Hillis in rushing yardage, 52-41, with both runners getting 9 carries. Eric Mangini may go back to Harrison now that both backs have proven themselves to be too sloppy with the football. It's too bad Montario Hardesty is out for the year.    Mohamed Massaquoi caught Delhomme's touchdown, but finished with only 2 grabs for 46 yards. He's physically talented, but it's hard to like him in fantasy as long as the Browns keep refusing to draft franchise quarterbacks and instead trot out garbage every year.    I was glad to see that Evan Moore led the Browns in receiving yardage with 87 off 3 catches. His 49-yard reception was on a bit of a fluky play though, so don't get too excited.    Like the Browns, the Buccaneers committed a couple of dumb errors, though not nearly as many. Earnest Graham, getting a goal-line carry instead of Cadillac Williams for some unknown reason, fumbled inside the 5-yard line. Josh Freeman also had Mike Williams open for a touchdown, but overthrew his stud rookie receiver. Freeman finished 17-of-28 for 182 yards, 2 touchdowns and a pick, and also ran twice for 34 more yards. All in all, Freeman played well considering he was coming off a broken thumb.    Rookie receiver Mike Williams had 5 grabs for 30 yards and a score. As noted earlier, Freeman missed him for another potential touchdown. Williams' numbers can only get better as Freeman's thumb continues to heal.    Cadillac Williams had a decent game. He had 98 total yards (75 rushing, 23 receiving), but was going against a pretty solid Browns front.   ",
    "players":[
     {
      "player information":{
@@ -662,10 +686,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       9975
+      },
       "receiving_yards":{
        "propertyValue":"87",
-       "annotationID":       6288
+       "annotationID":       9974
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -730,10 +757,13 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      9,
+      "rushing_attempts":{
+       "propertyValue":"9",
+       "annotationID":       9977
+      },
       "rushing_yards":{
        "propertyValue":"52",
-       "annotationID":       6289
+       "annotationID":       9976
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -796,19 +826,22 @@
       "opponent_score":"17",
       "passing_attempts":{
        "propertyValue":"20",
-       "annotationID":       6290
+       "annotationID":       9979
       },
       "passing_completions":{
        "propertyValue":"37",
-       "annotationID":       6291
+       "annotationID":       9980
       },
       "passing_yards":{
        "propertyValue":"227",
-       "annotationID":       6292
+       "annotationID":       9981
       },
       "passing_rating":      59.2,
       "passing_touchdowns":      1,
-      "passing_interceptions":      2,
+      "passing_interceptions":{
+       "propertyValue":"2",
+       "annotationID":       9978
+      },
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":      1,
@@ -1022,10 +1055,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
-      "receiving_receptions":      2,
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       9982
+      },
       "receiving_yards":{
        "propertyValue":"46",
-       "annotationID":       6293
+       "annotationID":       9983
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -1082,7 +1118,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"17",
-       "annotationID":       6294
+       "annotationID":       9984
       },
       "opponent_score":"14",
       "passing_attempts":      0,
@@ -1097,10 +1133,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       9985
+      },
       "receiving_yards":{
        "propertyValue":"30",
-       "annotationID":       6295
+       "annotationID":       9986
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -1226,7 +1265,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"17",
-       "annotationID":       6296
+       "annotationID":       9987
       },
       "opponent_score":"14",
       "passing_attempts":      0,
@@ -1240,14 +1279,20 @@
       "rushing_attempts":      22,
       "rushing_yards":{
        "propertyValue":"75",
-       "annotationID":       6297
+       "annotationID":       9990
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      2,
-      "receiving_receptions":      2,
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       9988
+      },
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       9989
+      },
       "receiving_yards":{
        "propertyValue":"23",
-       "annotationID":       6298
+       "annotationID":       9991
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1283,7 +1328,7 @@
     "Name":"Bengals",
     "Points":"24"
    },
-   "comments":" If you were at a game or at work, and missed the scoring in this game, this contest was not as close as the indicates. At one point, New England was up 31-3. The funny thing is, it could have been much worse for Cincinnati. In the first half, Tom Brady suffered through four drops in the red zone (Kevin Faulk 2, Wes Welker, Aaron Hernandez). Despite those four drops, Brady was still 25-of-35 for 258 yards and three touchdowns, looking sharper than he has ever been since his nasty knee injury.    Wes Welker is back! He led the Patriots in receptions with eight for 64 yards and two touchdowns. I'm still concerned that he's playing so soon off a torn ACL, but he'll continue to be a dangerous weapon for Brady as long as he's on the field. Randy Moss, meanwhile totaled five receptions for 59 yards.    Brady's two rookie tight ends each had a catch. Hernandez hauled in a 45-yard grab, while Gronkowski scored a 1-yard touchdown.    With Laurence Maroney out, Fred Taylor received the majority of the carries. He did a great job against the Bengals, notching 71 yards on 14 carries.    While New England's offense was clicking the entire afternoon, the Bengals couldn't move the chains in the first half. Carson Palmer played dreadfully, showing absolutely no arm strength that he once possessed. He finished 34-of-50 for 345 yards, two touchdowns and an interception, but most of that came when the Patriots began playing a vanilla prevent defense. On one play prior to halftime, Palmer was 9-of-16 for 56 yards and a pick-six.    Again, these numbers will look pretty, but they all came in the second half when the game was out of hand. Chad Ochocinco hauled in 12 balls for 159 yards and a touchdown, while Terrell Owens had seven grabs for 53 yards. Jordan Shipley (5 catches, 82 yards) and Jermaine Gresham (6-25, TD) also chipped in.    Cedric Benson struggled to get anything on the ground, gaining 43 yards and a late touchdown on 15 carries. <div class=dfpAdSlots>   ",
+   "comments":" If you were at a game or at work, and missed the scoring in this game, this contest was not as close as the indicates. At 1 point, New England was up 31-3. The funny thing is, it could have been much worse for Cincinnati. In the first half, Tom Brady suffered through 4 drops in the red zone (Kevin Faulk 2, Wes Welker, Aaron Hernandez). Despite those 4 drops, Brady was still 25-of-35 for 258 yards and 3 touchdowns, looking sharper than he has ever been since his nasty knee injury.    Wes Welker is back! He led the Patriots in receptions with 8 for 64 yards and 2 touchdowns. I'm still concerned that he's playing so soon off a torn ACL, but he'll continue to be a dangerous weapon for Brady as long as he's on the field. Randy Moss, meanwhile totaled 5 receptions for 59 yards.    Brady's 2 rookie tight ends each had a catch. Hernandez hauled in a 45-yard grab, while Gronkowski scored a 1-yard touchdown.    With Laurence Maroney out, Fred Taylor received the majority of the carries. He did a great job against the Bengals, notching 71 yards on 14 carries.    While New England's offense was clicking the entire afternoon, the Bengals couldn't move the chains in the first half. Carson Palmer played dreadfully, showing absolutely no arm strength that he once possessed. He finished 34-of-50 for 345 yards, 2 touchdowns and an interception, but most of that came when the Patriots began playing a vanilla prevent defense. On 1 play prior to halftime, Palmer was 9-of-16 for 56 yards and a pick-six.    Again, these numbers will look pretty, but they all came in the second half when the game was out of hand. Chad Ochocinco hauled in 12 balls for 159 yards and a touchdown, while Terrell Owens had 7 grabs for 53 yards. Jordan Shipley (5 catches, 82 yards) and Jermaine Gresham (6-25, TD) also chipped in.    Cedric Benson struggled to get anything on the ground, gaining 43 yards and a late touchdown on 15 carries. <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -1311,7 +1356,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6300
+       "annotationID":       9994
       },
       "age":"33-211",
       "team":"NWE",
@@ -1332,10 +1377,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       9992
+      },
       "receiving_yards":{
        "propertyValue":"59",
-       "annotationID":       6299
+       "annotationID":       9993
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1404,10 +1452,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      13,
-      "receiving_receptions":      7,
+      "receiving_receptions":{
+       "propertyValue":"7",
+       "annotationID":       9995
+      },
       "receiving_yards":{
        "propertyValue":"53",
-       "annotationID":       6301
+       "annotationID":       9996
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1475,7 +1526,10 @@
       "rushing_attempts":      0,
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
-      "receiving_targets":      2,
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       9997
+      },
       "receiving_receptions":      1,
       "receiving_yards":      45,
       "receiving_touchdowns":      0,
@@ -1545,12 +1599,18 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      11,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       9998
+      },
       "receiving_yards":{
        "propertyValue":"64",
-       "annotationID":       6302
+       "annotationID":       9999
       },
-      "receiving_touchdowns":      2,
+      "receiving_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10000
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -1597,7 +1657,10 @@
       "player_id":      17016,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10005
+      },
       "age":"30-259",
       "team":"CIN",
       "game_location":"A",
@@ -1607,25 +1670,34 @@
       "opponent_score":"38",
       "passing_attempts":{
        "propertyValue":"34",
-       "annotationID":       6303
+       "annotationID":       10001
       },
       "passing_completions":{
        "propertyValue":"50",
-       "annotationID":       6304
+       "annotationID":       10002
       },
       "passing_yards":{
        "propertyValue":"345",
-       "annotationID":       6305
+       "annotationID":       10003
       },
       "passing_rating":      92.5,
-      "passing_touchdowns":      2,
-      "passing_interceptions":      1,
-      "passing_sacks":      1,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10004
+      },
+      "passing_interceptions":{
+       "propertyValue":"1",
+       "annotationID":       10006
+      },
+      "passing_sacks":{
+       "propertyValue":"1",
+       "annotationID":       10007
+      },
       "passing_sacks_yards_lost":      4,
       "rushing_attempts":      4,
       "rushing_yards":{
        "propertyValue":"9",
-       "annotationID":       6306
+       "annotationID":       10008
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -1765,11 +1837,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"14",
-       "annotationID":       6308
+       "annotationID":       10010
       },
       "rushing_yards":{
        "propertyValue":"71",
-       "annotationID":       6307
+       "annotationID":       10009
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      2,
@@ -1844,11 +1916,11 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       6309
+       "annotationID":       10011
       },
       "receiving_yards":{
        "propertyValue":"25",
-       "annotationID":       6310
+       "annotationID":       10012
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -1919,11 +1991,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       6311
+       "annotationID":       10013
       },
       "receiving_yards":{
        "propertyValue":"82",
-       "annotationID":       6312
+       "annotationID":       10014
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2059,11 +2131,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"15",
-       "annotationID":       6314
+       "annotationID":       10016
       },
       "rushing_yards":{
        "propertyValue":"43",
-       "annotationID":       6313
+       "annotationID":       10015
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      2,
@@ -2103,7 +2175,7 @@
     "Name":"Colts",
     "Points":"24"
    },
-   "comments":" This was the most important victory in Texans franchise history. Entering this contest, they were 1-15 against the Colts. They circled this game as soon as the schedule was released. Had they won, they'd show the NFL they were for real. Had they lost, this had the potential to be another lost season for an organization that had never reached the playoffs. The difference? For the first time ever, the Texans had a running back to run out the clock against Indianapolis. And not just run out the clock - Arian Foster completely humiliated Indianapolis' front, rushing for 231 yards and three touchdowns on 33 carries. He's clearly a stud, and considering how explosive Houston's offense is, Foster has to be one of the favorites to lead the league in rushing. Foster was actually so good that Matt Schaub barely had to throw the ball. Schaub was just 9-of-17 for 107 yards, one touchdown and an interception to the chagrin of fantasy owners everywhere. Andre Johnson consequently did nothing either, hauling in just three balls for 33 yards.    Owen Daniels, by the way, had only one catch for nine receptions, though this was expected considering that he was coming off a knee injury. He'll be more of a factor as the season goes on.    Peyton Manning was 40-of-57 for 433 yards and three touchdowns, marking the eighth time in his career that he totaled more than 400 passing yards in a contest. Most of Manning's yardage came when the game was out of hand, though it's also worth noting that Pierre Garcon screwed him over multiple times in the first half. Garcon dropped two passes (one was a touchdown) and ran the wrong route on another occasion.    As you can imagine, the Indianapolis receivers posted pretty numbers: Austin Collie (10 catches, 131 yards, TD), Reggie Wayne (7-99, TD), Dallas Clark (11-80, TD), Garcon 4-75).    Joseph Addai rushed for just 44 yards on 10 carries, though he saved his fantasy day (at least in PPR leagues) with six catches for 29 receiving yards. Donald Brown, by the way, had just one touch.    This is just sad: Bob Sanders looked like he got hurt on the first Texans drive. He came back a couple of plays later, and nearly intercepted Matt Schaub in end zone. Later on, however, Sanders left the game with an elbow injury. He just can't stay healthy.   ",
+   "comments":" This was the most important victory in Texans franchise history. Entering this contest, they were 1-15 against the Colts. They circled this game as soon as the schedule was released. Had they won, they'd show the NFL they were for real. Had they lost, this had the potential to be another lost season for an organization that had never reached the playoffs. The difference? For the first time ever, the Texans had a running back to run out the clock against Indianapolis. And not just run out the clock - Arian Foster completely humiliated Indianapolis' front, rushing for 231 yards and 3 touchdowns on 33 carries. He's clearly a stud, and considering how explosive Houston's offense is, Foster has to be 1 of the favorites to lead the league in rushing. Foster was actually so good that Matt Schaub barely had to throw the ball. Schaub was just 9-of-17 for 107 yards, 1 touchdown and an interception to the chagrin of fantasy owners everywhere. Andre Johnson consequently did nothing either, hauling in just 3 balls for 33 yards.    Owen Daniels, by the way, had only 1 catch for 9 receptions, though this was expected considering that he was coming off a knee injury. He'll be more of a factor as the season goes on.    Peyton Manning was 40-of-57 for 433 yards and 3 touchdowns, marking the eighth time in his career that he totaled more than 400 passing yards in a contest. Most of Manning's yardage came when the game was out of hand, though it's also worth noting that Pierre Garcon screwed him over multiple times in the first half. Garcon dropped 2 passes (one was a touchdown) and ran the wrong route on another occasion.    As you can imagine, the Indianapolis receivers posted pretty numbers: Austin Collie (10 catches, 131 yards, TD), Reggie Wayne (7-99, TD), Dallas Clark (11-80, TD), Garcon 4-75).    Joseph Addai rushed for just 44 yards on 10 carries, though he saved his fantasy day (at least in PPR leagues) with 6 catches for 29 receiving yards. Donald Brown, by the way, had just 1 touch.    This is just sad: Bob Sanders looked like he got hurt on the first Texans drive. He came back a couple of plays later, and nearly intercepted Matt Schaub in end zone. Later on, however, Sanders left the game with an elbow injury. He just can't stay healthy.   ",
    "players":[
     {
      "player information":{
@@ -2129,7 +2201,10 @@
       "player_id":      19618,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10032
+      },
       "age":"29-079",
       "team":"HOU",
       "game_location":"H",
@@ -2139,25 +2214,37 @@
       "opponent_score":"24",
       "passing_attempts":{
        "propertyValue":"9",
-       "annotationID":       6315
+       "annotationID":       10028
       },
       "passing_completions":{
        "propertyValue":"17",
-       "annotationID":       6317
+       "annotationID":       10019
       },
       "passing_yards":{
        "propertyValue":"107",
-       "annotationID":       6318
+       "annotationID":       10020
       },
       "passing_rating":      67.5,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      1,
-      "passing_sacks":      2,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10033
+      },
+      "passing_interceptions":{
+       "propertyValue":"1",
+       "annotationID":       10034
+      },
+      "passing_sacks":{
+       "propertyValue":"2",
+       "annotationID":       10031
+      },
       "passing_sacks_yards_lost":{
        "propertyValue":"9",
-       "annotationID":       6316
+       "annotationID":       10029
       },
-      "rushing_attempts":      3,
+      "rushing_attempts":{
+       "propertyValue":"3",
+       "annotationID":       10030
+      },
       "rushing_yards":      -3,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -2210,7 +2297,10 @@
       "player_id":      5072,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10035
+      },
       "age":"27-307",
       "team":"HOU",
       "game_location":"H",
@@ -2230,8 +2320,14 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      2,
-      "receiving_receptions":      1,
-      "receiving_yards":      9,
+      "receiving_receptions":{
+       "propertyValue":"1",
+       "annotationID":       10036
+      },
+      "receiving_yards":{
+       "propertyValue":"9",
+       "annotationID":       10037
+      },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -2279,7 +2375,10 @@
       "player_id":      7173,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10041
+      },
       "age":"24-019",
       "team":"HOU",
       "game_location":"H",
@@ -2297,15 +2396,24 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"33",
-       "annotationID":       6320
+       "annotationID":       10040
       },
       "rushing_yards":{
        "propertyValue":"231",
-       "annotationID":       6319
+       "annotationID":       10038
       },
-      "rushing_touchdowns":      3,
-      "receiving_targets":      1,
-      "receiving_receptions":      1,
+      "rushing_touchdowns":{
+       "propertyValue":"3",
+       "annotationID":       10039
+      },
+      "receiving_targets":{
+       "propertyValue":"1",
+       "annotationID":       10042
+      },
+      "receiving_receptions":{
+       "propertyValue":"1",
+       "annotationID":       10043
+      },
       "receiving_yards":      7,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2514,11 +2622,11 @@
       "receiving_targets":      13,
       "receiving_receptions":{
        "propertyValue":"11",
-       "annotationID":       6321
+       "annotationID":       10044
       },
       "receiving_yards":{
        "propertyValue":"80",
-       "annotationID":       6322
+       "annotationID":       10045
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2585,18 +2693,24 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"10",
-       "annotationID":       6324
+       "annotationID":       10047
       },
       "rushing_yards":{
        "propertyValue":"44",
-       "annotationID":       6323
+       "annotationID":       10046
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      6,
-      "receiving_receptions":      6,
+      "receiving_targets":{
+       "propertyValue":"6",
+       "annotationID":       10048
+      },
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       10049
+      },
       "receiving_yards":{
        "propertyValue":"29",
-       "annotationID":       6325
+       "annotationID":       10050
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2645,7 +2759,10 @@
       "player_id":      2605,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10051
+      },
       "age":"23-154",
       "team":"IND",
       "game_location":"A",
@@ -2665,7 +2782,10 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
-      "receiving_receptions":      1,
+      "receiving_receptions":{
+       "propertyValue":"1",
+       "annotationID":       10052
+      },
       "receiving_yards":      7,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2734,10 +2854,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       10053
+      },
       "receiving_yards":{
        "propertyValue":"33",
-       "annotationID":       6326
+       "annotationID":       10054
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2808,11 +2931,11 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       6327
+       "annotationID":       10055
       },
       "receiving_yards":{
        "propertyValue":"99",
-       "annotationID":       6328
+       "annotationID":       10056
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2871,18 +2994,21 @@
       "opponent_score":"34",
       "passing_attempts":{
        "propertyValue":"40",
-       "annotationID":       6329
+       "annotationID":       10057
       },
       "passing_completions":{
        "propertyValue":"57",
-       "annotationID":       6330
+       "annotationID":       10058
       },
       "passing_yards":{
        "propertyValue":"433",
-       "annotationID":       6331
+       "annotationID":       10059
       },
       "passing_rating":      109.8,
-      "passing_touchdowns":      3,
+      "passing_touchdowns":{
+       "propertyValue":"3",
+       "annotationID":       10060
+      },
       "passing_interceptions":      0,
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      14,
@@ -2995,7 +3121,7 @@
     "Name":"Broncos",
     "Points":"17"
    },
-   "comments":" It's the first week of the regular season, so it's inevitable that most teams will screw up. The Broncos, however, really shot themselves in the foot more than any team in the league. Consider the following three crucial mistakes: - On the opening drive, Denver had a 3rd-and-1 on the Jacksonville 18-yard line. Despite this great setup, they had to actually punt the ball after a penalty and a sack. - Correll Buckhalter lost a fumble deep in Jacksonville territory, which ended an impressive 9-minute drive that began on the Denver 4-yard line. - The Broncos had just 10 men on the field when David Garrard threw a touchdown to Marcedes Lewis.    Kyle Orton had a decent fantasy day, going 21-of-33 for 295 yards, one score and a pick. There was one play though that really bothered me. Late in the fourth quarter, the Broncos were in the red zone. Orton scrambled out of the pocket and had a chance to pick up the first down. Instead, Orton slid well short of the marker, which brought up a 3rd-and-4 instead of a potential 1st-and-goal (or at the very worst, 3rd-and-inches). The Broncos failed to convert after going for it on fourth down. This really looked like poor effort on Orton's part.    Brandon Lloyd caught five passes for 117 yards. Make sure you pick him up in fantasy; Orton really loves throwing to him. Meanwhile, Eddie Royal had eight grabs for 98 yards, and Jabar Gaffney caught three balls for 34 yards and a score. I'm not too confident in Royal yet; he's worth picking up, but he could easily catch one pass next week.    Knowshon Moreno had 60 yards and a touchdown on 15 carries. More importantly, he didn't fumble like Correll Buckhalter (6-15).    Maurice Jones-Drew, meanwhile, totaled 98 yards on 23 carries, but couldn't find the end zone. David Garrard hogged all the scores, tossing three touchdowns to go along with his 16-of-21 passing.    Garrard's favorite target against the Broncos was Mike Thomas, who hauled in six catches for 89 yards. I liked Thomas as a late-round sleeper going into the season, and he's definitely living up to my expectations. He's worth a pick-up.    Mike Sims-Walker didn't catch a single pass in the season opener. Don't worry though; David Garrard had no reason to throw against Champ Bailey.    Marcedes Lewis caught two of David Garrard's touchdowns. Those were his only receptions, so don't rush to add him to your fantasy roster. Lewis has been inconsistent his entire career.    Here's a question: If a coach makes a stupid mistake, but no one's there to see it, did he really do something dumb? There was barely anyone in the stands in Jacksonville's season opener - it was much worse than usual - so no one witnessed Jack Del Rio's enormous blunder. Del Rio inexplicably went for it on a 4th-and-1 on his own 39-yard line in the second half despite the fact that he was up by seven points. Perhaps he wanted the game to end quickly so he could go down to the beach.    The fans may not have showed up, but Jacksonville's pass rush sure did. The Jaguars totaled three sacks, namely 1.5 from Aaron Kampman. Jacksonville had just 14 sacks all last year.   ",
+   "comments":" It's the first week of the regular season, so it's inevitable that most teams will screw up. The Broncos, however, really shot themselves in the foot more than any team in the league. Consider the following 3 crucial mistakes: - On the opening drive, Denver had a 3rd-and-1 on the Jacksonville 18-yard line. Despite this great setup, they had to actually punt the ball after a penalty and a sack. - Correll Buckhalter lost a fumble deep in Jacksonville territory, which ended an impressive 9-minute drive that began on the Denver 4-yard line. - The Broncos had just 10 men on the field when David Garrard threw a touchdown to Marcedes Lewis.    Kyle Orton had a decent fantasy day, going 21-of-33 for 295 yards, 1 score and a pick. There was 1 play though that really bothered me. Late in the fourth quarter, the Broncos were in the red zone. Orton scrambled out of the pocket and had a chance to pick up the first down. Instead, Orton slid well short of the marker, which brought up a 3rd-and-4 instead of a potential 1st-and-goal (or at the very worst, 3rd-and-inches). The Broncos failed to convert after going for it on fourth down. This really looked like poor effort on Orton's part.    Brandon Lloyd caught 5 passes for 117 yards. Make sure you pick him up in fantasy; Orton really loves throwing to him. Meanwhile, Eddie Royal had 8 grabs for 98 yards, and Jabar Gaffney caught 3 balls for 34 yards and a score. I'm not too confident in Royal yet; he's worth picking up, but he could easily catch 1 pass next week.    Knowshon Moreno had 60 yards and a touchdown on 15 carries. More importantly, he didn't fumble like Correll Buckhalter (6-15).    Maurice Jones-Drew, meanwhile, totaled 98 yards on 23 carries, but couldn't find the end zone. David Garrard hogged all the scores, tossing 3 touchdowns to go along with his 16-of-21 passing.    Garrard's favorite target against the Broncos was Mike Thomas, who hauled in 6 catches for 89 yards. I liked Thomas as a late-round sleeper going into the season, and he's definitely living up to my expectations. He's worth a pick-up.    Mike Sims-Walker didn't catch a single pass in the season opener. Don't worry though; David Garrard had no reason to throw against Champ Bailey.    Marcedes Lewis caught 2 of David Garrard's touchdowns. Those were his only receptions, so don't rush to add him to your fantasy roster. Lewis has been inconsistent his entire career.    Here's a question: If a coach makes a stupid mistake, but no one's there to see it, did he really do something dumb? There was barely anyone in the stands in Jacksonville's season opener - it was much worse than usual - so no 1 witnessed Jack Del Rio's enormous blunder. Del Rio inexplicably went for it on a 4th-and-1 on his own 39-yard line in the second half despite the fact that he was up by 7 points. Perhaps he wanted the game to end quickly so he could go down to the beach.    The fans may not have showed up, but Jacksonville's pass rush sure did. The Jaguars totaled 3 sacks, namely 1.5 from Aaron Kampman. Jacksonville had just 14 sacks all last year.   ",
    "players":[
     {
      "player information":{
@@ -3041,10 +3167,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       10061
+      },
       "receiving_yards":{
        "propertyValue":"98",
-       "annotationID":       6332
+       "annotationID":       10062
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3095,7 +3224,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6338
+       "annotationID":       10074
       },
       "age":"27-302",
       "team":"DEN",
@@ -3106,32 +3235,32 @@
       "opponent_score":"24",
       "passing_attempts":{
        "propertyValue":"21",
-       "annotationID":       6333
+       "annotationID":       10063
       },
       "passing_completions":{
        "propertyValue":"33",
-       "annotationID":       6335
+       "annotationID":       10065
       },
       "passing_yards":{
        "propertyValue":"295",
-       "annotationID":       6336
+       "annotationID":       10066
       },
       "passing_rating":      89.8,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       6339
+       "annotationID":       10075
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       6340
+       "annotationID":       10076
       },
       "passing_sacks":{
        "propertyValue":"3",
-       "annotationID":       6341
+       "annotationID":       10077
       },
       "passing_sacks_yards_lost":{
        "propertyValue":"21",
-       "annotationID":       6334
+       "annotationID":       10064
       },
       "rushing_attempts":      2,
       "rushing_yards":      12,
@@ -3273,15 +3402,21 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"23",
-       "annotationID":       6343
+       "annotationID":       10079
       },
       "rushing_yards":{
        "propertyValue":"98",
-       "annotationID":       6342
+       "annotationID":       10078
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      3,
-      "receiving_receptions":      3,
+      "receiving_targets":{
+       "propertyValue":"3",
+       "annotationID":       10080
+      },
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       10081
+      },
       "receiving_yards":      15,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3332,7 +3467,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6346
+       "annotationID":       10091
       },
       "age":"26-116",
       "team":"JAX",
@@ -3352,10 +3487,19 @@
       "rushing_attempts":      0,
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
-      "receiving_targets":      2,
-      "receiving_receptions":      2,
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       10086
+      },
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       10087
+      },
       "receiving_yards":      31,
-      "receiving_touchdowns":      2,
+      "receiving_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10088
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -3404,7 +3548,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6348
+       "annotationID":       10095
       },
       "age":"32-082",
       "team":"DEN",
@@ -3435,7 +3579,10 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      2,
+      "defense_tackles":{
+       "propertyValue":"2",
+       "annotationID":       10092
+      },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -3494,10 +3641,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       10096
+      },
       "receiving_yards":{
        "propertyValue":"117",
-       "annotationID":       6349
+       "annotationID":       10097
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3546,7 +3696,10 @@
       "player_id":      7489,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10100
+      },
       "age":"29-285",
       "team":"DEN",
       "game_location":"A",
@@ -3566,12 +3719,18 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       10098
+      },
       "receiving_yards":{
        "propertyValue":"34",
-       "annotationID":       6350
+       "annotationID":       10099
       },
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10101
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -3705,11 +3864,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"15",
-       "annotationID":       6353
+       "annotationID":       10104
       },
       "rushing_yards":{
        "propertyValue":"60",
-       "annotationID":       6351
+       "annotationID":       10102
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      2,
@@ -3782,10 +3941,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       10105
+      },
       "receiving_yards":{
        "propertyValue":"89",
-       "annotationID":       6354
+       "annotationID":       10106
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3836,7 +3998,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6355
+       "annotationID":       10113
       },
       "age":"31-341",
       "team":"DEN",
@@ -3855,16 +4017,16 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"6",
-       "annotationID":       6358
+       "annotationID":       10116
       },
       "rushing_yards":{
        "propertyValue":"15",
-       "annotationID":       6359
+       "annotationID":       10117
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"1",
-       "annotationID":       6356
+       "annotationID":       10114
       },
       "receiving_receptions":      0,
       "receiving_yards":      0,
@@ -3917,7 +4079,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6362
+       "annotationID":       10129
       },
       "age":"32-210",
       "team":"JAX",
@@ -3928,24 +4090,27 @@
       "opponent_score":"17",
       "passing_attempts":{
        "propertyValue":"16",
-       "annotationID":       6365
+       "annotationID":       10132
       },
       "passing_completions":{
        "propertyValue":"21",
-       "annotationID":       6366
+       "annotationID":       10133
       },
       "passing_yards":      170,
       "passing_rating":      138.9,
       "passing_touchdowns":{
        "propertyValue":"3",
-       "annotationID":       6364
+       "annotationID":       10131
       },
       "passing_interceptions":      0,
       "passing_sacks":{
        "propertyValue":"1",
-       "annotationID":       6363
+       "annotationID":       10130
       },
-      "passing_sacks_yards_lost":      5,
+      "passing_sacks_yards_lost":{
+       "propertyValue":"5",
+       "annotationID":       10127
+      },
       "rushing_attempts":      7,
       "rushing_yards":      10,
       "rushing_touchdowns":      0,
@@ -3986,7 +4151,7 @@
     "Name":"Falcons",
     "Points":"9"
    },
-   "comments":" If you've bet a million dollars on the Steelers whenever Dennis Dixon was named the starter, you'd be up $2 million. It's true. Dixon has covered the spread in both of his starts. More importantly though, he was able to salvage a win in the first of four games in Ben Roethlisberger's suspension. Dixon was 4-of-4 for 22 yards on the opening drive, and ended up 18-of-26 for 236 yards. He made some nice throws, but tossed an ugly pick in the second quarter to Mike Peterson. Nevertheless, he played relatively well overall. One big concern: Despite his mobility, Dixon was sacked three times in this contest by an Atlanta squad that usually doesn't bring a ton of pressure. One of the sacks pathetically came on a three-man rush at the end of the first half.    Rashard Mendenhall won the game for Pittsburgh after Jeff Reed was wide right on a potential game-clinching field goal in the final minute. Mendenhall's 50-yard scamper in overtime gave him 120 for the game on 22 carries.    No Big Ben, no problem for Hines Ward, who had six catches for 108 yards. Mike Wallace made two grabs for 62 yards.    Bad news for the Steelers - left tackle Max Starks is out for a while with a high ankle sprain. This is not good news, seeing as how they play to play the Titans next week.    Matt Ryan had a pretty pedestrian game. He made some nice throws, going 27-of-44 for 252 yards. However, a poor interception set the Steelers up for a potential game-winning kick.    Tony Gonzalez made two grabs for 35 yards; his first gave him 1,000 receptions on the career. However, Roddy White was the star for the Falcons, hauling in 13 receptions for 111 yards. He made some really impressive catches, erasing all memory of a drop-plagued preseason.    Michael Turner struggled to run the football, gaining only 42 yards on 19 attempts. But that was to be expected against Pittsburgh's stellar defense.   ",
+   "comments":" If you've bet a million dollars on the Steelers whenever Dennis Dixon was named the starter, you'd be up $2 million. It's true. Dixon has covered the spread in both of his starts. More importantly though, he was able to salvage a win in the first of 4 games in Ben Roethlisberger's suspension. Dixon was 4-of-4 for 22 yards on the opening drive, and ended up 18-of-26 for 236 yards. He made some nice throws, but tossed an ugly pick in the second quarter to Mike Peterson. Nevertheless, he played relatively well overall. One big concern: Despite his mobility, Dixon was sacked 3 times in this contest by an Atlanta squad that usually doesn't bring a ton of pressure. One of the sacks pathetically came on a three-man rush at the end of the first half.    Rashard Mendenhall won the game for Pittsburgh after Jeff Reed was wide right on a potential game-clinching field goal in the final minute. Mendenhall's 50-yard scamper in overtime gave him 120 for the game on 22 carries.    No Big Ben, no problem for Hines Ward, who had 6 catches for 108 yards. Mike Wallace made 2 grabs for 62 yards.    Bad news for the Steelers - left tackle Max Starks is out for a while with a high ankle sprain. This is not good news, seeing as how they play to play the Titans next week.    Matt Ryan had a pretty pedestrian game. He made some nice throws, going 27-of-44 for 252 yards. However, a poor interception set the Steelers up for a potential game-winning kick.    Tony Gonzalez made 2 grabs for 35 yards; his first gave him 1,000 receptions on the career. However, Roddy White was the star for the Falcons, hauling in 13 receptions for 111 yards. He made some really impressive catches, erasing all memory of a drop-plagued preseason.    Michael Turner struggled to run the football, gaining only 42 yards on 19 attempts. But that was to be expected against Pittsburgh's stellar defense.   ",
    "players":[
     {
      "player information":{
@@ -4030,11 +4195,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"19",
-       "annotationID":       6368
+       "annotationID":       10135
       },
       "rushing_yards":{
        "propertyValue":"42",
-       "annotationID":       6367
+       "annotationID":       10134
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -4107,10 +4272,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       10136
+      },
       "receiving_yards":{
        "propertyValue":"108",
-       "annotationID":       6369
+       "annotationID":       10137
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4169,15 +4337,15 @@
       "opponent_score":"15",
       "passing_attempts":{
        "propertyValue":"27",
-       "annotationID":       6370
+       "annotationID":       10138
       },
       "passing_completions":{
        "propertyValue":"44",
-       "annotationID":       6371
+       "annotationID":       10139
       },
       "passing_yards":{
        "propertyValue":"252",
-       "annotationID":       6372
+       "annotationID":       10140
       },
       "passing_rating":      67.6,
       "passing_touchdowns":      0,
@@ -4247,15 +4415,15 @@
       "opponent_score":"9",
       "passing_attempts":{
        "propertyValue":"18",
-       "annotationID":       6376
+       "annotationID":       10145
       },
       "passing_completions":{
        "propertyValue":"26",
-       "annotationID":       6377
+       "annotationID":       10146
       },
       "passing_yards":{
        "propertyValue":"236",
-       "annotationID":       6378
+       "annotationID":       10147
       },
       "passing_rating":      81.6,
       "passing_touchdowns":      0,
@@ -4264,11 +4432,11 @@
       "passing_sacks_yards_lost":      25,
       "rushing_attempts":{
        "propertyValue":"2",
-       "annotationID":       6373
+       "annotationID":       10141
       },
       "rushing_yards":{
        "propertyValue":"4",
-       "annotationID":       6375
+       "annotationID":       10144
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -4341,10 +4509,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
-      "receiving_receptions":      2,
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       10148
+      },
       "receiving_yards":{
        "propertyValue":"62",
-       "annotationID":       6379
+       "annotationID":       10149
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4395,7 +4566,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6381
+       "annotationID":       10152
       },
       "age":"34-197",
       "team":"ATL",
@@ -4416,10 +4587,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
-      "receiving_receptions":      2,
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       10150
+      },
       "receiving_yards":{
        "propertyValue":"35",
-       "annotationID":       6380
+       "annotationID":       10151
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4766,11 +4940,11 @@
       "receiving_targets":      23,
       "receiving_receptions":{
        "propertyValue":"13",
-       "annotationID":       6382
+       "annotationID":       10153
       },
       "receiving_yards":{
        "propertyValue":"111",
-       "annotationID":       6383
+       "annotationID":       10154
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4806,7 +4980,7 @@
     "Name":"Raiders",
     "Points":"13"
    },
-   "comments":" It seemed like every NFL analyst - including myself - was saying, Oh! The Raiders are really going to be better this year! Watch out for them! Popular Opinion Fail. The Raiders were the same old Raiders, unable to pass protect and keep themselves from making stupid mistakes. Oakland's offense was responsible for four sacks and four lost fumbles. The Raiders also committed 10 penalties, while Sebastian Janikowski whiffed on a 39-yard field goal (though he lucked out with a Tennessee penalty).    Jason Campbell went 22-of-37 for 180 yards, one touchdown, an interception and two fumbles. He really didn't have a chance behind his crap offensive line, so you can't put this blowout loss on him.    Darren McFadden had a great fantasy day; he rushed for 95 yards on 18 carries, and caught six balls for 55 more yards and a score.    Campbell's primary downfield targets, Zach Miller and Louis Murphy, each caught four balls, registering 43 and 28 yards, respectively. Darrius Heyward-Bey, meanwhile, had just one catch for 11 yards. Congratulations to Al Davis' awesome No. 7 overall pick for making the box score!    <b> Chris Johnson 2,500-Yard Hunt Alert: </b> Johnson had 142 yards and two touchdowns on 27 carries. Johnson is on pace to rush for 2,272 yards, placing him 228 yards short of his goal. His workload, however, will make it hard for him to stay healthy all year.    Vince Young was nearly flawless against the woefully inept Raiders, going 13-of-17 for 154 yards and two touchdowns to go along with 30 rushing yards. Young hooked up on a 56-yard bomb to Nate Washington, who paced the team with three grabs for 88 yards. Washington undoubtedly is the Titans receiver to own; Kenny Britt didn't catch a single pass. <div class=dfpAdSlots>   ",
+   "comments":" It seemed like every NFL analyst - including myself - was saying, Oh! The Raiders are really going to be better this year! Watch out for them! Popular Opinion Fail. The Raiders were the same old Raiders, unable to pass protect and keep themselves from making stupid mistakes. Oakland's offense was responsible for 4 sacks and 4 lost fumbles. The Raiders also committed 10 penalties, while Sebastian Janikowski whiffed on a 39-yard field goal (though he lucked out with a Tennessee penalty).    Jason Campbell went 22-of-37 for 180 yards, 1 touchdown, an interception and 2 fumbles. He really didn't have a chance behind his crap offensive line, so you can't put this blowout loss on him.    Darren McFadden had a great fantasy day; he rushed for 95 yards on 18 carries, and caught 6 balls for 55 more yards and a score.    Campbell's primary downfield targets, Zach Miller and Louis Murphy, each caught 4 balls, registering 43 and 28 yards, respectively. Darrius Heyward-Bey, meanwhile, had just 1 catch for 11 yards. Congratulations to Al Davis' awesome No. 7 overall pick for making the box score!    <b> Chris Johnson 2,500-Yard Hunt Alert: </b> Johnson had 142 yards and 2 touchdowns on 27 carries. Johnson is on pace to rush for 2,272 yards, placing him 228 yards short of his goal. His workload, however, will make it hard for him to stay healthy all year.    Vince Young was nearly flawless against the woefully inept Raiders, going 13-of-17 for 154 yards and 2 touchdowns to go along with 30 rushing yards. Young hooked up on a 56-yard bomb to Nate Washington, who paced the team with 3 grabs for 88 yards. Washington undoubtedly is the Titans receiver to own; Kenny Britt didn't catch a single pass. <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -4970,7 +5144,10 @@
       "player_id":      3329,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10158
+      },
       "age":"28-255",
       "team":"OAK",
       "game_location":"A",
@@ -4980,19 +5157,25 @@
       "opponent_score":"38",
       "passing_attempts":{
        "propertyValue":"22",
-       "annotationID":       6384
+       "annotationID":       10155
       },
       "passing_completions":{
        "propertyValue":"37",
-       "annotationID":       6385
+       "annotationID":       10156
       },
       "passing_yards":{
        "propertyValue":"180",
-       "annotationID":       6386
+       "annotationID":       10157
       },
       "passing_rating":      69.7,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10159
+      },
+      "passing_interceptions":{
+       "propertyValue":"1",
+       "annotationID":       10160
+      },
       "passing_sacks":      4,
       "passing_sacks_yards_lost":      30,
       "rushing_attempts":      7,
@@ -5117,7 +5300,10 @@
       "player_id":      9751,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10161
+      },
       "age":"23-198",
       "team":"OAK",
       "game_location":"A",
@@ -5137,10 +5323,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      2,
-      "receiving_receptions":      1,
+      "receiving_receptions":{
+       "propertyValue":"1",
+       "annotationID":       10162
+      },
       "receiving_yards":{
        "propertyValue":"11",
-       "annotationID":       6387
+       "annotationID":       10163
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5207,18 +5396,21 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"18",
-       "annotationID":       6389
+       "annotationID":       10165
       },
       "rushing_yards":{
        "propertyValue":"95",
-       "annotationID":       6388
+       "annotationID":       10164
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       10166
+      },
       "receiving_yards":{
        "propertyValue":"55",
-       "annotationID":       6390
+       "annotationID":       10167
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -5285,15 +5477,15 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"27",
-       "annotationID":       6393
+       "annotationID":       10171
       },
       "rushing_yards":{
        "propertyValue":"142",
-       "annotationID":       6392
+       "annotationID":       10169
       },
       "rushing_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       6394
+       "annotationID":       10172
       },
       "receiving_targets":      4,
       "receiving_receptions":      4,
@@ -5365,10 +5557,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
-      "receiving_receptions":      4,
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       10173
+      },
       "receiving_yards":{
        "propertyValue":"28",
-       "annotationID":       6395
+       "annotationID":       10174
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5437,10 +5632,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       10175
+      },
       "receiving_yards":{
        "propertyValue":"88",
-       "annotationID":       6396
+       "annotationID":       10176
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -5498,29 +5696,35 @@
       "player_team_score":"38",
       "opponent_score":{
        "propertyValue":"13",
-       "annotationID":       6397
+       "annotationID":       10177
       },
       "passing_attempts":{
        "propertyValue":"13",
-       "annotationID":       6398
+       "annotationID":       10178
       },
       "passing_completions":{
        "propertyValue":"17",
-       "annotationID":       6399
+       "annotationID":       10179
       },
       "passing_yards":{
        "propertyValue":"154",
-       "annotationID":       6400
+       "annotationID":       10180
       },
       "passing_rating":      142.8,
-      "passing_touchdowns":      2,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10181
+      },
       "passing_interceptions":      0,
-      "passing_sacks":      2,
+      "passing_sacks":{
+       "propertyValue":"2",
+       "annotationID":       10182
+      },
       "passing_sacks_yards_lost":      14,
       "rushing_attempts":      7,
       "rushing_yards":{
        "propertyValue":"30",
-       "annotationID":       6401
+       "annotationID":       10183
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -5698,7 +5902,7 @@
     "Name":"Panthers",
     "Points":"18"
    },
-   "comments":" I guess the Giants are comfortable in their new home. After losing to Carolina 41-9 last December, New York opened up with a 31-18 victory over the Panthers that really shouldn't have been as close as it was. Eli Manning threw three interceptions, but two shouldn't have happened; they were tipped passes that bounced off the hands of Hakeem Nicks and Ahmad Bradshaw. Bradshaw also fumbled deep in Carolina territory in the second half. This game could have been a lot uglier.    Manning finished 20-of-30 for 263 yards, three touchdowns and three picks. All three of his scores went to Nicks, who had four grabs for 75 yards.    Manning's other targets: Mario Manningham (4-85), Steve Smith (5-43). Kevin Boss caught a pass, but left the game with a neck injury.    The Giants' ground game did nothing in the first half; at the break, Ahmad Bradshaw and Brandon Jacobs had six and two yards, respectively. That changed in the second half, as Bradshaw finished with 76 yards and a touchdown on 20 attempts, while Jacobs tallied 44 yards on 12 rushes.    Speaking of running the ball - or a lack thereof - Carolina's dual backfield had just 21 carries compared to Matt Moore's 33 attempts. This is simply unacceptable, considering that the game was pretty close for three quarters. DeAngelo Williams managed 62 yards on 16 attempts, while Jonathan Stewart carried the ball only five times for 12 yards. I don't understand why Stewart touched the ball only five times. The coaching staff should be embarrassed - especially considering how crappy Matt Moore was. Moore went 14-of-33 for 182 yards, one touchdown, three picks and two fumbles. His first interception was particularly ugly, as he lobbed the ball into quadruple coverage in the end zone. Moore could have easily tossed a fourth interception, but the Giants dropped it in the second quarter. Unfortunately for Moore (and perhaps fortunately for the Panthers), Moore suffered a concussion in the fourth quarter. Jimmy Clausen could start in Week 2.    Carolina's Steve Smith is definitely healthy. Despite shoddy quarterback play, Smith had five grabs for 75 yards and a score.   ",
+   "comments":" I guess the Giants are comfortable in their new home. After losing to Carolina 41-9 last December, New York opened up with a 31-18 victory over the Panthers that really shouldn't have been as close as it was. Eli Manning threw 3 interceptions, but 2 shouldn't have happened; they were tipped passes that bounced off the hands of Hakeem Nicks and Ahmad Bradshaw. Bradshaw also fumbled deep in Carolina territory in the second half. This game could have been a lot uglier.    Manning finished 20-of-30 for 263 yards, 3 touchdowns and 3 picks. All 3 of his scores went to Nicks, who had 4 grabs for 75 yards.    Manning's other targets: Mario Manningham (4-85), Steve Smith (5-43). Kevin Boss caught a pass, but left the game with a neck injury.    The Giants' ground game did nothing in the first half; at the break, Ahmad Bradshaw and Brandon Jacobs had 6 and 2 yards, respectively. That changed in the second half, as Bradshaw finished with 76 yards and a touchdown on 20 attempts, while Jacobs tallied 44 yards on 12 rushes.    Speaking of running the ball - or a lack thereof - Carolina's dual backfield had just 21 carries compared to Matt Moore's 33 attempts. This is simply unacceptable, considering that the game was pretty close for 3 quarters. DeAngelo Williams managed 62 yards on 16 attempts, while Jonathan Stewart carried the ball only 5 times for 12 yards. I don't understand why Stewart touched the ball only 5 times. The coaching staff should be embarrassed - especially considering how crappy Matt Moore was. Moore went 14-of-33 for 182 yards, 1 touchdown, 3 picks and 2 fumbles. His first interception was particularly ugly, as he lobbed the ball into quadruple coverage in the end zone. Moore could have easily tossed a fourth interception, but the Giants dropped it in the second quarter. Unfortunately for Moore (and perhaps fortunately for the Panthers), Moore suffered a concussion in the fourth quarter. Jimmy Clausen could start in Week 2.    Carolina's Steve Smith is definitely healthy. Despite shoddy quarterback play, Smith had 5 grabs for 75 yards and a score.   ",
    "players":[
     {
      "player information":{
@@ -5724,7 +5928,10 @@
       "player_id":      20785,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10188
+      },
       "age":"25-129",
       "team":"NYG",
       "game_location":"H",
@@ -5746,11 +5953,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       6402
+       "annotationID":       10189
       },
       "receiving_yards":{
        "propertyValue":"43",
-       "annotationID":       6403
+       "annotationID":       10185
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5799,7 +6006,10 @@
       "player_id":      21291,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10193
+      },
       "age":"23-175",
       "team":"CAR",
       "game_location":"A",
@@ -5815,10 +6025,13 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      5,
+      "rushing_attempts":{
+       "propertyValue":"5",
+       "annotationID":       10192
+      },
       "rushing_yards":{
        "propertyValue":"12",
-       "annotationID":       6404
+       "annotationID":       10191
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -5883,8 +6096,14 @@
       "passing_completions":      30,
       "passing_yards":      263,
       "passing_rating":      87.9,
-      "passing_touchdowns":      3,
-      "passing_interceptions":      3,
+      "passing_touchdowns":{
+       "propertyValue":"3",
+       "annotationID":       10194
+      },
+      "passing_interceptions":{
+       "propertyValue":"3",
+       "annotationID":       10195
+      },
       "passing_sacks":      1,
       "passing_sacks_yards_lost":      5,
       "rushing_attempts":      4,
@@ -6009,7 +6228,10 @@
       "player_id":      20783,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10199
+      },
       "age":"31-123",
       "team":"CAR",
       "game_location":"A",
@@ -6031,13 +6253,16 @@
       "receiving_targets":      9,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       6405
+       "annotationID":       10201
       },
       "receiving_yards":{
        "propertyValue":"75",
-       "annotationID":       6406
+       "annotationID":       10202
       },
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10200
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -6102,18 +6327,24 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"12",
-       "annotationID":       6408
+       "annotationID":       10206
       },
       "rushing_yards":{
        "propertyValue":"44",
-       "annotationID":       6407
+       "annotationID":       10205
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      2,
-      "receiving_receptions":      2,
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       10203
+      },
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       10204
+      },
       "receiving_yards":{
        "propertyValue":"21",
-       "annotationID":       6409
+       "annotationID":       10207
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6180,11 +6411,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"16",
-       "annotationID":       6411
+       "annotationID":       10209
       },
       "rushing_yards":{
        "propertyValue":"62",
-       "annotationID":       6410
+       "annotationID":       10208
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -6248,7 +6479,7 @@
       "passing_attempts":      0,
       "passing_completions":{
        "propertyValue":"2",
-       "annotationID":       6412
+       "annotationID":       10210
       },
       "passing_yards":      0,
       "passing_rating":      39.6,
@@ -6327,13 +6558,13 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"20",
-       "annotationID":       6413
+       "annotationID":       10211
       },
       "rushing_yards":      76,
       "rushing_touchdowns":      1,
       "receiving_targets":{
        "propertyValue":"4",
-       "annotationID":       6414
+       "annotationID":       10213
       },
       "receiving_receptions":      2,
       "receiving_yards":      17,
@@ -6384,7 +6615,10 @@
       "player_id":      15715,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10219
+      },
       "age":"26-034",
       "team":"CAR",
       "game_location":"A",
@@ -6394,22 +6628,31 @@
       "opponent_score":"31",
       "passing_attempts":{
        "propertyValue":"14",
-       "annotationID":       6416
+       "annotationID":       10216
       },
       "passing_completions":{
        "propertyValue":"33",
-       "annotationID":       6417
+       "annotationID":       10217
       },
       "passing_yards":{
        "propertyValue":"182",
-       "annotationID":       6418
+       "annotationID":       10218
       },
       "passing_rating":      32.6,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      3,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10220
+      },
+      "passing_interceptions":{
+       "propertyValue":"3",
+       "annotationID":       10221
+      },
       "passing_sacks":      4,
       "passing_sacks_yards_lost":      34,
-      "rushing_attempts":      2,
+      "rushing_attempts":{
+       "propertyValue":"2",
+       "annotationID":       10222
+      },
       "rushing_yards":      15,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -6552,15 +6795,15 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"4",
-       "annotationID":       6419
+       "annotationID":       10223
       },
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       6420
+       "annotationID":       10224
       },
       "receiving_yards":{
        "propertyValue":"85",
-       "annotationID":       6421
+       "annotationID":       10225
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6596,7 +6839,7 @@
     "Name":"Lions",
     "Points":"14"
    },
-   "comments":" The Lions just can't catch a break, can they? One of my two crazy predictions for this season was that Detroit would win nine games (the other being the Texans would go to the AFC Championship, though Tom Jackson one-upped me). That doesn't look like it'll happen now, as Matthew Stafford suffered a shoulder injury when woeful left tackle Jeff Backus was beat by Julius Peppers in the second quarter. It's still too early to tell, but it appears as though Stafford will be out anywhere between 4-6 weeks. Believe me, I'll definitely have more on this later in the week. But let me say this - I can't believe how irresponsible the Lions are for letting a scrub like Backus protect their franchise quarterback, especially in a division with Peppers, Clay Matthews and Jared Allen.    As if the Stafford injury wasn't enough, the Lions were robbed of a win. You've all seen the replay - Calvin Johnson made an amazing catch in the end zone, maintained control and had his knee on the ground with the ball still in his hand. It was a catch. I don't care what the rule is. I don't want to hear this second action crap. It was a catch. The only reason the ball hit the ground is because Megatron seemingly tossed the ball aside on purpose after he made the grab, as he wanted to celebrate with his teammates. I've never had a problem with official Gene Steratore, but he should be reprimanded for calling it an incompletion and robbing Detroit of a rare win.    Stafford wasn't very good overall when he was in the game (11-of-15, 83 yards), but he looked like he was getting more comfortable in the second quarter when he led his team on a 60-yard touchdown drive. It's really a shame for the Lions that they have to suffer this setback. Shaun Hill (9-of-19, 88 yards, INT) will start while Stafford is out.    Jahvid Best scored twice. That's the good news. The bad news is that he rushed for just 20 yards on 14 carries. He also chipped in with five catches for 16 receiving yards.    Calvin Johnson had four catches for 45 yards. He also was robbed of that aforementioned touchdown. Unfortunately for his fantasy owners, he won't be as productive with Hill under center.    Ndamukong Suh had the first sack of his career in the second quarter. According to the box score, anyway. Suh was credited a sack when Jay Cutler ran out of bounds for a 1-yard loss. Suh did play well against the run though, as he helped the Lions mount two impressive goal-line stands.    Jay Cutler took four sacks, threw one pick and fumbled once, but was able to go 23-of-35 for 372 yards and two touchdowns otherwise. Cutler won't face secondaries as inept as Detroit's every week, so don't get used to great numbers like that.    Matt Forte didn't run the ball particularly well (17 carries, 50 yards), but rewarded his fantasy owners by catching seven balls for 151 receiving yards and two touchdowns. Forte broke free for an 89-yard reception off a short pass in the second quarter, and later hauled in a 28-yard deep throw in the end zone.    Johnny Knox had three catches for 52 yards, while Devin Aromashodu had five grabs for 71 yards.    Lovie Smith did something really stupid in this game. Down 14-13 with nine minutes remaining, the Bears had a fourth-and-goal at Detroit's 1-yard line. Sure, the exciting call was to go for the touchdown, but it wasn't the smart one because a field goal actually would have given Chicago the lead. Forte got the carry, but was stuffed at the 1-yard line. The Bears scored a touchdown later on, but lucked out when the refs screwed up on Calvin Johnson's touchdown.   ",
+   "comments":" The Lions just can't catch a break, can they? One of my 2 crazy predictions for this season was that Detroit would win 9 games (the other being the Texans would go to the AFC Championship, though Tom Jackson one-upped me). That doesn't look like it'll happen now, as Matthew Stafford suffered a shoulder injury when woeful left tackle Jeff Backus was beat by Julius Peppers in the second quarter. It's still too early to tell, but it appears as though Stafford will be out anywhere between 4-6 weeks. Believe me, I'll definitely have more on this later in the week. But let me say this - I can't believe how irresponsible the Lions are for letting a scrub like Backus protect their franchise quarterback, especially in a division with Peppers, Clay Matthews and Jared Allen.    As if the Stafford injury wasn't enough, the Lions were robbed of a win. You've all seen the replay - Calvin Johnson made an amazing catch in the end zone, maintained control and had his knee on the ground with the ball still in his hand. It was a catch. I don't care what the rule is. I don't want to hear this second action crap. It was a catch. The only reason the ball hit the ground is because Megatron seemingly tossed the ball aside on purpose after he made the grab, as he wanted to celebrate with his teammates. I've never had a problem with official Gene Steratore, but he should be reprimanded for calling it an incompletion and robbing Detroit of a rare win.    Stafford wasn't very good overall when he was in the game (11-of-15, 83 yards), but he looked like he was getting more comfortable in the second quarter when he led his team on a 60-yard touchdown drive. It's really a shame for the Lions that they have to suffer this setback. Shaun Hill (9-of-19, 88 yards, INT) will start while Stafford is out.    Jahvid Best scored twice. That's the good news. The bad news is that he rushed for just 20 yards on 14 carries. He also chipped in with 5 catches for 16 receiving yards.    Calvin Johnson had 4 catches for 45 yards. He also was robbed of that aforementioned touchdown. Unfortunately for his fantasy owners, he won't be as productive with Hill under center.    Ndamukong Suh had the first sack of his career in the second quarter. According to the box score, anyway. Suh was credited a sack when Jay Cutler ran out of bounds for a 1-yard loss. Suh did play well against the run though, as he helped the Lions mount 2 impressive goal-line stands.    Jay Cutler took 4 sacks, threw 1 pick and fumbled once, but was able to go 23-of-35 for 372 yards and 2 touchdowns otherwise. Cutler won't face secondaries as inept as Detroit's every week, so don't get used to great numbers like that.    Matt Forte didn't run the ball particularly well (17 carries, 50 yards), but rewarded his fantasy owners by catching 7 balls for 151 receiving yards and 2 touchdowns. Forte broke free for an 89-yard reception off a short pass in the second quarter, and later hauled in a 28-yard deep throw in the end zone.    Johnny Knox had 3 catches for 52 yards, while Devin Aromashodu had 5 grabs for 71 yards.    Lovie Smith did something really stupid in this game. Down 14-13 with 9 minutes remaining, the Bears had a fourth-and-goal at Detroit's 1-yard line. Sure, the exciting call was to go for the touchdown, but it wasn't the smart 1 because a field goal actually would have given Chicago the lead. Forte got the carry, but was stuffed at the 1-yard line. The Bears scored a touchdown later on, but lucked out when the refs screwed up on Calvin Johnson's touchdown.   ",
    "players":[
     {
      "player information":{
@@ -6642,10 +6885,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       10226
+      },
       "receiving_yards":{
        "propertyValue":"52",
-       "annotationID":       6422
+       "annotationID":       10227
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6771,11 +7017,11 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"14",
-       "annotationID":       6424
+       "annotationID":       10229
       },
       "opponent_score":{
        "propertyValue":"19",
-       "annotationID":       6423
+       "annotationID":       10228
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -6789,10 +7035,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      4,
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       10230
+      },
       "receiving_yards":{
        "propertyValue":"45",
-       "annotationID":       6425
+       "annotationID":       10231
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6912,7 +7161,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6426
+       "annotationID":       10236
       },
       "age":"27-136",
       "team":"CHI",
@@ -6923,23 +7172,29 @@
       "opponent_score":"14",
       "passing_attempts":{
        "propertyValue":"23",
-       "annotationID":       6428
+       "annotationID":       10238
       },
       "passing_completions":{
        "propertyValue":"35",
-       "annotationID":       6429
+       "annotationID":       10239
       },
       "passing_yards":{
        "propertyValue":"372",
-       "annotationID":       6430
+       "annotationID":       10240
       },
       "passing_rating":      108.3,
-      "passing_touchdowns":      2,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10241
+      },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       6427
+       "annotationID":       10237
       },
-      "passing_sacks":      4,
+      "passing_sacks":{
+       "propertyValue":"4",
+       "annotationID":       10235
+      },
       "passing_sacks_yards_lost":      10,
       "rushing_attempts":      5,
       "rushing_yards":      22,
@@ -7003,19 +7258,19 @@
       "player_team_score":"14",
       "opponent_score":{
        "propertyValue":"19",
-       "annotationID":       6433
+       "annotationID":       10244
       },
       "passing_attempts":{
        "propertyValue":"9",
-       "annotationID":       6431
+       "annotationID":       10242
       },
       "passing_completions":{
        "propertyValue":"19",
-       "annotationID":       6434
+       "annotationID":       10245
       },
       "passing_yards":{
        "propertyValue":"88",
-       "annotationID":       6435
+       "annotationID":       10246
       },
       "passing_rating":      38.9,
       "passing_touchdowns":      0,
@@ -7023,7 +7278,7 @@
       "passing_sacks":      1,
       "passing_sacks_yards_lost":{
        "propertyValue":"9",
-       "annotationID":       6432
+       "annotationID":       10243
       },
       "rushing_attempts":      3,
       "rushing_yards":      -4,
@@ -7218,7 +7473,7 @@
       "date":"2010-09-12",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       6439
+       "annotationID":       10252
       },
       "age":"26-112",
       "team":"CHI",
@@ -7228,7 +7483,7 @@
       "player_team_score":"19",
       "opponent_score":{
        "propertyValue":"14",
-       "annotationID":       6437
+       "annotationID":       10249
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -7242,10 +7497,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       10247
+      },
       "receiving_yards":{
        "propertyValue":"71",
-       "annotationID":       6436
+       "annotationID":       10248
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7312,20 +7570,29 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"17",
-       "annotationID":       6440
+       "annotationID":       10253
       },
       "rushing_yards":{
        "propertyValue":"50",
-       "annotationID":       6441
+       "annotationID":       10254
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      7,
-      "receiving_receptions":      7,
+      "receiving_targets":{
+       "propertyValue":"7",
+       "annotationID":       10255
+      },
+      "receiving_receptions":{
+       "propertyValue":"7",
+       "annotationID":       10256
+      },
       "receiving_yards":{
        "propertyValue":"151",
-       "annotationID":       6442
+       "annotationID":       10257
       },
-      "receiving_touchdowns":      2,
+      "receiving_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10258
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -7380,7 +7647,7 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"14",
-       "annotationID":       6444
+       "annotationID":       10260
       },
       "opponent_score":"19",
       "passing_attempts":      0,
@@ -7393,18 +7660,21 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"14",
-       "annotationID":       6445
+       "annotationID":       10261
       },
       "rushing_yards":{
        "propertyValue":"20",
-       "annotationID":       6443
+       "annotationID":       10259
       },
       "rushing_touchdowns":      2,
       "receiving_targets":      6,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       10262
+      },
       "receiving_yards":{
        "propertyValue":"16",
-       "annotationID":       6446
+       "annotationID":       10263
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7578,7 +7848,7 @@
     "Name":"Rams",
     "Points":"13"
    },
-   "comments":" The post-Kurt Warner era does not look promising. I know what you're thinking: Derek Anderson went 22-of-41 for 297 yards and a touchdown. No problem! Not really. Anderson wasn't nearly as good as those numbers indicate. He had way too many passes that weren't near his mark, and lucked out that he wasn't picked off a couple of times. On one of Anderson's errant passes that sailed out of bounds, Larry Fitzgerald yelled in frustration. In Anderson's defense though, he wasn't given good pass protection. The Rams totaled only two sacks, but Anderson was constantly under pressure. In particular, right tackle Brandon Keith was awful.    As a positive, Arizona's running game looked good without Chris Wells. Tim Hightower had 54 yards and a touchdown on 13 carries, while LaRod Stephens-Howling tallied 49 yards on seven attempts. On one drive late in the second quarter, Arizona ripped off consecutive runs of 21 (Howling), 15 (Howling), 19 (Hightower), 20 (Hightower) and one for a touchdown (Hightower). I really don't understand why the Cardinals didn't run the ball more often.    Larry Fitzgerald had three catches for 43 yards and a touchdown. Not what Fitzgerald owners were expecting from their stud receiver against the Rams. But get used to it with Anderson under center.    The Cardinals were very sloppy in this contest; they fumbled a whopping seven times, losing possession on four instances.    Contrary to the Cardinals, the Rams are heading in the right direction. Forget the three interceptions (two came late in desperation mode) because Sam Bradford played very well, especially considering that he had no help from his receivers, who dropped two passes during the game's final drive. Bradford went 32-of-55 for 251 yards, one touchdown and three interceptions. He struggled with some clock issues at the end of the game, but that's to be expected from a rookie quarterback making his first start.    Bradford constantly looked Mark Clayton's way even though the two hadn't worked with each other this offseason. Clayton hauled in 10 grabs for 119 yards. Danny Amendola, meanwhile, had six catches for 67 yards. Laurent Robinson (3-18) scored the touchdown.    Steven Jackson looked great, rushing for 81 yards on 22 carries. Like last year though, Jackson couldn't find the end zone because the offense didn't give him the opportunity. <div class=dfpAdSlots>   ",
+   "comments":" The post-Kurt Warner era does not look promising. I know what you're thinking: Derek Anderson went 22-of-41 for 297 yards and a touchdown. No problem! Not really. Anderson wasn't nearly as good as those numbers indicate. He had way too many passes that weren't near his mark, and lucked out that he wasn't picked off a couple of times. On 1 of Anderson's errant passes that sailed out of bounds, Larry Fitzgerald yelled in frustration. In Anderson's defense though, he wasn't given good pass protection. The Rams totaled only 2 sacks, but Anderson was constantly under pressure. In particular, right tackle Brandon Keith was awful.    As a positive, Arizona's running game looked good without Chris Wells. Tim Hightower had 54 yards and a touchdown on 13 carries, while LaRod Stephens-Howling tallied 49 yards on 7 attempts. On 1 drive late in the second quarter, Arizona ripped off consecutive runs of 21 (Howling), 15 (Howling), 19 (Hightower), 20 (Hightower) and 1 for a touchdown (Hightower). I really don't understand why the Cardinals didn't run the ball more often.    Larry Fitzgerald had 3 catches for 43 yards and a touchdown. Not what Fitzgerald owners were expecting from their stud receiver against the Rams. But get used to it with Anderson under center.    The Cardinals were very sloppy in this contest; they fumbled a whopping 7 times, losing possession on 4 instances.    Contrary to the Cardinals, the Rams are heading in the right direction. Forget the 3 interceptions (two came late in desperation mode) because Sam Bradford played very well, especially considering that he had no help from his receivers, who dropped 2 passes during the game's final drive. Bradford went 32-of-55 for 251 yards, 1 touchdown and 3 interceptions. He struggled with some clock issues at the end of the game, but that's to be expected from a rookie quarterback making his first start.    Bradford constantly looked Mark Clayton's way even though the 2 hadn't worked with each other this offseason. Clayton hauled in 10 grabs for 119 yards. Danny Amendola, meanwhile, had 6 catches for 67 yards. Laurent Robinson (3-18) scored the touchdown.    Steven Jackson looked great, rushing for 81 yards on 22 carries. Like last year though, Jackson couldn't find the end zone because the offense didn't give him the opportunity. <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -7622,11 +7892,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"22",
-       "annotationID":       6448
+       "annotationID":       10265
       },
       "rushing_yards":{
        "propertyValue":"81",
-       "annotationID":       6447
+       "annotationID":       10264
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
@@ -7679,7 +7949,10 @@
       "player_id":      434,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10269
+      },
       "age":"27-089",
       "team":"ARI",
       "game_location":"A",
@@ -7689,22 +7962,28 @@
       "opponent_score":"13",
       "passing_attempts":{
        "propertyValue":"22",
-       "annotationID":       6449
+       "annotationID":       10266
       },
       "passing_completions":{
        "propertyValue":"41",
-       "annotationID":       6450
+       "annotationID":       10267
       },
       "passing_yards":{
        "propertyValue":"297",
-       "annotationID":       6451
+       "annotationID":       10268
       },
       "passing_rating":      85.1,
-      "passing_touchdowns":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10270
+      },
       "passing_interceptions":      0,
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      31,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       10271
+      },
       "rushing_yards":      9,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -7846,10 +8125,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       10272
+      },
       "receiving_yards":{
        "propertyValue":"67",
-       "annotationID":       6452
+       "annotationID":       10273
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      1,
@@ -7898,7 +8180,10 @@
       "player_id":      2201,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10277
+      },
       "age":"22-308",
       "team":"STL",
       "game_location":"H",
@@ -7908,17 +8193,26 @@
       "opponent_score":"17",
       "passing_attempts":{
        "propertyValue":"32",
-       "annotationID":       6453
+       "annotationID":       10275
       },
       "passing_completions":{
        "propertyValue":"55",
-       "annotationID":       6454
+       "annotationID":       10276
       },
       "passing_yards":      253,
       "passing_rating":      53.1,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      3,
-      "passing_sacks":      2,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10278
+      },
+      "passing_interceptions":{
+       "propertyValue":"3",
+       "annotationID":       10280
+      },
+      "passing_sacks":{
+       "propertyValue":"2",
+       "annotationID":       10274
+      },
       "passing_sacks_yards_lost":      13,
       "rushing_attempts":      0,
       "rushing_yards":      0,
@@ -7934,7 +8228,10 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      1,
+      "defense_tackles":{
+       "propertyValue":"1",
+       "annotationID":       10279
+      },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -7995,11 +8292,11 @@
       "receiving_targets":      16,
       "receiving_receptions":{
        "propertyValue":"10",
-       "annotationID":       6455
+       "annotationID":       10281
       },
       "receiving_yards":{
        "propertyValue":"119",
-       "annotationID":       6456
+       "annotationID":       10282
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8048,7 +8345,10 @@
       "player_id":      21238,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10286
+      },
       "age":"23-139",
       "team":"ARI",
       "game_location":"A",
@@ -8064,17 +8364,29 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      7,
+      "rushing_attempts":{
+       "propertyValue":"7",
+       "annotationID":       10289
+      },
       "rushing_yards":{
        "propertyValue":"49",
-       "annotationID":       6457
+       "annotationID":       10283
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      4,
-      "receiving_receptions":      3,
+      "receiving_targets":{
+       "propertyValue":"4",
+       "annotationID":       10290
+      },
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       10291
+      },
       "receiving_yards":      16,
       "receiving_touchdowns":      0,
-      "kick_return_attempts":      3,
+      "kick_return_attempts":{
+       "propertyValue":"3",
+       "annotationID":       10292
+      },
       "kick_return_yards":      82,
       "kick_return_touchdowns":      0,
       "punt_return_attempts":      0,
@@ -8129,7 +8441,7 @@
       "player_team_score":"17",
       "opponent_score":{
        "propertyValue":"13",
-       "annotationID":       6459
+       "annotationID":       10294
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -8141,11 +8453,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"13",
-       "annotationID":       6460
+       "annotationID":       10295
       },
       "rushing_yards":{
        "propertyValue":"54",
-       "annotationID":       6458
+       "annotationID":       10293
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      4,
@@ -8198,7 +8510,10 @@
       "player_id":      6967,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10300
+      },
       "age":"27-012",
       "team":"ARI",
       "game_location":"A",
@@ -8207,7 +8522,7 @@
       "player_team_score":"17",
       "opponent_score":{
        "propertyValue":"13",
-       "annotationID":       6461
+       "annotationID":       10296
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -8222,14 +8537,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"15",
-       "annotationID":       6462
+       "annotationID":       10299
       },
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       10304
+      },
       "receiving_yards":{
        "propertyValue":"43",
-       "annotationID":       6463
+       "annotationID":       10303
       },
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       10301
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -8298,11 +8619,11 @@
       "receiving_targets":      9,
       "receiving_receptions":{
        "propertyValue":"3",
-       "annotationID":       6464
+       "annotationID":       10305
       },
       "receiving_yards":{
        "propertyValue":"18",
-       "annotationID":       6465
+       "annotationID":       10306
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -8338,7 +8659,7 @@
     "Name":"Eagles",
     "Points":"20"
    },
-   "comments":" This was this week's Injury Bowl. Eagles fullback Leonard Weaver tore his ACL and is out for the year. Center Jamaal Jackson tore his bicep. Inside linebacker Stewart Bradley endured a concussion. Kevin Kolb suffered a similar fate later on. And for the Packers, Ryan Grant left the game with an ankle injury. Both Kolb and Grant are in danger of missing their Week 2 games.    Thanks in part to immense pressure in his face, Kolb was awful in the season opener, going just 5-of-10 for 24 yards before getting knocked out of the game. QB Dog Killer entered afterward, and caught an unprepared Packers defense off-guard by rushing for 103 yards on 11 carries. The Packers didn't prepare to defend QB Dog Killer going into the contest, so don't buy the deranged psychopath's performance.    With Kolb out or struggling, none of Philadelphia's receivers did much. DeSean Jackson and Jeremy Maclin each had four catches for 30 and 38 yards, respectively, with Maclin scoring once. Brent Celek had two grabs for 32 yards.    With woeful downfield accuracy at his disposal, QB Dog Killer dumped off a bunch of passes to LeSean McCoy, who had five catches for 47 receiving yards. McCoy also had 35 rushing yards and a touchdown on seven carries.    Aaron Rodgers went 19-of-31 for 188 yards, two touchdowns and a pair of interceptions. Rodgers was not his usual self; the Eagles did a great job of applying pressure on him, and it seldom looked like he was comfortable.    Greg Jennings (5-82) and Donald Driver (5-30) each caught a touchdown. Jermichael Finley had four grabs for 47 yards.    Ryan Grant ran really well early (8 carries, 45 yards), but as mentioned, he left the game with an ankle injury. Brandon Jackson stepped in and totaled 63 yards on 18 attempts to go along with two catches for 12 receiving yards. Jackson should be in starting fantasy lineups if Grant is out next week. Grant says he won't miss any action, but it won't be up to him.   ",
+   "comments":" This was this week's Injury Bowl. Eagles fullback Leonard Weaver tore his ACL and is out for the year. Center Jamaal Jackson tore his bicep. Inside linebacker Stewart Bradley endured a concussion. Kevin Kolb suffered a similar fate later on. And for the Packers, Ryan Grant left the game with an ankle injury. Both Kolb and Grant are in danger of missing their Week 2 games.    Thanks in part to immense pressure in his face, Kolb was awful in the season opener, going just 5-of-10 for 24 yards before getting knocked out of the game. QB Dog Killer entered afterward, and caught an unprepared Packers defense off-guard by rushing for 103 yards on 11 carries. The Packers didn't prepare to defend QB Dog Killer going into the contest, so don't buy the deranged psychopath's performance.    With Kolb out or struggling, none of Philadelphia's receivers did much. DeSean Jackson and Jeremy Maclin each had 4 catches for 30 and 38 yards, respectively, with Maclin scoring once. Brent Celek had 2 grabs for 32 yards.    With woeful downfield accuracy at his disposal, QB Dog Killer dumped off a bunch of passes to LeSean McCoy, who had 5 catches for 47 receiving yards. McCoy also had 35 rushing yards and a touchdown on 7 carries.    Aaron Rodgers went 19-of-31 for 188 yards, 2 touchdowns and a pair of interceptions. Rodgers was not his usual self; the Eagles did a great job of applying pressure on him, and it seldom looked like he was comfortable.    Greg Jennings (5-82) and Donald Driver (5-30) each caught a touchdown. Jermichael Finley had 4 grabs for 47 yards.    Ryan Grant ran really well early (8 carries, 45 yards), but as mentioned, he left the game with an ankle injury. Brandon Jackson stepped in and totaled 63 yards on 18 attempts to go along with 2 catches for 12 receiving yards. Jackson should be in starting fantasy lineups if Grant is out next week. Grant says he won't miss any action, but it won't be up to him.   ",
    "players":[
     {
      "player information":{
@@ -8455,11 +8776,11 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       6466
+       "annotationID":       10307
       },
       "receiving_yards":{
        "propertyValue":"82",
-       "annotationID":       6467
+       "annotationID":       10308
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -8528,10 +8849,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
-      "receiving_receptions":      4,
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       10309
+      },
       "receiving_yards":{
        "propertyValue":"47",
-       "annotationID":       6468
+       "annotationID":       10310
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8602,11 +8926,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       6469
+       "annotationID":       10311
       },
       "receiving_yards":{
        "propertyValue":"30",
-       "annotationID":       6470
+       "annotationID":       10312
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -8803,19 +9127,25 @@
       "opponent_score":"20",
       "passing_attempts":{
        "propertyValue":"19",
-       "annotationID":       6471
+       "annotationID":       10313
       },
       "passing_completions":{
        "propertyValue":"31",
-       "annotationID":       6472
+       "annotationID":       10314
       },
       "passing_yards":{
        "propertyValue":"188",
-       "annotationID":       6473
+       "annotationID":       10315
       },
       "passing_rating":      73.1,
-      "passing_touchdowns":      2,
-      "passing_interceptions":      2,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10316
+      },
+      "passing_interceptions":{
+       "propertyValue":"2",
+       "annotationID":       10317
+      },
       "passing_sacks":      3,
       "passing_sacks_yards_lost":      21,
       "rushing_attempts":      5,
@@ -9025,17 +9355,26 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      7,
+      "rushing_attempts":{
+       "propertyValue":"7",
+       "annotationID":       10322
+      },
       "rushing_yards":{
        "propertyValue":"35",
-       "annotationID":       6475
+       "annotationID":       10321
       },
       "rushing_touchdowns":      1,
-      "receiving_targets":      5,
-      "receiving_receptions":      5,
+      "receiving_targets":{
+       "propertyValue":"5",
+       "annotationID":       10318
+      },
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       10319
+      },
       "receiving_yards":{
        "propertyValue":"47",
-       "annotationID":       6474
+       "annotationID":       10320
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9102,18 +9441,24 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"18",
-       "annotationID":       6477
+       "annotationID":       10324
       },
       "rushing_yards":{
        "propertyValue":"63",
-       "annotationID":       6476
+       "annotationID":       10323
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      2,
-      "receiving_receptions":      2,
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       10325
+      },
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       10326
+      },
       "receiving_yards":{
        "propertyValue":"12",
-       "annotationID":       6478
+       "annotationID":       10327
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9180,11 +9525,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"8",
-       "annotationID":       6479
+       "annotationID":       10328
       },
       "rushing_yards":{
        "propertyValue":"45",
-       "annotationID":       6480
+       "annotationID":       10329
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -9257,10 +9602,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
-      "receiving_receptions":      2,
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       10330
+      },
       "receiving_yards":{
        "propertyValue":"32",
-       "annotationID":       6481
+       "annotationID":       10331
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9329,10 +9677,13 @@
       "rushing_yards":      11,
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
-      "receiving_receptions":      4,
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       10332
+      },
       "receiving_yards":{
        "propertyValue":"38",
-       "annotationID":       6482
+       "annotationID":       10333
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -9368,7 +9719,7 @@
     "Name":"49ers",
     "Points":"6"
    },
-   "comments":" Wow. Forget the Texans finally beating the Colts. This was the biggest shock of the week, and it's not even close. I was so off on this game that I thought the 49ers would win 31-3. Well, at least I almost got the score right. The Seahawks were tremendous and much better than I thought they would be, but I really have to criticize Mike Singletary for not preparing his team for this contest. The 49ers didn't really look like they were trying, as many of the defenders were laughing when the score was 21-6. They did not take Seattle seriously; they've been told all offseason that they're going to easily win the NFC West, and they looked like they assumed that this contest was a formality. Oh, and Alex Smith really, really sucks. I've never been a fan of his - not even before the 2005 NFL Draft - and his performance in the opener was disgraceful. Smith was 26-of-45 for 225 yards, one fumble and and two interceptions, one of which was a pick-six.    Michael Crabtree did nothing (2 catches, 12 yards), but at least Vernon Davis made his fantasy owners happy (8-73).    Frank Gore couldn't run the ball at all, gaining just 38 yards on 17 carries. He did catch six balls for 45 receiving yards though.    I've joked about Matt Hasselbeck being a glue-factory quarterback, but he was pretty solid against the 49ers, going 18-of-23 for 170 yards, two touchdowns and an interception on the first play of the game. Hasselbeck also ran in for a score.    Hasselbeck's top target was Mike Williams, who caught four passes for 64 yards. It wasn't all good for Williams; he dropped a pair of passes.    As in his days at USC, Pete Carroll employed a running back by committee. Julius Jones, Justin Forsett and Leon Washington had eight, seven and six carries, gaining 18, 43 and 12 yards, respectively.   ",
+   "comments":" Wow. Forget the Texans finally beating the Colts. This was the biggest shock of the week, and it's not even close. I was so off on this game that I thought the 49ers would win 31-3. Well, at least I almost got the score right. The Seahawks were tremendous and much better than I thought they would be, but I really have to criticize Mike Singletary for not preparing his team for this contest. The 49ers didn't really look like they were trying, as many of the defenders were laughing when the score was 21-6. They did not take Seattle seriously; they've been told all offseason that they're going to easily win the NFC West, and they looked like they assumed that this contest was a formality. Oh, and Alex Smith really, really sucks. I've never been a fan of his - not even before the 2005 NFL Draft - and his performance in the opener was disgraceful. Smith was 26-of-45 for 225 yards, 1 fumble and and 2 interceptions, 1 of which was a pick-six.    Michael Crabtree did nothing (2 catches, 12 yards), but at least Vernon Davis made his fantasy owners happy (8-73).    Frank Gore couldn't run the ball at all, gaining just 38 yards on 17 carries. He did catch 6 balls for 45 receiving yards though.    I've joked about Matt Hasselbeck being a glue-factory quarterback, but he was pretty solid against the 49ers, going 18-of-23 for 170 yards, 2 touchdowns and an interception on the first play of the game. Hasselbeck also ran in for a score.    Hasselbeck's top target was Mike Williams, who caught 4 passes for 64 yards. It wasn't all good for Williams; he dropped a pair of passes.    As in his days at USC, Pete Carroll employed a running back by committee. Julius Jones, Justin Forsett and Leon Washington had eight, 7 and 6 carries, gaining 18, 43 and 12 yards, respectively.   ",
    "players":[
     {
      "player information":{
@@ -9414,10 +9765,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
-      "receiving_receptions":      4,
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       10334
+      },
       "receiving_yards":{
        "propertyValue":"64",
-       "annotationID":       6483
+       "annotationID":       10335
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9472,7 +9826,10 @@
       "game_location":"A",
       "opponent":"SEA",
       "game_won":      false,
-      "player_team_score":"6",
+      "player_team_score":{
+       "propertyValue":"6",
+       "annotationID":       10338
+      },
       "opponent_score":"31",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -9484,18 +9841,21 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"17",
-       "annotationID":       6485
+       "annotationID":       10337
       },
       "rushing_yards":{
        "propertyValue":"38",
-       "annotationID":       6484
+       "annotationID":       10336
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       10339
+      },
       "receiving_yards":{
        "propertyValue":"45",
-       "annotationID":       6486
+       "annotationID":       10340
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9566,11 +9926,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       6487
+       "annotationID":       10341
       },
       "receiving_yards":{
        "propertyValue":"12",
-       "annotationID":       6488
+       "annotationID":       10342
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9695,7 +10055,10 @@
       "opponent":"SFO",
       "game_won":      true,
       "player_team_score":"31",
-      "opponent_score":"6",
+      "opponent_score":{
+       "propertyValue":"6",
+       "annotationID":       10343
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -9704,10 +10067,13 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      6,
+      "rushing_attempts":{
+       "propertyValue":"6",
+       "annotationID":       10344
+      },
       "rushing_yards":{
        "propertyValue":"12",
-       "annotationID":       6489
+       "annotationID":       10345
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -9760,7 +10126,10 @@
       "player_id":      20509,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10352
+      },
       "age":"26-128",
       "team":"SFO",
       "game_location":"A",
@@ -9770,20 +10139,26 @@
       "opponent_score":"31",
       "passing_attempts":{
        "propertyValue":"26",
-       "annotationID":       6490
+       "annotationID":       10346
       },
       "passing_completions":{
        "propertyValue":"45",
-       "annotationID":       6491
+       "annotationID":       10347
       },
       "passing_yards":{
        "propertyValue":"225",
-       "annotationID":       6492
+       "annotationID":       10348
       },
       "passing_rating":      52.5,
       "passing_touchdowns":      0,
-      "passing_interceptions":      2,
-      "passing_sacks":      2,
+      "passing_interceptions":{
+       "propertyValue":"2",
+       "annotationID":       10350
+      },
+      "passing_sacks":{
+       "propertyValue":"2",
+       "annotationID":       10351
+      },
       "passing_sacks_yards_lost":      11,
       "rushing_attempts":      0,
       "rushing_yards":      0,
@@ -9860,11 +10235,11 @@
       "receiving_targets":      12,
       "receiving_receptions":{
        "propertyValue":"8",
-       "annotationID":       6493
+       "annotationID":       10353
       },
       "receiving_yards":{
        "propertyValue":"73",
-       "annotationID":       6494
+       "annotationID":       10354
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9992,22 +10367,28 @@
       "opponent_score":"6",
       "passing_attempts":{
        "propertyValue":"18",
-       "annotationID":       6495
+       "annotationID":       10355
       },
       "passing_completions":{
        "propertyValue":"23",
-       "annotationID":       6496
+       "annotationID":       10356
       },
       "passing_yards":{
        "propertyValue":"170",
-       "annotationID":       6497
+       "annotationID":       10357
       },
       "passing_rating":      108.3,
-      "passing_touchdowns":      2,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       10358
+      },
       "passing_interceptions":      1,
       "passing_sacks":      1,
       "passing_sacks_yards_lost":      5,
-      "rushing_attempts":      2,
+      "rushing_attempts":{
+       "propertyValue":"2",
+       "annotationID":       10359
+      },
       "rushing_yards":      4,
       "rushing_touchdowns":      1,
       "receiving_targets":      0,
@@ -10116,7 +10497,7 @@
     "Name":"Cowboys",
     "Points":"7"
    },
-   "comments":" Only the Cowboys can lose like this. Seriously. Just when you think you've seen the worst from them, they give you something like this. Seven seconds and two plays decided this defensive struggle. If you somehow missed it, the Cowboys tried some weird play on their 36-yard line with four seconds remaining in the first half. Under pressure, Romo pitched the ball to Tashard Choice, who fumbled the ball to see it scooped up by DeAngelo Hall for a back-breaking touchdown. At halftime, Rodney Harrison said the following, This has to be one of the dumbest plays I've ever seen. On the final play of the game, Tony Romo found Roy Williams in the end zone for the game-winning score. The play didn't count, however, because Alex Barron held Brian Orakpo. And by held, I mean choked and tackled. It truly was a disgraceful play on Barron's part, and his unborn grandkids will undoubtedly have to live their lives in shame because of it.    Tony Romo went 31-of-47 for 282 yards and a touchdown. Romo did a great job considering how Washington abused his inept offensive line.    His first game after signing a massive contract, Miles Austin-Jones caught a whopping 10 balls for 146 yards and a touchdown. Dez Bryant, meanwhile, had a great debut, catching eight balls for 56 yards. The sky's the limit for the rookie wideout.    Both Marion Barber and Felix Jones had eight carries and 10 total touches, with Barber barely out-gaining Jones on the ground, 39-38.    Donovan McNabb hasn't played the Cowboys well of late. He went 15-of-32 for 171 yards. He made some nice throws, saw four passes dropped and scampered for a 17-yard gain, but also had some bad misfires. Dallas' defense is really good, so it's hard to really blame him. Overall, it was a good debut for the former Eagle.    It was all Chris Cooley and Santana Moss for McNabb. Each caught six balls for 80 and 77 yards, respectively. Anthony Armstrong saw two end-zone targets, but couldn't come up with either ball.    Considering the defense the Redskins were facing, they ran the ball pretty well. Clinton Portis gained 63 yards on 18 attempts. Larry Johnson saw only three carries for nine yards.   ",
+   "comments":" Only the Cowboys can lose like this. Seriously. Just when you think you've seen the worst from them, they give you something like this. Seven seconds and 2 plays decided this defensive struggle. If you somehow missed it, the Cowboys tried some weird play on their 36-yard line with 4 seconds remaining in the first half. Under pressure, Romo pitched the ball to Tashard Choice, who fumbled the ball to see it scooped up by DeAngelo Hall for a back-breaking touchdown. At halftime, Rodney Harrison said the following, This has to be 1 of the dumbest plays I've ever seen. On the final play of the game, Tony Romo found Roy Williams in the end zone for the game-winning score. The play didn't count, however, because Alex Barron held Brian Orakpo. And by held, I mean choked and tackled. It truly was a disgraceful play on Barron's part, and his unborn grandkids will undoubtedly have to live their lives in shame because of it.    Tony Romo went 31-of-47 for 282 yards and a touchdown. Romo did a great job considering how Washington abused his inept offensive line.    His first game after signing a massive contract, Miles Austin-Jones caught a whopping 10 balls for 146 yards and a touchdown. Dez Bryant, meanwhile, had a great debut, catching 8 balls for 56 yards. The sky's the limit for the rookie wideout.    Both Marion Barber and Felix Jones had 8 carries and 10 total touches, with Barber barely out-gaining Jones on the ground, 39-38.    Donovan McNabb hasn't played the Cowboys well of late. He went 15-of-32 for 171 yards. He made some nice throws, saw 4 passes dropped and scampered for a 17-yard gain, but also had some bad misfires. Dallas' defense is really good, so it's hard to really blame him. Overall, it was a good debut for the former Eagle.    It was all Chris Cooley and Santana Moss for McNabb. Each caught 6 balls for 80 and 77 yards, respectively. Anthony Armstrong saw 2 end-zone targets, but couldn't come up with either ball.    Considering the defense the Redskins were facing, they ran the ball pretty well. Clinton Portis gained 63 yards on 18 attempts. Larry Johnson saw only 3 carries for 9 yards.   ",
    "players":[
     {
      "player information":{
@@ -10296,10 +10677,13 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      8,
+      "rushing_attempts":{
+       "propertyValue":"8",
+       "annotationID":       10360
+      },
       "rushing_yards":{
        "propertyValue":"38",
-       "annotationID":       6498
+       "annotationID":       10361
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      2,
@@ -10362,15 +10746,15 @@
       "opponent_score":"13",
       "passing_attempts":{
        "propertyValue":"31",
-       "annotationID":       6499
+       "annotationID":       10362
       },
       "passing_completions":{
        "propertyValue":"47",
-       "annotationID":       6500
+       "annotationID":       10363
       },
       "passing_yards":{
        "propertyValue":"282",
-       "annotationID":       6501
+       "annotationID":       10364
       },
       "passing_rating":      89.1,
       "passing_touchdowns":      1,
@@ -10446,8 +10830,14 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      3,
-      "rushing_yards":      9,
+      "rushing_attempts":{
+       "propertyValue":"3",
+       "annotationID":       10365
+      },
+      "rushing_yards":{
+       "propertyValue":"9",
+       "annotationID":       10366
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -10521,11 +10911,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"10",
-       "annotationID":       6502
+       "annotationID":       10367
       },
       "receiving_yards":{
        "propertyValue":"146",
-       "annotationID":       6503
+       "annotationID":       10368
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -10594,10 +10984,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       10369
+      },
       "receiving_yards":{
        "propertyValue":"77",
-       "annotationID":       6504
+       "annotationID":       10370
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10656,15 +11049,15 @@
       "opponent_score":"7",
       "passing_attempts":{
        "propertyValue":"15",
-       "annotationID":       6505
+       "annotationID":       10371
       },
       "passing_completions":{
        "propertyValue":"32",
-       "annotationID":       6506
+       "annotationID":       10372
       },
       "passing_yards":{
        "propertyValue":"171",
-       "annotationID":       6507
+       "annotationID":       10373
       },
       "passing_rating":      63.4,
       "passing_touchdowns":      0,
@@ -10674,7 +11067,7 @@
       "rushing_attempts":      1,
       "rushing_yards":{
        "propertyValue":"17",
-       "annotationID":       6508
+       "annotationID":       10374
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -10952,11 +11345,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"18",
-       "annotationID":       6510
+       "annotationID":       10376
       },
       "rushing_yards":{
        "propertyValue":"63",
-       "annotationID":       6509
+       "annotationID":       10375
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
@@ -11098,10 +11491,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      13,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       10377
+      },
       "receiving_yards":{
        "propertyValue":"56",
-       "annotationID":       6511
+       "annotationID":       10378
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11288,7 +11684,10 @@
       "player_id":      8801,
       "year":"2010",
       "date":"2010-09-12",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10379
+      },
       "age":"26-297",
       "team":"WAS",
       "game_location":"H",
@@ -11319,7 +11718,10 @@
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
       "defense_tackles":      7,
-      "defense_tackle_assists":      1,
+      "defense_tackle_assists":{
+       "propertyValue":"1",
+       "annotationID":       10380
+      },
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
       "defense_interception_touchdowns":      0,

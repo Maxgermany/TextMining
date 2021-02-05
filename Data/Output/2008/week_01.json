@@ -12,7 +12,7 @@
     "Name":"Redskins",
     "Points":"7"
    },
-   "comments":" Want to re-think the whole Jim Zorn hire, Daniel Snyder? I've never seen a team more unprepared for an NFL game than the Redskins. They showed no sense of urgency at the end of the game, and Zorn looked like he didn't even know what a two-minute offense was. I can't say I'm surprised though, as this is coming from an owner who frivolously overspends on 40-year-old has-beens and hires idiots like Vinny Cerrato to manage the team. Cerrato couldn't even stay awake for this game! For more on this, see my . Believe me, I'll have more on Zorn in the coming weeks. For those of you who missed this game, Clinton Portis was actually telling Zorn which plays to run on the sideline. Later in the evening, after the Redskins were contained to their 800th three-and-out, Portis slammed his helmet down in frustration. I can't blame him. On the bright side, it can only get easier, as the Giants are one of the top teams in the league.    Clinton Portis was the only productive Redskins offensive player until the fourth quarter. He had 84 yards on 23 carries. Antwaan Randle El picked it up in garbage time, snatching seven catches for 73 yards. Santana Moss chipped in with 37 yards and a touchdown on five receptions.    Jason Campbell was pretty brutal. He completed his first pass with one minute remaining in the second quarter! He finished 15-of-27 for 133 yards and a score, giving him a discouraging YPA of 4.9. He did his best impression of Trent Green, often throwing short on third downs. However, one could argue that Campbell would have been responsible for a couple of interceptions if he went deep. Looks like it's going to take Campbell much longer to learn the West Coast offense than optimistic Redskins fans had hoped.    The Giants won, but I wasn't too convinced by their victory. They jumped out on the Redskins early with a 16-0 lead, but stalled multiple times at midfield afterward. Following a hot start, Eli Manning was errant on many of his passes. He had a pick, but he could have easily thrown three.    Brandon Jacobs and Plaxico Burress were the stars for the Giants. Jacobs rumbled for 116 yards on 21 carries, while Burress caught 10 balls for 133 yards, completely torching corner Fred Smoot, who had to leave the game in the second half with a bruised ego.   ",
+   "comments":" Want to re-think the whole Jim Zorn hire, Daniel Snyder? I've never seen a team more unprepared for an NFL game than the Redskins. They showed no sense of urgency at the end of the game, and Zorn looked like he didn't even know what a two-minute offense was. I can't say I'm surprised though, as this is coming from an owner who frivolously overspends on 40-year-old has-beens and hires idiots like Vinny Cerrato to manage the team. Cerrato couldn't even stay awake for this game! For more on this, see my . Believe me, I'll have more on Zorn in the coming weeks. For those of you who missed this game, Clinton Portis was actually telling Zorn which plays to run on the sideline. Later in the evening, after the Redskins were contained to their 800th three-and-out, Portis slammed his helmet down in frustration. I can't blame him. On the bright side, it can only get easier, as the Giants are 1 of the top teams in the league.    Clinton Portis was the only productive Redskins offensive player until the fourth quarter. He had 84 yards on 23 carries. Antwaan Randle El picked it up in garbage time, snatching 7 catches for 73 yards. Santana Moss chipped in with 37 yards and a touchdown on 5 receptions.    Jason Campbell was pretty brutal. He completed his first pass with 1 minute remaining in the second quarter! He finished 15-of-27 for 133 yards and a score, giving him a discouraging YPA of 4.9. He did his best impression of Trent Green, often throwing short on third downs. However, 1 could argue that Campbell would have been responsible for a couple of interceptions if he went deep. Looks like it's going to take Campbell much longer to learn the West Coast offense than optimistic Redskins fans had hoped.    The Giants won, but I wasn't too convinced by their victory. They jumped out on the Redskins early with a 16-0 lead, but stalled multiple times at midfield afterward. Following a hot start, Eli Manning was errant on many of his passes. He had a pick, but he could have easily thrown three.    Brandon Jacobs and Plaxico Burress were the stars for the Giants. Jacobs rumbled for 116 yards on 21 carries, while Burress caught 10 balls for 133 yards, completely torching corner Fred Smoot, who had to leave the game in the second half with a bruised ego.   ",
    "players":[
     {
      "player information":{
@@ -44,7 +44,10 @@
       "game_location":"A",
       "opponent":"NYG",
       "game_won":      false,
-      "player_team_score":"7",
+      "player_team_score":{
+       "propertyValue":"7",
+       "annotationID":       1
+      },
       "opponent_score":"16",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -58,10 +61,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
-      "receiving_receptions":      7,
+      "receiving_receptions":{
+       "propertyValue":"7",
+       "annotationID":       2
+      },
       "receiving_yards":{
        "propertyValue":"73",
-       "annotationID":       1
+       "annotationID":       3
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -179,7 +185,10 @@
       "player_id":      3329,
       "year":"2008",
       "date":"2008-09-04",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       10
+      },
       "age":"26-248",
       "team":"WAS",
       "game_location":"A",
@@ -188,24 +197,30 @@
       "player_team_score":"7",
       "opponent_score":{
        "propertyValue":"16",
-       "annotationID":       5
+       "annotationID":       13
       },
       "passing_attempts":{
        "propertyValue":"15",
-       "annotationID":       2
+       "annotationID":       7
       },
       "passing_completions":{
        "propertyValue":"27",
-       "annotationID":       3
+       "annotationID":       8
       },
       "passing_yards":{
        "propertyValue":"133",
-       "annotationID":       4
+       "annotationID":       9
       },
       "passing_rating":      81.2,
-      "passing_touchdowns":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       11
+      },
       "passing_interceptions":      0,
-      "passing_sacks":      1,
+      "passing_sacks":{
+       "propertyValue":"1",
+       "annotationID":       12
+      },
       "passing_sacks_yards_lost":      8,
       "rushing_attempts":      0,
       "rushing_yards":      0,
@@ -349,10 +364,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       15
+      },
       "receiving_yards":{
        "propertyValue":"37",
-       "annotationID":       6
+       "annotationID":       14
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -492,11 +510,11 @@
       "receiving_targets":      13,
       "receiving_receptions":{
        "propertyValue":"10",
-       "annotationID":       7
+       "annotationID":       16
       },
       "receiving_yards":{
        "propertyValue":"133",
-       "annotationID":       8
+       "annotationID":       17
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -545,7 +563,10 @@
       "player_id":      17821,
       "year":"2008",
       "date":"2008-09-04",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       18
+      },
       "age":"27-003",
       "team":"WAS",
       "game_location":"A",
@@ -563,11 +584,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"23",
-       "annotationID":       10
+       "annotationID":       20
       },
       "rushing_yards":{
        "propertyValue":"84",
-       "annotationID":       9
+       "annotationID":       19
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -607,7 +628,7 @@
     "Name":"Texans",
     "Points":"17"
    },
-   "comments":" CBS sucks. With the Steelers beating the Texans in a blow... blowed... blewed... blowout, I was expecting CBS to switch to a more exciting game, perhaps Jets-Dolphins, Chiefs-Patriots or even the CFL's Saskatchewan-Winnipeg. But no - CBS stuck with Pittsburgh-Houston for all 60 minutes. I stopped tuning in at about 2 p.m.    What I did see had me questioning my prediction that Houston would compete for a playoff spot. The defense was an absolute disgrace. Ben Roethlisberger threw just one incompletion in 14 attempts and was allowed to maintain a 9.8 YPA. Willie Parker compiled 138 yards and three touchdowns on 25 carries. The Steelers scored touchdowns on their first three possessions.    Houston's offense wasn't much better. On its first four drives, the team punted once, turned it over on downs another time and committed turnovers on the other two possessions.    At least Andre Johnson's fantasy owners weren't angry. Johnson caught 10 balls for 112 yards. Matt Schaub went 25-of-33 for 202 yards, one touchdown and two picks.    Houston's running back situation: Steve Slaton predictably started and rushed 13 times for 43 yards. He also caught three passes for six yards. Ahman Green received just five carries (28 yards).   ",
+   "comments":" CBS sucks. With the Steelers beating the Texans in a blow... blowed... blewed... blowout, I was expecting CBS to switch to a more exciting game, perhaps Jets-Dolphins, Chiefs-Patriots or even the CFL's Saskatchewan-Winnipeg. But no - CBS stuck with Pittsburgh-Houston for all 60 minutes. I stopped tuning in at about 2 p.m.    What I did see had me questioning my prediction that Houston would compete for a playoff spot. The defense was an absolute disgrace. Ben Roethlisberger threw just 1 incompletion in 14 attempts and was allowed to maintain a 9.8 YPA. Willie Parker compiled 138 yards and 3 touchdowns on 25 carries. The Steelers scored touchdowns on their first 3 possessions.    Houston's offense wasn't much better. On its first 4 drives, the team punted once, turned it over on downs another time and committed turnovers on the other 2 possessions.    At least Andre Johnson's fantasy owners weren't angry. Johnson caught 10 balls for 112 yards. Matt Schaub went 25-of-33 for 202 yards, 1 touchdown and 2 picks.    Houston's running back situation: Steve Slaton predictably started and rushed 13 times for 43 yards. He also caught 3 passes for 6 yards. Ahman Green received just 5 carries (28 yards).   ",
    "players":[
     {
      "player information":{
@@ -651,13 +672,16 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"25",
-       "annotationID":       12
+       "annotationID":       23
       },
       "rushing_yards":{
        "propertyValue":"138",
-       "annotationID":       11
+       "annotationID":       21
       },
-      "rushing_touchdowns":      3,
+      "rushing_touchdowns":{
+       "propertyValue":"3",
+       "annotationID":       24
+      },
       "receiving_targets":      0,
       "receiving_receptions":      0,
       "receiving_yards":      0,
@@ -708,7 +732,10 @@
       "player_id":      19618,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       28
+      },
       "age":"27-074",
       "team":"HOU",
       "game_location":"A",
@@ -718,24 +745,36 @@
       "opponent_score":"38",
       "passing_attempts":{
        "propertyValue":"25",
-       "annotationID":       13
+       "annotationID":       25
       },
       "passing_completions":{
        "propertyValue":"33",
-       "annotationID":       14
+       "annotationID":       26
       },
       "passing_yards":{
        "propertyValue":"202",
-       "annotationID":       15
+       "annotationID":       27
       },
       "passing_rating":      75.6,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      2,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       29
+      },
+      "passing_interceptions":{
+       "propertyValue":"2",
+       "annotationID":       31
+      },
       "passing_sacks":      5,
       "passing_sacks_yards_lost":      43,
-      "rushing_attempts":      2,
+      "rushing_attempts":{
+       "propertyValue":"2",
+       "annotationID":       32
+      },
       "rushing_yards":      4,
-      "rushing_touchdowns":      1,
+      "rushing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       30
+      },
       "receiving_targets":      0,
       "receiving_receptions":      0,
       "receiving_yards":      0,
@@ -786,7 +825,10 @@
       "player_id":      18977,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       33
+      },
       "age":"26-189",
       "team":"PIT",
       "game_location":"H",
@@ -797,7 +839,7 @@
       "passing_attempts":      13,
       "passing_completions":{
        "propertyValue":"14",
-       "annotationID":       16
+       "annotationID":       34
       },
       "passing_yards":      137,
       "passing_rating":      147,
@@ -880,11 +922,11 @@
       "receiving_targets":      13,
       "receiving_receptions":{
        "propertyValue":"10",
-       "annotationID":       17
+       "annotationID":       35
       },
       "receiving_yards":{
        "propertyValue":"112",
-       "annotationID":       18
+       "annotationID":       36
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -949,10 +991,13 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      5,
+      "rushing_attempts":{
+       "propertyValue":"5",
+       "annotationID":       37
+      },
       "rushing_yards":{
        "propertyValue":"28",
-       "annotationID":       19
+       "annotationID":       38
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
@@ -1023,16 +1068,25 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"13",
-       "annotationID":       20
+       "annotationID":       39
       },
       "rushing_yards":{
        "propertyValue":"43",
-       "annotationID":       21
+       "annotationID":       40
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      3,
-      "receiving_receptions":      3,
-      "receiving_yards":      6,
+      "receiving_targets":{
+       "propertyValue":"3",
+       "annotationID":       41
+      },
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       42
+      },
+      "receiving_yards":{
+       "propertyValue":"6",
+       "annotationID":       43
+      },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -1067,7 +1121,7 @@
     "Name":"Rams",
     "Points":"3"
    },
-   "comments":" In the hunt for the worst team in the NFL, one must begin in St. Louis. The Rams were really pathetic against the Eagles. I mean, REALLY pathetic. I don't know how else to say it. I don't think William Shakespeare could even describe it. So, I'll just give you the facts: The Rams had six false starts. Six! Their first 10 drives ended in a punt! Ten drives! Donovan McNabb's YPA was 10.9! 10.9! They lost 38-3, falling short of my 34-7 prediction! 38-3! I will use five interjections in this paragraph! Five!    If things couldn't get any worse for the Rams, Orlando Pace left the game with an injury. Marc Bulger (14-of-26 for 158 yards) didn't even get protection with Pace in the lineup. Uh-oh!    But let's talk about a real team. Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and three touchdowns. Three of his receivers - DeSean Jackson, Greg Lewis and Hank Baskett - eclipsed the 100-yard barrier. Jackson (six catches, 106 yards) looked awesome on offense and special teams. Jackson nearly broke a punt return for a touchdown.    L.J. Smith chipped in with five receptions, 39 yards and a touchdown. What you won't see in the box score is that Smith dropped five passes, including two in the end zone. He was also whistled for a false start. I opined that the Eagles should have let Smith go this past offseason, and I'll continue to stand by that remark.    The Eagles looked great, but their fans shouldn't get too excited just yet. The Rams are horrible, and the team had a similar victory against the pathetic Lions in Week 3 in 2007. We'll be able to tell more about the Eagles the next two weeks (Cowboys and Steelers).   ",
+   "comments":" In the hunt for the worst team in the NFL, 1 must begin in St. Louis. The Rams were really pathetic against the Eagles. I mean, REALLY pathetic. I don't know how else to say it. I don't think William Shakespeare could even describe it. So, I'll just give you the facts: The Rams had 6 false starts. Six! Their first 10 drives ended in a punt! Ten drives! Donovan McNabb's YPA was 10.9! 10.9! They lost 38-3, falling short of my 34-7 prediction! 38-3! I will use 5 interjections in this paragraph! Five!    If things couldn't get any worse for the Rams, Orlando Pace left the game with an injury. Marc Bulger (14-of-26 for 158 yards) didn't even get protection with Pace in the lineup. Uh-oh!    But let's talk about a real team. Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns. Three of his receivers - DeSean Jackson, Greg Lewis and Hank Baskett - eclipsed the 100-yard barrier. Jackson (six catches, 106 yards) looked awesome on offense and special teams. Jackson nearly broke a punt return for a touchdown.    L.J. Smith chipped in with 5 receptions, 39 yards and a touchdown. What you won't see in the box score is that Smith dropped 5 passes, including 2 in the end zone. He was also whistled for a false start. I opined that the Eagles should have let Smith go this past offseason, and I'll continue to stand by that remark.    The Eagles looked great, but their fans shouldn't get too excited just yet. The Rams are horrible, and the team had a similar victory against the pathetic Lions in Week 3 in 2007. We'll be able to tell more about the Eagles the next 2 weeks (Cowboys and Steelers).   ",
    "players":[
     {
      "player information":{
@@ -1102,7 +1156,7 @@
       "player_team_score":"38",
       "opponent_score":{
        "propertyValue":"3",
-       "annotationID":       23
+       "annotationID":       47
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -1116,10 +1170,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       46
+      },
       "receiving_yards":{
        "propertyValue":"39",
-       "annotationID":       22
+       "annotationID":       45
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -1243,19 +1300,22 @@
       "game_location":"A",
       "opponent":"PHI",
       "game_won":      false,
-      "player_team_score":"3",
+      "player_team_score":{
+       "propertyValue":"3",
+       "annotationID":       51
+      },
       "opponent_score":"38",
       "passing_attempts":{
        "propertyValue":"14",
-       "annotationID":       24
+       "annotationID":       48
       },
       "passing_completions":{
        "propertyValue":"26",
-       "annotationID":       25
+       "annotationID":       49
       },
       "passing_yards":{
        "propertyValue":"158",
-       "annotationID":       26
+       "annotationID":       50
       },
       "passing_rating":      72.3,
       "passing_touchdowns":      0,
@@ -1323,28 +1383,28 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"38",
-       "annotationID":       31
+       "annotationID":       56
       },
       "opponent_score":{
        "propertyValue":"3",
-       "annotationID":       32
+       "annotationID":       63
       },
       "passing_attempts":{
        "propertyValue":"21",
-       "annotationID":       35
+       "annotationID":       60
       },
       "passing_completions":{
        "propertyValue":"33",
-       "annotationID":       36
+       "annotationID":       61
       },
       "passing_yards":{
        "propertyValue":"361",
-       "annotationID":       37
+       "annotationID":       62
       },
       "passing_rating":      131,
       "passing_touchdowns":{
        "propertyValue":"3",
-       "annotationID":       33
+       "annotationID":       64
       },
       "passing_interceptions":      0,
       "passing_sacks":      0,
@@ -1352,7 +1412,7 @@
       "rushing_attempts":      1,
       "rushing_yards":{
        "propertyValue":"3",
-       "annotationID":       34
+       "annotationID":       65
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -1599,7 +1659,7 @@
     "Name":"Lions",
     "Points":"21"
    },
-   "comments":" It's really great to see that Matt Millen spent so much effort improving his defense this offseason. Getting a middle linebacker to upgrade Paris Lenon? Nice job. Finding a top-notch corner who fits the Tampa-2? Awesome. Dealing Shaun Rogers but finding a capable replacement to clog the middle? Fantastic. Oh, wait... Sorry... That was just a good dream every Lions fan had on Saturday night. Detroit allowed 34 points to a rookie quarterback and first-year head coach. Michael Turner ran for 220 yards, as the Lions surrendered 8.7 yards per carry. Detroit's secondary also yielded a depressing 12.4 YPA to Matt Ryan. If William Clay Ford Darth Sidious doesn't fire Millen this week, he never will. Sorry, Lions fans. It looks like you're stuck with Millen until he retires on his own accord.    On that note, someone please shoot me with a tranquilizer the next time I pick the Lions as a favorite. I know it was for only one unit, and I said I wouldn't recommend betting on it, but still. What was I thinking?    I wouldn't vote Matt Ryan into the Hall of Fame just yet. Before Falcons fans get excited, remember that a blind, one-legged old woman could dominate Detroit's secondary. Still, there's nothing to complain about. Ryan's first throw as a 62-yard bomb to Michael Jenkins. The Boston College product finished just 9-of-13 for 161 yards and a touchdown. Ryan didn't need to throw the ball, as Michael Turner broke the franchise rushing record. Turner totaled 220 yards on only 22 carries and two scores. In fact, Turner was on pace to break the NFL single-game mark of 296. Turner had 117 yards in the first quarter, putting him on pace for 468. Matt Millen? Genius.    Not much from Roddy White (two catches, 54 yards) and Atlanta's other receivers. Ryan didn't have to throw the ball because the Falcons had the lead the entire game. If you're a White owner, I wouldn't be too concerned; the Falcons won't be winning many blowouts this season.    As for Detroit's receivers, Calvin Johnson predictably led the team with seven receptions and 107 yards. Roy Williams caught three balls for 47 yards and an impressive touchdown in the corner of the end zone.   ",
+   "comments":" It's really great to see that Matt Millen spent so much effort improving his defense this offseason. Getting a middle linebacker to upgrade Paris Lenon? Nice job. Finding a top-notch corner who fits the Tampa-2? Awesome. Dealing Shaun Rogers but finding a capable replacement to clog the middle? Fantastic. Oh, wait... Sorry... That was just a good dream every Lions fan had on Saturday night. Detroit allowed 34 points to a rookie quarterback and first-year head coach. Michael Turner ran for 220 yards, as the Lions surrendered 8.7 yards per carry. Detroit's secondary also yielded a depressing 12.4 YPA to Matt Ryan. If William Clay Ford Darth Sidious doesn't fire Millen this week, he never will. Sorry, Lions fans. It looks like you're stuck with Millen until he retires on his own accord.    On that note, someone please shoot me with a tranquilizer the next time I pick the Lions as a favorite. I know it was for only 1 unit, and I said I wouldn't recommend betting on it, but still. What was I thinking?    I wouldn't vote Matt Ryan into the Hall of Fame just yet. Before Falcons fans get excited, remember that a blind, one-legged old woman could dominate Detroit's secondary. Still, there's nothing to complain about. Ryan's first throw as a 62-yard bomb to Michael Jenkins. The Boston College product finished just 9-of-13 for 161 yards and a touchdown. Ryan didn't need to throw the ball, as Michael Turner broke the franchise rushing record. Turner totaled 220 yards on only 22 carries and 2 scores. In fact, Turner was on pace to break the NFL single-game mark of 296. Turner had 117 yards in the first quarter, putting him on pace for 468. Matt Millen? Genius.    Not much from Roddy White (two catches, 54 yards) and Atlanta's other receivers. Ryan didn't have to throw the ball because the Falcons had the lead the entire game. If you're a White owner, I wouldn't be too concerned; the Falcons won't be winning many blowouts this season.    As for Detroit's receivers, Calvin Johnson predictably led the team with 7 receptions and 107 yards. Roy Williams caught 3 balls for 47 yards and an impressive touchdown in the corner of the end zone.   ",
    "players":[
     {
      "player information":{
@@ -1625,7 +1685,10 @@
       "player_id":      22656,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       67
+      },
       "age":"26-207",
       "team":"ATL",
       "game_location":"H",
@@ -1643,15 +1706,24 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"22",
-       "annotationID":       40
+       "annotationID":       71
       },
       "rushing_yards":{
        "propertyValue":"220",
-       "annotationID":       39
+       "annotationID":       70
       },
-      "rushing_touchdowns":      2,
-      "receiving_targets":      1,
-      "receiving_receptions":      1,
+      "rushing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       72
+      },
+      "receiving_targets":{
+       "propertyValue":"1",
+       "annotationID":       68
+      },
+      "receiving_receptions":{
+       "propertyValue":"1",
+       "annotationID":       69
+      },
       "receiving_yards":      6,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1700,7 +1772,10 @@
       "player_id":      19319,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       73
+      },
       "age":"23-113",
       "team":"ATL",
       "game_location":"H",
@@ -1712,9 +1787,15 @@
       "passing_completions":      13,
       "passing_yards":      161,
       "passing_rating":      137,
-      "passing_touchdowns":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       74
+      },
       "passing_interceptions":      0,
-      "passing_sacks":      1,
+      "passing_sacks":{
+       "propertyValue":"1",
+       "annotationID":       75
+      },
       "passing_sacks_yards_lost":      5,
       "rushing_attempts":      5,
       "rushing_yards":      -2,
@@ -1789,10 +1870,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      7,
+      "receiving_receptions":{
+       "propertyValue":"7",
+       "annotationID":       76
+      },
       "receiving_yards":{
        "propertyValue":"107",
-       "annotationID":       41
+       "annotationID":       77
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1998,7 +2082,10 @@
       "rushing_attempts":      0,
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
-      "receiving_targets":      2,
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       78
+      },
       "receiving_receptions":      1,
       "receiving_yards":      62,
       "receiving_touchdowns":      1,
@@ -2137,10 +2224,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       79
+      },
       "receiving_yards":{
        "propertyValue":"47",
-       "annotationID":       42
+       "annotationID":       80
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2212,7 +2302,7 @@
       "receiving_receptions":      2,
       "receiving_yards":{
        "propertyValue":"54",
-       "annotationID":       43
+       "annotationID":       81
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2248,7 +2338,7 @@
     "Name":"Seahawks",
     "Points":"10"
    },
-   "comments":" The Bills scored one of their third-quarter touchdowns on a fake field goal, which ended up being a Brian Moorman 19-yard touchdown pass to Ryan Denney. I must apologize for not listing Moorman as a must-start in my page.    As for Buffalo's real quarterback, Trent Edwards finished 19-of-30, 215 yards and a touchdown. Those numbers aren't great, but keep in mind that Edwards began the game 1-of-6 for seven yards. Edwards found a groove late in the second quarter, allowing the Bills to run away with this game.    Speaking of poor starts, Matt Hasselbeck began the contest 1-of-8 for 12 yards, as it was very apparent that missing his top two receivers and right tackle took a toll on him. Unlike Edwards, Hasselbeck couldn't recover. He finished 17-of-41 for 190 yards, one touchdown and an interception.    For all the talk of Seattle's skill-position battles (Julius Jones vs. Maurice Morris and Courtney Taylor vs. Ben Obomanu vs. Jordan Kent), nothing really materialized. Jones and Mooris combined for 76 yards on 19 carries, as Marcus Stroud ate them both alive. Taylor caught two balls for 17 yards. Kent had no receptions.    Impressive performance by the Bills despite losing Angelo Crowell for the year earlier this week. Buffalo sacked Matt Hasselbeck five times and limited the Seattle quarterback to a 4.6 YPA.   ",
+   "comments":" The Bills scored 1 of their third-quarter touchdowns on a fake field goal, which ended up being a Brian Moorman 19-yard touchdown pass to Ryan Denney. I must apologize for not listing Moorman as a must-start in my page.    As for Buffalo's real quarterback, Trent Edwards finished 19-of-30, 215 yards and a touchdown. Those numbers aren't great, but keep in mind that Edwards began the game 1-of-6 for 7 yards. Edwards found a groove late in the second quarter, allowing the Bills to run away with this game.    Speaking of poor starts, Matt Hasselbeck began the contest 1-of-8 for 12 yards, as it was very apparent that missing his top 2 receivers and right tackle took a toll on him. Unlike Edwards, Hasselbeck couldn't recover. He finished 17-of-41 for 190 yards, 1 touchdown and an interception.    For all the talk of Seattle's skill-position battles (Julius Jones vs. Maurice Morris and Courtney Taylor vs. Ben Obomanu vs. Jordan Kent), nothing really materialized. Jones and Mooris combined for 76 yards on 19 carries, as Marcus Stroud ate them both alive. Taylor caught 2 balls for 17 yards. Kent had no receptions.    Impressive performance by the Bills despite losing Angelo Crowell for the year earlier this week. Buffalo sacked Matt Hasselbeck 5 times and limited the Seattle quarterback to a 4.6 YPA.   ",
    "players":[
     {
      "player information":{
@@ -2562,7 +2652,7 @@
       "passing_completions":      1,
       "passing_yards":{
        "propertyValue":"19",
-       "annotationID":       44
+       "annotationID":       82
       },
       "passing_rating":      158.3,
       "passing_touchdowns":      1,
@@ -2651,9 +2741,18 @@
       "punt_return_attempts":      0,
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
-      "defense_sacks":      2,
-      "defense_tackles":      5,
-      "defense_tackle_assists":      2,
+      "defense_sacks":{
+       "propertyValue":"2",
+       "annotationID":       83
+      },
+      "defense_tackles":{
+       "propertyValue":"5",
+       "annotationID":       85
+      },
+      "defense_tackle_assists":{
+       "propertyValue":"2",
+       "annotationID":       84
+      },
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
       "defense_interception_touchdowns":      0,
@@ -2693,7 +2792,7 @@
       "date":"2008-09-07",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       48
+       "annotationID":       89
       },
       "age":"24-313",
       "team":"BUF",
@@ -2704,30 +2803,30 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"19",
-       "annotationID":       45
+       "annotationID":       86
       },
       "passing_completions":{
        "propertyValue":"30",
-       "annotationID":       46
+       "annotationID":       87
       },
       "passing_yards":{
        "propertyValue":"215",
-       "annotationID":       47
+       "annotationID":       88
       },
       "passing_rating":      95.8,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       49
+       "annotationID":       90
       },
       "passing_interceptions":      0,
       "passing_sacks":{
        "propertyValue":"1",
-       "annotationID":       50
+       "annotationID":       91
       },
       "passing_sacks_yards_lost":      2,
       "rushing_attempts":{
        "propertyValue":"1",
-       "annotationID":       51
+       "annotationID":       92
       },
       "rushing_yards":      -1,
       "rushing_touchdowns":      0,
@@ -2852,7 +2951,7 @@
       "date":"2008-09-07",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       52
+       "annotationID":       99
       },
       "age":"32-348",
       "team":"SEA",
@@ -2863,26 +2962,29 @@
       "opponent_score":"34",
       "passing_attempts":{
        "propertyValue":"17",
-       "annotationID":       58
+       "annotationID":       102
       },
       "passing_completions":{
        "propertyValue":"41",
-       "annotationID":       56
+       "annotationID":       97
       },
       "passing_yards":{
        "propertyValue":"190",
-       "annotationID":       57
+       "annotationID":       98
       },
       "passing_rating":      53.9,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       53
+       "annotationID":       100
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       54
+       "annotationID":       101
       },
-      "passing_sacks":      5,
+      "passing_sacks":{
+       "propertyValue":"5",
+       "annotationID":       103
+      },
       "passing_sacks_yards_lost":      23,
       "rushing_attempts":      0,
       "rushing_yards":      0,
@@ -2924,7 +3026,7 @@
     "Name":"Dolphins",
     "Points":"14"
    },
-   "comments":" The Jets were a few yards away from losing this game because Eric Mangini wasn't smart enough to carry a guy who can kick an extra point in the event of a Mike Nugent injury. Well, Nugent got hurt in the second quarter when he missed a 32-yard chip shot. That forced the Jets to go for it on fourth down, which Brett Favre turned into a touchdown. Unfortunately, New York failed on its two-point conversion. If Chad Pennington could have scored a touchdown at the end of the contest, Miami would have won, 21-20.    The big news in this game was Brett Favre. Favre's arm strength was apparent in his 15-of-22 for 194 yards and two touchdown performance. However, he fumbled twice. That said, Favre's a huge upgrade over Chad Pennington, no matter what Laveranues Coles says. Coles caught one pass for five yards.    Speaking of Pennington, I have to laugh at everyone who took the Dolphins simply because Pennington knew the Jets' defense. Hey, you can teach a 12-year-old girl New York's offense, and she wouldn't be able to beat them. I mention a 12-year-old girl, not because I'm Chris Henry and I feel the need to give alcohol to her; I brought up a 12-year-old girl because Pennington throws like one. I'm kidding, of course. Fourteen would be more appropriate. Pennington finished 26-of-43 for 251 yards, two touchdowns and a pick. Not a poor performance by any means, but a ton of short throws, which would explain his average 5.8 YPA. Pennington began the game 1-of-6 for minus-one yards.    It should be noted that Pennington had two scrambles for first downs called back by a pair of Jake Long penalties (holding and tripping).    Ricky Williams and Ronnie Brown couldn't do anything against the Jets' defense. Williams collected 24 yards on 10 carries, and fumbled twice. Brown had six rushes for 23 yards.    I normally don't mention punters in my write-up, but Brandon Fields had a sterling 9-yarder, which would explain his 30.6 average.    If you need a tight end, the one guy you'll want to pick up is Anthony Fasano. The former Cowboy had eight receptions for 84 yards and a touchdown. Pennington prefers short stuff, so it looks like he's going to favor Fasano early and often. <div class=dfpAdSlots>   ",
+   "comments":" The Jets were a few yards away from losing this game because Eric Mangini wasn't smart enough to carry a guy who can kick an extra point in the event of a Mike Nugent injury. Well, Nugent got hurt in the second quarter when he missed a 32-yard chip shot. That forced the Jets to go for it on fourth down, which Brett Favre turned into a touchdown. Unfortunately, New York failed on its two-point conversion. If Chad Pennington could have scored a touchdown at the end of the contest, Miami would have won, 21-20.    The big news in this game was Brett Favre. Favre's arm strength was apparent in his 15-of-22 for 194 yards and 2 touchdown performance. However, he fumbled twice. That said, Favre's a huge upgrade over Chad Pennington, no matter what Laveranues Coles says. Coles caught 1 pass for 5 yards.    Speaking of Pennington, I have to laugh at everyone who took the Dolphins simply because Pennington knew the Jets' defense. Hey, you can teach a 12-year-old girl New York's offense, and she wouldn't be able to beat them. I mention a 12-year-old girl, not because I'm Chris Henry and I feel the need to give alcohol to her; I brought up a 12-year-old girl because Pennington throws like one. I'm kidding, of course. Fourteen would be more appropriate. Pennington finished 26-of-43 for 251 yards, 2 touchdowns and a pick. Not a poor performance by any means, but a ton of short throws, which would explain his average 5.8 YPA. Pennington began the game 1-of-6 for minus-one yards.    It should be noted that Pennington had 2 scrambles for first downs called back by a pair of Jake Long penalties (holding and tripping).    Ricky Williams and Ronnie Brown couldn't do anything against the Jets' defense. Williams collected 24 yards on 10 carries, and fumbled twice. Brown had 6 rushes for 23 yards.    I normally don't mention punters in my write-up, but Brandon Fields had a sterling 9-yarder, which would explain his 30.6 average.    If you need a tight end, the 1 guy you'll want to pick up is Anthony Fasano. The former Cowboy had 8 receptions for 84 yards and a touchdown. Pennington prefers short stuff, so it looks like he's going to favor Fasano early and often. <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -2970,10 +3072,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       104
+      },
       "receiving_yards":{
        "propertyValue":"84",
-       "annotationID":       59
+       "annotationID":       105
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -3100,13 +3205,16 @@
       "player_team_score":"14",
       "opponent_score":{
        "propertyValue":"20",
-       "annotationID":       60
+       "annotationID":       106
       },
       "passing_attempts":      26,
       "passing_completions":      43,
       "passing_yards":      251,
       "passing_rating":      82.6,
-      "passing_touchdowns":      2,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       107
+      },
       "passing_interceptions":      1,
       "passing_sacks":      4,
       "passing_sacks_yards_lost":      23,
@@ -3232,7 +3340,10 @@
       "player_id":      6873,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       108
+      },
       "age":"24-109",
       "team":"MIA",
       "game_location":"H",
@@ -3317,10 +3428,13 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      6,
+      "rushing_attempts":{
+       "propertyValue":"6",
+       "annotationID":       109
+      },
       "rushing_yards":{
        "propertyValue":"23",
-       "annotationID":       61
+       "annotationID":       110
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
@@ -3450,28 +3564,34 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"20",
-       "annotationID":       62
+       "annotationID":       111
       },
       "opponent_score":"14",
       "passing_attempts":{
        "propertyValue":"15",
-       "annotationID":       63
+       "annotationID":       112
       },
       "passing_completions":{
        "propertyValue":"22",
-       "annotationID":       64
+       "annotationID":       113
       },
       "passing_yards":{
        "propertyValue":"194",
-       "annotationID":       65
+       "annotationID":       114
       },
       "passing_rating":      125.9,
-      "passing_touchdowns":      2,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       115
+      },
       "passing_interceptions":      0,
       "passing_sacks":      3,
       "passing_sacks_yards_lost":      13,
       "rushing_attempts":      3,
-      "rushing_yards":      2,
+      "rushing_yards":{
+       "propertyValue":"2",
+       "annotationID":       116
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -3525,7 +3645,7 @@
       "date":"2008-09-07",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       67
+       "annotationID":       121
       },
       "age":"30-253",
       "team":"NYJ",
@@ -3548,11 +3668,11 @@
       "receiving_targets":      4,
       "receiving_receptions":{
        "propertyValue":"1",
-       "annotationID":       68
+       "annotationID":       122
       },
       "receiving_yards":{
        "propertyValue":"5",
-       "annotationID":       66
+       "annotationID":       120
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3588,7 +3708,7 @@
     "Name":"Chiefs",
     "Points":"10"
    },
-   "comments":" Excuse me while I pat myself on the back for my wild prediction that the Patriots wouldn't make the Doggone Playoff this year in 2002 St. Louis Rams fashion. Tom Brady had to leave the game with a knee injury and Randy Moss fumbled - both of which happened on the same play.    You may argue that the Patriots' slim 7-point victory was the result of Tom Brady getting hurt, and I'm not sure I can really argue that all that much, except for the fact that the game was scoreless when Brady had to leave with his knee injury. It looks like Brady is out with a torn ACL.    Besides, Matt Cassel played relatively well compared to how abysmal he looked in the preseason. Cassel went 13-of-18 for 152 yards and a score. Before Patriots fans are relieved that they have a capable backup, two things should be noted: 1) The Chiefs didn't gameplan for Cassel and didn't know what to expect. Not that Herm Edwards is capable of gameplanning for anything... 2) Cassel was playing the Chiefs, arguably the worst team in the NFL that happens to maintain a young, but awful defense.    While Tom Brady and Matt Cassel shared stats, the same could be said for Laurence Maroney and Sammy Morris to the chagrin of Maroney's fantasy owners. Both carried the ball 10 times, as Morris actually out-rushed Maroney, 53-51.    Randy Moss' stats didn't deteriorate with Matt Cassel in the game. He had six catches for 116 yards and a touchdown. Moss eclipsed 13,000 yards in this contest, as he passed Jimmy Smith for 13th of all time.    QUOTE OF THE GAME: If Brodie Croyle wasn't hurt, the Chiefs would have won this game. <i> - Puppy Puncher, WF.com Forum Member</i>. I never would have thought anyone would say the Chiefs winning was dependent on Croyle being in the game, but I guess that happens when Damon Huard is your backup. Croyle left the game with a shoulder injury. His YPA sucked (11-of-19 for 88 yards; 4.6 YPA) but he managed the game well and was victimized by some drops.   ",
+   "comments":" Excuse me while I pat myself on the back for my wild prediction that the Patriots wouldn't make the Doggone Playoff this year in 2002 St. Louis Rams fashion. Tom Brady had to leave the game with a knee injury and Randy Moss fumbled - both of which happened on the same play.    You may argue that the Patriots' slim 7-point victory was the result of Tom Brady getting hurt, and I'm not sure I can really argue that all that much, except for the fact that the game was scoreless when Brady had to leave with his knee injury. It looks like Brady is out with a torn ACL.    Besides, Matt Cassel played relatively well compared to how abysmal he looked in the preseason. Cassel went 13-of-18 for 152 yards and a score. Before Patriots fans are relieved that they have a capable backup, 2 things should be noted: 1) The Chiefs didn't gameplan for Cassel and didn't know what to expect. Not that Herm Edwards is capable of gameplanning for anything... 2) Cassel was playing the Chiefs, arguably the worst team in the NFL that happens to maintain a young, but awful defense.    While Tom Brady and Matt Cassel shared stats, the same could be said for Laurence Maroney and Sammy Morris to the chagrin of Maroney's fantasy owners. Both carried the ball 10 times, as Morris actually out-rushed Maroney, 53-51.    Randy Moss' stats didn't deteriorate with Matt Cassel in the game. He had 6 catches for 116 yards and a touchdown. Moss eclipsed 13,000 yards in this contest, as he passed Jimmy Smith for 13th of all time.    QUOTE OF THE GAME: If Brodie Croyle wasn't hurt, the Chiefs would have won this game. <i> - Puppy Puncher, WF.com Forum Member</i>. I never would have thought anyone would say the Chiefs winning was dependent on Croyle being in the game, but I guess that happens when Damon Huard is your backup. Croyle left the game with a shoulder injury. His YPA sucked (11-of-19 for 88 yards; 4.6 YPA) but he managed the game well and was victimized by some drops.   ",
    "players":[
     {
      "player information":{
@@ -3616,7 +3736,7 @@
       "date":"2008-09-07",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       70
+       "annotationID":       125
       },
       "age":"31-207",
       "team":"NWE",
@@ -3626,7 +3746,7 @@
       "player_team_score":"17",
       "opponent_score":{
        "propertyValue":"10",
-       "annotationID":       73
+       "annotationID":       128
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -3641,16 +3761,19 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"7",
-       "annotationID":       69
+       "annotationID":       123
       },
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       129
+      },
       "receiving_yards":{
        "propertyValue":"116",
-       "annotationID":       74
+       "annotationID":       130
       },
       "receiving_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       71
+       "annotationID":       126
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -3661,7 +3784,7 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"2",
-       "annotationID":       72
+       "annotationID":       127
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -3703,7 +3826,7 @@
       "date":"2008-09-07",
       "game_number":{
        "propertyValue":"1",
-       "annotationID":       79
+       "annotationID":       136
       },
       "age":"26-113",
       "team":"NWE",
@@ -3714,31 +3837,31 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"13",
-       "annotationID":       75
+       "annotationID":       131
       },
       "passing_completions":{
        "propertyValue":"18",
-       "annotationID":       77
+       "annotationID":       133
       },
       "passing_yards":{
        "propertyValue":"152",
-       "annotationID":       78
+       "annotationID":       134
       },
       "passing_rating":      116,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       80
+       "annotationID":       137
       },
       "passing_interceptions":      0,
       "passing_sacks":{
        "propertyValue":"2",
-       "annotationID":       81
+       "annotationID":       138
       },
       "passing_sacks_yards_lost":      16,
       "rushing_attempts":      4,
       "rushing_yards":{
        "propertyValue":"13",
-       "annotationID":       76
+       "annotationID":       132
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -3800,7 +3923,7 @@
       "player_team_score":"17",
       "opponent_score":{
        "propertyValue":"10",
-       "annotationID":       82
+       "annotationID":       139
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -3812,11 +3935,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"10",
-       "annotationID":       83
+       "annotationID":       140
       },
       "rushing_yards":{
        "propertyValue":"53",
-       "annotationID":       84
+       "annotationID":       141
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      5,
@@ -3879,7 +4002,7 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"7",
-       "annotationID":       85
+       "annotationID":       142
       },
       "passing_completions":      11,
       "passing_yards":      76,
@@ -4135,7 +4258,7 @@
     "Name":"Buccaneers",
     "Points":"20"
    },
-   "comments":" I have to wonder what Jon Gruden was thinking when he called 41 pass plays for the dead-armed Jeff Garcia, when his running game was averaging more than seven yards per carry. Garcia was 24-of-41 for 221 yards, one touchdown and a pick, good for a mediocre YPA of 5.4. Earnest Graham and Warrick Dunn, meanwhile, totaled a combined 145 yards on just 19 rushes.    While Tampa Bay's offensive play-calling was disappointing, its defensive performance was even worse. I thought the Buccaneers were supposed to have a solid stop unit. What happened when Drew Brees went 23-of-32 for 343 yards, three touchdowns and a pick? How about Pierre Thomas and Reggie Bush combining for 103 yards on 24 attempts? No sacks by Gaines Adams also hurt.    Marques Colston fantasy owners, send your hate mail to Reggie Bush. Bush led the game in receptions with eight for 112 yards and a touchdown. Colston collected just three catches for 26 yards.    Despite everything I just said, the Buccaneers still had a shot to win, as they traveled into Saints territory as time was winding down. Garcia just couldn't get the job done, throwing a pick to Scott Fujita. Tampa Bay fans have to be worried; all of Garcia's arm strength is gone, so if the team doesn't get a better performance from its defense, there is no way the team is making the postseason.   ",
+   "comments":" I have to wonder what Jon Gruden was thinking when he called 41 pass plays for the dead-armed Jeff Garcia, when his running game was averaging more than 7 yards per carry. Garcia was 24-of-41 for 221 yards, 1 touchdown and a pick, good for a mediocre YPA of 5.4. Earnest Graham and Warrick Dunn, meanwhile, totaled a combined 145 yards on just 19 rushes.    While Tampa Bay's offensive play-calling was disappointing, its defensive performance was even worse. I thought the Buccaneers were supposed to have a solid stop unit. What happened when Drew Brees went 23-of-32 for 343 yards, 3 touchdowns and a pick? How about Pierre Thomas and Reggie Bush combining for 103 yards on 24 attempts? No sacks by Gaines Adams also hurt.    Marques Colston fantasy owners, send your hate mail to Reggie Bush. Bush led the game in receptions with 8 for 112 yards and a touchdown. Colston collected just 3 catches for 26 yards.    Despite everything I just said, the Buccaneers still had a shot to win, as they traveled into Saints territory as time was winding down. Garcia just couldn't get the job done, throwing a pick to Scott Fujita. Tampa Bay fans have to be worried; all of Garcia's arm strength is gone, so if the team doesn't get a better performance from its defense, there is no way the team is making the postseason.   ",
    "players":[
     {
      "player information":{
@@ -4181,10 +4304,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       143
+      },
       "receiving_yards":{
        "propertyValue":"26",
-       "annotationID":       86
+       "annotationID":       144
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4440,7 +4566,10 @@
       "player_id":      7593,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       149
+      },
       "age":"38-196",
       "team":"TAM",
       "game_location":"A",
@@ -4449,27 +4578,39 @@
       "player_team_score":"20",
       "opponent_score":{
        "propertyValue":"24",
-       "annotationID":       87
+       "annotationID":       145
       },
       "passing_attempts":{
        "propertyValue":"24",
-       "annotationID":       88
+       "annotationID":       146
       },
       "passing_completions":{
        "propertyValue":"41",
-       "annotationID":       89
+       "annotationID":       147
       },
       "passing_yards":{
        "propertyValue":"221",
-       "annotationID":       90
+       "annotationID":       148
       },
       "passing_rating":      71.3,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       150
+      },
+      "passing_interceptions":{
+       "propertyValue":"1",
+       "annotationID":       151
+      },
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      15,
-      "rushing_attempts":      1,
-      "rushing_yards":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       152
+      },
+      "rushing_yards":{
+       "propertyValue":"1",
+       "annotationID":       153
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -4600,22 +4741,28 @@
       "opponent_score":"20",
       "passing_attempts":{
        "propertyValue":"23",
-       "annotationID":       91
+       "annotationID":       154
       },
       "passing_completions":{
        "propertyValue":"32",
-       "annotationID":       92
+       "annotationID":       155
       },
       "passing_yards":{
        "propertyValue":"343",
-       "annotationID":       93
+       "annotationID":       156
       },
       "passing_rating":      124.9,
-      "passing_touchdowns":      3,
+      "passing_touchdowns":{
+       "propertyValue":"3",
+       "annotationID":       157
+      },
       "passing_interceptions":      1,
       "passing_sacks":      1,
       "passing_sacks_yards_lost":      6,
-      "rushing_attempts":      3,
+      "rushing_attempts":{
+       "propertyValue":"3",
+       "annotationID":       158
+      },
       "rushing_yards":      -2,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -4745,7 +4892,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"24",
-       "annotationID":       94
+       "annotationID":       159
       },
       "opponent_score":"20",
       "passing_attempts":      0,
@@ -4760,10 +4907,13 @@
       "rushing_yards":      51,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       160
+      },
       "receiving_yards":{
        "propertyValue":"112",
-       "annotationID":       95
+       "annotationID":       161
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -4799,7 +4949,7 @@
     "Name":"Jaguars",
     "Points":"10"
    },
-   "comments":" What's up with the Jaguars always losing to the Titans on Kickoff Weekend? They lost last year as huge favorites, and they went down this year as well. The difference is, Jacksonville made a quarterback switch prior to last season's loss. There's no excuse this time. The Jaguars looked terrible in the preseason, and it has carried over to when it counts.    Though the Jaguars lost by just seven points, they couldn't seem to do anything right. David Garrard threw two picks and fumbled once. Fred Taylor and Maurice Jones-Drew looked like they were running in quicksand, as they totaled just 31 yards on 14 carries.    The defense was a problem as well; the Jaguars made Chris Johnson look like the second coming of Marshall Faulk. In his first NFL game, Johnson rushed for 93 yards and caught three passes for 34 more yards and a score. LenDale White received the same amount of carries as Johnson (15), but collected just 40 yards. Johnson's role in this offense will continue to grow. Meanwhile, when the Titans inserted a real quarterback into the lineup, they were able to move the chains through the air as well; Kerry Collins was 2-of-2 for 65 yards.    Of course, the fake quarterback I'm referring to is Vince Young, who was 12-of-22 for 110 yards, one touchdown and two interceptions before he left the game with a leg injury. Young also fumbled once. On the ground, he totaled just four yards. I know his receivers suck, but Kerry Collins was able to manage more than half the passing yardage Young had in 20 less throws. I'm being facetious here, as most of Collins' yardage came after the catch, but the fact remains that Young was once again struggling.    The one bright spot for the Jaguars was Matt Jones. Now free of coke and master of the playbook, Jones led the squad with six receptions and 80 yards.    The Jaguars were successful from fourth-and-one on their own 41 in their first quarter. Though the drive didn't go anywhere, I have to applaud Jack Del Rio's aggression. It makes me sick when ultra-conservative coaches like Herm Edwards and Eric Mangini don't take chances.    Derrick Harvey picked off the first pass of his career, but Vince Young threw it, so I'm not sure if it counts.   ",
+   "comments":" What's up with the Jaguars always losing to the Titans on Kickoff Weekend? They lost last year as huge favorites, and they went down this year as well. The difference is, Jacksonville made a quarterback switch prior to last season's loss. There's no excuse this time. The Jaguars looked terrible in the preseason, and it has carried over to when it counts.    Though the Jaguars lost by just 7 points, they couldn't seem to do anything right. David Garrard threw 2 picks and fumbled once. Fred Taylor and Maurice Jones-Drew looked like they were running in quicksand, as they totaled just 31 yards on 14 carries.    The defense was a problem as well; the Jaguars made Chris Johnson look like the second coming of Marshall Faulk. In his first NFL game, Johnson rushed for 93 yards and caught 3 passes for 34 more yards and a score. LenDale White received the same amount of carries as Johnson (15), but collected just 40 yards. Johnson's role in this offense will continue to grow. Meanwhile, when the Titans inserted a real quarterback into the lineup, they were able to move the chains through the air as well; Kerry Collins was 2-of-2 for 65 yards.    Of course, the fake quarterback I'm referring to is Vince Young, who was 12-of-22 for 110 yards, 1 touchdown and 2 interceptions before he left the game with a leg injury. Young also fumbled once. On the ground, he totaled just 4 yards. I know his receivers suck, but Kerry Collins was able to manage more than half the passing yardage Young had in 20 less throws. I'm being facetious here, as most of Collins' yardage came after the catch, but the fact remains that Young was once again struggling.    The 1 bright spot for the Jaguars was Matt Jones. Now free of coke and master of the playbook, Jones led the squad with 6 receptions and 80 yards.    The Jaguars were successful from fourth-and-one on their own 41 in their first quarter. Though the drive didn't go anywhere, I have to applaud Jack Del Rio's aggression. It makes me sick when ultra-conservative coaches like Herm Edwards and Eric Mangini don't take chances.    Derrick Harvey picked off the first pass of his career, but Vince Young threw it, so I'm not sure if it counts.   ",
    "players":[
     {
      "player information":{
@@ -4845,10 +4995,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       162
+      },
       "receiving_yards":{
        "propertyValue":"80",
-       "annotationID":       96
+       "annotationID":       163
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5054,14 +5207,17 @@
       "rushing_attempts":      15,
       "rushing_yards":{
        "propertyValue":"93",
-       "annotationID":       97
+       "annotationID":       164
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       165
+      },
       "receiving_yards":{
        "propertyValue":"34",
-       "annotationID":       98
+       "annotationID":       166
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -5128,11 +5284,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"15",
-       "annotationID":       99
+       "annotationID":       167
       },
       "rushing_yards":{
        "propertyValue":"40",
-       "annotationID":       100
+       "annotationID":       168
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      1,
@@ -5254,7 +5410,10 @@
       "player_id":      24924,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       178
+      },
       "age":"25-112",
       "team":"TEN",
       "game_location":"H",
@@ -5264,23 +5423,38 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"12",
-       "annotationID":       101
+       "annotationID":       169
       },
       "passing_completions":{
        "propertyValue":"22",
-       "annotationID":       102
+       "annotationID":       170
       },
       "passing_yards":{
        "propertyValue":"110",
-       "annotationID":       103
+       "annotationID":       171
       },
       "passing_rating":      45.6,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      2,
-      "passing_sacks":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       179
+      },
+      "passing_interceptions":{
+       "propertyValue":"2",
+       "annotationID":       176
+      },
+      "passing_sacks":{
+       "propertyValue":"1",
+       "annotationID":       180
+      },
       "passing_sacks_yards_lost":      3,
-      "rushing_attempts":      1,
-      "rushing_yards":      4,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       181
+      },
+      "rushing_yards":{
+       "propertyValue":"4",
+       "annotationID":       177
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -5332,7 +5506,10 @@
       "player_id":      4312,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       191
+      },
       "age":"35-252",
       "team":"TEN",
       "game_location":"H",
@@ -5342,22 +5519,25 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"2",
-       "annotationID":       106
+       "annotationID":       189
       },
       "passing_completions":{
        "propertyValue":"2",
-       "annotationID":       107
+       "annotationID":       190
       },
       "passing_yards":{
        "propertyValue":"65",
-       "annotationID":       108
+       "annotationID":       186
       },
       "passing_rating":      118.7,
       "passing_touchdowns":      0,
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       192
+      },
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -5423,11 +5603,17 @@
       "passing_yards":      215,
       "passing_rating":      68.2,
       "passing_touchdowns":      1,
-      "passing_interceptions":      2,
+      "passing_interceptions":{
+       "propertyValue":"2",
+       "annotationID":       193
+      },
       "passing_sacks":      7,
       "passing_sacks_yards_lost":      59,
       "rushing_attempts":      3,
-      "rushing_yards":      2,
+      "rushing_yards":{
+       "propertyValue":"2",
+       "annotationID":       194
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -5466,7 +5652,7 @@
     "Name":"Bengals",
     "Points":"10"
    },
-   "comments":" The Bengals just might be the worst team in the league. I know the Rams lost 38-3, and I'm aware the Lions surrendered 34 points to a rookie quarterback, but Cincinnati is so dysfunctional after everything went on this offseason. In fact, I wouldn't be surprised if Marvin Lewis just quits in the middle of the year. In fact, he should. I can't believe owner Mike Brown went behind his back and signed Chris Henry despite Lewis' wishes to keep the trouble-maker away from the team.    Cincinnati's defense was supposed to be the part of the team that sucked; not the offense. Yet, midway through the second quarter, the Bengals were averaging just 2.23 yards per play - and that excludes sacks! Then again, giving up 17 points to a rookie quarterback and first-year coach combination is pretty bad as well.    Joe Flacco didn't put up great numbers, but he managed the game well versus Cincinnati's pathetic stop unit. He was 15-of-29 for 129 yards. That's only a YPA of 4.5, but Flacco also had a 38-yard touchdown run.    No Willis McGahee, so LeRon McClain and Ray Rice split carries. McClain had 86 yards, while Rice managed 64 on 22 rushes.    Chris Perry received all but two carries for the Bengals, but totaled just 37 yards. If you're a Perry owner, don't worry; the Ravens had the top run defense in the NFL last season, per YPC numbers.    In a matchup between a veteran and a rookie quarterback, the former looked like the latter and vice-versa. Palmer was 10-of-25 for 99 yards and an interception. Baltimore's defense and a shoulder injury combined to shut down Chad Ocho Cinco, limiting him to one catch for 22 yards. It's either that, or Palmer hasn't followed the news and didn't recognize who that Ocho Cinco guy was.    Leave it to the Bengals to use a timeout on a fourth-and-one in the second half, only to turn the ball over on downs. Good job preserving those timeouts, Marvin. Guess you could have used one when the Ravens were running out the clock, huh?   ",
+   "comments":" The Bengals just might be the worst team in the league. I know the Rams lost 38-3, and I'm aware the Lions surrendered 34 points to a rookie quarterback, but Cincinnati is so dysfunctional after everything went on this offseason. In fact, I wouldn't be surprised if Marvin Lewis just quits in the middle of the year. In fact, he should. I can't believe owner Mike Brown went behind his back and signed Chris Henry despite Lewis' wishes to keep the trouble-maker away from the team.    Cincinnati's defense was supposed to be the part of the team that sucked; not the offense. Yet, midway through the second quarter, the Bengals were averaging just 2.23 yards per play - and that excludes sacks! Then again, giving up 17 points to a rookie quarterback and first-year coach combination is pretty bad as well.    Joe Flacco didn't put up great numbers, but he managed the game well versus Cincinnati's pathetic stop unit. He was 15-of-29 for 129 yards. That's only a YPA of 4.5, but Flacco also had a 38-yard touchdown run.    No Willis McGahee, so LeRon McClain and Ray Rice split carries. McClain had 86 yards, while Rice managed 64 on 22 rushes.    Chris Perry received all but 2 carries for the Bengals, but totaled just 37 yards. If you're a Perry owner, don't worry; the Ravens had the top run defense in the NFL last season, per YPC numbers.    In a matchup between a veteran and a rookie quarterback, the former looked like the latter and vice-versa. Palmer was 10-of-25 for 99 yards and an interception. Baltimore's defense and a shoulder injury combined to shut down Chad Ocho Cinco, limiting him to 1 catch for 22 yards. It's either that, or Palmer hasn't followed the news and didn't recognize who that Ocho Cinco guy was.    Leave it to the Bengals to use a timeout on a fourth-and-one in the second half, only to turn the ball over on downs. Good job preserving those timeouts, Marvin. Guess you could have used 1 when the Ravens were running out the clock, huh?   ",
    "players":[
     {
      "player information":{
@@ -5571,15 +5757,15 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"15",
-       "annotationID":       109
+       "annotationID":       195
       },
       "passing_completions":{
        "propertyValue":"29",
-       "annotationID":       110
+       "annotationID":       196
       },
       "passing_yards":{
        "propertyValue":"129",
-       "annotationID":       111
+       "annotationID":       197
       },
       "passing_rating":      63.7,
       "passing_touchdowns":      0,
@@ -5588,7 +5774,7 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"4",
-       "annotationID":       112
+       "annotationID":       198
       },
       "rushing_yards":      37,
       "rushing_touchdowns":      1,
@@ -5660,11 +5846,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"22",
-       "annotationID":       114
+       "annotationID":       200
       },
       "rushing_yards":{
        "propertyValue":"64",
-       "annotationID":       113
+       "annotationID":       199
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
@@ -5717,7 +5903,10 @@
       "player_id":      17404,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       204
+      },
       "age":"26-255",
       "team":"CIN",
       "game_location":"A",
@@ -5725,7 +5914,7 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"10",
-       "annotationID":       115
+       "annotationID":       201
       },
       "opponent_score":"17",
       "passing_attempts":      0,
@@ -5739,7 +5928,10 @@
       "rushing_attempts":      19,
       "rushing_yards":      42,
       "rushing_touchdowns":      0,
-      "receiving_targets":      1,
+      "receiving_targets":{
+       "propertyValue":"1",
+       "annotationID":       205
+      },
       "receiving_receptions":      0,
       "receiving_yards":      0,
       "receiving_touchdowns":      0,
@@ -5776,7 +5968,7 @@
     "Name":"Chargers",
     "Points":"24"
    },
-   "comments":" So much for everyone who picked the Chargers in their survivor pools. Jake Delhomme took a high snap and found Dante Rosario in the back of the end zone as time expired, propelling the Panthers to victory as 9.5-point underdogs. Delhomme looked solid coming off Tommy John surgery, going 23-of-41 for 247 yards and a touchdown.    Philip Rivers, coming off a worse injury (ACL) than Jake Delhomme, also put up solid numbers. He was 17-of-27 for 217 yards and three scores, including a 44-yard bomb to Chris Chambers.    Keeping with the theme, Antonio Gates, off foot surgery, led the Chargers with four receptions for 61 yards and a touchdown.    So, can we go 4-for-4? Would Shawne Merriman also have a solid performance despite playing with a shredded knee? As you can tell by Carolina's offensive output, not at all. Merriman rotated in and out of the lineup, and manged only one tackle. The Chargers couldn't contain the Panthers, much like they struggled to stop the Charlie Frye-led Seahawks in the preseason. Hey, I have the Broncos winning the division, so even though San Diego lost, the team performed better than I expected them to, given that Rivers and Gates looked sharp.    As for Carolina's skill players, DeAngelo Williams had more carries (18) than Jonathan Stewart (10). Williams managed 86 yards, while Stewart had 53. It appears as though neither will be a top fantasy option unless there's an injury involved. At wideout, Muhsin Muhammad caught six balls for 56 yards. D.J. Hackett had five receptions for 48 yards. Meanwhile, tight end Dante Rosario collected seven catches for 96 yards and a touchdown. Rosario's production will decrease when Steve Smith returns, but this is exactly why you don't have to draft a tight end until really late unless you can get one of the top guys; tight ends emerge all the time.   ",
+   "comments":" So much for everyone who picked the Chargers in their survivor pools. Jake Delhomme took a high snap and found Dante Rosario in the back of the end zone as time expired, propelling the Panthers to victory as 9.5-point underdogs. Delhomme looked solid coming off Tommy John surgery, going 23-of-41 for 247 yards and a touchdown.    Philip Rivers, coming off a worse injury (ACL) than Jake Delhomme, also put up solid numbers. He was 17-of-27 for 217 yards and 3 scores, including a 44-yard bomb to Chris Chambers.    Keeping with the theme, Antonio Gates, off foot surgery, led the Chargers with 4 receptions for 61 yards and a touchdown.    So, can we go 4-for-4? Would Shawne Merriman also have a solid performance despite playing with a shredded knee? As you can tell by Carolina's offensive output, not at all. Merriman rotated in and out of the lineup, and manged only 1 tackle. The Chargers couldn't contain the Panthers, much like they struggled to stop the Charlie Frye-led Seahawks in the preseason. Hey, I have the Broncos winning the division, so even though San Diego lost, the team performed better than I expected them to, given that Rivers and Gates looked sharp.    As for Carolina's skill players, DeAngelo Williams had more carries (18) than Jonathan Stewart (10). Williams managed 86 yards, while Stewart had 53. It appears as though neither will be a top fantasy option unless there's an injury involved. At wideout, Muhsin Muhammad caught 6 balls for 56 yards. D.J. Hackett had 5 receptions for 48 yards. Meanwhile, tight end Dante Rosario collected 7 catches for 96 yards and a touchdown. Rosario's production will decrease when Steve Smith returns, but this is exactly why you don't have to draft a tight end until really late unless you can get 1 of the top guys; tight ends emerge all the time.   ",
    "players":[
     {
      "player information":{
@@ -5802,7 +5994,10 @@
       "player_id":      20785,
       "year":"2008",
       "date":"2008-09-04",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       206
+      },
       "age":"23-121",
       "team":"NYG",
       "game_location":"H",
@@ -5832,7 +6027,10 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      1,
+      "defense_tackles":{
+       "propertyValue":"1",
+       "annotationID":       207
+      },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -5889,11 +6087,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"10",
-       "annotationID":       116
+       "annotationID":       208
       },
       "rushing_yards":{
        "propertyValue":"53",
-       "annotationID":       117
+       "annotationID":       209
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -5956,15 +6154,15 @@
       "opponent_score":"24",
       "passing_attempts":{
        "propertyValue":"23",
-       "annotationID":       118
+       "annotationID":       210
       },
       "passing_completions":{
        "propertyValue":"41",
-       "annotationID":       119
+       "annotationID":       211
       },
       "passing_yards":{
        "propertyValue":"247",
-       "annotationID":       120
+       "annotationID":       212
       },
       "passing_rating":      82.1,
       "passing_touchdowns":      1,
@@ -6044,10 +6242,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      15,
-      "receiving_receptions":      6,
+      "receiving_receptions":{
+       "propertyValue":"6",
+       "annotationID":       213
+      },
       "receiving_yards":{
        "propertyValue":"56",
-       "annotationID":       121
+       "annotationID":       214
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6175,18 +6376,21 @@
       "opponent_score":"26",
       "passing_attempts":{
        "propertyValue":"17",
-       "annotationID":       122
+       "annotationID":       215
       },
       "passing_completions":{
        "propertyValue":"27",
-       "annotationID":       123
+       "annotationID":       216
       },
       "passing_yards":{
        "propertyValue":"217",
-       "annotationID":       124
+       "annotationID":       217
       },
       "passing_rating":      125.1,
-      "passing_touchdowns":      3,
+      "passing_touchdowns":{
+       "propertyValue":"3",
+       "annotationID":       218
+      },
       "passing_interceptions":      0,
       "passing_sacks":      1,
       "passing_sacks_yards_lost":      6,
@@ -6263,10 +6467,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       219
+      },
       "receiving_yards":{
        "propertyValue":"48",
-       "annotationID":       125
+       "annotationID":       220
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6337,11 +6544,11 @@
       "receiving_targets":      6,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       128
+       "annotationID":       224
       },
       "receiving_yards":{
        "propertyValue":"61",
-       "annotationID":       126
+       "annotationID":       222
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -6408,7 +6615,7 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"18",
-       "annotationID":       129
+       "annotationID":       225
       },
       "rushing_yards":      86,
       "rushing_touchdowns":      0,
@@ -6462,7 +6669,10 @@
       "player_id":      19077,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       226
+      },
       "age":"23-318",
       "team":"CAR",
       "game_location":"A",
@@ -6482,12 +6692,18 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
-      "receiving_receptions":      7,
+      "receiving_receptions":{
+       "propertyValue":"7",
+       "annotationID":       228
+      },
       "receiving_yards":{
        "propertyValue":"96",
-       "annotationID":       130
+       "annotationID":       229
       },
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       227
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -6534,7 +6750,10 @@
       "player_id":      15146,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       230
+      },
       "age":"24-105",
       "team":"SDG",
       "game_location":"H",
@@ -6564,8 +6783,14 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      1,
-      "defense_tackle_assists":      1,
+      "defense_tackles":{
+       "propertyValue":"1",
+       "annotationID":       231
+      },
+      "defense_tackle_assists":{
+       "propertyValue":"1",
+       "annotationID":       232
+      },
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
       "defense_interception_touchdowns":      0,
@@ -6590,7 +6815,7 @@
     "Name":"49ers",
     "Points":"13"
    },
-   "comments":" Mike Martz's offense looks great. The 49ers went three-and-out on their first drive. Their second possession concluded in a fumble. In total, San Francisco had five turnovers. J.T. O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice. He was sacked four times.    San Francisco's top two receivers, Isaac Bruce and Josh Morgan, didn't record a single reception. Frank Gore led the team with four receptions for 55 yards. Vernon Davis and Bryant Johnson registeredthree catches each.    The only bright spot for Mike Martz's offense was that Frank Gore rushed for 96 yards and a touchdown. However, he received just 14 carries in typical Martz style.    The man who used to play for Mike Martz wasn't spectacular, but was efficient enough to win on the road, which is something the Cardinals couldn't do last year. Kurt Warner went 19-of-30 for 197 yards and a touchdown. Anquan Boldin caught eight of those passes for 82 yards. Larry Fitzgerald notched three receptions for 31 yards and a score.    Edgerrin James ran for 100 yards on 26 carries, which is less than 4 YPC. Making matters worse, Tim Hightower stole a goal-line carry. Don't expect much from James when he goes against legitimate football teams. <div class=dfpAdSlots>   ",
+   "comments":" Mike Martz's offense looks great. The 49ers went three-and-out on their first drive. Their second possession concluded in a fumble. In total, San Francisco had 5 turnovers. J.T. O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice. He was sacked 4 times.    San Francisco's top 2 receivers, Isaac Bruce and Josh Morgan, didn't record a single reception. Frank Gore led the team with 4 receptions for 55 yards. Vernon Davis and Bryant Johnson registeredthree catches each.    The only bright spot for Mike Martz's offense was that Frank Gore rushed for 96 yards and a touchdown. However, he received just 14 carries in typical Martz style.    The man who used to play for Mike Martz wasn't spectacular, but was efficient enough to win on the road, which is something the Cardinals couldn't do last year. Kurt Warner went 19-of-30 for 197 yards and a touchdown. Anquan Boldin caught 8 of those passes for 82 yards. Larry Fitzgerald notched 3 receptions for 31 yards and a score.    Edgerrin James ran for 100 yards on 26 carries, which is less than 4 YPC. Making matters worse, Tim Hightower stole a goal-line carry. Don't expect much from James when he goes against legitimate football teams. <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -6703,11 +6928,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"26",
-       "annotationID":       132
+       "annotationID":       234
       },
       "rushing_yards":{
        "propertyValue":"100",
-       "annotationID":       131
+       "annotationID":       233
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -6778,18 +7003,24 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"14",
-       "annotationID":       135
+       "annotationID":       239
       },
       "rushing_yards":{
        "propertyValue":"96",
-       "annotationID":       134
+       "annotationID":       238
       },
       "rushing_touchdowns":      1,
-      "receiving_targets":      4,
-      "receiving_receptions":      4,
+      "receiving_targets":{
+       "propertyValue":"4",
+       "annotationID":       235
+      },
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       236
+      },
       "receiving_yards":{
        "propertyValue":"55",
-       "annotationID":       133
+       "annotationID":       237
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6996,10 +7227,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      11,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       240
+      },
       "receiving_yards":{
        "propertyValue":"82",
-       "annotationID":       136
+       "annotationID":       241
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7058,22 +7292,28 @@
       "opponent_score":"23",
       "passing_attempts":{
        "propertyValue":"14",
-       "annotationID":       137
+       "annotationID":       242
       },
       "passing_completions":{
        "propertyValue":"20",
-       "annotationID":       138
+       "annotationID":       243
       },
       "passing_yards":{
        "propertyValue":"195",
-       "annotationID":       139
+       "annotationID":       244
       },
       "passing_rating":      80.2,
       "passing_touchdowns":      0,
       "passing_interceptions":      1,
-      "passing_sacks":      4,
+      "passing_sacks":{
+       "propertyValue":"4",
+       "annotationID":       245
+      },
       "passing_sacks_yards_lost":      12,
-      "rushing_attempts":      2,
+      "rushing_attempts":{
+       "propertyValue":"2",
+       "annotationID":       246
+      },
       "rushing_yards":      1,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -7274,15 +7514,15 @@
       "opponent_score":"13",
       "passing_attempts":{
        "propertyValue":"19",
-       "annotationID":       140
+       "annotationID":       247
       },
       "passing_completions":{
        "propertyValue":"30",
-       "annotationID":       141
+       "annotationID":       248
       },
       "passing_yards":{
        "propertyValue":"197",
-       "annotationID":       142
+       "annotationID":       249
       },
       "passing_rating":      93.3,
       "passing_touchdowns":      1,
@@ -7362,10 +7602,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
-      "receiving_receptions":      3,
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       250
+      },
       "receiving_yards":{
        "propertyValue":"31",
-       "annotationID":       143
+       "annotationID":       251
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -7401,7 +7644,7 @@
     "Name":"Browns",
     "Points":"10"
    },
-   "comments":" Turns out how well (or poorly) you play in the preseason really translates to how you fare in Week 1. The Browns couldn't win a game in the exhibition campaign and Derek Anderson looked awful, so it should be no surprise that Cleveland lost by 18 to Dallas in its home opener. Anderson went 11-of-24 for 114 yards and a touchdown. To be fair, he was victimized by a few drops.    Three of those drops were Braylon Edwards' fault. Edwards caught just two passes for 14 yards. Kellen Winslow was Anderson's only productive target; the tight end registered five receptions for 47 yards and a touchdown.    Jamal Lewis gained close to five yards per carry. The problem was he rushed the ball only 13 times. The Browns were behind so much Lewis never had a chance to carry the rock.    The worst aspect of Cleveland's 28-10 loss was the fact that the team couldn't put any pressure on Tony Romo. And when I say couldn't put any pressure, I mean absolutely no pressure. On multiple occasions, Romo stood still in the pocket for at least eight seconds as he was scanning the field. Dallas' offensive line is great, but it was heavily publicized, especially on this Web site, that the Browns simply did not do enough this offseason to improve their pass rush.    Speaking of Tony Romo, he finished 24-of-32, 320 yards, one touchdown and an interception. On one of the rare instances where the Browns pressured Romo, the Cowboys' quarterback hit the turf and scratched up his chin. This may not affect your fantasy team, but it will greatly improve Romo's chances of getting laid tonight, as Jessica Simpson will undoubtedly feel sorry for her man.    The NFL's getting ridiculous. After Terrell Owens scored a touchdown (his 130th, tying Cris Carter for second all-time) in the first half, he kneeled down in a sprinter's stance, which looked like an homage to the Olympics. One of the officials consequently whistled Owens for an unsportsmanlike penalty. The NFL really stands for No Fun League. Let the damn players be creative with their celebrations, just as long as they're not showing the other team up.    One of the most curious decisions in this contest was a Romeo Crennel attempted field goal when his team was down 28-7 with 10 minutes remaining in the fourth quarter. While this was clearly the wrong decision, I can't fault Crennel for guaranteeing that this game wouldn't go into overtime. The man was clearly hungry and he had a box of Chips Ahoy cookies waiting for him in his office. An overtime would have just delayed Crennel's snack.    On his first carry alone, Tashard Choice eclipsed ESPN's projection of his 2008 stats in the .   ",
+   "comments":" Turns out how well (or poorly) you play in the preseason really translates to how you fare in Week 1. The Browns couldn't win a game in the exhibition campaign and Derek Anderson looked awful, so it should be no surprise that Cleveland lost by 18 to Dallas in its home opener. Anderson went 11-of-24 for 114 yards and a touchdown. To be fair, he was victimized by a few drops.    Three of those drops were Braylon Edwards' fault. Edwards caught just 2 passes for 14 yards. Kellen Winslow was Anderson's only productive target; the tight end registered 5 receptions for 47 yards and a touchdown.    Jamal Lewis gained close to 5 yards per carry. The problem was he rushed the ball only 13 times. The Browns were behind so much Lewis never had a chance to carry the rock.    The worst aspect of Cleveland's 28-10 loss was the fact that the team couldn't put any pressure on Tony Romo. And when I say couldn't put any pressure, I mean absolutely no pressure. On multiple occasions, Romo stood still in the pocket for at least 8 seconds as he was scanning the field. Dallas' offensive line is great, but it was heavily publicized, especially on this Web site, that the Browns simply did not do enough this offseason to improve their pass rush.    Speaking of Tony Romo, he finished 24-of-32, 320 yards, 1 touchdown and an interception. On 1 of the rare instances where the Browns pressured Romo, the Cowboys' quarterback hit the turf and scratched up his chin. This may not affect your fantasy team, but it will greatly improve Romo's chances of getting laid tonight, as Jessica Simpson will undoubtedly feel sorry for her man.    The NFL's getting ridiculous. After Terrell Owens scored a touchdown (his 130th, tying Cris Carter for second all-time) in the first half, he kneeled down in a sprinter's stance, which looked like an homage to the Olympics. One of the officials consequently whistled Owens for an unsportsmanlike penalty. The NFL really stands for No Fun League. Let the damn players be creative with their celebrations, just as long as they're not showing the other team up.    One of the most curious decisions in this contest was a Romeo Crennel attempted field goal when his team was down 28-7 with 10 minutes remaining in the fourth quarter. While this was clearly the wrong decision, I can't fault Crennel for guaranteeing that this game wouldn't go into overtime. The man was clearly hungry and he had a box of Chips Ahoy cookies waiting for him in his office. An overtime would have just delayed Crennel's snack.    On his first carry alone, Tashard Choice eclipsed ESPN's projection of his 2008 stats in the .   ",
    "players":[
     {
      "player information":{
@@ -7447,10 +7690,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      2,
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       252
+      },
       "receiving_yards":{
        "propertyValue":"14",
-       "annotationID":       144
+       "annotationID":       253
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7507,11 +7753,11 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"28",
-       "annotationID":       145
+       "annotationID":       254
       },
       "opponent_score":{
        "propertyValue":"10",
-       "annotationID":       146
+       "annotationID":       255
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -7574,7 +7820,10 @@
       "player_id":      19060,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       263
+      },
       "age":"28-139",
       "team":"DAL",
       "game_location":"A",
@@ -7584,22 +7833,31 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"24",
-       "annotationID":       147
+       "annotationID":       256
       },
       "passing_completions":{
        "propertyValue":"32",
-       "annotationID":       148
+       "annotationID":       257
       },
       "passing_yards":{
        "propertyValue":"320",
-       "annotationID":       149
+       "annotationID":       258
       },
       "passing_rating":      103.6,
-      "passing_touchdowns":      1,
-      "passing_interceptions":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       264
+      },
+      "passing_interceptions":{
+       "propertyValue":"1",
+       "annotationID":       265
+      },
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       266
+      },
       "rushing_yards":      -1,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -7662,15 +7920,15 @@
       "opponent_score":"28",
       "passing_attempts":{
        "propertyValue":"11",
-       "annotationID":       150
+       "annotationID":       267
       },
       "passing_completions":{
        "propertyValue":"24",
-       "annotationID":       151
+       "annotationID":       268
       },
       "passing_yards":{
        "propertyValue":"114",
-       "annotationID":       153
+       "annotationID":       270
       },
       "passing_rating":      74,
       "passing_touchdowns":      1,
@@ -7680,7 +7938,7 @@
       "rushing_attempts":      4,
       "rushing_yards":{
        "propertyValue":"24",
-       "annotationID":       152
+       "annotationID":       269
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -7753,10 +8011,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
-      "receiving_receptions":      5,
+      "receiving_receptions":{
+       "propertyValue":"5",
+       "annotationID":       271
+      },
       "receiving_yards":{
        "propertyValue":"47",
-       "annotationID":       154
+       "annotationID":       272
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -7813,11 +8074,11 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"10",
-       "annotationID":       157
+       "annotationID":       275
       },
       "opponent_score":{
        "propertyValue":"28",
-       "annotationID":       156
+       "annotationID":       274
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -7829,7 +8090,7 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"13",
-       "annotationID":       155
+       "annotationID":       273
       },
       "rushing_yards":      62,
       "rushing_touchdowns":      0,
@@ -7883,7 +8144,7 @@
       "player_id":      3862,
       "year":{
        "propertyValue":"2008",
-       "annotationID":       158
+       "annotationID":       276
       },
       "date":"2008-09-07",
       "game_number":"1",
@@ -7942,7 +8203,7 @@
     "Name":"Colts",
     "Points":"13"
    },
-   "comments":" This game proved that anyone who says the preseason doesn't mean anything is a complete fool. Peyton Manning didn't play in the preseason and consequently was rusty, as he went 30-of-49, 257 yards and one touchdown, giving him a pedestrian YPA of 5.2, which is abysmal by his standards. Earlier in the day, Matt Hasselbeck and Derek Anderson, both of whom were idle for most of the preseason, performed poorly. The exhibition needs to be at least three games long - if not longer.    If Manning's struggles weren't bad enough, Joseph Addai left the game early with a head injury. He had just 44 yards on 12 carries.    Even worse, Indianapolis' defense couldn't stop the run. In his first NFL game, Matt Forte totaled 123 yards and a score on 23 carries. Kevin Jones chipped in with 45 yards on 13 rushes.    The only bright spot for the Colts is that Marvin Harrison looks healthy. The veteran receiver caught eight balls for 76 yards. Reggie Wayne notched 10 receptions for 86 yards and a touchdown.   ",
+   "comments":" This game proved that anyone who says the preseason doesn't mean anything is a complete fool. Peyton Manning didn't play in the preseason and consequently was rusty, as he went 30-of-49, 257 yards and 1 touchdown, giving him a pedestrian YPA of 5.2, which is abysmal by his standards. Earlier in the day, Matt Hasselbeck and Derek Anderson, both of whom were idle for most of the preseason, performed poorly. The exhibition needs to be at least 3 games long - if not longer.    If Manning's struggles weren't bad enough, Joseph Addai left the game early with a head injury. He had just 44 yards on 12 carries.    Even worse, Indianapolis' defense couldn't stop the run. In his first NFL game, Matt Forte totaled 123 yards and a score on 23 carries. Kevin Jones chipped in with 45 yards on 13 rushes.    The only bright spot for the Colts is that Marvin Harrison looks healthy. The veteran receiver caught 8 balls for 76 yards. Reggie Wayne notched 10 receptions for 86 yards and a touchdown.   ",
    "players":[
     {
      "player information":{
@@ -7988,10 +8249,13 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      11,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       277
+      },
       "receiving_yards":{
        "propertyValue":"76",
-       "annotationID":       159
+       "annotationID":       278
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8127,11 +8391,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"23",
-       "annotationID":       161
+       "annotationID":       280
       },
       "rushing_yards":{
        "propertyValue":"123",
-       "annotationID":       160
+       "annotationID":       279
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      3,
@@ -8202,11 +8466,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"12",
-       "annotationID":       163
+       "annotationID":       282
       },
       "rushing_yards":{
        "propertyValue":"44",
-       "annotationID":       162
+       "annotationID":       281
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -8268,7 +8532,7 @@
       "player_team_score":"29",
       "opponent_score":{
        "propertyValue":"13",
-       "annotationID":       165
+       "annotationID":       284
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -8280,11 +8544,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"13",
-       "annotationID":       166
+       "annotationID":       285
       },
       "rushing_yards":{
        "propertyValue":"45",
-       "annotationID":       164
+       "annotationID":       283
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -8359,11 +8623,11 @@
       "receiving_targets":      17,
       "receiving_receptions":{
        "propertyValue":"10",
-       "annotationID":       167
+       "annotationID":       286
       },
       "receiving_yards":{
        "propertyValue":"86",
-       "annotationID":       168
+       "annotationID":       287
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -8412,7 +8676,10 @@
       "player_id":      13985,
       "year":"2008",
       "date":"2008-09-07",
-      "game_number":"1",
+      "game_number":{
+       "propertyValue":"1",
+       "annotationID":       291
+      },
       "age":"32-167",
       "team":"IND",
       "game_location":"H",
@@ -8422,22 +8689,25 @@
       "opponent_score":"29",
       "passing_attempts":{
        "propertyValue":"30",
-       "annotationID":       169
+       "annotationID":       288
       },
       "passing_completions":{
        "propertyValue":"49",
-       "annotationID":       170
+       "annotationID":       289
       },
       "passing_yards":{
        "propertyValue":"257",
-       "annotationID":       171
+       "annotationID":       290
       },
       "passing_rating":      81.8,
-      "passing_touchdowns":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       292
+      },
       "passing_interceptions":      0,
       "passing_sacks":{
        "propertyValue":"2",
-       "annotationID":       172
+       "annotationID":       293
       },
       "passing_sacks_yards_lost":      17,
       "rushing_attempts":      0,
