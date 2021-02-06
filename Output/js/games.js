@@ -153,6 +153,8 @@ function showPlayerData(element, gameNumber) {
                                         output = output.replaceAll("," + number + ")", ',<strong style="color:red">' + number + "</strong>)");
                                         output = output.replaceAll("," + number + " ", ',<strong style="color:red">' + number + " </strong>");
                                         output = output.replaceAll("-" + number + ".", '-<strong style="color:red">' + number + "</strong>.");
+                                        output = output.replaceAll(" " + number + "!", ' <strong style="color:red">' + number + "</strong>!");
+                                        output = output.replaceAll("-" + number + "!", '-<strong style="color:red">' + number + "</strong>!");
 
                                     }
 
