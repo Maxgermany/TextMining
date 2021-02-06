@@ -12,7 +12,7 @@
     "Name":"Jaguars",
     "Points":"13"
    },
-   "comments":" Blaine Gabbert just had no chance. Or at least he didn't appear to, for a while. The Jaguars, stricken with the NFL's worst passing offense, were going against the Steelers and their league-leading aerial defense. Gabbert was 6-of-14 for 33 yards in the opening half. He was sacked 3 times in the first 20 minutes alone (five times overall). The Jaguars as a whole mustered a pathetic 68 total yards prior to intermission. The Steelers? Just 315 total yards in the same span.    It's a miracle the Jaguars were down just 2 scores prior to the break. It could have been much, much worse. Ben Roethlisberger missed a wide-open Antonio Brown for a touchdown. Later, he overshot a streaking Emmanuel Sanders, who had the chance to haul in a long score. Following halftime, it just looked like Pittsburgh was sleepwalking. Gabbert was mired in a 2-of-12 for 1-yard stretch (seriously), so I guess the Steelers just assumed they were going to win easily. Give Jacksonville credit for coming back, but this contest was much more lopsided than the final score indicates.    Gabbert finished 12-of-26 for 109 yards and an 18-yard touchdown to Jason Hill in the third quarter in which the rookie quarterback actually looked shocked that he was able to complete the pass. Considering the defense he was going up against and his lacking receivers, the performance wasn't all that bad.    The Jaguars were able to run the ball well, rushing for 96 yards on 22 carries. The Steelers have had major issues stopping the rush this year.    Speaking of the running game, Rashard Mendenhall trampled Jacksonville's defense for 146 yards and a score on 23 carries. He actually looked like a competent back for the first time all year.    As for Ben Roethlisberger, he went 12-of-23 for 200 yards and a touchdown. As mentioned earlier, Big Ben missed on many opportunities. His stat line should have been much better.    Troy Polamalu suffered a head injury in the fourth quarter. His absence didn't impact Jacksonville's comeback, as he exited the contest when the score was 17-10. He's reportedly OK.   ",
+   "comments":" Blaine Gabbert just had no chance. Or at least he didn't appear to, for a while. The Jaguars, stricken with the NFL's worst passing offense, were going against the Steelers and their league-leading aerial defense. Gabbert was 6-of-14 for 33 yards in the opening half. He was sacked 3 times in the first 20 minutes alone (5 times overall). The Jaguars as a whole mustered a pathetic 68 total yards prior to intermission. The Steelers? Just 315 total yards in the same span.    It's a miracle the Jaguars were down just 2 scores prior to the break. It could have been much, much worse. Ben Roethlisberger missed a wide-open Antonio Brown for a touchdown. Later, he overshot a streaking Emmanuel Sanders, who had the chance to haul in a long score. Following halftime, it just looked like Pittsburgh was sleepwalking. Gabbert was mired in a 2-of-12 for 1-yard stretch (seriously), so I guess the Steelers just assumed they were going to win easily. Give Jacksonville credit for coming back, but this contest was much more lopsided than the final score indicates.    Gabbert finished 12-of-26 for 109 yards and an 18-yard touchdown to Jason Hill in the third quarter in which the rookie quarterback actually looked shocked that he was able to complete the pass. Considering the defense he was going up against and his lacking receivers, the performance wasn't all that bad.    The Jaguars were able to run the ball well, rushing for 96 yards on 22 carries. The Steelers have had major issues stopping the rush this year.    Speaking of the running game, Rashard Mendenhall trampled Jacksonville's defense for 146 yards and a score on 23 carries. He actually looked like a competent back for the first time all year.    As for Ben Roethlisberger, he went 12-of-23 for 200 yards and a touchdown. As mentioned earlier, Big Ben missed on many opportunities. His stat line should have been much better.    Troy Polamalu suffered a head injury in the 4.h quarter. His absence didn't impact Jacksonville's comeback, as he exited the contest when the score was 17-10. He's reportedly OK.   ",
    "players":[
     {
      "player information":{
@@ -60,7 +60,7 @@
       "receiving_targets":      4,
       "receiving_receptions":{
        "propertyValue":"1",
-       "annotationID":       16810
+       "annotationID":       17208
       },
       "receiving_yards":      32,
       "receiving_touchdowns":      0,
@@ -112,7 +112,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16811
+       "annotationID":       17209
       },
       "age":"22-001",
       "team":"JAX",
@@ -127,14 +127,17 @@
       "passing_rating":      70.8,
       "passing_touchdowns":      1,
       "passing_interceptions":      0,
-      "passing_sacks":      5,
+      "passing_sacks":{
+       "propertyValue":"5",
+       "annotationID":       17212
+      },
       "passing_sacks_yards_lost":{
        "propertyValue":"33",
-       "annotationID":       16812
+       "annotationID":       17210
       },
       "rushing_attempts":{
        "propertyValue":"3",
-       "annotationID":       16813
+       "annotationID":       17211
       },
       "rushing_yards":      16,
       "rushing_touchdowns":      0,
@@ -275,11 +278,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"23",
-       "annotationID":       16816
+       "annotationID":       17215
       },
       "rushing_yards":{
        "propertyValue":"146",
-       "annotationID":       16814
+       "annotationID":       17213
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      0,
@@ -342,20 +345,20 @@
       "opponent_score":"13",
       "passing_attempts":{
        "propertyValue":"12",
-       "annotationID":       16821
+       "annotationID":       17220
       },
       "passing_completions":{
        "propertyValue":"23",
-       "annotationID":       16822
+       "annotationID":       17221
       },
       "passing_yards":{
        "propertyValue":"200",
-       "annotationID":       16823
+       "annotationID":       17222
       },
       "passing_rating":      96.3,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       16818
+       "annotationID":       17217
       },
       "passing_interceptions":      0,
       "passing_sacks":      3,
@@ -421,7 +424,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"17",
-       "annotationID":       16824
+       "annotationID":       17224
       },
       "opponent_score":"13",
       "passing_attempts":      0,
@@ -446,7 +449,10 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      4,
+      "defense_tackles":{
+       "propertyValue":"4",
+       "annotationID":       17223
+      },
       "defense_tackle_assists":      1,
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -541,7 +547,7 @@
     "Name":"Redskins",
     "Points":"13"
    },
-   "comments":" It almost seemed as though the Eagles were meant to win this game. Everything went their way. They had all the luck with the bounces, and they were bailed out by the refs when they needed it. It also didn't hurt that Rex Grossman played like he was drunk until he was benched in favor of John Beck. Philadelphia caught many breaks. Here are some examples: - There was a bogus roughing-the-passer penalty called on QB Dog Killer on what could have been a safety in the first quarter. The official said the hit was helmet-to-helmet, but QBDK was trying to scramble around and that actually forced the ugly-looking hit. It definitely didn't deserve any sort of yellow flag, though I'm sure Tom Jackson would vehemently disagree. Fortunately for the Eagles, they were awarded a free first down and subsequently scored a touchdown. - QBDK threw a pass behind Brent Celek. The struggling tight end somehow tipped the ball up in the air. It bounced twice off his hands, and then he somehow caught it with a defender inches away from making the pick himself. - The Redskins dropped a potential touchdown in the fourth quarter. - A tipped throw from QBDK sailed right into Jeremy Maclin's lap in the red zone. Like I said, all of the bounces magically went the Eagles' way. The Curse of the Killed Dogs did not play a factor in Week 6.    Of course, Grossman didn't help. He tossed 2 picks in the first half, 1 of which was a dumb throw into double coverage. The second pick was underthrown. He was also responsible for Chris Cooley's broken finger when he laid out his hobbled tight end, who was fiercely hit by Nnamdi Asomugha. Grossman's worst turnover came in the middle of the third quarter. Vince Young lobbed a pick to give the Redskins a red zone opportunity, but Grossman returned the favor by heaving an interception toward Fred Davis. Much-maligned safety Kurt Coleman easily picked it off. The fourth pick, which ultimately led to Grossman's benching, was a pass thrown late across his body, which was also intercepted by Coleman. Grossman finished 9-of-22 for 143 yards and the quartet of picks. Beck was much better in relief, going 8-of-15 for 117 yards and a rushing touchdown. The BYU alumnus definitely needs to start next week. Grossman has gotten worse every single week this year.    It was really surprising that the Redskins weren't able to run the ball against the Eagles. Ryan Torain rushed 10 times for just 22 yards. Tim Hightower didn't play because of a shoulder injury.    As mentioned earlier, QBDK (18-31, 237 yards, TD, INT; 7 carries, 54 rush yards) had many things go his way. One thing that didn't was a head injury in the third quarter. He had to leave the game, and Vince Young was in on 2 plays. QBDK came back on the next drive, however.    LeSean McCoy rushed for 126 yards and a touchdown on 28 attempts. He was fortunate to get the score because it seemed like Dion Lewis found the end zone on a previous attempt. Lewis was ruled down at the half-inch line after a review, giving McCoy an easy plunge.   ",
+   "comments":" It almost seemed as though the Eagles were meant to win this game. Everything went their way. They had all the luck with the bounces, and they were bailed out by the refs when they needed it. It also didn't hurt that Rex Grossman played like he was drunk until he was benched in favor of John Beck. Philadelphia caught many breaks. Here are some examples: - There was a bogus roughing-the-passer penalty called on QB Dog Killer on what could have been a safety in the first quarter. The official said the hit was helmet-to-helmet, but QBDK was trying to scramble around and that actually forced the ugly-looking hit. It definitely didn't deserve any sort of yellow flag, though I'm sure Tom Jackson would vehemently disagree. Fortunately for the Eagles, they were awarded a free first down and subsequently scored a touchdown. - QBDK threw a pass behind Brent Celek. The struggling tight end somehow tipped the ball up in the air. It bounced twice off his hands, and then he somehow caught it with a defender inches away from making the pick himself. - The Redskins dropped a potential touchdown in the 4.h quarter. - A tipped throw from QBDK sailed right into Jeremy Maclin's lap in the red zone. Like I said, all of the bounces magically went the Eagles' way. The Curse of the Killed Dogs did not play a factor in Week 6.    Of course, Grossman didn't help. He tossed 2 picks in the first half, 1 of which was a dumb throw into double coverage. The second pick was underthrown. He was also responsible for Chris Cooley's broken finger when he laid out his hobbled tight end, who was fiercely hit by Nnamdi Asomugha. Grossman's worst turnover came in the middle of the third quarter. Vince Young lobbed a pick to give the Redskins a red zone opportunity, but Grossman returned the favor by heaving an interception toward Fred Davis. Much-maligned safety Kurt Coleman easily picked it off. The 4.h pick, which ultimately led to Grossman's benching, was a pass thrown late across his body, which was also intercepted by Coleman. Grossman finished 9-of-22 for 143 yards and the quartet of picks. Beck was much better in relief, going 8-of-15 for 117 yards and a rushing touchdown. The BYU alumnus definitely needs to start next week. Grossman has gotten worse every single week this year.    It was really surprising that the Redskins weren't able to run the ball against the Eagles. Ryan Torain rushed 10 times for just 22 yards. Tim Hightower didn't play because of a shoulder injury.    As mentioned earlier, QBDK (18-31, 237 yards, TD, INT; 7 carries, 54 rush yards) had many things go his way. One thing that didn't was a head injury in the third quarter. He had to leave the game, and Vince Young was in on 2 plays. QBDK came back on the next drive, however.    LeSean McCoy rushed for 126 yards and a touchdown on 28 attempts. He was fortunate to get the score because it seemed like Dion Lewis found the end zone on a previous attempt. Lewis was ruled down at the half-inch line after a review, giving McCoy an easy plunge.   ",
    "players":[
     {
      "player information":{
@@ -585,11 +591,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"10",
-       "annotationID":       16825
+       "annotationID":       17225
       },
       "rushing_yards":{
        "propertyValue":"22",
-       "annotationID":       16826
+       "annotationID":       17226
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -1005,11 +1011,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"28",
-       "annotationID":       16828
+       "annotationID":       17228
       },
       "rushing_yards":{
        "propertyValue":"126",
-       "annotationID":       16827
+       "annotationID":       17227
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      4,
@@ -1081,7 +1087,7 @@
       "rushing_attempts":      1,
       "rushing_yards":{
        "propertyValue":"2",
-       "annotationID":       16829
+       "annotationID":       17229
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -1223,7 +1229,10 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
-      "receiving_receptions":      4,
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       17230
+      },
       "receiving_yards":      42,
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -1343,7 +1352,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16830
+       "annotationID":       17231
       },
       "age":"23-158",
       "team":"PHI",
@@ -1376,7 +1385,7 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"1",
-       "annotationID":       16831
+       "annotationID":       17232
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -1403,7 +1412,7 @@
     "Name":"Lions",
     "Points":"19"
    },
-   "comments":" Enduring this long, drawn-out battle of supposed NFC heavyweights, bored me to tears. Warning: This review might do the same to you. Looking at the final box, the first stat jumping off the page is third-down conversions. Each team struggled mightily in that department, which killed the flow of the game, leading to a ton of punts (17) and even more commercial breaks. They combined to convert just 4-of-29 third-down attempts. Head coach Jim Schwartz, more on him later, said to the television cameras after the opening coin toss that, They (San Francisco) don't want to go out there right away with this crowd. He was discussing his opposing coach, Jim Harbaugh, deciding to defer to the second half and kick the ball off to Detroit. Sure enough, on early possessions, the visitors could not get out of their own way with penalty after penalty including several false starts. The early momentum at Ford Field led to a first-quarter advantage. The first big play was Kyle Vanden Bosch straight up robbing quarterback Alex Smith of the football. It was called a sack, but Smith was standing the whole time. Immediately, another Smith was having trouble for the 49ers. Rookie pass rusher Aldon Smith, who would have some positive plays later on to be fair, had consecutive penalties for 20 yards. The Lions could not take advantage in the red zone and took a field goal. Two drives later, they marched for the touchdown with Stafford targeting tight end Brandon Pettigrew 4 times, hitting him for 3 completions including the score for a 10-0 lead. Other than a missed 52-yard field goal by Jason Hanson after driving 58 yards, the Lions did nothing in the second quarter. At halftime, I commented on Twitter that the 49ers only made 3 plays during the first half, which were: a long run by Frank Gore (141 yards on just 15 carries) a safety when Stafford couldn't get the ball out of his hands and a booming field goal by David Akers from 55 yards out at the halftime gun. Whatever works, right? Those key plays helped them take the lead 12-10. After a quick San Francisco punt opened the second half, Detroit drove for a field goal on a march fueled by consecutive passes to Jahvid Best (6 receptions for 73 yards) covering 53 yards. Those big gains were wasted when Stafford threw 3 straight incompletions going to Nate Burleson, Pettigrew and rookie Titus Young from the 6-yard line. He knows Calvin Johnson (6 receptions for 102 yards) is on his team right? The kick gave them a 13-12 lead. The 49ers answered immediately with another long run from Gore covering 55 yards plus an extra 15 on a questionable horse-collar personal foul. This time, the Lions stood up in the red zone, forcing a pair of incompletions, though an Akers field goal put the visitors back ahead 15-13. Johnson started the next drive with a 23-yard reception, but after getting another first down by penalty, the threat was over. Eventually, I figured Smith would throw an interception even though he entered the game with just 1 on the season. An exchange of punts later, I was right. It looked like the 16-0 dream would continue for Detroit when they took over at the San Francisco 49-yard line just before the end of the third quarter. They took small gains to march down for the touchdown, then failed at math by trying for 2 points after taking a 19-15 lead with a Stafford-to-Burleson touchdown pass. Were they worried about a pair of field goals tying them? The pass to Megatron failed. Four punts later San Francisco had the ball on the Detroit 35 after a great punt return covering 40 yards from Ted Ginn Jr., who already won a game earlier this year against Seattle or at least clinched it. Runs alternated between Kendall Hunter (8 carries for 33 yards) and Gore on the next 5 plays before the game was put on the arm of Smith. 49er fans would usually expect Smith to choke in this spot, from the 10-yard line with 2:15 to play needing a touchdown facing second-and-goal. He passed left to Crabtree, missed his next throw under pressure and, with the game on the line, got the ball to tight end Delanie Walker on fourth down. Walker did the rest, barely stretching for the end zone and a 22-19 lead. At this point, I fully expected Stafford to find a groove with 1:51 to play and San Francisco playing soft. Instead, he followed a short 5-yard pass to Pettigrew with incompletions intended for Young, Pettigrew and Burleson to turn the ball over on downs. Notice none of those went to Johnson, who was doubled up. Does that really matter though given his physical ability? San Francisco ran Gore 3 times for 6 yards forcing Detroit to run through their timeouts. Another Akers field goal made it 25-19. Still, Stafford would pull something out right? Wrong, he was sacked by Justin Smith and Ray McDonald, who had a great game, to start a mess of a final drive when given 1:02 to scramble for a comeback. Maurice Morris, who tried to give them a power-running game (5 carries for 20 yards) they sorely lacked, caught a pass for 7 yards. Then an incompletion to Young and a far-too-late completion to Johnson on the final play brought this 1 to a merciful end. The aftermath was far more exciting. Harbaugh was overly exuberant as he strutted over to shake Schwartz's hand. He gave him an obnoxiously hard handshake and patted, some might say shoved, him on the back. Schwartz took exception and kind of ran after him as almost everyone reading this has probably seen. There were way too many people on the field for anything to happen, but it was an interesting moment. Schwartz knows all about big celebrations with his punching motion deal he does, so I am not sure why he was so offended by Harbaugh's excitement. This was a big road win by the 49ers, who controlled this game with their defense. Rookie Mikel LeShoure might have given Detroit more of a running threat, but once Calvin Johnson was prevented from taking over the game, the Lions struggled to move the ball. It didn't even matter that Smith was 17-for-32 passing for just 125 yards. The 49ers also lost the turnover battle 2-0 and committed 15 penalties for 120 yards. Getting the ball twice on turnovers and picking up better than a football field in penalty yardage should be enough to win a game at home. <div class=dfpAdSlots>   ",
+   "comments":" Enduring this long, drawn-out battle of supposed NFC heavyweights, bored me to tears. Warning: This review might do the same to you. Looking at the final box, the first stat jumping off the page is third-down conversions. Each team struggled mightily in that department, which killed the flow of the game, leading to a ton of punts (17) and even more commercial breaks. They combined to convert just 4-of-29 third-down attempts. Head coach Jim Schwartz, more on him later, said to the television cameras after the opening coin toss that, They (San Francisco) don't want to go out there right away with this crowd. He was discussing his opposing coach, Jim Harbaugh, deciding to defer to the second half and kick the ball off to Detroit. Sure enough, on early possessions, the visitors could not get out of their own way with penalty after penalty including several false starts. The early momentum at Ford Field led to a first-quarter advantage. The first big play was Kyle Vanden Bosch straight up robbing quarterback Alex Smith of the football. It was called a sack, but Smith was standing the whole time. Immediately, another Smith was having trouble for the 49ers. Rookie pass rusher Aldon Smith, who would have some positive plays later on to be fair, had consecutive penalties for 20 yards. The Lions could not take advantage in the red zone and took a field goal. Two drives later, they marched for the touchdown with Stafford targeting tight end Brandon Pettigrew 4 times, hitting him for 3 completions including the score for a 10-0 lead. Other than a missed 52-yard field goal by Jason Hanson after driving 58 yards, the Lions did nothing in the second quarter. At halftime, I commented on Twitter that the 49ers only made 3 plays during the first half, which were: a long run by Frank Gore (141 yards on just 15 carries) a safety when Stafford couldn't get the ball out of his hands and a booming field goal by David Akers from 55 yards out at the halftime gun. Whatever works, right? Those key plays helped them take the lead 12-10. After a quick San Francisco punt opened the second half, Detroit drove for a field goal on a march fueled by consecutive passes to Jahvid Best (6 receptions for 73 yards) covering 53 yards. Those big gains were wasted when Stafford threw 3 straight incompletions going to Nate Burleson, Pettigrew and rookie Titus Young from the 6-yard line. He knows Calvin Johnson (6 receptions for 102 yards) is on his team right? The kick gave them a 13-12 lead. The 49ers answered immediately with another long run from Gore covering 55 yards plus an extra 15 on a questionable horse-collar personal foul. This time, the Lions stood up in the red zone, forcing a pair of incompletions, though an Akers field goal put the visitors back ahead 15-13. Johnson started the next drive with a 23-yard reception, but after getting another first down by penalty, the threat was over. Eventually, I figured Smith would throw an interception even though he entered the game with just 1 on the season. An exchange of punts later, I was right. It looked like the 16-0 dream would continue for Detroit when they took over at the San Francisco 49-yard line just before the end of the third quarter. They took small gains to march down for the touchdown, then failed at math by trying for 2 points after taking a 19-15 lead with a Stafford-to-Burleson touchdown pass. Were they worried about a pair of field goals tying them? The pass to Megatron failed. Four punts later San Francisco had the ball on the Detroit 35 after a great punt return covering 40 yards from Ted Ginn Jr., who already won a game earlier this year against Seattle or at least clinched it. Runs alternated between Kendall Hunter (8 carries for 33 yards) and Gore on the next 5 plays before the game was put on the arm of Smith. 49er fans would usually expect Smith to choke in this spot, from the 10-yard line with 2:15 to play needing a touchdown facing second-and-goal. He passed left to Crabtree, missed his next throw under pressure and, with the game on the line, got the ball to tight end Delanie Walker on 4.h down. Walker did the rest, barely stretching for the end zone and a 22-19 lead. At this point, I fully expected Stafford to find a groove with 1:51 to play and San Francisco playing soft. Instead, he followed a short 5-yard pass to Pettigrew with incompletions intended for Young, Pettigrew and Burleson to turn the ball over on downs. Notice none of those went to Johnson, who was doubled up. Does that really matter though given his physical ability? San Francisco ran Gore 3 times for 6 yards forcing Detroit to run through their timeouts. Another Akers field goal made it 25-19. Still, Stafford would pull something out right? Wrong, he was sacked by Justin Smith and Ray McDonald, who had a great game, to start a mess of a final drive when given 1:02 to scramble for a comeback. Maurice Morris, who tried to give them a power-running game (5 carries for 20 yards) they sorely lacked, caught a pass for 7 yards. Then an incompletion to Young and a far-too-late completion to Johnson on the final play brought this 1 to a merciful end. The aftermath was far more exciting. Harbaugh was overly exuberant as he strutted over to shake Schwartz's hand. He gave him an obnoxiously hard handshake and patted, some might say shoved, him on the back. Schwartz took exception and kind of ran after him as almost everyone reading this has probably seen. There were way too many people on the field for anything to happen, but it was an interesting moment. Schwartz knows all about big celebrations with his punching motion deal he does, so I am not sure why he was so offended by Harbaugh's excitement. This was a big road win by the 49ers, who controlled this game with their defense. Rookie Mikel LeShoure might have given Detroit more of a running threat, but once Calvin Johnson was prevented from taking over the game, the Lions struggled to move the ball. It didn't even matter that Smith was 17-for-32 passing for just 125 yards. The 49ers also lost the turnover battle 2-0 and committed 15 penalties for 120 yards. Getting the ball twice on turnovers and picking up better than a football field in penalty yardage should be enough to win a game at home. <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -1447,11 +1456,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"8",
-       "annotationID":       16832
+       "annotationID":       17233
       },
       "rushing_yards":{
        "propertyValue":"33",
-       "annotationID":       16833
+       "annotationID":       17234
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -1591,11 +1600,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"15",
-       "annotationID":       16835
+       "annotationID":       17236
       },
       "rushing_yards":{
        "propertyValue":"141",
-       "annotationID":       16834
+       "annotationID":       17235
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      5,
@@ -1650,7 +1659,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16840
+       "annotationID":       17241
       },
       "age":"27-065",
       "team":"SFO",
@@ -1659,11 +1668,11 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"25",
-       "annotationID":       16841
+       "annotationID":       17242
       },
       "opponent_score":{
        "propertyValue":"19",
-       "annotationID":       16842
+       "annotationID":       17243
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -1678,13 +1687,13 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"3",
-       "annotationID":       16839
+       "annotationID":       17240
       },
       "receiving_receptions":      2,
       "receiving_yards":      11,
       "receiving_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       16837
+       "annotationID":       17238
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -1695,7 +1704,7 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"1",
-       "annotationID":       16838
+       "annotationID":       17239
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -1767,11 +1776,11 @@
       "defense_sacks":      0.5,
       "defense_tackles":{
        "propertyValue":"1",
-       "annotationID":       16843
+       "annotationID":       17244
       },
       "defense_tackle_assists":{
        "propertyValue":"1",
-       "annotationID":       16844
+       "annotationID":       17245
       },
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -1812,7 +1821,7 @@
       "date":"2011-10-10",
       "game_number":{
        "propertyValue":"5",
-       "annotationID":       16856
+       "annotationID":       17257
       },
       "age":"26-015",
       "team":"DET",
@@ -1822,7 +1831,7 @@
       "player_team_score":"24",
       "opponent_score":{
        "propertyValue":"13",
-       "annotationID":       16847
+       "annotationID":       17248
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -1837,16 +1846,16 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"6",
-       "annotationID":       16854
+       "annotationID":       17255
       },
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       16857
+       "annotationID":       17258
       },
       "receiving_yards":      130,
       "receiving_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       16858
+       "annotationID":       17259
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -1896,7 +1905,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16862
+       "annotationID":       17263
       },
       "age":"26-021",
       "team":"DET",
@@ -1905,11 +1914,11 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"19",
-       "annotationID":       16864
+       "annotationID":       17265
       },
       "opponent_score":{
        "propertyValue":"25",
-       "annotationID":       16863
+       "annotationID":       17264
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -1925,7 +1934,7 @@
       "receiving_targets":      9,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       16865
+       "annotationID":       17266
       },
       "receiving_yards":      113,
       "receiving_touchdowns":      0,
@@ -1997,7 +2006,7 @@
       "receiving_targets":      5,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       16866
+       "annotationID":       17267
       },
       "receiving_yards":      39,
       "receiving_touchdowns":      1,
@@ -2187,7 +2196,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16867
+       "annotationID":       17268
       },
       "age":"22-056",
       "team":"DET",
@@ -2209,7 +2218,7 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"6",
-       "annotationID":       16868
+       "annotationID":       17269
       },
       "receiving_receptions":      1,
       "receiving_yards":      14,
@@ -2469,7 +2478,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16869
+       "annotationID":       17270
       },
       "age":"22-259",
       "team":"DET",
@@ -2492,11 +2501,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       16870
+       "annotationID":       17271
       },
       "receiving_yards":{
        "propertyValue":"73",
-       "annotationID":       16871
+       "annotationID":       17272
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2583,11 +2592,11 @@
       "defense_safeties":      0,
       "point_after_attemps":{
        "propertyValue":"3",
-       "annotationID":       16872
+       "annotationID":       17273
       },
       "point_after_makes":{
        "propertyValue":"3",
-       "annotationID":       16873
+       "annotationID":       17274
       },
       "field_goal_attempts":      1,
       "field_goal_makes":      1,
@@ -2660,7 +2669,7 @@
       "point_after_makes":      1,
       "field_goal_attempts":{
        "propertyValue":"3",
-       "annotationID":       16874
+       "annotationID":       17275
       },
       "field_goal_makes":      2,
       "punting_attempts":      0,
@@ -2901,7 +2910,7 @@
       "date":"2011-10-10",
       "game_number":{
        "propertyValue":"5",
-       "annotationID":       16875
+       "annotationID":       17276
       },
       "age":"31-313",
       "team":"DET",
@@ -2923,11 +2932,11 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"1",
-       "annotationID":       16876
+       "annotationID":       17277
       },
       "receiving_receptions":{
        "propertyValue":"1",
-       "annotationID":       16877
+       "annotationID":       17278
       },
       "receiving_yards":      8,
       "receiving_touchdowns":      0,
@@ -2995,20 +3004,20 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"5",
-       "annotationID":       16878
+       "annotationID":       17279
       },
       "rushing_yards":{
        "propertyValue":"20",
-       "annotationID":       16879
+       "annotationID":       17280
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"1",
-       "annotationID":       16880
+       "annotationID":       17281
       },
       "receiving_receptions":{
        "propertyValue":"1",
-       "annotationID":       16881
+       "annotationID":       17282
       },
       "receiving_yards":      8,
       "receiving_touchdowns":      0,
@@ -3365,15 +3374,15 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"27",
-       "annotationID":       16884
+       "annotationID":       17285
       },
       "rushing_yards":{
        "propertyValue":"139",
-       "annotationID":       16882
+       "annotationID":       17283
       },
       "rushing_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       16883
+       "annotationID":       17284
       },
       "receiving_targets":      3,
       "receiving_receptions":      1,
@@ -3435,15 +3444,15 @@
       "opponent_score":"17",
       "passing_attempts":{
        "propertyValue":"14",
-       "annotationID":       16885
+       "annotationID":       17286
       },
       "passing_completions":{
        "propertyValue":"22",
-       "annotationID":       16886
+       "annotationID":       17287
       },
       "passing_yards":{
        "propertyValue":"163",
-       "annotationID":       16887
+       "annotationID":       17288
       },
       "passing_rating":      101.1,
       "passing_touchdowns":      1,
@@ -3453,7 +3462,7 @@
       "rushing_attempts":      3,
       "rushing_yards":{
        "propertyValue":"7",
-       "annotationID":       16888
+       "annotationID":       17289
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      0,
@@ -3593,11 +3602,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"7",
-       "annotationID":       16889
+       "annotationID":       17290
       },
       "rushing_yards":{
        "propertyValue":"48",
-       "annotationID":       16890
+       "annotationID":       17291
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      3,
@@ -3721,7 +3730,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16891
+       "annotationID":       17292
       },
       "age":"23-130",
       "team":"ATL",
@@ -3809,11 +3818,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"12",
-       "annotationID":       16892
+       "annotationID":       17293
       },
       "rushing_yards":{
        "propertyValue":"44",
-       "annotationID":       16893
+       "annotationID":       17294
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
@@ -3991,7 +4000,7 @@
     "Name":"Colts",
     "Points":"17"
    },
-   "comments":" I'm so glad I didn't bet on this game because I would be unbelievably pissed right now if I put money on the Colts. I'm still amazed the Bengals covered this contest. The Colts, who moved the chains pretty effectively in the fourth quarter, had the ball, down three, with 2:36 remaining in regulation. Pierre Garcon caught a 5-yard pass from Curtis Painter. He was tackled, and for some unknown reason, tried to lateral to a teammate. His plan didn't work, however, as Carlos Dunlap scooped up the ball for the Bengals and ran it back for a touchdown. Cincinnati covered because of that score. It was bizarre. There was no reason for Garcon to do this. Had he just gone down, it would have been a 2nd-and-5 at his own 38 with about 2:10 remaining. Garcon just had a brain fart, and it cost Indianapolis bettors.    That play ruined a solid game for Garcon, who caught 8 balls for 52 yards. Reggie Wayne (5-58) and Dallas Clark (6-53, TD) had more yardage, though the latter hurt his team with a fumble on the opening drive. On the bright side, Clark redeemed himself with an impressive, one-handed touchdown in the fourth quarter.    Considering that he had no ground attack to speak of (Delone Carter had 45 yards on 14 carries), Curtis Painter played pretty decently. He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.    When the schedule was released, and especially after Carson Palmer announced that he had $80 million in the bank, who in their right mind thought the Bengals would have the quarterback edge in this game? Andy Dalton, who struggled in this very matchup during the preseason, lit up Indianapolis' secondary and led Cincinnati to victory. Dalton went 25-of-32 for 264 yards and a score. He looked terrific, hooking up often with Jerome Simpson (6-101) and A.J. Green (5-51, TD). <div class=dfpAdSlots>   ",
+   "comments":" I'm so glad I didn't bet on this game because I would be unbelievably pissed right now if I put money on the Colts. I'm still amazed the Bengals covered this contest. The Colts, who moved the chains pretty effectively in the 4.h quarter, had the ball, down 3. with 2:36 remaining in regulation. Pierre Garcon caught a 5-yard pass from Curtis Painter. He was tackled, and for some unknown reason, tried to lateral to a teammate. His plan didn't work, however, as Carlos Dunlap scooped up the ball for the Bengals and ran it back for a touchdown. Cincinnati covered because of that score. It was bizarre. There was no reason for Garcon to do this. Had he just gone down, it would have been a 2nd-and-5 at his own 38 with about 2:10 remaining. Garcon just had a brain fart, and it cost Indianapolis bettors.    That play ruined a solid game for Garcon, who caught 8 balls for 52 yards. Reggie Wayne (5-58) and Dallas Clark (6-53, TD) had more yardage, though the latter hurt his team with a fumble on the opening drive. On the bright side, Clark redeemed himself with an impressive, 1.handed touchdown in the 4.h quarter.    Considering that he had no ground attack to speak of (Delone Carter had 45 yards on 14 carries), Curtis Painter played pretty decently. He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.    When the schedule was released, and especially after Carson Palmer announced that he had $80 million in the bank, who in their right mind thought the Bengals would have the quarterback edge in this game? Andy Dalton, who struggled in this very matchup during the preseason, lit up Indianapolis' secondary and led Cincinnati to victory. Dalton went 25-of-32 for 264 yards and a score. He looked terrific, hooking up often with Jerome Simpson (6-101) and A.J. Green (5-51, TD). <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -4027,15 +4036,15 @@
       "opponent_score":"17",
       "passing_attempts":{
        "propertyValue":"25",
-       "annotationID":       16894
+       "annotationID":       17295
       },
       "passing_completions":{
        "propertyValue":"32",
-       "annotationID":       16895
+       "annotationID":       17296
       },
       "passing_yards":{
        "propertyValue":"264",
-       "annotationID":       16896
+       "annotationID":       17297
       },
       "passing_rating":      111.5,
       "passing_touchdowns":      1,
@@ -4113,16 +4122,16 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"14",
-       "annotationID":       16898
+       "annotationID":       17299
       },
       "rushing_yards":{
        "propertyValue":"45",
-       "annotationID":       16897
+       "annotationID":       17298
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"1",
-       "annotationID":       16899
+       "annotationID":       17300
       },
       "receiving_receptions":      0,
       "receiving_yards":      0,
@@ -4175,7 +4184,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16900
+       "annotationID":       17301
       },
       "age":"26-114",
       "team":"IND",
@@ -4186,34 +4195,37 @@
       "opponent_score":"27",
       "passing_attempts":{
        "propertyValue":"23",
-       "annotationID":       16902
+       "annotationID":       17307
       },
       "passing_completions":{
        "propertyValue":"34",
-       "annotationID":       16903
+       "annotationID":       17308
       },
       "passing_yards":{
        "propertyValue":"188",
-       "annotationID":       16904
+       "annotationID":       17309
       },
       "passing_rating":      79,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       16905
+       "annotationID":       17310
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       16906
+       "annotationID":       17311
       },
       "passing_sacks":{
        "propertyValue":"1",
-       "annotationID":       16907
+       "annotationID":       17312
       },
       "passing_sacks_yards_lost":      9,
-      "rushing_attempts":      4,
+      "rushing_attempts":{
+       "propertyValue":"4",
+       "annotationID":       17305
+      },
       "rushing_yards":{
        "propertyValue":"14",
-       "annotationID":       16901
+       "annotationID":       17306
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -4337,7 +4349,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16908
+       "annotationID":       17313
       },
       "age":"32-126",
       "team":"IND",
@@ -4360,13 +4372,16 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       16909
+       "annotationID":       17314
       },
       "receiving_yards":{
        "propertyValue":"53",
-       "annotationID":       16910
+       "annotationID":       17315
       },
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       17316
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -4415,7 +4430,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16911
+       "annotationID":       17317
       },
       "age":"25-254",
       "team":"CIN",
@@ -4438,11 +4453,11 @@
       "receiving_targets":      9,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       16912
+       "annotationID":       17318
       },
       "receiving_yards":{
        "propertyValue":"101",
-       "annotationID":       16913
+       "annotationID":       17319
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4513,11 +4528,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       16914
+       "annotationID":       17320
       },
       "receiving_yards":{
        "propertyValue":"51",
-       "annotationID":       16915
+       "annotationID":       17321
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -4588,11 +4603,11 @@
       "receiving_targets":      6,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       16916
+       "annotationID":       17322
       },
       "receiving_yards":{
        "propertyValue":"58",
-       "annotationID":       16917
+       "annotationID":       17323
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4697,7 +4712,7 @@
     "Name":"Bills",
     "Points":"24"
    },
-   "comments":" New York put together its first touchdown drive midway through the first quarter. On it, Giants quarterback Eli Manning threw accurate passes down the field to move the ball. The line gave him time, and he hit good gains to Ahmad Bradshaw, Mario Manningham and Jake Ballard. Bradshaw finished the drive with a 1-yard touchdown run. The Bills answered immediately with running back Fred Jackson breaking off an 80-yard touchdown run. He got excellent blocks from center Eric Wood and guard Kent Urbik to open up a lane. Jackson veered and slashed across the field to prevent being caught from behind for a career-long touchdown run. Buffalo took the lead with a 60-yard touchdown strike from quarterback Ryan Fitzpatrick to wide receiver Naaman Roosevelt. It was a short pass to him in zone coverage, and the second-year wide receiver cut by a couple of defensive backs, breaking into the open field. He then raced into the end zone for a 14-7 lead. After Manning led the Giants to a field goal, Fitzpatrick was following suit. The Giants' defensive line came alive with Mathias Kiwanuka and Jason Pierre-Paul both recording sacks to knock the Bills out of field goal range. Not long after, Manning and wideout Hakeem Nicks beat cornerback Drayton Florence for a 60-yard gain to the Bills 5-yard line. Bradshaw dove over the top of the line, in for another short touchdown run. In the third quarter, the Giants broke a 17-17 tie with another short touchdown run by Bradshaw. It was set up by some passes from Manning to Ballard. Initially, Manning had a touchdown pass to Manningham, but it was reversed and put on the 1-yard line, where Bradshaw finished it off. Giants cornerback Corey Webster made his first pick of the game in the third quarter. The pass was intended for Stevie Johnson, but was underthrown and Webster caught it. He returned it 25 yards to midfield. That set up a 50-yard field goal attempt which was blocked by Alex Carrington. Fitzpatrick tied the game at 24 with a short touchdown pass to Stevie Johnson. The Bills' veteran signal caller threw a strike to the back shoulder as Johnson got some separation from Corey Webster. In the fourth quarter, as the Bills were driving to take the lead, Webster intercepted a jump pass intended for Johnson at the 5-yard line. It was a critical play and a turning point that led to the Giants' win. Bradshaw led the drive to get New York in scoring position with a 37-yard run. The Bills produced a goal-line stand to hold the Giants to a field goal. New York's defense stopped Buffalo in short order to seal the game for the Giants. For the game, Manning played very well. He made good decisions and took care of the football. Manning completed 21-of-32 passes for 292 yards. Bradshaw led New York with 106 yards rushing on 26 carries and all 3 of the Giants' touchdowns. Ballard had an excellent game with 5 receptions for 81 yards. Nicks had 4 catches for 96 yards. Fitzpatrick finished the contest completing 21-of-30 passes for 244 yards with 2 touchdowns and 2 interceptions. Jackson ran for 121 yards and a touchdown on 16 carries. He also caught 5 passes for 47 yards. Johnson had 5 catches for 39 yards and a score.   ",
+   "comments":" New York put together its first touchdown drive midway through the first quarter. On it, Giants quarterback Eli Manning threw accurate passes down the field to move the ball. The line gave him time, and he hit good gains to Ahmad Bradshaw, Mario Manningham and Jake Ballard. Bradshaw finished the drive with a 1-yard touchdown run. The Bills answered immediately with running back Fred Jackson breaking off an 80-yard touchdown run. He got excellent blocks from center Eric Wood and guard Kent Urbik to open up a lane. Jackson veered and slashed across the field to prevent being caught from behind for a career-long touchdown run. Buffalo took the lead with a 60-yard touchdown strike from quarterback Ryan Fitzpatrick to wide receiver Naaman Roosevelt. It was a short pass to him in zone coverage, and the second-year wide receiver cut by a couple of defensive backs, breaking into the open field. He then raced into the end zone for a 14-7 lead. After Manning led the Giants to a field goal, Fitzpatrick was following suit. The Giants' defensive line came alive with Mathias Kiwanuka and Jason Pierre-Paul both recording sacks to knock the Bills out of field goal range. Not long after, Manning and wideout Hakeem Nicks beat cornerback Drayton Florence for a 60-yard gain to the Bills 5-yard line. Bradshaw dove over the top of the line, in for another short touchdown run. In the third quarter, the Giants broke a 17-17 tie with another short touchdown run by Bradshaw. It was set up by some passes from Manning to Ballard. Initially, Manning had a touchdown pass to Manningham, but it was reversed and put on the 1-yard line, where Bradshaw finished it off. Giants cornerback Corey Webster made his first pick of the game in the third quarter. The pass was intended for Stevie Johnson, but was underthrown and Webster caught it. He returned it 25 yards to midfield. That set up a 50-yard field goal attempt which was blocked by Alex Carrington. Fitzpatrick tied the game at 24 with a short touchdown pass to Stevie Johnson. The Bills' veteran signal caller threw a strike to the back shoulder as Johnson got some separation from Corey Webster. In the 4.h quarter, as the Bills were driving to take the lead, Webster intercepted a jump pass intended for Johnson at the 5-yard line. It was a critical play and a turning point that led to the Giants' win. Bradshaw led the drive to get New York in scoring position with a 37-yard run. The Bills produced a goal-line stand to hold the Giants to a field goal. New York's defense stopped Buffalo in short order to seal the game for the Giants. For the game, Manning played very well. He made good decisions and took care of the football. Manning completed 21-of-32 passes for 292 yards. Bradshaw led New York with 106 yards rushing on 26 carries and all 3 of the Giants' touchdowns. Ballard had an excellent game with 5 receptions for 81 yards. Nicks had 4 catches for 96 yards. Fitzpatrick finished the contest completing 21-of-30 passes for 244 yards with 2 touchdowns and 2 interceptions. Jackson ran for 121 yards and a touchdown on 16 carries. He also caught 5 passes for 47 yards. Johnson had 5 catches for 39 yards and a score.   ",
    "players":[
     {
      "player information":{
@@ -4800,7 +4815,7 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"24",
-       "annotationID":       16918
+       "annotationID":       17324
       },
       "opponent_score":"27",
       "passing_attempts":      0,
@@ -4873,7 +4888,7 @@
       "player_team_score":"27",
       "opponent_score":{
        "propertyValue":"24",
-       "annotationID":       16920
+       "annotationID":       17326
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -4899,16 +4914,16 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"4",
-       "annotationID":       16921
+       "annotationID":       17328
       },
       "defense_tackle_assists":      1,
       "defense_interceptions":{
        "propertyValue":"2",
-       "annotationID":       16923
+       "annotationID":       17330
       },
       "defense_interception_yards":{
        "propertyValue":"25",
-       "annotationID":       16919
+       "annotationID":       17325
       },
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
@@ -5691,7 +5706,7 @@
     "Name":"Texans",
     "Points":"14"
    },
-   "comments":" The Texans were just outmanned in this game. Missing their top offensive weapon (Andre Johnson) and best defensive player (Mario Williams), Houston was outgained by more than 100 yards. Matt Schaub did what he could. He went 21-of-37 for 220 yards and a touchdown. He played well considering that he was missing Johnson and going against Baltimore's vaunted defense on the road.    Schaub's score went to Jacoby Jones (4-76), who once again frustrated fantasy owners with his inconsistent production. Meanwhile, Arian Foster and Kevin Walter (both 6-52) tied for the team lead in receptions.    While Foster excelled in the aerial attack, he couldn't get anything going on the ground, save for a 16-yard scamper. He finished with 49 yards on 15 attempts.    I called Jacoby Jones inconsistent. That's nothing compared to Joe Flacco, who never ceases to amaze how he can look so great on 1 throw and so terrible on the next. Flacco had multiple beautiful bombs to Anquan Boldin and Torrey Smith. Then again, he had a few ugly lobs, including 1 interception in which he completely overthrew his target for what could have been a 25-yard gain. Flacco also lost a fumble and was mostly responsible for his team being 3-of-11 on third downs. Boldin (8-132) and Smith (3-84) both posted good fantasy numbers, as did Ray Rice, who totaled 101 rushing yards (23 carries) and 60 receiving yards. Unfortunately, Ricky Williams vultured a touchdown away from Rice in the fourth quarter.   ",
+   "comments":" The Texans were just outmanned in this game. Missing their top offensive weapon (Andre Johnson) and best defensive player (Mario Williams), Houston was outgained by more than 100 yards. Matt Schaub did what he could. He went 21-of-37 for 220 yards and a touchdown. He played well considering that he was missing Johnson and going against Baltimore's vaunted defense on the road.    Schaub's score went to Jacoby Jones (4-76), who once again frustrated fantasy owners with his inconsistent production. Meanwhile, Arian Foster and Kevin Walter (both 6-52) tied for the team lead in receptions.    While Foster excelled in the aerial attack, he couldn't get anything going on the ground, save for a 16-yard scamper. He finished with 49 yards on 15 attempts.    I called Jacoby Jones inconsistent. That's nothing compared to Joe Flacco, who never ceases to amaze how he can look so great on 1 throw and so terrible on the next. Flacco had multiple beautiful bombs to Anquan Boldin and Torrey Smith. Then again, he had a few ugly lobs, including 1 interception in which he completely overthrew his target for what could have been a 25-yard gain. Flacco also lost a fumble and was mostly responsible for his team being 3-of-11 on third downs. Boldin (8-132) and Smith (3-84) both posted good fantasy numbers, as did Ray Rice, who totaled 101 rushing yards (23 carries) and 60 receiving yards. Unfortunately, Ricky Williams vultured a touchdown away from Rice in the 4.h quarter.   ",
    "players":[
     {
      "player information":{
@@ -5719,7 +5734,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16924
+       "annotationID":       17331
       },
       "age":"30-073",
       "team":"HOU",
@@ -5742,11 +5757,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       16925
+       "annotationID":       17332
       },
       "receiving_yards":{
        "propertyValue":"52",
-       "annotationID":       16926
+       "annotationID":       17333
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5805,15 +5820,15 @@
       "opponent_score":"29",
       "passing_attempts":{
        "propertyValue":"21",
-       "annotationID":       16927
+       "annotationID":       17334
       },
       "passing_completions":{
        "propertyValue":"37",
-       "annotationID":       16928
+       "annotationID":       17335
       },
       "passing_yards":{
        "propertyValue":"220",
-       "annotationID":       16929
+       "annotationID":       17336
       },
       "passing_rating":      83.2,
       "passing_touchdowns":      1,
@@ -5895,11 +5910,11 @@
       "receiving_targets":      5,
       "receiving_receptions":{
        "propertyValue":"3",
-       "annotationID":       16931
+       "annotationID":       17338
       },
       "receiving_yards":{
        "propertyValue":"84",
-       "annotationID":       16932
+       "annotationID":       17339
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6101,7 +6116,7 @@
       "passing_touchdowns":      0,
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       16933
+       "annotationID":       17340
       },
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      16,
@@ -6109,7 +6124,7 @@
       "rushing_yards":      -1,
       "rushing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       16934
+       "annotationID":       17341
       },
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -6124,7 +6139,7 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"1",
-       "annotationID":       16935
+       "annotationID":       17342
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -6166,7 +6181,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16939
+       "annotationID":       17346
       },
       "age":"27-097",
       "team":"HOU",
@@ -6189,11 +6204,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       16936
+       "annotationID":       17343
       },
       "receiving_yards":{
        "propertyValue":"76",
-       "annotationID":       16938
+       "annotationID":       17345
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -6202,7 +6217,7 @@
       "punt_return_attempts":      1,
       "punt_return_yards":{
        "propertyValue":"4",
-       "annotationID":       16937
+       "annotationID":       17344
       },
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
@@ -6263,18 +6278,18 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"23",
-       "annotationID":       16941
+       "annotationID":       17348
       },
       "rushing_yards":{
        "propertyValue":"101",
-       "annotationID":       16940
+       "annotationID":       17347
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":      5,
       "receiving_yards":{
        "propertyValue":"60",
-       "annotationID":       16942
+       "annotationID":       17349
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6379,7 +6394,7 @@
     "Name":"Browns",
     "Points":"17"
    },
-   "comments":" The emotional loss of owner Al Davis spilled over to this week because it was the first trip back to the Black Hole for the Raiders since his passing 2 Saturdays ago. They figured to be up for this game against a mediocre opponent, especially on defense, and for the most part were. Cleveland's offense was held at bay for most of the afternoon. Only 3 of their drives covered more than 20 yards, and 1 of those was when the game was mostly decided with minutes to play. One thing head coach Hue Jackson has brought to this proud franchise is swagger and attitude. The Silver and Black have always tried to impose their will on the opposition. They did on this afternoon, and it started with the opening drive. Matt Giordano came on a blitz to sack quarterback Colt McCoy on third down to force a punt. On Oakland's first offensive play, Darren McFadden (20 carries, 91 yards, TD) hit a hole on the left side and sprinted 24 yards. The longest play on the rest of the 15-play drive covered 12 yards, but 13 snaps went for positive yardage. It ended with a short McFadden touchdown run and 7-0 lead. Their drive chewed 7:48 off the game clock, which was a theme for the day. Long drives (others went 3:58, 5:40 and 7:34) took away any hope for Cleveland to get into a rhythm offensively. Peyton Hillis could be suffering from a bit of the Madden Curse. The Browns ran him 4 consecutive times to start their second drive, but he would carry the ball just once more, finishing with 6 rushes for 14 yards. There was speculation on Twitter about a hamstring injury keeping him out of the lineup, but he did return late in the game in pass protection. The rushing duties were mostly the responsibility of Montario Hardesty (11 carries for 35 yards), who was not up to the task against a defense that came in getting gashed on the ground. A gift gave Cleveland hope on Oakland's next possession. Quarterback Jason Campbell fell on his face on a scramble and fumbled, setting up the Browns at the Raiders' 46-yard line. Key passes to Joshua Cribbs and rookie Greg Little set up a 1-yard touchdown to tight end Alex Smith. Any momentum built up by tying the score was quickly extinguished when Jacoby Ford housed the kickoff return to put the Raiders ahead 14-7. Cleveland's offense showed a little life, converting on third down twice, but an 11-play drive covered just 34 yards and died with no points after consecutive incompletions. Later, Oakland was trying to pile on, and appeared ready to, when Campbell lunged toward a first down. He was a yard short and suffered what early reports are saying could be a season-ending injury. Again, Jackson showed the guts to roll the dice and trotted out backup Kyle Boller, who converted the fourth down with a sneak. Even if it did not lead to any points, the confidence Jackson shows in his team matters to the players. The half ended with Oakland up 14-7. An exchange of punts opened the second half. Boller, who finished 8-of-14 for 100 yards, completed a 27-yard pass to Darrius Heyward-Bey, which was all they needed to reach field goal range for Sebastian Janikowski. He connected from 48 yards out to put the Raiders ahead 17-7. Cleveland quickly let the game get away when McCoy fumbled the exchange on a running play and turned the ball over. Even a failed drive on this possession resulted in a positive for Oakland because a 53-yard attempt was faked. Punter and holder Shane Lechler threw a perfect touch pass to tight end Kevin Boss for a 35-yard touchdown and suddenly it was 24-7. In a blink, or maybe it just seemed that way to me after the earlier game dragged on, the clock was winding down on the third quarter. A 21-yard punt return by Cribbs set up a short drive for a field goal and pulled Cleveland within 14 (24-10) to keep them alive. Then, Oakland changed into soul-crushing mode. They went 12 plays, 9 of them runs for 60 yards, and this time the swagger almost cost them. Instead of taking the short field goal to make it a three-possession game, Jackson called for a Bush run on fourth-and-one. It failed. The Browns would go 95 yards and score, mostly because McCoy was given a little bit of time to throw. He completed 9-of-11 passes for 94 yards capped off by a 12-yard touchdown to Mohamed Massaquoi, who beat Stanford Routt. A lot of time came off the clock, but the comeback was still in play after a well-executed onside kick was recovered. With the outcome really on the line, however, McCoy threw 3 straight incompletions, and the game was over. Obviously, the bigger picture is how the Raiders figure out their quarterback depth chart for the rest of the season assuming Campbell is gone. Boller is not going to carry a winning team, and rookie Terrelle Pryor is not even close to being able to appear in a game; much less start. Perhaps the easiest move would be to call free agent David Garrard, who has some success riding a running game, having led Jacksonville to the playoffs. <div class=dfpAdSlots>   ",
+   "comments":" The emotional loss of owner Al Davis spilled over to this week because it was the first trip back to the Black Hole for the Raiders since his passing 2 Saturdays ago. They figured to be up for this game against a mediocre opponent, especially on defense, and for the most part were. Cleveland's offense was held at bay for most of the afternoon. Only 3 of their drives covered more than 20 yards, and 1 of those was when the game was mostly decided with minutes to play. One thing head coach Hue Jackson has brought to this proud franchise is swagger and attitude. The Silver and Black have always tried to impose their will on the opposition. They did on this afternoon, and it started with the opening drive. Matt Giordano came on a blitz to sack quarterback Colt McCoy on third down to force a punt. On Oakland's first offensive play, Darren McFadden (20 carries, 91 yards, TD) hit a hole on the left side and sprinted 24 yards. The longest play on the rest of the 15-play drive covered 12 yards, but 13 snaps went for positive yardage. It ended with a short McFadden touchdown run and 7-0 lead. Their drive chewed 7:48 off the game clock, which was a theme for the day. Long drives (others went 3:58, 5:40 and 7:34) took away any hope for Cleveland to get into a rhythm offensively. Peyton Hillis could be suffering from a bit of the Madden Curse. The Browns ran him 4 consecutive times to start their second drive, but he would carry the ball just once more, finishing with 6 rushes for 14 yards. There was speculation on Twitter about a hamstring injury keeping him out of the lineup, but he did return late in the game in pass protection. The rushing duties were mostly the responsibility of Montario Hardesty (11 carries for 35 yards), who was not up to the task against a defense that came in getting gashed on the ground. A gift gave Cleveland hope on Oakland's next possession. Quarterback Jason Campbell fell on his face on a scramble and fumbled, setting up the Browns at the Raiders' 46-yard line. Key passes to Joshua Cribbs and rookie Greg Little set up a 1-yard touchdown to tight end Alex Smith. Any momentum built up by tying the score was quickly extinguished when Jacoby Ford housed the kickoff return to put the Raiders ahead 14-7. Cleveland's offense showed a little life, converting on third down twice, but an 11-play drive covered just 34 yards and died with no points after consecutive incompletions. Later, Oakland was trying to pile on, and appeared ready to, when Campbell lunged toward a first down. He was a yard short and suffered what early reports are saying could be a season-ending injury. Again, Jackson showed the guts to roll the dice and trotted out backup Kyle Boller, who converted the 4.h down with a sneak. Even if it did not lead to any points, the confidence Jackson shows in his team matters to the players. The half ended with Oakland up 14-7. An exchange of punts opened the second half. Boller, who finished 8-of-14 for 100 yards, completed a 27-yard pass to Darrius Heyward-Bey, which was all they needed to reach field goal range for Sebastian Janikowski. He connected from 48 yards out to put the Raiders ahead 17-7. Cleveland quickly let the game get away when McCoy fumbled the exchange on a running play and turned the ball over. Even a failed drive on this possession resulted in a positive for Oakland because a 53-yard attempt was faked. Punter and holder Shane Lechler threw a perfect touch pass to tight end Kevin Boss for a 35-yard touchdown and suddenly it was 24-7. In a blink, or maybe it just seemed that way to me after the earlier game dragged on, the clock was winding down on the third quarter. A 21-yard punt return by Cribbs set up a short drive for a field goal and pulled Cleveland within 14 (24-10) to keep them alive. Then, Oakland changed into soul-crushing mode. They went 12 plays, 9 of them runs for 60 yards, and this time the swagger almost cost them. Instead of taking the short field goal to make it a 3.possession game, Jackson called for a Bush run on 4.h-and-one. It failed. The Browns would go 95 yards and score, mostly because McCoy was given a little bit of time to throw. He completed 9-of-11 passes for 94 yards capped off by a 12-yard touchdown to Mohamed Massaquoi, who beat Stanford Routt. A lot of time came off the clock, but the comeback was still in play after a well-executed onside kick was recovered. With the outcome really on the line, however, McCoy threw 3 straight incompletions, and the game was over. Obviously, the bigger picture is how the Raiders figure out their quarterback depth chart for the rest of the season assuming Campbell is gone. Boller is not going to carry a winning team, and rookie Terrelle Pryor is not even close to being able to appear in a game; much less start. Perhaps the easiest move would be to call free agent David Garrard, who has some success riding a running game, having led Jacksonville to the playoffs. <div class=dfpAdSlots>   ",
    "players":[
     {
      "player information":{
@@ -6553,15 +6568,15 @@
       "opponent_score":"17",
       "passing_attempts":{
        "propertyValue":"8",
-       "annotationID":       16944
+       "annotationID":       17351
       },
       "passing_completions":{
        "propertyValue":"14",
-       "annotationID":       16945
+       "annotationID":       17352
       },
       "passing_yards":{
        "propertyValue":"100",
-       "annotationID":       16946
+       "annotationID":       17353
       },
       "passing_rating":      79.5,
       "passing_touchdowns":      0,
@@ -6836,7 +6851,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"24",
-       "annotationID":       16949
+       "annotationID":       17356
       },
       "opponent_score":"17",
       "passing_attempts":      0,
@@ -6854,7 +6869,7 @@
       "receiving_receptions":      1,
       "receiving_yards":{
        "propertyValue":"35",
-       "annotationID":       16947
+       "annotationID":       17354
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -6980,7 +6995,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"24",
-       "annotationID":       16952
+       "annotationID":       17359
       },
       "opponent_score":"17",
       "passing_attempts":      0,
@@ -6993,11 +7008,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"20",
-       "annotationID":       16950
+       "annotationID":       17357
       },
       "rushing_yards":{
        "propertyValue":"91",
-       "annotationID":       16951
+       "annotationID":       17358
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      1,
@@ -7206,11 +7221,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"11",
-       "annotationID":       16953
+       "annotationID":       17360
       },
       "rushing_yards":{
        "propertyValue":"35",
-       "annotationID":       16954
+       "annotationID":       17361
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
@@ -7341,7 +7356,7 @@
       "player_team_score":"24",
       "opponent_score":{
        "propertyValue":"17",
-       "annotationID":       16955
+       "annotationID":       17362
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -7560,11 +7575,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"6",
-       "annotationID":       16956
+       "annotationID":       17363
       },
       "rushing_yards":{
        "propertyValue":"14",
-       "annotationID":       16957
+       "annotationID":       17364
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -7604,7 +7619,7 @@
     "Name":"Cowboys",
     "Points":"16"
    },
-   "comments":" I haven't seen the Patriots play this passively in a very long time. I really don't understand it. For instance, Bill Belichick didn't use a timeout at the end of the first half when Dallas had the ball inside the New England 5-yard line. Doing so would have given the Patriots a minute and a timeout to perhaps score right before intermission. Instead, they let the clock run down. There were also instances in which Belichick refused to go for it on fourth-and-intermediate near midfield or in Dallas territory. Brady, meanwhile, just looked glum the whole time, almost as if he knew he was going to lose. It was really strange. Brady and Belichick's apparent apathy rubbed off on the other players. The Patriots had 2 key non-Brady turnovers - 1 on a kickoff return that gave Dallas an easy score, and 1 by Aaron Hernandez inside Dallas' 20-yard line that prevented a possible score.    Oh, and the Patriots won, by the way. Despite playing poorly throughout, Brady somehow mustered a game-winning drive in the final couple of minutes. When he hit Aaron Hernandez for the decisive 8-yard touchdown, Brady pumped his fist and yelled triumphantly. He didn't look passive there, so maybe he was just told that he couldn't cover the spread. I don't know. This game was just weird.    Brady went 27-of-41, 289 yards, 2 touchdowns and a pair of ugly picks. His scores went to Hernandez (8-68) and Wes Welker (6-45). Rob Gronkowski (7-74) and Deion Branch (3-69) also contributed.    Tony Romo had a bad interception, but otherwise showed no lingering effects from his meltdown against the Lions. He went 27-of-41 for 317 yards, 1 touchdown and a pick, though he missed Dez Bryant (4-78) for a potential second score at the end of the fourth quarter.    Felix Jones was a major disappointment at New England. He gained just 14 yards on 8 carries, and then hurt his foot and got it wrapped up in the first half. DeMarco Murray saw most of the workload in Jones' absence and wasn't much better statistically (10-32), but showed some nice moves and is worth picking up.   ",
+   "comments":" I haven't seen the Patriots play this passively in a very long time. I really don't understand it. For instance, Bill Belichick didn't use a timeout at the end of the first half when Dallas had the ball inside the New England 5-yard line. Doing so would have given the Patriots a minute and a timeout to perhaps score right before intermission. Instead, they let the clock run down. There were also instances in which Belichick refused to go for it on 4.h-and-intermediate near midfield or in Dallas territory. Brady, meanwhile, just looked glum the whole time, almost as if he knew he was going to lose. It was really strange. Brady and Belichick's apparent apathy rubbed off on the other players. The Patriots had 2 key non-Brady turnovers - 1 on a kickoff return that gave Dallas an easy score, and 1 by Aaron Hernandez inside Dallas' 20-yard line that prevented a possible score.    Oh, and the Patriots won, by the way. Despite playing poorly throughout, Brady somehow mustered a game-winning drive in the final couple of minutes. When he hit Aaron Hernandez for the decisive 8-yard touchdown, Brady pumped his fist and yelled triumphantly. He didn't look passive there, so maybe he was just told that he couldn't cover the spread. I don't know. This game was just weird.    Brady went 27-of-41, 289 yards, 2 touchdowns and a pair of ugly picks. His scores went to Hernandez (8-68) and Wes Welker (6-45). Rob Gronkowski (7-74) and Deion Branch (3-69) also contributed.    Tony Romo had a bad interception, but otherwise showed no lingering effects from his meltdown against the Lions. He went 27-of-41 for 317 yards, 1 touchdown and a pick, though he missed Dez Bryant (4-78) for a potential second score at the end of the 4.h quarter.    Felix Jones was a major disappointment at New England. He gained just 14 yards on 8 carries, and then hurt his foot and got it wrapped up in the first half. DeMarco Murray saw most of the workload in Jones' absence and wasn't much better statistically (10-32), but showed some nice moves and is worth picking up.   ",
    "players":[
     {
      "player information":{
@@ -7652,11 +7667,11 @@
       "receiving_targets":      5,
       "receiving_receptions":{
        "propertyValue":"3",
-       "annotationID":       16958
+       "annotationID":       17365
       },
       "receiving_yards":{
        "propertyValue":"69",
-       "annotationID":       16959
+       "annotationID":       17366
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7782,7 +7797,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"20",
-       "annotationID":       16960
+       "annotationID":       17367
       },
       "opponent_score":"16",
       "passing_attempts":      0,
@@ -7799,11 +7814,11 @@
       "receiving_targets":      14,
       "receiving_receptions":{
        "propertyValue":"8",
-       "annotationID":       16962
+       "annotationID":       17369
       },
       "receiving_yards":{
        "propertyValue":"68",
-       "annotationID":       16963
+       "annotationID":       17370
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -7862,30 +7877,30 @@
       "opponent_score":"20",
       "passing_attempts":{
        "propertyValue":"27",
-       "annotationID":       16964
+       "annotationID":       17371
       },
       "passing_completions":{
        "propertyValue":"41",
-       "annotationID":       16965
+       "annotationID":       17372
       },
       "passing_yards":{
        "propertyValue":"317",
-       "annotationID":       16966
+       "annotationID":       17373
       },
       "passing_rating":      87.1,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       16967
+       "annotationID":       17374
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       16968
+       "annotationID":       17375
       },
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      17,
       "rushing_attempts":{
        "propertyValue":"1",
-       "annotationID":       16969
+       "annotationID":       17376
       },
       "rushing_yards":      17,
       "rushing_touchdowns":      0,
@@ -8010,7 +8025,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16970
+       "annotationID":       17377
       },
       "age":"30-168",
       "team":"NWE",
@@ -8033,11 +8048,11 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       16971
+       "annotationID":       17378
       },
       "receiving_yards":{
        "propertyValue":"45",
-       "annotationID":       16972
+       "annotationID":       17379
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -8107,15 +8122,15 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"7",
-       "annotationID":       16973
+       "annotationID":       17380
       },
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       16974
+       "annotationID":       17381
       },
       "receiving_yards":{
        "propertyValue":"74",
-       "annotationID":       16975
+       "annotationID":       17382
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8186,11 +8201,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       16976
+       "annotationID":       17385
       },
       "receiving_yards":{
        "propertyValue":"78",
-       "annotationID":       16977
+       "annotationID":       17384
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8226,7 +8241,7 @@
     "Name":"Saints",
     "Points":"20"
    },
-   "comments":" Early in the first quarter, Saints tight end Jimmy Graham was knocked out of bounds and rolled through the legs of his head coach Sean Payton. Payton suffered a torn knee ligament and a leg fracture. That caused him to call the game for the bench for a time before moving upstairs. The Saints' offense didn't seem to click on all cylinders without their coach in his normal spot. A few plays after Payton went out, Saints running back Pierre Thomas fumbled the ball away and it turned into a field goal for Tampa Bay. The Saints answered with a 38-yard touchdown pass from Drew Brees to Marcus Colston. Colston ran by Ronde Barber and safety Sean Jones was late coming over the top. Tampa Bay took the lead back with a 65-yard touchdown pass from Josh Freeman to wide receiver Arrelious Benn. The second-year wide out ran wide open in busted coverage, and Freeman lofted a ball that led him down the field. Backup running back Earnest Graham then had a 34-yard run and a 19-yard screen pass to set up a field goal for the Buccaneers. Safety Tanard Jackson made his first start since Week 2 of 2010 after a 19-game suspension by the NFL for failed drug tests. Late in the second quarter, he caught a deflected pass to set up Tampa Bay in excellent field position. A few plays later, Freeman threw a dart to a wide receiver for a 19-yard touchdown pass. The Buccaneers' defense came to play, as they intercepted Brees twice in the first half along with their forced fumble. Tampa Bay led 20-10 at halftime. The teams traded field goals in the third quarter. Early in the fourth quarter, Brees made a crucial third-down conversion on a perfect pass to Lance Moore. He beat cornerback E.J. Biggers down the sideline and Brees dropped the ball in precisely for a 40-yard gain. That set up a 12-yard touchdown run by Mark Ingram. The Buccaneers answered with a field goal to take a six-point lead. Next, Brees started moving the ball down the field with precision passing. The drive stalled inside the Tampa Bay 5-yard line. On fourth-and-two at the 4-yard line, Brees did a bootleg but finding nobody open, threw a jump ball into the end zone that was intercepted by Buccaneers linebacker Quincy Black. Tampa Bay's offense maintained possession of the ball to secure the win. In the game, Brees was 29-of-45 for 383 yards with 1 touchdown and 3 interceptions. Ingram ran for 22 yards on 9 carries. The Buccaneers had no answer for tight end Jimmy Graham. He totaled 124 yards on 7 catches. Colston also had 7 receptions for 118 yards. Freeman completed 23-of-41 passes for 303 yards with 2 touchdowns and zero interceptions. It was a good bounce-back performance for the Buccaneers' signal caller after a horrible game a week ago against the 49ers. Earnest Graham ran for 109 yards on 17 carries. He stepped up and did an excellent job filling in for the injured LeGarrette Blount. Benn had 3 receptions for 83 yards while Mike Williams had 6 catches for 59 yards.   ",
+   "comments":" Early in the first quarter, Saints tight end Jimmy Graham was knocked out of bounds and rolled through the legs of his head coach Sean Payton. Payton suffered a torn knee ligament and a leg fracture. That caused him to call the game for the bench for a time before moving upstairs. The Saints' offense didn't seem to click on all cylinders without their coach in his normal spot. A few plays after Payton went out, Saints running back Pierre Thomas fumbled the ball away and it turned into a field goal for Tampa Bay. The Saints answered with a 38-yard touchdown pass from Drew Brees to Marcus Colston. Colston ran by Ronde Barber and safety Sean Jones was late coming over the top. Tampa Bay took the lead back with a 65-yard touchdown pass from Josh Freeman to wide receiver Arrelious Benn. The second-year wide out ran wide open in busted coverage, and Freeman lofted a ball that led him down the field. Backup running back Earnest Graham then had a 34-yard run and a 19-yard screen pass to set up a field goal for the Buccaneers. Safety Tanard Jackson made his first start since Week 2 of 2010 after a 19-game suspension by the NFL for failed drug tests. Late in the second quarter, he caught a deflected pass to set up Tampa Bay in excellent field position. A few plays later, Freeman threw a dart to a wide receiver for a 19-yard touchdown pass. The Buccaneers' defense came to play, as they intercepted Brees twice in the first half along with their forced fumble. Tampa Bay led 20-10 at halftime. The teams traded field goals in the third quarter. Early in the 4.h quarter, Brees made a crucial third-down conversion on a perfect pass to Lance Moore. He beat cornerback E.J. Biggers down the sideline and Brees dropped the ball in precisely for a 40-yard gain. That set up a 12-yard touchdown run by Mark Ingram. The Buccaneers answered with a field goal to take a 6.point lead. Next, Brees started moving the ball down the field with precision passing. The drive stalled inside the Tampa Bay 5-yard line. On 4.h-and-two at the 4-yard line, Brees did a bootleg but finding nobody open, threw a jump ball into the end zone that was intercepted by Buccaneers linebacker Quincy Black. Tampa Bay's offense maintained possession of the ball to secure the win. In the game, Brees was 29-of-45 for 383 yards with 1 touchdown and 3 interceptions. Ingram ran for 22 yards on 9 carries. The Buccaneers had no answer for tight end Jimmy Graham. He totaled 124 yards on 7 catches. Colston also had 7 receptions for 118 yards. Freeman completed 23-of-41 passes for 303 yards with 2 touchdowns and zero interceptions. It was a good bounce-back performance for the Buccaneers' signal caller after a horrible game a week ago against the 49ers. Earnest Graham ran for 109 yards on 17 carries. He stepped up and did an excellent job filling in for the injured LeGarrette Blount. Benn had 3 receptions for 83 yards while Mike Williams had 6 catches for 59 yards.   ",
    "players":[
     {
      "player information":{
@@ -8459,7 +8474,10 @@
       "player_id":      10635,
       "year":"2011",
       "date":"2011-10-16",
-      "game_number":"6",
+      "game_number":{
+       "propertyValue":"6",
+       "annotationID":       17386
+      },
       "age":"21-299",
       "team":"NOR",
       "game_location":"A",
@@ -8480,7 +8498,10 @@
       "rushing_touchdowns":      1,
       "receiving_targets":      1,
       "receiving_receptions":      1,
-      "receiving_yards":      6,
+      "receiving_yards":{
+       "propertyValue":"6",
+       "annotationID":       17387
+      },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -8528,7 +8549,10 @@
       "player_id":      8214,
       "year":"2011",
       "date":"2011-10-16",
-      "game_number":"6",
+      "game_number":{
+       "propertyValue":"6",
+       "annotationID":       17391
+      },
       "age":"31-274",
       "team":"TAM",
       "game_location":"H",
@@ -8537,7 +8561,7 @@
       "player_team_score":"26",
       "opponent_score":{
        "propertyValue":"20",
-       "annotationID":       16980
+       "annotationID":       17390
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -8549,24 +8573,24 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"17",
-       "annotationID":       16985
+       "annotationID":       17396
       },
       "rushing_yards":{
        "propertyValue":"109",
-       "annotationID":       16984
+       "annotationID":       17395
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"2",
-       "annotationID":       16982
+       "annotationID":       17393
       },
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       16983
+       "annotationID":       17394
       },
       "receiving_yards":{
        "propertyValue":"22",
-       "annotationID":       16981
+       "annotationID":       17392
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8624,7 +8648,7 @@
       "player_team_score":"26",
       "opponent_score":{
        "propertyValue":"20",
-       "annotationID":       16986
+       "annotationID":       17397
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -8788,12 +8812,12 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"1",
-       "annotationID":       16987
+       "annotationID":       17398
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":{
        "propertyValue":"1",
-       "annotationID":       16988
+       "annotationID":       17399
       },
       "defense_interception_yards":      0,
       "defense_interception_touchdowns":      0,
@@ -8831,7 +8855,10 @@
       "player_id":      8220,
       "year":"2011",
       "date":"2011-10-16",
-      "game_number":"6",
+      "game_number":{
+       "propertyValue":"6",
+       "annotationID":       17401
+      },
       "age":"24-326",
       "team":"NOR",
       "game_location":"A",
@@ -8839,7 +8866,7 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"20",
-       "annotationID":       16989
+       "annotationID":       17400
       },
       "opponent_score":"26",
       "passing_attempts":      0,
@@ -8856,11 +8883,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       16992
+       "annotationID":       17404
       },
       "receiving_yards":{
        "propertyValue":"124",
-       "annotationID":       16990
+       "annotationID":       17402
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9187,7 +9214,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       16993
+       "annotationID":       17405
       },
       "age":"24-151",
       "team":"TAM",
@@ -9210,11 +9237,11 @@
       "receiving_targets":      13,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       16994
+       "annotationID":       17406
       },
       "receiving_yards":{
        "propertyValue":"59",
-       "annotationID":       16995
+       "annotationID":       17407
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9298,11 +9325,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       16996
+       "annotationID":       17408
       },
       "receiving_yards":{
        "propertyValue":"54",
-       "annotationID":       16997
+       "annotationID":       17409
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9369,7 +9396,7 @@
       "passing_sacks_yards_lost":      12,
       "rushing_attempts":{
        "propertyValue":"2",
-       "annotationID":       16998
+       "annotationID":       17410
       },
       "rushing_yards":      3,
       "rushing_touchdowns":      0,
@@ -9425,7 +9452,7 @@
       "date":"2011-10-16",
       "game_number":{
        "propertyValue":"6",
-       "annotationID":       17003
+       "annotationID":       17415
       },
       "age":"28-170",
       "team":"CHI",
@@ -9436,20 +9463,20 @@
       "opponent_score":"10",
       "passing_attempts":{
        "propertyValue":"21",
-       "annotationID":       16999
+       "annotationID":       17411
       },
       "passing_completions":{
        "propertyValue":"31",
-       "annotationID":       17000
+       "annotationID":       17412
       },
       "passing_yards":{
        "propertyValue":"267",
-       "annotationID":       17001
+       "annotationID":       17413
       },
       "passing_rating":      115.9,
       "passing_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       17002
+       "annotationID":       17414
       },
       "passing_interceptions":      0,
       "passing_sacks":      1,
@@ -9516,7 +9543,7 @@
       "player_team_score":"10",
       "opponent_score":{
        "propertyValue":"39",
-       "annotationID":       17004
+       "annotationID":       17416
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -9528,11 +9555,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"12",
-       "annotationID":       17006
+       "annotationID":       17418
       },
       "rushing_yards":{
        "propertyValue":"39",
-       "annotationID":       17005
+       "annotationID":       17417
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      1,
@@ -9685,7 +9712,7 @@
       "punt_return_touchdowns":      0,
       "defense_sacks":{
        "propertyValue":"2",
-       "annotationID":       17007
+       "annotationID":       17419
       },
       "defense_tackles":      3,
       "defense_tackle_assists":      0,
@@ -9943,15 +9970,15 @@
       "opponent_score":"39",
       "passing_attempts":{
        "propertyValue":"19",
-       "annotationID":       17008
+       "annotationID":       17420
       },
       "passing_completions":{
        "propertyValue":"24",
-       "annotationID":       17009
+       "annotationID":       17421
       },
       "passing_yards":{
        "propertyValue":"177",
-       "annotationID":       17010
+       "annotationID":       17422
       },
       "passing_rating":      97.4,
       "passing_touchdowns":      0,
@@ -10021,15 +10048,15 @@
       "opponent_score":"39",
       "passing_attempts":{
        "propertyValue":"9",
-       "annotationID":       17011
+       "annotationID":       17423
       },
       "passing_completions":{
        "propertyValue":"17",
-       "annotationID":       17012
+       "annotationID":       17424
       },
       "passing_yards":{
        "propertyValue":"99",
-       "annotationID":       17013
+       "annotationID":       17425
       },
       "passing_rating":      70.5,
       "passing_touchdowns":      0,
@@ -10180,11 +10207,11 @@
       "receiving_targets":      4,
       "receiving_receptions":{
        "propertyValue":"3",
-       "annotationID":       17014
+       "annotationID":       17426
       },
       "receiving_yards":{
        "propertyValue":"50",
-       "annotationID":       17015
+       "annotationID":       17427
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10235,7 +10262,7 @@
       "date":"2011-10-10",
       "game_number":{
        "propertyValue":"5",
-       "annotationID":       17016
+       "annotationID":       17428
       },
       "age":"28-340",
       "team":"CHI",
@@ -10258,7 +10285,7 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       17017
+       "annotationID":       17429
       },
       "receiving_yards":      32,
       "receiving_touchdowns":      0,
@@ -10330,11 +10357,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       17018
+       "annotationID":       17430
       },
       "receiving_yards":{
        "propertyValue":"91",
-       "annotationID":       17019
+       "annotationID":       17431
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      2,

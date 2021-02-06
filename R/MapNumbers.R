@@ -22,7 +22,40 @@ numReplace <- function(text) {
     list(" seven ", " 7 "),
     list(" eight ", " 8 "),
     list(" nine ", " 9 "),
-    list(" ten ", " 10 "))
+    list(" ten ", " 10 "),
+    
+    list("[(]one ", "(1 "),
+    list("[(]two ", "(2 "),
+    list("[(]three ", "(3 "),
+    list("[(]four ", "(4 "),
+    list("[(]five ", "(5 "),
+    list("[(]six ", "(6 "),
+    list("[(]seven ", "(7 "),
+    list("[(]eight ", "(8 "),
+    list("[(]nine ", "(9 "),
+    list("[(]ten ", "(10 "),
+    
+    list(" one[)]", " 1)"),
+    list(" two[)]", " 2)"),
+    list(" three[)]", " 3)"),
+    list(" four[)]", " 4)"),
+    list(" five[)]", " 5)"),
+    list(" six[)]", " 6)"),
+    list(" seven[)]", " 7)"),
+    list(" eight[)]", " 8)"),
+    list(" nine[)]", " 9)"),
+    list(" ten[)]", " 10)"),
+    
+    list(" one.", " 1."),
+    list(" two.", " 2."),
+    list(" three.", " 3."),
+    list(" four.", " 4."),
+    list(" five.", " 5."),
+    list(" six.", " 6."),
+    list(" seven.", " 7."),
+    list(" eight.", " 8."),
+    list(" nine.", " 9."),
+    list(" ten.", " 10."))
   
   for (numberName in numbersList) {
     text <- gsub(numberName[[1]], numberName[[2]], text)
