@@ -64,6 +64,20 @@ numReplace <- function(text) {
   return(text)
 }
 
+# Finds the first "." after the occurence of the player (the end of the sentence)
+findFirstDotAfterPlayer <- function(comment, playerIndex) {
+  
+  dotIndex <- str_length(comment) + 1 # Upper bound
+  
+  for (dotOccurence in str_locate_all(comment, "[.]")[[1]]) {
+    if (dotOccurence[[1]] <= dotIndex && dotOccurence[[1]] >= playerIndex) {
+      dotIndex <- dotOccurence[[1]]
+    }
+  }
+  
+  return(dotIndex)
+}
+
 weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
@@ -130,6 +144,12 @@ for (year in years) {
                   
                 }
                 
+              }
+              
+              endOfPlayerSentence <- findFirstDotAfterPlayer(game$comments, tempCurrentPlayerOccurence[[2]])
+              
+              if (endOfPlayerSentence > firstOccurenceOfOtherPlayerInText) {
+                firstOccurenceOfOtherPlayerInText <- endOfPlayerSentence
               }
               
               playerComment <- paste(c(playerComment, substr(game$comments, tempCurrentPlayerOccurence[[1]], firstOccurenceOfOtherPlayerInText)), collapse="") # The belonging comment part
