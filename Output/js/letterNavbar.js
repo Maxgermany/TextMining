@@ -12,9 +12,9 @@ function generateMenu() {
 
         let menuElement = document.createElement("a");
 
-        menuElement.setAttribute("href", "players.html?letter=" + abcArray[element]);
+        menuElement.setAttribute("href", "players.html#" + abcArray[element]);
 
-        menuElement.setAttribute("class", "letter")
+        menuElement.setAttribute("class", "letter");
 
         menuElement.innerText = " " + abcArray[element] + " ";
 
@@ -23,6 +23,7 @@ function generateMenu() {
     }
 
     highlightCurrent();
+
 }
 
 function highlightCurrent() {
