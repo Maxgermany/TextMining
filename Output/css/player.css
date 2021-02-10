@@ -1,0 +1,20 @@
+.letterDiv {
+    color: white;
+    background-color: 666666;
+    width: 99%;
+    margin-bottom: 4px;
+    padding: 3px;
+    font-size: 20px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.playerList {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    list-style-type: none;
+}
+
+.playerList a {
+    color: black;
+}
