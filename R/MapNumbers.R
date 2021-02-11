@@ -82,8 +82,6 @@ weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
 
-years <- list("2008")
-
 # Creating the Folders if not exists
 path <- "..\\Data\\Output\\"
 if (!(dir.exists(path))){
@@ -119,9 +117,9 @@ for (year in years) {
         
         resultWeek$games[[i]]$comments <- game$comments
         
-        j <- 1
+        j <- 1 # For iteration purpose
         
-        if (length(game$players) > 1){ # Games which doesn't have any players are filtered here
+        if (length(game$players) > 1) { # Games which doesn't have any players are filtered here
           
           for (player in game$players) {
             
@@ -131,7 +129,15 @@ for (year in years) {
             
             playerComment <- "" # All parts in the comment belonging to the player
             
+            k <- 1 # For iteration purpose
+            
+            fullNameOccurences <- list() # Stores all occurences of the full name of the player; is needed later for searching after parts of the name
+            
             for (tempCurrentPlayerOccurence in str_locate_all(game$comments, player$`player information`$name)) { # If a player occurs more than once in a comment, we have to find all belonging parts
+              
+              fullNameOccurences[[k]] <- tempCurrentPlayerOccurence
+              
+              k <- k + 1
               
               firstOccurenceOfOtherPlayerInText <- str_length(game$comments) # Upper bound
             
@@ -158,6 +164,50 @@ for (year in years) {
               playerComment <- paste(c(playerComment, substr(game$comments, tempCurrentPlayerOccurence[[1]], firstOccurenceOfOtherPlayerInText)), collapse="") # The belonging comment part
               
             }
+            
+            lastName <- word(player$`player information`$name, -1)
+            
+            for (tempCurrentPlayerOccurence in str_locate_all(game$comments, lastName)) {
+              
+              isAlreadyOccured <- FALSE
+              
+              for (previousOccurence in fullNameOccurences) {
+                
+                if (tempCurrentPlayerOccurence[[2]] == previousOccurence[[2]]) {
+                  isAlreadyOccured <- TRUE
+                }
+                
+              }
+              
+              if (!isAlreadyOccured) {
+                
+                firstOccurenceOfOtherPlayerInText <- str_length(game$comments) # Upper bound
+                
+                for (playerTemp in game$players) { # For all players in the comment
+                  
+                  playerOccurenceInText <- str_locate_all(game$comments, playerTemp$`player information`$name) # All occurences of the current player in the comment
+                  
+                  for (occurenceIndex in playerOccurenceInText) {
+                    
+                    if (firstOccurenceOfOtherPlayerInText > occurenceIndex[[1]] && occurenceIndex[[1]] > tempCurrentPlayerOccurence[[2]]) { # If the position of the temp player is between the current player and the current upper bound we change the upper bound
+                      firstOccurenceOfOtherPlayerInText <- occurenceIndex[[1]] - 1 # Char position before the temp player
+                    }
+                    
+                  }
+                  
+                }
+                
+                endOfPlayerSentence <- findFirstDotAfterPlayer(game$comments, tempCurrentPlayerOccurence[[2]])
+                
+                if (endOfPlayerSentence > firstOccurenceOfOtherPlayerInText) {
+                  firstOccurenceOfOtherPlayerInText <- endOfPlayerSentence
+                }
+                
+                playerComment <- paste(c(playerComment, substr(game$comments, tempCurrentPlayerOccurence[[1]], firstOccurenceOfOtherPlayerInText)), collapse="") # The belonging comment part
+              
+              }
+            }
+
             
             numbers <- numExtract(playerComment) # Get numbers from text
             

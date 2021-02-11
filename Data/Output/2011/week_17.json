@@ -40,7 +40,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21454
+       "annotationID":       37645
       },
       "age":"28-163",
       "team":"STL",
@@ -59,14 +59,17 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"16",
-       "annotationID":       21455
+       "annotationID":       37646
       },
       "rushing_yards":{
        "propertyValue":"76",
-       "annotationID":       21456
+       "annotationID":       37647
       },
       "rushing_touchdowns":      0,
-      "receiving_targets":      2,
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       37649
+      },
       "receiving_receptions":      1,
       "receiving_yards":      15,
       "receiving_touchdowns":      0,
@@ -116,7 +119,10 @@
       "player_id":      10524,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       37656
+      },
       "age":"23-107",
       "team":"SFO",
       "game_location":"A",
@@ -125,7 +131,7 @@
       "player_team_score":"34",
       "opponent_score":{
        "propertyValue":"27",
-       "annotationID":       21458
+       "annotationID":       37655
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -135,13 +141,19 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      16,
-      "rushing_yards":      76,
+      "rushing_attempts":{
+       "propertyValue":"16",
+       "annotationID":       37657
+      },
+      "rushing_yards":{
+       "propertyValue":"76",
+       "annotationID":       37658
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       21457
+       "annotationID":       37652
       },
       "receiving_yards":      11,
       "receiving_touchdowns":      0,
@@ -209,11 +221,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"7",
-       "annotationID":       21459
+       "annotationID":       37659
       },
       "rushing_yards":{
        "propertyValue":"9",
-       "annotationID":       21460
+       "annotationID":       37660
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -343,7 +355,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"34",
-       "annotationID":       21462
+       "annotationID":       37664
       },
       "opponent_score":"27",
       "passing_attempts":      0,
@@ -358,11 +370,14 @@
       "rushing_yards":      6,
       "rushing_touchdowns":      0,
       "receiving_targets":      11,
-      "receiving_receptions":      8,
+      "receiving_receptions":{
+       "propertyValue":"8",
+       "annotationID":       37666
+      },
       "receiving_yards":      86,
       "receiving_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       21461
+       "annotationID":       37665
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -418,11 +433,11 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"34",
-       "annotationID":       21466
+       "annotationID":       37674
       },
       "opponent_score":{
        "propertyValue":"27",
-       "annotationID":       21467
+       "annotationID":       37679
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -448,10 +463,13 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"1",
-       "annotationID":       21465
+       "annotationID":       37678
       },
       "defense_tackle_assists":      0,
-      "defense_interceptions":      2,
+      "defense_interceptions":{
+       "propertyValue":"2",
+       "annotationID":       37676
+      },
       "defense_interception_yards":      16,
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
@@ -502,25 +520,25 @@
       "passing_rating":      67.4,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21471
+       "annotationID":       37689
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       21472
+       "annotationID":       37690
       },
       "passing_sacks":{
        "propertyValue":"3",
-       "annotationID":       21469
+       "annotationID":       37687
       },
       "passing_sacks_yards_lost":      26,
       "rushing_attempts":{
        "propertyValue":"2",
-       "annotationID":       21470
+       "annotationID":       37688
       },
       "rushing_yards":      18,
       "rushing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21473
+       "annotationID":       37691
       },
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -595,7 +613,7 @@
       "receiving_receptions":      1,
       "receiving_yards":{
        "propertyValue":"21",
-       "annotationID":       21474
+       "annotationID":       37692
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -652,9 +670,12 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"27",
-       "annotationID":       21475
+       "annotationID":       37706
       },
-      "opponent_score":"34",
+      "opponent_score":{
+       "propertyValue":"34",
+       "annotationID":       37698
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -683,10 +704,22 @@
       "defense_interception_yards":      0,
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
-      "point_after_attemps":      3,
-      "point_after_makes":      3,
-      "field_goal_attempts":      2,
-      "field_goal_makes":      2,
+      "point_after_attemps":{
+       "propertyValue":"3",
+       "annotationID":       37701
+      },
+      "point_after_makes":{
+       "propertyValue":"3",
+       "annotationID":       37702
+      },
+      "field_goal_attempts":{
+       "propertyValue":"2",
+       "annotationID":       37703
+      },
+      "field_goal_makes":{
+       "propertyValue":"2",
+       "annotationID":       37704
+      },
       "punting_attempts":      0,
       "punting_yards":      0,
       "punting_blocked":      0
@@ -738,11 +771,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21476
+       "annotationID":       37709
       },
       "receiving_yards":{
        "propertyValue":"100",
-       "annotationID":       21477
+       "annotationID":       37710
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -866,11 +899,14 @@
       "game_location":"A",
       "opponent":"STL",
       "game_won":      true,
-      "player_team_score":"34",
+      "player_team_score":{
+       "propertyValue":"34",
+       "annotationID":       37713
+      },
       "opponent_score":"27",
       "passing_attempts":{
        "propertyValue":"20",
-       "annotationID":       21478
+       "annotationID":       37712
       },
       "passing_completions":      30,
       "passing_yards":      213,
@@ -1076,8 +1112,14 @@
       "game_location":"H",
       "opponent":"SFO",
       "game_won":      false,
-      "player_team_score":"27",
-      "opponent_score":"34",
+      "player_team_score":{
+       "propertyValue":"27",
+       "annotationID":       37717
+      },
+      "opponent_score":{
+       "propertyValue":"34",
+       "annotationID":       37714
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -1089,8 +1131,14 @@
       "rushing_attempts":      0,
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
-      "receiving_targets":      8,
-      "receiving_receptions":      3,
+      "receiving_targets":{
+       "propertyValue":"8",
+       "annotationID":       37715
+      },
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       37716
+      },
       "receiving_yards":      54,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1146,7 +1194,10 @@
       "opponent":"STL",
       "game_won":      true,
       "player_team_score":"34",
-      "opponent_score":"27",
+      "opponent_score":{
+       "propertyValue":"27",
+       "annotationID":       37723
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -1158,14 +1209,17 @@
       "rushing_attempts":      0,
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
-      "receiving_targets":      9,
+      "receiving_targets":{
+       "propertyValue":"9",
+       "annotationID":       37722
+      },
       "receiving_receptions":{
        "propertyValue":"8",
-       "annotationID":       21479
+       "annotationID":       37720
       },
       "receiving_yards":{
        "propertyValue":"118",
-       "annotationID":       21480
+       "annotationID":       37721
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1214,17 +1268,26 @@
       "player_id":      163,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       37724
+      },
       "age":"37-023",
       "team":"SFO",
       "game_location":"A",
       "opponent":"STL",
       "game_won":      true,
-      "player_team_score":"34",
+      "player_team_score":{
+       "propertyValue":"34",
+       "annotationID":       37730
+      },
       "opponent_score":"27",
       "passing_attempts":      1,
       "passing_completions":      1,
-      "passing_yards":      14,
+      "passing_yards":{
+       "propertyValue":"14",
+       "annotationID":       37731
+      },
       "passing_rating":      158.3,
       "passing_touchdowns":      1,
       "passing_interceptions":      0,
@@ -1252,8 +1315,14 @@
       "defense_safeties":      0,
       "point_after_attemps":      4,
       "point_after_makes":      4,
-      "field_goal_attempts":      3,
-      "field_goal_makes":      2,
+      "field_goal_attempts":{
+       "propertyValue":"3",
+       "annotationID":       37733
+      },
+      "field_goal_makes":{
+       "propertyValue":"2",
+       "annotationID":       37732
+      },
       "punting_attempts":      0,
       "punting_yards":      0,
       "punting_blocked":      0
@@ -1285,7 +1354,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21482
+       "annotationID":       37735
       },
       "age":"25-147",
       "team":"STL",
@@ -1294,7 +1363,7 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"27",
-       "annotationID":       21481
+       "annotationID":       37734
       },
       "opponent_score":"34",
       "passing_attempts":      0,
@@ -1358,14 +1427,23 @@
       "player_id":      24008,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       37745
+      },
       "age":"29-255",
       "team":"STL",
       "game_location":"H",
       "opponent":"SFO",
       "game_won":      false,
-      "player_team_score":"27",
-      "opponent_score":"34",
+      "player_team_score":{
+       "propertyValue":"27",
+       "annotationID":       37751
+      },
+      "opponent_score":{
+       "propertyValue":"34",
+       "annotationID":       37750
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -1374,10 +1452,22 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      7,
-      "rushing_yards":      17,
-      "rushing_touchdowns":      1,
-      "receiving_targets":      1,
+      "rushing_attempts":{
+       "propertyValue":"7",
+       "annotationID":       37739
+      },
+      "rushing_yards":{
+       "propertyValue":"17",
+       "annotationID":       37736
+      },
+      "rushing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       37748
+      },
+      "receiving_targets":{
+       "propertyValue":"1",
+       "annotationID":       37749
+      },
       "receiving_receptions":      0,
       "receiving_yards":      0,
       "receiving_touchdowns":      0,
@@ -1450,34 +1540,34 @@
       "opponent_score":"13",
       "passing_attempts":{
        "propertyValue":"15",
-       "annotationID":       21483
+       "annotationID":       37759
       },
       "passing_completions":{
        "propertyValue":"25",
-       "annotationID":       21484
+       "annotationID":       37760
       },
       "passing_yards":{
        "propertyValue":"160",
-       "annotationID":       21485
+       "annotationID":       37761
       },
       "passing_rating":      75.4,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21486
+       "annotationID":       37762
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       21487
+       "annotationID":       37763
       },
       "passing_sacks":      7,
       "passing_sacks_yards_lost":      43,
       "rushing_attempts":{
        "propertyValue":"4",
-       "annotationID":       21489
+       "annotationID":       37765
       },
       "rushing_yards":{
        "propertyValue":"30",
-       "annotationID":       21488
+       "annotationID":       37764
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -1539,35 +1629,35 @@
       "player_team_score":"13",
       "opponent_score":{
        "propertyValue":"17",
-       "annotationID":       21492
+       "annotationID":       37775
       },
       "passing_attempts":{
        "propertyValue":"17",
-       "annotationID":       21493
+       "annotationID":       37776
       },
       "passing_completions":{
        "propertyValue":"32",
-       "annotationID":       21494
+       "annotationID":       37777
       },
       "passing_yards":{
        "propertyValue":"200",
-       "annotationID":       21495
+       "annotationID":       37778
       },
       "passing_rating":      46.4,
       "passing_touchdowns":      0,
       "passing_interceptions":{
        "propertyValue":"2",
-       "annotationID":       21490
+       "annotationID":       37773
       },
       "passing_sacks":      1,
       "passing_sacks_yards_lost":      3,
       "rushing_attempts":{
        "propertyValue":"4",
-       "annotationID":       21496
+       "annotationID":       37779
       },
       "rushing_yards":{
        "propertyValue":"2",
-       "annotationID":       21491
+       "annotationID":       37774
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -1628,7 +1718,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"17",
-       "annotationID":       21497
+       "annotationID":       37780
       },
       "opponent_score":"13",
       "passing_attempts":      0,
@@ -1641,11 +1731,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"17",
-       "annotationID":       21498
+       "annotationID":       37781
       },
       "rushing_yards":{
        "propertyValue":"54",
-       "annotationID":       21499
+       "annotationID":       37782
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
@@ -1705,7 +1795,10 @@
       "opponent":"CHI",
       "game_won":      false,
       "player_team_score":"13",
-      "opponent_score":"17",
+      "opponent_score":{
+       "propertyValue":"17",
+       "annotationID":       37787
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -1720,11 +1813,11 @@
       "receiving_targets":      16,
       "receiving_receptions":{
        "propertyValue":"10",
-       "annotationID":       21500
+       "annotationID":       37785
       },
       "receiving_yards":{
        "propertyValue":"115",
-       "annotationID":       21501
+       "annotationID":       37786
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1791,11 +1884,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"15",
-       "annotationID":       21503
+       "annotationID":       37789
       },
       "rushing_yards":{
        "propertyValue":"67",
-       "annotationID":       21502
+       "annotationID":       37788
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      2,
@@ -1880,7 +1973,7 @@
       "defense_sacks":      3.5,
       "defense_tackles":{
        "propertyValue":"3",
-       "annotationID":       21504
+       "annotationID":       37791
       },
       "defense_tackle_assists":      2,
       "defense_interceptions":      0,
@@ -1942,11 +2035,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21505
+       "annotationID":       37792
       },
       "receiving_yards":{
        "propertyValue":"60",
-       "annotationID":       21506
+       "annotationID":       37793
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2099,11 +2192,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21507
+       "annotationID":       37794
       },
       "receiving_yards":{
        "propertyValue":"89",
-       "annotationID":       21508
+       "annotationID":       37795
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2174,11 +2267,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21509
+       "annotationID":       37796
       },
       "receiving_yards":{
        "propertyValue":"64",
-       "annotationID":       21510
+       "annotationID":       37797
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2249,11 +2342,11 @@
       "receiving_targets":      17,
       "receiving_receptions":{
        "propertyValue":"11",
-       "annotationID":       21511
+       "annotationID":       37798
       },
       "receiving_yards":{
        "propertyValue":"244",
-       "annotationID":       21512
+       "annotationID":       37799
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2323,19 +2416,19 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"4",
-       "annotationID":       21517
+       "annotationID":       37812
       },
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       21519
+       "annotationID":       37814
       },
       "receiving_yards":{
        "propertyValue":"52",
-       "annotationID":       21520
+       "annotationID":       37815
       },
       "receiving_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21514
+       "annotationID":       37809
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -2474,11 +2567,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21524
+       "annotationID":       37819
       },
       "receiving_yards":{
        "propertyValue":"116",
-       "annotationID":       21522
+       "annotationID":       37817
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2490,7 +2583,7 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"2",
-       "annotationID":       21525
+       "annotationID":       37820
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -2540,28 +2633,28 @@
       "opponent_score":"45",
       "passing_attempts":{
        "propertyValue":"36",
-       "annotationID":       21526
+       "annotationID":       37827
       },
       "passing_completions":{
        "propertyValue":"59",
-       "annotationID":       21527
+       "annotationID":       37828
       },
       "passing_yards":{
        "propertyValue":"520",
-       "annotationID":       21528
+       "annotationID":       37829
       },
       "passing_rating":      103.8,
       "passing_touchdowns":{
        "propertyValue":"5",
-       "annotationID":       21529
+       "annotationID":       37830
       },
       "passing_interceptions":{
        "propertyValue":"2",
-       "annotationID":       21530
+       "annotationID":       37831
       },
       "passing_sacks":{
        "propertyValue":"2",
-       "annotationID":       21531
+       "annotationID":       37832
       },
       "passing_sacks_yards_lost":      18,
       "rushing_attempts":      0,
@@ -2639,15 +2732,15 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21532
+       "annotationID":       37837
       },
       "receiving_yards":{
        "propertyValue":"24",
-       "annotationID":       21533
+       "annotationID":       37838
       },
       "receiving_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       21535
+       "annotationID":       37840
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -2705,28 +2798,28 @@
       "opponent_score":"41",
       "passing_attempts":{
        "propertyValue":"31",
-       "annotationID":       21538
+       "annotationID":       37849
       },
       "passing_completions":{
        "propertyValue":"44",
-       "annotationID":       21539
+       "annotationID":       37850
       },
       "passing_yards":{
        "propertyValue":"480",
-       "annotationID":       21540
+       "annotationID":       37851
       },
       "passing_rating":      136.4,
       "passing_touchdowns":{
        "propertyValue":"6",
-       "annotationID":       21541
+       "annotationID":       37852
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       21537
+       "annotationID":       37848
       },
       "passing_sacks":{
        "propertyValue":"3",
-       "annotationID":       21536
+       "annotationID":       37847
       },
       "passing_sacks_yards_lost":      11,
       "rushing_attempts":      2,
@@ -2800,18 +2893,18 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"12",
-       "annotationID":       21543
+       "annotationID":       37854
       },
       "rushing_yards":{
        "propertyValue":"48",
-       "annotationID":       21542
+       "annotationID":       37853
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
       "receiving_receptions":      1,
       "receiving_yards":{
        "propertyValue":"80",
-       "annotationID":       21544
+       "annotationID":       37855
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2881,15 +2974,15 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"6",
-       "annotationID":       21548
+       "annotationID":       37859
       },
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21547
+       "annotationID":       37858
       },
       "receiving_yards":{
        "propertyValue":"65",
-       "annotationID":       21546
+       "annotationID":       37857
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2960,15 +3053,15 @@
       "receiving_targets":      15,
       "receiving_receptions":{
        "propertyValue":"9",
-       "annotationID":       21549
+       "annotationID":       37860
       },
       "receiving_yards":{
        "propertyValue":"162",
-       "annotationID":       21550
+       "annotationID":       37861
       },
       "receiving_touchdowns":{
        "propertyValue":"3",
-       "annotationID":       21551
+       "annotationID":       37862
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -3051,7 +3144,7 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21552
+       "annotationID":       37864
       },
       "receiving_yards":      81,
       "receiving_touchdowns":      1,
@@ -3123,11 +3216,11 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21553
+       "annotationID":       37867
       },
       "receiving_yards":{
        "propertyValue":"145",
-       "annotationID":       21554
+       "annotationID":       37868
       },
       "receiving_touchdowns":      2,
       "kick_return_attempts":      0,
@@ -3194,14 +3287,14 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"5",
-       "annotationID":       21556
+       "annotationID":       37872
       },
       "rushing_yards":      67,
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       21555
+       "annotationID":       37871
       },
       "receiving_yards":      22,
       "receiving_touchdowns":      1,
@@ -3273,16 +3366,16 @@
       "receiving_targets":      6,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       21559
+       "annotationID":       37879
       },
       "receiving_yards":{
        "propertyValue":"29",
-       "annotationID":       21560
+       "annotationID":       37880
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":{
        "propertyValue":"2",
-       "annotationID":       21557
+       "annotationID":       37877
       },
       "kick_return_yards":      54,
       "kick_return_touchdowns":      0,
@@ -3347,18 +3440,18 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"9",
-       "annotationID":       21561
+       "annotationID":       37881
       },
       "rushing_yards":{
        "propertyValue":"79",
-       "annotationID":       21562
+       "annotationID":       37882
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      2,
       "receiving_receptions":      2,
       "receiving_yards":{
        "propertyValue":"7",
-       "annotationID":       21563
+       "annotationID":       37883
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3705,11 +3798,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21564
+       "annotationID":       37884
       },
       "receiving_yards":{
        "propertyValue":"86",
-       "annotationID":       21565
+       "annotationID":       37885
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -3849,11 +3942,11 @@
       "receiving_targets":      9,
       "receiving_receptions":{
        "propertyValue":"8",
-       "annotationID":       21566
+       "annotationID":       37888
       },
       "receiving_yards":{
        "propertyValue":"97",
-       "annotationID":       21567
+       "annotationID":       37889
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -4127,11 +4220,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"7",
-       "annotationID":       21568
+       "annotationID":       37890
       },
       "rushing_yards":{
        "propertyValue":"53",
-       "annotationID":       21569
+       "annotationID":       37891
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
@@ -4332,20 +4425,20 @@
       "opponent_score":"17",
       "passing_attempts":{
        "propertyValue":"28",
-       "annotationID":       21570
+       "annotationID":       37897
       },
       "passing_completions":{
        "propertyValue":"35",
-       "annotationID":       21571
+       "annotationID":       37898
       },
       "passing_yards":{
        "propertyValue":"389",
-       "annotationID":       21572
+       "annotationID":       37899
       },
       "passing_rating":      140.7,
       "passing_touchdowns":{
        "propertyValue":"5",
-       "annotationID":       21573
+       "annotationID":       37900
       },
       "passing_interceptions":      1,
       "passing_sacks":      0,
@@ -4353,7 +4446,7 @@
       "rushing_attempts":      1,
       "rushing_yards":{
        "propertyValue":"5",
-       "annotationID":       21574
+       "annotationID":       37901
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -4416,34 +4509,34 @@
       "opponent_score":"45",
       "passing_attempts":{
        "propertyValue":"15",
-       "annotationID":       21575
+       "annotationID":       37909
       },
       "passing_completions":{
        "propertyValue":"25",
-       "annotationID":       21576
+       "annotationID":       37910
       },
       "passing_yards":{
        "propertyValue":"158",
-       "annotationID":       21577
+       "annotationID":       37911
       },
       "passing_rating":      75.1,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21578
+       "annotationID":       37912
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       21579
+       "annotationID":       37913
       },
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      21,
       "rushing_attempts":{
        "propertyValue":"6",
-       "annotationID":       21581
+       "annotationID":       37915
       },
       "rushing_yards":{
        "propertyValue":"32",
-       "annotationID":       21580
+       "annotationID":       37914
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -4498,7 +4591,7 @@
       "date":"2011-12-26",
       "game_number":{
        "propertyValue":"15",
-       "annotationID":       21583
+       "annotationID":       37919
       },
       "age":"23-279",
       "team":"NOR",
@@ -4517,7 +4610,7 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"8",
-       "annotationID":       21582
+       "annotationID":       37918
       },
       "rushing_yards":      35,
       "rushing_touchdowns":      0,
@@ -4589,15 +4682,15 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"19",
-       "annotationID":       21585
+       "annotationID":       37924
       },
       "rushing_yards":{
        "propertyValue":"127",
-       "annotationID":       21586
+       "annotationID":       37925
       },
       "rushing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21584
+       "annotationID":       37923
       },
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -4664,7 +4757,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21587
+       "annotationID":       37926
       },
       "age":"23-133",
       "team":"HOU",
@@ -4683,11 +4776,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"16",
-       "annotationID":       21588
+       "annotationID":       37927
       },
       "rushing_yards":{
        "propertyValue":"97",
-       "annotationID":       21589
+       "annotationID":       37928
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      5,
@@ -4750,15 +4843,15 @@
       "opponent_score":"23",
       "passing_attempts":{
        "propertyValue":"18",
-       "annotationID":       21590
+       "annotationID":       37933
       },
       "passing_completions":{
        "propertyValue":"28",
-       "annotationID":       21592
+       "annotationID":       37935
       },
       "passing_yards":{
        "propertyValue":"211",
-       "annotationID":       21593
+       "annotationID":       37936
       },
       "passing_rating":      99,
       "passing_touchdowns":      1,
@@ -4766,7 +4859,7 @@
       "passing_sacks":      2,
       "passing_sacks_yards_lost":{
        "propertyValue":"18",
-       "annotationID":       21591
+       "annotationID":       37934
       },
       "rushing_attempts":      0,
       "rushing_yards":      0,
@@ -4839,11 +4932,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"15",
-       "annotationID":       21594
+       "annotationID":       37939
       },
       "rushing_yards":{
        "propertyValue":"61",
-       "annotationID":       21595
+       "annotationID":       37940
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
@@ -4987,11 +5080,11 @@
       "receiving_targets":      9,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21596
+       "annotationID":       37943
       },
       "receiving_yards":{
        "propertyValue":"92",
-       "annotationID":       21597
+       "annotationID":       37944
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -5130,15 +5223,15 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"2",
-       "annotationID":       21598
+       "annotationID":       37945
       },
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       21599
+       "annotationID":       37946
       },
       "receiving_yards":{
        "propertyValue":"21",
-       "annotationID":       21600
+       "annotationID":       37947
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5196,30 +5289,30 @@
       "player_team_score":"23",
       "opponent_score":{
        "propertyValue":"22",
-       "annotationID":       21601
+       "annotationID":       37948
       },
       "passing_attempts":{
        "propertyValue":"22",
-       "annotationID":       21602
+       "annotationID":       37949
       },
       "passing_completions":{
        "propertyValue":"35",
-       "annotationID":       21604
+       "annotationID":       37951
       },
       "passing_yards":{
        "propertyValue":"297",
-       "annotationID":       21605
+       "annotationID":       37952
       },
       "passing_rating":      108.9,
       "passing_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       21606
+       "annotationID":       37953
       },
       "passing_interceptions":      0,
       "passing_sacks":      3,
       "passing_sacks_yards_lost":{
        "propertyValue":"22",
-       "annotationID":       21603
+       "annotationID":       37950
       },
       "rushing_attempts":      1,
       "rushing_yards":      -1,
@@ -5284,15 +5377,15 @@
       "opponent_score":"23",
       "passing_attempts":{
        "propertyValue":"4",
-       "annotationID":       21609
+       "annotationID":       37961
       },
       "passing_completions":{
        "propertyValue":"4",
-       "annotationID":       21610
+       "annotationID":       37962
       },
       "passing_yards":{
        "propertyValue":"47",
-       "annotationID":       21611
+       "annotationID":       37963
       },
       "passing_rating":      115.6,
       "passing_touchdowns":      0,
@@ -5373,15 +5466,15 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"7",
-       "annotationID":       21612
+       "annotationID":       37964
       },
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21613
+       "annotationID":       37965
       },
       "receiving_yards":{
        "propertyValue":"91",
-       "annotationID":       21614
+       "annotationID":       37966
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5461,11 +5554,11 @@
       "punt_return_touchdowns":      0,
       "defense_sacks":{
        "propertyValue":"2",
-       "annotationID":       21615
+       "annotationID":       37969
       },
       "defense_tackles":{
        "propertyValue":"2",
-       "annotationID":       21616
+       "annotationID":       37970
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -5526,35 +5619,35 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"19",
-       "annotationID":       21618
+       "annotationID":       37979
       },
       "opponent_score":{
        "propertyValue":"13",
-       "annotationID":       21621
+       "annotationID":       37982
       },
       "passing_attempts":{
        "propertyValue":"11",
-       "annotationID":       21617
+       "annotationID":       37978
       },
       "passing_completions":{
        "propertyValue":"19",
-       "annotationID":       21619
+       "annotationID":       37980
       },
       "passing_yards":{
        "propertyValue":"92",
-       "annotationID":       21620
+       "annotationID":       37981
       },
       "passing_rating":      88,
       "passing_touchdowns":      1,
       "passing_interceptions":      0,
       "passing_sacks":{
        "propertyValue":"3",
-       "annotationID":       21622
+       "annotationID":       37983
       },
       "passing_sacks_yards_lost":      21,
       "rushing_attempts":{
        "propertyValue":"3",
-       "annotationID":       21623
+       "annotationID":       37984
       },
       "rushing_yards":      -3,
       "rushing_touchdowns":      0,
@@ -5626,17 +5719,17 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"25",
-       "annotationID":       21625
+       "annotationID":       37990
       },
       "rushing_yards":{
        "propertyValue":"169",
-       "annotationID":       21624
+       "annotationID":       37989
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
       "receiving_receptions":{
        "propertyValue":"1",
-       "annotationID":       21627
+       "annotationID":       37992
       },
       "receiving_yards":      4,
       "receiving_touchdowns":      0,
@@ -5708,11 +5801,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"9",
-       "annotationID":       21628
+       "annotationID":       37993
       },
       "receiving_yards":{
        "propertyValue":"96",
-       "annotationID":       21629
+       "annotationID":       37994
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -5794,7 +5887,7 @@
       "defense_tackles":      8,
       "defense_tackle_assists":{
        "propertyValue":"2",
-       "annotationID":       21630
+       "annotationID":       37996
       },
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -5841,41 +5934,41 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"13",
-       "annotationID":       21632
+       "annotationID":       38011
       },
       "opponent_score":{
        "propertyValue":"19",
-       "annotationID":       21631
+       "annotationID":       38010
       },
       "passing_attempts":{
        "propertyValue":"27",
-       "annotationID":       21641
+       "annotationID":       38020
       },
       "passing_completions":{
        "propertyValue":"40",
-       "annotationID":       21642
+       "annotationID":       38021
       },
       "passing_yards":{
        "propertyValue":"264",
-       "annotationID":       21643
+       "annotationID":       38022
       },
       "passing_rating":      73.3,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21638
+       "annotationID":       38017
       },
       "passing_interceptions":{
        "propertyValue":"2",
-       "annotationID":       21640
+       "annotationID":       38019
       },
       "passing_sacks":{
        "propertyValue":"3",
-       "annotationID":       21633
+       "annotationID":       38012
       },
       "passing_sacks_yards_lost":      22,
       "rushing_attempts":{
        "propertyValue":"1",
-       "annotationID":       21639
+       "annotationID":       38018
       },
       "rushing_yards":      7,
       "rushing_touchdowns":      0,
@@ -5951,11 +6044,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"8",
-       "annotationID":       21644
+       "annotationID":       38023
       },
       "receiving_yards":{
        "propertyValue":"73",
-       "annotationID":       21645
+       "annotationID":       38024
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6311,11 +6404,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"14",
-       "annotationID":       21646
+       "annotationID":       38025
       },
       "rushing_yards":{
        "propertyValue":"55",
-       "annotationID":       21647
+       "annotationID":       38026
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      2,
@@ -6399,23 +6492,23 @@
       "punt_return_touchdowns":      0,
       "defense_sacks":{
        "propertyValue":"1",
-       "annotationID":       21650
+       "annotationID":       38034
       },
       "defense_tackles":{
        "propertyValue":"1",
-       "annotationID":       21651
+       "annotationID":       38035
       },
       "defense_tackle_assists":{
        "propertyValue":"1",
-       "annotationID":       21652
+       "annotationID":       38036
       },
       "defense_interceptions":{
        "propertyValue":"2",
-       "annotationID":       21649
+       "annotationID":       38033
       },
       "defense_interception_yards":{
        "propertyValue":"21",
-       "annotationID":       21648
+       "annotationID":       38032
       },
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
@@ -6476,7 +6569,7 @@
       "receiving_yards":      45,
       "receiving_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21653
+       "annotationID":       38038
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -6683,7 +6776,7 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"1",
-       "annotationID":       21654
+       "annotationID":       38039
       },
       "receiving_receptions":      0,
       "receiving_yards":      0,
@@ -6813,34 +6906,34 @@
       "opponent_score":"19",
       "passing_attempts":{
        "propertyValue":"21",
-       "annotationID":       21658
+       "annotationID":       38053
       },
       "passing_completions":{
        "propertyValue":"32",
-       "annotationID":       21659
+       "annotationID":       38054
       },
       "passing_yards":      207,
       "passing_rating":      65.5,
       "passing_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       21660
+       "annotationID":       38055
       },
       "passing_interceptions":{
        "propertyValue":"3",
-       "annotationID":       21663
+       "annotationID":       38058
       },
       "passing_sacks":{
        "propertyValue":"2",
-       "annotationID":       21661
+       "annotationID":       38056
       },
       "passing_sacks_yards_lost":{
        "propertyValue":"3",
-       "annotationID":       21664
+       "annotationID":       38059
       },
       "rushing_attempts":      1,
       "rushing_yards":{
        "propertyValue":"2",
-       "annotationID":       21662
+       "annotationID":       38057
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -6905,9 +6998,15 @@
       "passing_completions":      32,
       "passing_yards":      135,
       "passing_rating":      61.3,
-      "passing_touchdowns":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38060
+      },
       "passing_interceptions":      2,
-      "passing_sacks":      1,
+      "passing_sacks":{
+       "propertyValue":"1",
+       "annotationID":       38061
+      },
       "passing_sacks_yards_lost":      7,
       "rushing_attempts":      3,
       "rushing_yards":      -1,
@@ -6997,7 +7096,7 @@
       "defense_interceptions":      1,
       "defense_interception_yards":{
        "propertyValue":"55",
-       "annotationID":       21665
+       "annotationID":       38062
       },
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
@@ -7042,28 +7141,49 @@
       "game_won":      false,
       "player_team_score":"17",
       "opponent_score":"19",
-      "passing_attempts":      1,
-      "passing_completions":      1,
+      "passing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       38069
+      },
+      "passing_completions":{
+       "propertyValue":"1",
+       "annotationID":       38070
+      },
       "passing_yards":{
        "propertyValue":"41",
-       "annotationID":       21666
+       "annotationID":       38064
       },
       "passing_rating":      118.7,
       "passing_touchdowns":      0,
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       38071
+      },
       "rushing_yards":      16,
       "rushing_touchdowns":      0,
-      "receiving_targets":      6,
-      "receiving_receptions":      4,
-      "receiving_yards":      71,
+      "receiving_targets":{
+       "propertyValue":"6",
+       "annotationID":       38073
+      },
+      "receiving_receptions":{
+       "propertyValue":"4",
+       "annotationID":       38074
+      },
+      "receiving_yards":{
+       "propertyValue":"71",
+       "annotationID":       38075
+      },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
-      "punt_return_attempts":      2,
+      "punt_return_attempts":{
+       "propertyValue":"2",
+       "annotationID":       38072
+      },
       "punt_return_yards":      26,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
@@ -7129,7 +7249,7 @@
       "receiving_receptions":      5,
       "receiving_yards":{
        "propertyValue":"50",
-       "annotationID":       21667
+       "annotationID":       38076
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7334,11 +7454,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"11",
-       "annotationID":       21668
+       "annotationID":       38077
       },
       "rushing_yards":{
        "propertyValue":"55",
-       "annotationID":       21669
+       "annotationID":       38078
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -7418,15 +7538,15 @@
       "passing_rating":      60.7,
       "passing_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       21673
+       "annotationID":       38087
       },
       "passing_interceptions":{
        "propertyValue":"4",
-       "annotationID":       21672
+       "annotationID":       38086
       },
       "passing_sacks":{
        "propertyValue":"2",
-       "annotationID":       21674
+       "annotationID":       38088
       },
       "passing_sacks_yards_lost":      11,
       "rushing_attempts":      5,
@@ -7500,18 +7620,18 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"2",
-       "annotationID":       21677
+       "annotationID":       38091
       },
       "rushing_yards":      26,
       "rushing_touchdowns":      0,
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21675
+       "annotationID":       38089
       },
       "receiving_yards":{
        "propertyValue":"138",
-       "annotationID":       21676
+       "annotationID":       38090
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -7581,15 +7701,15 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"3",
-       "annotationID":       21678
+       "annotationID":       38092
       },
       "receiving_receptions":{
        "propertyValue":"3",
-       "annotationID":       21679
+       "annotationID":       38093
       },
       "receiving_yards":{
        "propertyValue":"29",
-       "annotationID":       21680
+       "annotationID":       38094
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7660,11 +7780,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21681
+       "annotationID":       38095
       },
       "receiving_yards":{
        "propertyValue":"51",
-       "annotationID":       21682
+       "annotationID":       38096
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7735,11 +7855,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21683
+       "annotationID":       38097
       },
       "receiving_yards":{
        "propertyValue":"40",
-       "annotationID":       21684
+       "annotationID":       38098
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -7798,20 +7918,20 @@
       "opponent_score":"21",
       "passing_attempts":{
        "propertyValue":"23",
-       "annotationID":       21685
+       "annotationID":       38103
       },
       "passing_completions":{
        "propertyValue":"35",
-       "annotationID":       21686
+       "annotationID":       38104
       },
       "passing_yards":{
        "propertyValue":"338",
-       "annotationID":       21687
+       "annotationID":       38105
       },
       "passing_rating":      113.7,
       "passing_touchdowns":{
        "propertyValue":"3",
-       "annotationID":       21688
+       "annotationID":       38106
       },
       "passing_interceptions":      1,
       "passing_sacks":      4,
@@ -7887,11 +8007,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"15",
-       "annotationID":       21689
+       "annotationID":       38109
       },
       "rushing_yards":{
        "propertyValue":"81",
-       "annotationID":       21690
+       "annotationID":       38110
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -7966,15 +8086,15 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"8",
-       "annotationID":       21691
+       "annotationID":       38111
       },
       "receiving_yards":{
        "propertyValue":"108",
-       "annotationID":       21692
+       "annotationID":       38112
       },
       "receiving_touchdowns":{
        "propertyValue":"2",
-       "annotationID":       21693
+       "annotationID":       38113
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -8040,7 +8160,7 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"7",
-       "annotationID":       21694
+       "annotationID":       38114
       },
       "rushing_yards":      22,
       "rushing_touchdowns":      2,
@@ -8114,7 +8234,10 @@
       "opponent":"NOR",
       "game_won":      false,
       "player_team_score":"16",
-      "opponent_score":"45",
+      "opponent_score":{
+       "propertyValue":"45",
+       "annotationID":       38119
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -8128,11 +8251,11 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"4",
-       "annotationID":       21695
+       "annotationID":       38120
       },
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21696
+       "annotationID":       38121
       },
       "receiving_yards":      36,
       "receiving_touchdowns":      0,
@@ -8188,7 +8311,10 @@
       "game_location":"H",
       "opponent":"TAM",
       "game_won":      true,
-      "player_team_score":"45",
+      "player_team_score":{
+       "propertyValue":"45",
+       "annotationID":       38122
+      },
       "opponent_score":"24",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -8198,9 +8324,18 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      17,
-      "rushing_yards":      172,
-      "rushing_touchdowns":      2,
+      "rushing_attempts":{
+       "propertyValue":"17",
+       "annotationID":       38127
+      },
+      "rushing_yards":{
+       "propertyValue":"172",
+       "annotationID":       38125
+      },
+      "rushing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       38126
+      },
       "receiving_targets":      1,
       "receiving_receptions":      0,
       "receiving_yards":      0,
@@ -8327,16 +8462,25 @@
       "opponent":"NOR",
       "game_won":      false,
       "player_team_score":"16",
-      "opponent_score":"45",
+      "opponent_score":{
+       "propertyValue":"45",
+       "annotationID":       38129
+      },
       "passing_attempts":      34,
       "passing_completions":      52,
       "passing_yards":      373,
       "passing_rating":      92.9,
-      "passing_touchdowns":      1,
+      "passing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38128
+      },
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      2,
+      "rushing_attempts":{
+       "propertyValue":"2",
+       "annotationID":       38132
+      },
       "rushing_yards":      -3,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -8395,13 +8539,28 @@
       "game_location":"H",
       "opponent":"TAM",
       "game_won":      true,
-      "player_team_score":"45",
+      "player_team_score":{
+       "propertyValue":"45",
+       "annotationID":       38133
+      },
       "opponent_score":"24",
-      "passing_attempts":      6,
-      "passing_completions":      9,
-      "passing_yards":      106,
+      "passing_attempts":{
+       "propertyValue":"6",
+       "annotationID":       38135
+      },
+      "passing_completions":{
+       "propertyValue":"9",
+       "annotationID":       38136
+      },
+      "passing_yards":{
+       "propertyValue":"106",
+       "annotationID":       38137
+      },
       "passing_rating":      146.3,
-      "passing_touchdowns":      2,
+      "passing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       38139
+      },
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
@@ -8605,7 +8764,7 @@
       "player_team_score":"16",
       "opponent_score":{
        "propertyValue":"45",
-       "annotationID":       21697
+       "annotationID":       38142
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -8631,9 +8790,12 @@
       "defense_sacks":      0,
       "defense_tackles":{
        "propertyValue":"3",
-       "annotationID":       21698
+       "annotationID":       38143
       },
-      "defense_tackle_assists":      6,
+      "defense_tackle_assists":{
+       "propertyValue":"6",
+       "annotationID":       38144
+      },
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
       "defense_interception_touchdowns":      0,
@@ -8679,7 +8841,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"45",
-       "annotationID":       21699
+       "annotationID":       38147
       },
       "opponent_score":"24",
       "passing_attempts":      0,
@@ -8705,11 +8867,14 @@
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
       "defense_tackles":      8,
-      "defense_tackle_assists":      6,
+      "defense_tackle_assists":{
+       "propertyValue":"6",
+       "annotationID":       38149
+      },
       "defense_interceptions":      1,
       "defense_interception_yards":{
        "propertyValue":"26",
-       "annotationID":       21700
+       "annotationID":       38148
       },
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
@@ -8845,7 +9010,10 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      1,
+      "defense_tackles":{
+       "propertyValue":"1",
+       "annotationID":       38150
+      },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -8906,7 +9074,10 @@
       "receiving_targets":      14,
       "receiving_receptions":      8,
       "receiving_yards":      128,
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38151
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -8969,7 +9140,10 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       38152
+      },
       "rushing_yards":      9,
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
@@ -9113,7 +9287,7 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21701
+       "annotationID":       38153
       },
       "receiving_yards":      56,
       "receiving_touchdowns":      0,
@@ -9308,7 +9482,10 @@
       "opponent":"ATL",
       "game_won":      false,
       "player_team_score":"24",
-      "opponent_score":"45",
+      "opponent_score":{
+       "propertyValue":"45",
+       "annotationID":       38154
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -9323,7 +9500,10 @@
       "receiving_targets":      11,
       "receiving_receptions":      8,
       "receiving_yards":      53,
-      "receiving_touchdowns":      2,
+      "receiving_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       38159
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -9331,7 +9511,10 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      2,
+      "defense_tackles":{
+       "propertyValue":"2",
+       "annotationID":       38160
+      },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -9461,11 +9644,11 @@
       "receiving_targets":      9,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21702
+       "annotationID":       38161
       },
       "receiving_yards":{
        "propertyValue":"69",
-       "annotationID":       21703
+       "annotationID":       38162
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9742,7 +9925,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"24",
-       "annotationID":       21705
+       "annotationID":       38166
       },
       "opponent_score":"16",
       "passing_attempts":      0,
@@ -9763,7 +9946,7 @@
       "kick_return_attempts":      1,
       "kick_return_yards":{
        "propertyValue":"22",
-       "annotationID":       21704
+       "annotationID":       38165
       },
       "kick_return_touchdowns":      0,
       "punt_return_attempts":      1,
@@ -9818,34 +10001,34 @@
       "player_team_score":"16",
       "opponent_score":{
        "propertyValue":"24",
-       "annotationID":       21712
+       "annotationID":       38173
       },
       "passing_attempts":{
        "propertyValue":"22",
-       "annotationID":       21709
+       "annotationID":       38170
       },
       "passing_completions":{
        "propertyValue":"44",
-       "annotationID":       21710
+       "annotationID":       38171
       },
       "passing_yards":{
        "propertyValue":"232",
-       "annotationID":       21711
+       "annotationID":       38172
       },
       "passing_rating":      65.7,
       "passing_touchdowns":      0,
       "passing_interceptions":      0,
       "passing_sacks":{
        "propertyValue":"1",
-       "annotationID":       21707
+       "annotationID":       38168
       },
       "passing_sacks_yards_lost":{
        "propertyValue":"1",
-       "annotationID":       21708
+       "annotationID":       38169
       },
       "rushing_attempts":{
        "propertyValue":"4",
-       "annotationID":       21706
+       "annotationID":       38167
       },
       "rushing_yards":      17,
       "rushing_touchdowns":      0,
@@ -9988,15 +10171,15 @@
       "rushing_yards":      34,
       "rushing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21715
+       "annotationID":       38176
       },
       "receiving_targets":{
        "propertyValue":"2",
-       "annotationID":       21714
+       "annotationID":       38175
       },
       "receiving_receptions":{
        "propertyValue":"1",
-       "annotationID":       21716
+       "annotationID":       38177
       },
       "receiving_yards":      8,
       "receiving_touchdowns":      0,
@@ -10068,11 +10251,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21717
+       "annotationID":       38178
       },
       "receiving_yards":{
        "propertyValue":"62",
-       "annotationID":       21718
+       "annotationID":       38179
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -10131,15 +10314,15 @@
       "opponent_score":"16",
       "passing_attempts":{
        "propertyValue":"15",
-       "annotationID":       21719
+       "annotationID":       38180
       },
       "passing_completions":{
        "propertyValue":"19",
-       "annotationID":       21720
+       "annotationID":       38181
       },
       "passing_yards":{
        "propertyValue":"130",
-       "annotationID":       21721
+       "annotationID":       38182
       },
       "passing_rating":      112.7,
       "passing_touchdowns":      1,
@@ -10205,7 +10388,10 @@
       "game_location":"A",
       "opponent":"CIN",
       "game_won":      true,
-      "player_team_score":"24",
+      "player_team_score":{
+       "propertyValue":"24",
+       "annotationID":       38193
+      },
       "opponent_score":"16",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -10215,11 +10401,26 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      24,
-      "rushing_yards":      191,
-      "rushing_touchdowns":      2,
-      "receiving_targets":      2,
-      "receiving_receptions":      2,
+      "rushing_attempts":{
+       "propertyValue":"24",
+       "annotationID":       38194
+      },
+      "rushing_yards":{
+       "propertyValue":"191",
+       "annotationID":       38192
+      },
+      "rushing_touchdowns":{
+       "propertyValue":"2",
+       "annotationID":       38195
+      },
+      "receiving_targets":{
+       "propertyValue":"2",
+       "annotationID":       38196
+      },
+      "receiving_receptions":{
+       "propertyValue":"2",
+       "annotationID":       38197
+      },
       "receiving_yards":      8,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10424,11 +10625,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"13",
-       "annotationID":       21723
+       "annotationID":       38201
       },
       "rushing_yards":{
        "propertyValue":"51",
-       "annotationID":       21722
+       "annotationID":       38200
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
@@ -10512,11 +10713,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"19",
-       "annotationID":       21724
+       "annotationID":       38204
       },
       "rushing_yards":{
        "propertyValue":"92",
-       "annotationID":       21725
+       "annotationID":       38205
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      5,
@@ -10591,11 +10792,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       21726
+       "annotationID":       38206
       },
       "receiving_yards":{
        "propertyValue":"24",
-       "annotationID":       21727
+       "annotationID":       38207
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10644,7 +10845,10 @@
       "player_id":      23158,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       38212
+      },
       "age":"25-153",
       "team":"PIT",
       "game_location":"A",
@@ -10666,11 +10870,11 @@
       "receiving_targets":      5,
       "receiving_receptions":{
        "propertyValue":"1",
-       "annotationID":       21728
+       "annotationID":       38210
       },
       "receiving_yards":{
        "propertyValue":"11",
-       "annotationID":       21729
+       "annotationID":       38211
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10721,7 +10925,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21730
+       "annotationID":       38220
       },
       "age":"31-148",
       "team":"CLE",
@@ -10732,28 +10936,31 @@
       "opponent_score":"13",
       "passing_attempts":{
        "propertyValue":"16",
-       "annotationID":       21731
+       "annotationID":       38221
       },
       "passing_completions":{
        "propertyValue":"41",
-       "annotationID":       21732
+       "annotationID":       38222
       },
       "passing_yards":{
        "propertyValue":"177",
-       "annotationID":       21733
+       "annotationID":       38223
       },
       "passing_rating":      42.4,
       "passing_touchdowns":      0,
-      "passing_interceptions":      1,
+      "passing_interceptions":{
+       "propertyValue":"1",
+       "annotationID":       38219
+      },
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      9,
       "rushing_attempts":{
        "propertyValue":"3",
-       "annotationID":       21735
+       "annotationID":       38225
       },
       "rushing_yards":{
        "propertyValue":"44",
-       "annotationID":       21734
+       "annotationID":       38224
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -10824,11 +11031,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"8",
-       "annotationID":       21736
+       "annotationID":       38226
       },
       "rushing_yards":{
        "propertyValue":"38",
-       "annotationID":       21737
+       "annotationID":       38227
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -10891,15 +11098,15 @@
       "opponent_score":"9",
       "passing_attempts":{
        "propertyValue":"23",
-       "annotationID":       21738
+       "annotationID":       38228
       },
       "passing_completions":{
        "propertyValue":"40",
-       "annotationID":       21739
+       "annotationID":       38229
       },
       "passing_yards":{
        "propertyValue":"221",
-       "annotationID":       21740
+       "annotationID":       38230
       },
       "passing_rating":      73,
       "passing_touchdowns":      0,
@@ -10981,11 +11188,11 @@
       "receiving_targets":      10,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21741
+       "annotationID":       38231
       },
       "receiving_yards":{
        "propertyValue":"90",
-       "annotationID":       21742
+       "annotationID":       38232
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      3,
@@ -11052,11 +11259,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"10",
-       "annotationID":       21743
+       "annotationID":       38233
       },
       "rushing_yards":{
        "propertyValue":"30",
-       "annotationID":       21744
+       "annotationID":       38234
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
@@ -11122,13 +11329,19 @@
       "player_id":      7061,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       38244
+      },
       "age":"30-115",
       "team":"SDG",
       "game_location":"A",
       "opponent":"OAK",
       "game_won":      true,
-      "player_team_score":"38",
+      "player_team_score":{
+       "propertyValue":"38",
+       "annotationID":       38235
+      },
       "opponent_score":"26",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -11141,10 +11354,22 @@
       "rushing_attempts":      0,
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
-      "receiving_targets":      9,
-      "receiving_receptions":      7,
-      "receiving_yards":      127,
-      "receiving_touchdowns":      1,
+      "receiving_targets":{
+       "propertyValue":"9",
+       "annotationID":       38243
+      },
+      "receiving_receptions":{
+       "propertyValue":"7",
+       "annotationID":       38245
+      },
+      "receiving_yards":{
+       "propertyValue":"127",
+       "annotationID":       38246
+      },
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38242
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -11197,7 +11422,10 @@
       "game_location":"H",
       "opponent":"SDG",
       "game_won":      false,
-      "player_team_score":"26",
+      "player_team_score":{
+       "propertyValue":"26",
+       "annotationID":       38247
+      },
       "opponent_score":"38",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -11275,7 +11503,7 @@
       "passing_touchdowns":      2,
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       21746
+       "annotationID":       38251
       },
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
@@ -11332,14 +11560,23 @@
       "player_id":      10853,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       38276
+      },
       "age":"28-352",
       "team":"SDG",
       "game_location":"A",
       "opponent":"OAK",
       "game_won":      true,
-      "player_team_score":"38",
-      "opponent_score":"26",
+      "player_team_score":{
+       "propertyValue":"38",
+       "annotationID":       38263
+      },
+      "opponent_score":{
+       "propertyValue":"26",
+       "annotationID":       38261
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -11348,22 +11585,28 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       38270
+      },
       "rushing_yards":      41,
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"5",
-       "annotationID":       21749
+       "annotationID":       38280
       },
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       21747
+       "annotationID":       38278
       },
       "receiving_yards":{
        "propertyValue":"29",
-       "annotationID":       21748
+       "annotationID":       38279
       },
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38271
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -11371,7 +11614,10 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
-      "defense_tackles":      1,
+      "defense_tackles":{
+       "propertyValue":"1",
+       "annotationID":       38272
+      },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -11412,7 +11658,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21756
+       "annotationID":       38297
       },
       "age":"27-355",
       "team":"OAK",
@@ -11421,11 +11667,11 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"26",
-       "annotationID":       21759
+       "annotationID":       38300
       },
       "opponent_score":{
        "propertyValue":"38",
-       "annotationID":       21758
+       "annotationID":       38299
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -11440,19 +11686,19 @@
       "rushing_touchdowns":      0,
       "receiving_targets":{
        "propertyValue":"3",
-       "annotationID":       21754
+       "annotationID":       38295
       },
       "receiving_receptions":{
        "propertyValue":"3",
-       "annotationID":       21755
+       "annotationID":       38296
       },
       "receiving_yards":{
        "propertyValue":"33",
-       "annotationID":       21753
+       "annotationID":       38294
       },
       "receiving_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21752
+       "annotationID":       38293
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -11507,7 +11753,10 @@
       "opponent":"SDG",
       "game_won":      false,
       "player_team_score":"26",
-      "opponent_score":"38",
+      "opponent_score":{
+       "propertyValue":"38",
+       "annotationID":       38301
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -11520,9 +11769,18 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":      17,
-      "receiving_receptions":      9,
-      "receiving_yards":      130,
-      "receiving_touchdowns":      1,
+      "receiving_receptions":{
+       "propertyValue":"9",
+       "annotationID":       38303
+      },
+      "receiving_yards":{
+       "propertyValue":"130",
+       "annotationID":       38304
+      },
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38305
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -11569,14 +11827,23 @@
       "player_id":      8101,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       38310
+      },
       "age":"24-253",
       "team":"SDG",
       "game_location":"A",
       "opponent":"OAK",
       "game_won":      true,
-      "player_team_score":"38",
-      "opponent_score":"26",
+      "player_team_score":{
+       "propertyValue":"38",
+       "annotationID":       38312
+      },
+      "opponent_score":{
+       "propertyValue":"26",
+       "annotationID":       38313
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -11594,12 +11861,12 @@
       "receiving_touchdowns":      0,
       "kick_return_attempts":{
        "propertyValue":"6",
-       "annotationID":       21761
+       "annotationID":       38314
       },
       "kick_return_yards":      215,
       "kick_return_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21760
+       "annotationID":       38308
       },
       "punt_return_attempts":      0,
       "punt_return_yards":      0,
@@ -11650,34 +11917,37 @@
       "game_location":"A",
       "opponent":"OAK",
       "game_won":      true,
-      "player_team_score":"38",
+      "player_team_score":{
+       "propertyValue":"38",
+       "annotationID":       38327
+      },
       "opponent_score":{
        "propertyValue":"26",
-       "annotationID":       21763
+       "annotationID":       38322
       },
       "passing_attempts":{
        "propertyValue":"19",
-       "annotationID":       21762
+       "annotationID":       38321
       },
       "passing_completions":{
        "propertyValue":"26",
-       "annotationID":       21764
+       "annotationID":       38323
       },
       "passing_yards":{
        "propertyValue":"310",
-       "annotationID":       21765
+       "annotationID":       38324
       },
       "passing_rating":      135.1,
       "passing_touchdowns":{
        "propertyValue":"3",
-       "annotationID":       21766
+       "annotationID":       38325
       },
       "passing_interceptions":      1,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"3",
-       "annotationID":       21767
+       "annotationID":       38326
       },
       "rushing_yards":      -3,
       "rushing_touchdowns":      0,
@@ -11739,7 +12009,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"38",
-       "annotationID":       21769
+       "annotationID":       38329
       },
       "opponent_score":"26",
       "passing_attempts":      0,
@@ -11769,7 +12039,7 @@
       "defense_interceptions":      1,
       "defense_interception_yards":{
        "propertyValue":"5",
-       "annotationID":       21768
+       "annotationID":       38328
       },
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
@@ -11814,7 +12084,7 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"38",
-       "annotationID":       21770
+       "annotationID":       38331
       },
       "opponent_score":"26",
       "passing_attempts":      0,
@@ -11831,7 +12101,10 @@
       "receiving_targets":      5,
       "receiving_receptions":      5,
       "receiving_yards":      106,
-      "receiving_touchdowns":      1,
+      "receiving_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38333
+      },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
@@ -11884,7 +12157,10 @@
       "game_location":"A",
       "opponent":"OAK",
       "game_won":      true,
-      "player_team_score":"38",
+      "player_team_score":{
+       "propertyValue":"38",
+       "annotationID":       38334
+      },
       "opponent_score":"26",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -11894,11 +12170,23 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      9,
+      "rushing_attempts":{
+       "propertyValue":"9",
+       "annotationID":       38338
+      },
       "rushing_yards":      58,
-      "rushing_touchdowns":      1,
-      "receiving_targets":      1,
-      "receiving_receptions":      1,
+      "rushing_touchdowns":{
+       "propertyValue":"1",
+       "annotationID":       38339
+      },
+      "receiving_targets":{
+       "propertyValue":"1",
+       "annotationID":       38340
+      },
+      "receiving_receptions":{
+       "propertyValue":"1",
+       "annotationID":       38341
+      },
       "receiving_yards":      13,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11954,7 +12242,10 @@
       "opponent":"SDG",
       "game_won":      false,
       "player_team_score":"26",
-      "opponent_score":"38",
+      "opponent_score":{
+       "propertyValue":"38",
+       "annotationID":       38342
+      },
       "passing_attempts":      0,
       "passing_completions":      0,
       "passing_yards":      0,
@@ -11963,7 +12254,10 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       38344
+      },
       "rushing_yards":      27,
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
@@ -12016,13 +12310,19 @@
       "player_id":      2404,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       38349
+      },
       "age":"26-103",
       "team":"SDG",
       "game_location":"A",
       "opponent":"OAK",
       "game_won":      true,
-      "player_team_score":"38",
+      "player_team_score":{
+       "propertyValue":"38",
+       "annotationID":       38345
+      },
       "opponent_score":"26",
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -12032,11 +12332,23 @@
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
-      "rushing_attempts":      16,
-      "rushing_yards":      52,
+      "rushing_attempts":{
+       "propertyValue":"16",
+       "annotationID":       38350
+      },
+      "rushing_yards":{
+       "propertyValue":"52",
+       "annotationID":       38346
+      },
       "rushing_touchdowns":      0,
-      "receiving_targets":      5,
-      "receiving_receptions":      3,
+      "receiving_targets":{
+       "propertyValue":"5",
+       "annotationID":       38352
+      },
+      "receiving_receptions":{
+       "propertyValue":"3",
+       "annotationID":       38348
+      },
       "receiving_yards":      12,
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -12093,11 +12405,11 @@
       "game_won":      true,
       "player_team_score":{
        "propertyValue":"38",
-       "annotationID":       21776
+       "annotationID":       38358
       },
       "opponent_score":{
        "propertyValue":"26",
-       "annotationID":       21777
+       "annotationID":       38359
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -12129,15 +12441,15 @@
       "defense_safeties":      0,
       "point_after_attemps":{
        "propertyValue":"5",
-       "annotationID":       21774
+       "annotationID":       38356
       },
       "point_after_makes":{
        "propertyValue":"5",
-       "annotationID":       21775
+       "annotationID":       38357
       },
       "field_goal_attempts":{
        "propertyValue":"2",
-       "annotationID":       21778
+       "annotationID":       38360
       },
       "field_goal_makes":      1,
       "punting_attempts":      0,
@@ -12205,8 +12517,14 @@
       "defense_interception_yards":      0,
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
-      "point_after_attemps":      2,
-      "point_after_makes":      2,
+      "point_after_attemps":{
+       "propertyValue":"2",
+       "annotationID":       38361
+      },
+      "point_after_makes":{
+       "propertyValue":"2",
+       "annotationID":       38362
+      },
       "field_goal_attempts":      4,
       "field_goal_makes":      4,
       "punting_attempts":      0,
@@ -12240,7 +12558,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21779
+       "annotationID":       38363
       },
       "age":"23-023",
       "team":"OAK",
@@ -12333,15 +12651,15 @@
       "opponent_score":"7",
       "passing_attempts":{
        "propertyValue":"6",
-       "annotationID":       21780
+       "annotationID":       38368
       },
       "passing_completions":{
        "propertyValue":"22",
-       "annotationID":       21782
+       "annotationID":       38370
       },
       "passing_yards":{
        "propertyValue":"60",
-       "annotationID":       21783
+       "annotationID":       38371
       },
       "passing_rating":      20.6,
       "passing_touchdowns":      0,
@@ -12350,7 +12668,7 @@
       "passing_sacks_yards_lost":      10,
       "rushing_attempts":{
        "propertyValue":"6",
-       "annotationID":       21781
+       "annotationID":       38369
       },
       "rushing_yards":      16,
       "rushing_touchdowns":      0,
@@ -12411,16 +12729,34 @@
       "opponent":"DEN",
       "game_won":      true,
       "player_team_score":"7",
-      "opponent_score":"3",
-      "passing_attempts":      15,
-      "passing_completions":      29,
-      "passing_yards":      180,
+      "opponent_score":{
+       "propertyValue":"3",
+       "annotationID":       38372
+      },
+      "passing_attempts":{
+       "propertyValue":"15",
+       "annotationID":       38375
+      },
+      "passing_completions":{
+       "propertyValue":"29",
+       "annotationID":       38376
+      },
+      "passing_yards":{
+       "propertyValue":"180",
+       "annotationID":       38377
+      },
       "passing_rating":      71,
       "passing_touchdowns":      0,
       "passing_interceptions":      0,
-      "passing_sacks":      1,
+      "passing_sacks":{
+       "propertyValue":"1",
+       "annotationID":       38373
+      },
       "passing_sacks_yards_lost":      5,
-      "rushing_attempts":      1,
+      "rushing_attempts":{
+       "propertyValue":"1",
+       "annotationID":       38374
+      },
       "rushing_yards":      -1,
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -12491,11 +12827,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"28",
-       "annotationID":       21785
+       "annotationID":       38379
       },
       "rushing_yards":{
        "propertyValue":"145",
-       "annotationID":       21784
+       "annotationID":       38378
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -12556,7 +12892,7 @@
       "game_won":      false,
       "player_team_score":{
        "propertyValue":"3",
-       "annotationID":       21786
+       "annotationID":       38380
       },
       "opponent_score":"7",
       "passing_attempts":      0,
@@ -12573,11 +12909,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"3",
-       "annotationID":       21787
+       "annotationID":       38381
       },
       "receiving_yards":{
        "propertyValue":"34",
-       "annotationID":       21788
+       "annotationID":       38382
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -13058,11 +13394,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"12",
-       "annotationID":       21790
+       "annotationID":       38384
       },
       "rushing_yards":{
        "propertyValue":"61",
-       "annotationID":       21789
+       "annotationID":       38383
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      6,
@@ -13137,11 +13473,11 @@
       "receiving_targets":      7,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21791
+       "annotationID":       38385
       },
       "receiving_yards":{
        "propertyValue":"93",
-       "annotationID":       21792
+       "annotationID":       38386
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -13221,11 +13557,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"19",
-       "annotationID":       21794
+       "annotationID":       38388
       },
       "rushing_yards":{
        "propertyValue":"86",
-       "annotationID":       21793
+       "annotationID":       38387
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
@@ -13368,17 +13704,17 @@
       "rushing_touchdowns":      1,
       "receiving_targets":{
        "propertyValue":"2",
-       "annotationID":       21795
+       "annotationID":       38392
       },
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       21796
+       "annotationID":       38393
       },
       "receiving_yards":      12,
       "receiving_touchdowns":      0,
       "kick_return_attempts":{
        "propertyValue":"2",
-       "annotationID":       21797
+       "annotationID":       38394
       },
       "kick_return_yards":      84,
       "kick_return_touchdowns":      0,
@@ -13443,11 +13779,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"21",
-       "annotationID":       21799
+       "annotationID":       38396
       },
       "rushing_yards":{
        "propertyValue":"93",
-       "annotationID":       21798
+       "annotationID":       38395
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -13510,28 +13846,28 @@
       "opponent_score":"20",
       "passing_attempts":{
        "propertyValue":"22",
-       "annotationID":       21800
+       "annotationID":       38403
       },
       "passing_completions":{
        "propertyValue":"40",
-       "annotationID":       21801
+       "annotationID":       38404
       },
       "passing_yards":{
        "propertyValue":"271",
-       "annotationID":       21802
+       "annotationID":       38405
       },
       "passing_rating":      74.1,
       "passing_touchdowns":{
        "propertyValue":"1",
-       "annotationID":       21803
+       "annotationID":       38406
       },
       "passing_interceptions":{
        "propertyValue":"1",
-       "annotationID":       21804
+       "annotationID":       38407
       },
       "passing_sacks":{
        "propertyValue":"2",
-       "annotationID":       21805
+       "annotationID":       38408
       },
       "passing_sacks_yards_lost":      14,
       "rushing_attempts":      5,
@@ -13595,16 +13931,28 @@
       "game_won":      false,
       "player_team_score":"20",
       "opponent_score":"23",
-      "passing_attempts":      21,
-      "passing_completions":      35,
-      "passing_yards":      222,
+      "passing_attempts":{
+       "propertyValue":"21",
+       "annotationID":       38409
+      },
+      "passing_completions":{
+       "propertyValue":"35",
+       "annotationID":       38410
+      },
+      "passing_yards":{
+       "propertyValue":"222",
+       "annotationID":       38411
+      },
       "passing_rating":      76.1,
       "passing_touchdowns":      1,
       "passing_interceptions":      1,
       "passing_sacks":      4,
       "passing_sacks_yards_lost":      31,
       "rushing_attempts":      1,
-      "rushing_yards":      3,
+      "rushing_yards":{
+       "propertyValue":"3",
+       "annotationID":       38412
+      },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -13678,11 +14026,11 @@
       "receiving_targets":      18,
       "receiving_receptions":{
        "propertyValue":"9",
-       "annotationID":       21806
+       "annotationID":       38415
       },
       "receiving_yards":{
        "propertyValue":"149",
-       "annotationID":       21807
+       "annotationID":       38416
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -13744,7 +14092,10 @@
       "player_id":      11580,
       "year":"2011",
       "date":"2012-01-01",
-      "game_number":"16",
+      "game_number":{
+       "propertyValue":"16",
+       "annotationID":       38421
+      },
       "age":"24-238",
       "team":"DAL",
       "game_location":"A",
@@ -13762,21 +14113,21 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"11",
-       "annotationID":       21808
+       "annotationID":       38417
       },
       "rushing_yards":{
        "propertyValue":"30",
-       "annotationID":       21809
+       "annotationID":       38418
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21810
+       "annotationID":       38422
       },
       "receiving_yards":{
        "propertyValue":"47",
-       "annotationID":       21811
+       "annotationID":       38420
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -13916,11 +14267,11 @@
       "receiving_targets":      11,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21812
+       "annotationID":       38425
       },
       "receiving_yards":{
        "propertyValue":"178",
-       "annotationID":       21813
+       "annotationID":       38426
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -13979,20 +14330,20 @@
       "opponent_score":"14",
       "passing_attempts":{
        "propertyValue":"24",
-       "annotationID":       21814
+       "annotationID":       38431
       },
       "passing_completions":{
        "propertyValue":"33",
-       "annotationID":       21815
+       "annotationID":       38432
       },
       "passing_yards":{
        "propertyValue":"346",
-       "annotationID":       21816
+       "annotationID":       38433
       },
       "passing_rating":      136.7,
       "passing_touchdowns":{
        "propertyValue":"3",
-       "annotationID":       21817
+       "annotationID":       38434
       },
       "passing_interceptions":      0,
       "passing_sacks":      2,
@@ -14072,11 +14423,11 @@
       "receiving_targets":      5,
       "receiving_receptions":{
        "propertyValue":"2",
-       "annotationID":       21818
+       "annotationID":       38435
       },
       "receiving_yards":{
        "propertyValue":"20",
-       "annotationID":       21819
+       "annotationID":       38436
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -14196,7 +14547,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21821
+       "annotationID":       38438
       },
       "age":"25-288",
       "team":"NYG",
@@ -14215,11 +14566,11 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
        "propertyValue":"16",
-       "annotationID":       21822
+       "annotationID":       38439
       },
       "rushing_yards":{
        "propertyValue":"57",
-       "annotationID":       21820
+       "annotationID":       38437
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      4,
@@ -14343,7 +14694,7 @@
       "date":"2012-01-01",
       "game_number":{
        "propertyValue":"16",
-       "annotationID":       21829
+       "annotationID":       38455
       },
       "age":"23-058",
       "team":"DAL",
@@ -14366,22 +14717,22 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"6",
-       "annotationID":       21830
+       "annotationID":       38456
       },
       "receiving_yards":{
        "propertyValue":"70",
-       "annotationID":       21831
+       "annotationID":       38457
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":{
        "propertyValue":"3",
-       "annotationID":       21827
+       "annotationID":       38453
       },
       "kick_return_yards":      55,
       "kick_return_touchdowns":      0,
       "punt_return_attempts":{
        "propertyValue":"2",
-       "annotationID":       21825
+       "annotationID":       38451
       },
       "punt_return_yards":      13,
       "punt_return_touchdowns":      0,
@@ -14585,11 +14936,11 @@
       "receiving_targets":      8,
       "receiving_receptions":{
        "propertyValue":"7",
-       "annotationID":       21832
+       "annotationID":       38458
       },
       "receiving_yards":{
        "propertyValue":"69",
-       "annotationID":       21833
+       "annotationID":       38459
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -14660,11 +15011,11 @@
       "receiving_targets":      5,
       "receiving_receptions":{
        "propertyValue":"4",
-       "annotationID":       21834
+       "annotationID":       38460
       },
       "receiving_yards":{
        "propertyValue":"61",
-       "annotationID":       21835
+       "annotationID":       38461
       },
       "receiving_touchdowns":      2,
       "kick_return_attempts":      0,
@@ -14735,11 +15086,11 @@
       "receiving_targets":      6,
       "receiving_receptions":{
        "propertyValue":"5",
-       "annotationID":       21836
+       "annotationID":       38462
       },
       "receiving_yards":{
        "propertyValue":"76",
-       "annotationID":       21837
+       "annotationID":       38463
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
