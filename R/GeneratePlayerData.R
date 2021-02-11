@@ -29,15 +29,17 @@ addPlayerData <- function(playerData, comment) {
     
     exportPlayerData$numberGames <- numberGames
     
-    exportPlayerData[["games"]][[numberGames]] <- playerData$`game information`
-    exportPlayerData[["games"]][["comment"]] <- comment
+    numberGamesString <- paste(c(numberGames), collapse = "")
+    
+    exportPlayerData$games[[numberGamesString]] <- playerData$`game information`
+    exportPlayerData$games[[numberGamesString]]$comment <- comment
     
   } else {
     
     exportPlayerData <- playerData$`player information`
-    exportPlayerData[["games"]][[1]] <- playerData$`game information`
-    exportPlayerData[["games"]][[1]][["comment"]] <- comment
-    exportPlayerData[["numberGames"]] <- 1
+    exportPlayerData$games[["1"]] <- playerData$`game information`
+    exportPlayerData$games[["1"]]$comment <- comment
+    exportPlayerData$numberGames <- 1
     
   }
   
