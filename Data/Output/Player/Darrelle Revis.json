@@ -72,7 +72,7 @@
    "date":"2009-09-20",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    4643
+    "annotationID":    10430
    },
    "age":"24-068",
    "team":"NYJ",
@@ -348,9 +348,15 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   2,
+   "defense_tackles":{
+    "propertyValue":"2",
+    "annotationID":    16687
+   },
    "defense_tackle_assists":   0,
-   "defense_interceptions":   2,
+   "defense_interceptions":{
+    "propertyValue":"2",
+    "annotationID":    16688
+   },
    "defense_interception_yards":   67,
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -936,7 +942,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   8,
+   "defense_tackles":{
+    "propertyValue":"8",
+    "annotationID":    36580
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -1037,7 +1046,7 @@
    "defense_tackles":   4,
    "defense_tackle_assists":{
     "propertyValue":"2",
-    "annotationID":    22720
+    "annotationID":    42780
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -1058,7 +1067,7 @@
    "date":"2013-09-08",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    28375
+    "annotationID":    53671
    },
    "age":"28-056",
    "team":"TAM",
@@ -1091,7 +1100,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    28376
+    "annotationID":    53672
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1111,7 +1120,10 @@
    "player_id":   18495,
    "year":"2013",
    "date":"2013-09-29",
-   "game_number":"4",
+   "game_number":{
+    "propertyValue":"4",
+    "annotationID":    56446
+   },
    "age":"28-077",
    "team":"TAM",
    "game_location":"H",
@@ -1119,7 +1131,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"10",
-    "annotationID":    29847
+    "annotationID":    56440
    },
    "opponent_score":"13",
    "passing_attempts":   0,
@@ -1146,10 +1158,13 @@
    "defense_sacks":   0,
    "defense_tackles":   6,
    "defense_tackle_assists":   0,
-   "defense_interceptions":   1,
+   "defense_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    56442
+   },
    "defense_interception_yards":{
     "propertyValue":"3",
-    "annotationID":    29848
+    "annotationID":    56441
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -1213,6 +1228,58 @@
   },
   "25":{
    "player_id":   18495,
+   "year":{
+    "propertyValue":"2013",
+    "annotationID":    59489
+   },
+   "date":"2013-10-24",
+   "game_number":"7",
+   "age":"28-102",
+   "team":"TAM",
+   "game_location":"H",
+   "opponent":"CAR",
+   "game_won":   false,
+   "player_team_score":"13",
+   "opponent_score":"31",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Darrelle Revis occasionally, but Revis mostly played zone. Revis was a mess in the first half. He broke up a completion on third down directed toward Smith, but he committed pass interference, fell down on a Newton scramble and also whiffed on a tackle when Williams scored his touchdown. Not to beat a dead horse, but the Buccaneers are so insanely stupid for using Revis in a zone. Why would they deal a first-round pick and pay him $16 million if they aren't going to use his strength? It makes zero sense.    A player Tampa did select in the 2013 NFL Draft, "
+  },
+  "26":{
+   "player_id":   18495,
    "year":"2013",
    "date":"2013-11-24",
    "game_number":"11",
@@ -1260,7 +1327,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis left the game at halftime due to a groin injury. <div class=dfpAdSlots>   "
   },
-  "26":{
+  "27":{
    "player_id":   18495,
    "year":"2013",
    "date":"2013-12-08",
@@ -1295,11 +1362,11 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":{
     "propertyValue":"1",
-    "annotationID":    33862
+    "annotationID":    64612
    },
    "defense_tackles":{
     "propertyValue":"4",
-    "annotationID":    33861
+    "annotationID":    64611
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1315,7 +1382,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis and the ball bounced to Lavonte David for another pick. David had a big return to Buffalo's 12-yard line to set up a field goal. Manuel hit a screen pass to Spiller (11-22 rushing, 1-26 receiving), and he busted it for an 83-yard touchdown - but a holding call brought it back. Both teams offenses were abysmal in the second half.    Glennon completed only 9-of-25 passes for 90 yards with 2 scores and 2 picks. Aside from 2 plays, the Bills' defense played well. Marcell Dareus had a sack, and Buffalo kept steady heat on Glennon.    Manuel was 18-of-33 for 184 yards with no touchdowns and 4 interceptions. He was awful. Fred Jackson (5-12 rushing, 4-26 receiving) was also contained.    The star of the game was David as he had 9 tackles with a sack and 2 interceptions. He was awesome. William Gholston (1.5 sacks), Gerald McCoy, Mark Barron, Darrelle Revis, Derek Landri and Da'Quan Bowers (."
   },
-  "27":{
+  "28":{
    "player_id":   18495,
    "year":"2013",
    "date":"2013-12-29",
@@ -1364,7 +1431,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis for a 41-yard touchdown. Tampa Bay scored again with a short touchdown toss to "
   },
-  "28":{
+  "29":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-09-07",
@@ -1413,7 +1480,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis to scheme against Charles Clay, who didn't do much as a consequence (2-27)."
   },
-  "29":{
+  "30":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-09-14",
@@ -1451,7 +1518,7 @@
    "defense_tackle_assists":   0,
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    36081
+    "annotationID":    68811
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -1465,7 +1532,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis, so I wouldn't put that 1 on Cassel. His third was a forced throw, while the 4.h occurred in garbage time. Cassel made some poor throws outside of the picks as well. For instance, he had an open receiver in the red zone during the second quarter, but led his target out of bounds. This forced the Vikings to attempt a field goal, which was blocked and returned for a touchdown. Of course, it didn't help that the Vikings couldn't pass protect at all. Cassel took a whopping 6 sacks, as "
   },
-  "30":{
+  "31":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-09-21",
@@ -1514,7 +1581,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis shadowed him in the second half.    McFadden handled almost all of the workload with Maurice Jones-Drew out. He didn't do anything spectacular, gaining 59 yards on 18 carries. He fumbled during the first half, but he was fortunate to see his team recover the ball after it bounced around into what seemed like 5 different players' arms. <div class=dfpAdSlots>   "
   },
-  "31":{
+  "32":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-09-29",
@@ -1549,7 +1616,10 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   4,
-   "defense_tackle_assists":   1,
+   "defense_tackle_assists":{
+    "propertyValue":"1",
+    "annotationID":    71906
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -1563,11 +1633,14 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis briefly left the game with a hamstring. Cincinnati took advantage by having "
   },
-  "32":{
+  "33":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-10-05",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    71907
+   },
    "age":"29-083",
    "team":"NWE",
    "game_location":"H",
@@ -1598,7 +1671,10 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   4,
-   "defense_tackle_assists":   1,
+   "defense_tackle_assists":{
+    "propertyValue":"1",
+    "annotationID":    71908
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -1612,13 +1688,13 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis briefly left the game with a hamstring. Cincinnati took advantage by having "
   },
-  "33":{
+  "34":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-10-12",
    "game_number":{
     "propertyValue":"6",
-    "annotationID":    37760
+    "annotationID":    72056
    },
    "age":"29-090",
    "team":"NWE",
@@ -1664,13 +1740,13 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis. Watkins was also flagged for offensive pass interference on 1 play, which I'll discuss in a bit.    Spiller, as mentioned, cost his team with a horrible fumble, and he saw just 2 touches after that. He finished with a mere 19 yards on 6 carries, while "
   },
-  "34":{
+  "35":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-10-16",
    "game_number":{
     "propertyValue":"7",
-    "annotationID":    38123
+    "annotationID":    72766
    },
    "age":"29-094",
    "team":"NWE",
@@ -1716,7 +1792,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis' way. Decker, as a consequence, secured 4 of his 7 targets for a team-high 65 yards. "
   },
-  "35":{
+  "36":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-10-26",
@@ -1765,7 +1841,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis, while Brandon Marshall (3-35) didn't log a single reception by that juncture."
   },
-  "36":{
+  "37":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-11-16",
@@ -1814,7 +1890,56 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis, who tipped the ball to Devin McCourty."
   },
-  "37":{
+  "38":{
+   "player_id":   18495,
+   "year":"2014",
+   "date":"2014-11-23",
+   "game_number":"11",
+   "age":"29-132",
+   "team":"NWE",
+   "game_location":"H",
+   "opponent":"DET",
+   "game_won":   true,
+   "player_team_score":"34",
+   "opponent_score":"9",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   2,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Darrelle Revis, who nearly had an interception, didn't do as well as his teammate for a change.    The Lions tried to establish the run early with "
+  },
+  "39":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-11-30",
@@ -1863,7 +1988,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis for the only time on the afternoon. It was a bad scheme that allowed Nelson to run past Revis and the other Patriots for the touchdown. This was huge, as the Packers had issues in the red zone the entire game. Belichick then went on to waste a timeout early in the third quarter, which he sorely needed at the end of the contest. Of course, the killer for the Patriot bettors occurred at the end of the game when "
   },
-  "38":{
+  "40":{
    "player_id":   18495,
    "year":"2014",
    "date":"2014-12-07",
@@ -1899,7 +2024,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"3",
-    "annotationID":    40869
+    "annotationID":    79426
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1915,13 +2040,13 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis shut him down, as Rivers barely threw the ball in his direction. Allen was targeted just thrice. He caught 2 balls for only 3 yards. Rivers, as a consequence, went 20-of-33 for 189 yards, 1 touchdown and an interception. He had a second pick, which was returned for 6 after "
   },
-  "39":{
+  "41":{
    "player_id":   18495,
    "year":"2015",
    "date":"2015-10-04",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    44040
+    "annotationID":    86379
    },
    "age":"30-082",
    "team":"NYJ",
@@ -1956,7 +2081,7 @@
    "defense_tackle_assists":   0,
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    44041
+    "annotationID":    86380
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -1970,7 +2095,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis wouldn't be covering Landry, but that turned out not to be the case. Revis smothered Landry, though he was flagged for a deep pass interference at 1 point. Landry caught 4 balls for 40 yards, and he also was given 2 carries for 29 rushing yards. He had a touchdown at 1 point, but it was negated by a weak offensive pass interference call on "
   },
-  "40":{
+  "42":{
    "player_id":   18495,
    "year":"2015",
    "date":"2015-11-01",
@@ -2019,7 +2144,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis, who is 1 of the few Jet defenders who actually played well. Instead, Carr targeted "
   },
-  "41":{
+  "43":{
    "player_id":   18495,
    "year":"2015",
    "date":"2015-11-08",
@@ -2053,8 +2178,14 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   3,
-   "defense_tackle_assists":   2,
+   "defense_tackles":{
+    "propertyValue":"3",
+    "annotationID":    92038
+   },
+   "defense_tackle_assists":{
+    "propertyValue":"2",
+    "annotationID":    92037
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -2068,13 +2199,13 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis to get open before catching the pass with Marcus Williams all over him. A 16-yard pass to Hurns set up a Jacksonville field goal. The Jaguars got the ball back at their 10-yard line, and Bortles threw a 27-yard pass to "
   },
-  "42":{
+  "44":{
    "player_id":   18495,
    "year":"2015",
    "date":"2015-11-22",
    "game_number":{
     "propertyValue":"10",
-    "annotationID":    47809
+    "annotationID":    92931
    },
    "age":"30-131",
    "team":"NYJ",
@@ -2083,11 +2214,11 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"17",
-    "annotationID":    47811
+    "annotationID":    92927
    },
    "opponent_score":{
     "propertyValue":"24",
-    "annotationID":    47810
+    "annotationID":    92926
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2113,7 +2244,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"3",
-    "annotationID":    47814
+    "annotationID":    92932
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -2129,7 +2260,56 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis running down the sideline. Houston got on the board first as its second drive netted a field goal. The Texans were moving the ball again before a blindside blitz by Marcus Williams led to a strip-sack that was recovered by New York. Houston's defense limited the Jets to a field goal. In the second quarter, Yates didn't miss again as Hopkins beat Revis on a deep post for a 61-yard touchdown. The Texans took a 10-3 lead into the half. In the third quarter, a 44-yard pass interference penalty on Quintin Demps set up the Jets inside the Texans' 30-yard line. Fitzpatrick hit Brandon Marshall with a 21-yard touchdown pass after he got open against Kevin Johnson to tie the game at 10. Yates answered with 2 receptions to Cecil Shorts for 50 yards as he beat Revis for 15 yards and Antonio Cromartie for 35 yards. The Texans pulled out some trickeration with a throwback pass to Shorts, and he lofted in a 21-yard touchdown to Alfred Blue. J.J. Watt terrorized Fitpatrick and quickly got the ball back for Houston. The Texans' next drive was led by Blue running well, and it ended with Yates throwing a 20-yard touchdown pass to Hopkins. In the 4.h quarter, Fitzpatrick led a touchdown drive with a quarterback draw from 5 yards out to cut the Texans' lead to 24-17 with just over 4 minutes remaining. The Jets' defense forced a 3.and-out, but on a 4.h-down play, Fitzpatrick was intercepted by Eddie Pleasant. Still, the Jets had 1 more shot starting at their 20 with 2:19 remaining. After a couple of plays, Fitzpatrick had a route jumped by Andre Hal for another interception to clinch the win for Houston.    Yates was 16-of-34 for 229 yards with 2 touchdowns. DeAndre Hopkins had 5 receptions for 118 yards and 2 scores. Cecil Shorts collected 2 catches for 51 yards, 4 carries for 26 yards and a 21-yard touchdown pass.    Alfred Blue had 58 yards on 21 carries with 3 receptions for 34 yards and a touchdown.    Ryan Fitzpatrick was 19-of-39 for 216 yards with a touchdown and 2 interceptions. Eric Decker had 4 receptions for 81 yards, while Brandon Marshall totaled 5 catches for 47 yards and a score.    Chris Ivory was shut down by the Texans as he had only 8 carries for 36 yards. Bilal Powell led New York in receiving with 5 receptions for 67 yards and 4 carries for 22 yards.    J.J. Watt was absolutely dominant with 8 tackles, 3 run tackles for a loss, 2 sacks, and a drawn holding penalty. Jadeveon Clowney had .5 sacks and a number of pressures, and batted a few passes. Brian Cushing also turned in a very strong performance for Houston.    The Jets sustained some significant injuries as Nick Mangold went out early with a hand injury. In the third quarter, Darrelle Revis left the game with a head injury. <div class=dfpAdSlots>   "
   },
-  "43":{
+  "45":{
+   "player_id":   18495,
+   "year":"2015",
+   "date":"2015-12-19",
+   "game_number":"14",
+   "age":"30-158",
+   "team":"NYJ",
+   "game_location":"A",
+   "opponent":"DAL",
+   "game_won":   true,
+   "player_team_score":"19",
+   "opponent_score":"16",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   1,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   1,
+   "defense_interception_yards":   24,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Darrelle Revis was hyped by NFL Network, but Revis has regressed this year. Neither played particularly well; Revis allowed other receptions to "
+  },
+  "46":{
    "player_id":   18495,
    "year":"2015",
    "date":"2015-12-27",
@@ -2178,7 +2358,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis was able to secure. Brady's score came at the very end on a short pass to "
   },
-  "44":{
+  "47":{
    "player_id":   18495,
    "year":"2015",
    "date":"2016-01-03",
@@ -2215,7 +2395,7 @@
    "defense_tackles":   5,
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    50474
+    "annotationID":    98870
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -2230,13 +2410,62 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis, who had a down year, simply had no chance against him. Revis was also whistled for a penalty on Watkins at 1 point. Watkins was dominant, and his only blemish on the afternoon was a drop in the first quarter.    Remarkably, only 1 other Buffalo player had more than 3 receiving yards. That was "
   },
-  "45":{
+  "48":{
+   "player_id":   18495,
+   "year":"2016",
+   "date":"2016-09-11",
+   "game_number":"1",
+   "age":"31-059",
+   "team":"NYJ",
+   "game_location":"H",
+   "opponent":"CIN",
+   "game_won":   false,
+   "player_team_score":"22",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   5,
+   "defense_tackle_assists":   2,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Darrelle Revis. The first big blow came in the second quarter when Andy Dalton hit Green on a deep post that he had beaten Revis on badly. He covered 54 yards on that touchdown to put the Bengals up 10-7.    The Jets moved the ball with "
+  },
+  "49":{
    "player_id":   18495,
    "year":"2016",
    "date":"2016-09-15",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    51054
+    "annotationID":    101112
    },
    "age":"31-063",
    "team":"NYJ",
@@ -2282,7 +2511,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis, who continued to look like 1 of the worst cornerbacks in the NFL. Sammy Watkins, meanwhile, played, but caught only 2 balls for 20 yards. Watkins did not look 100 percent. In fact, he failed to finish the game.    "
   },
-  "46":{
+  "50":{
    "player_id":   18495,
    "year":"2016",
    "date":"2016-10-02",
@@ -2318,7 +2547,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    52664
+    "annotationID":    104010
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -2334,7 +2563,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis was removed from the game toward the end of the afternoon. I thought he might have been benched at first, but he was dealing with a thigh injury. It didn't matter though, as neither he nor anyone else in the defensive backfield could stop Wilson from torching them. They couldn't cover anyone and also blew some coverages, including an awful 1 on a long touchdown to some guy named "
   },
-  "47":{
+  "51":{
    "player_id":   18495,
    "year":"2016",
    "date":"2016-11-06",
@@ -2383,7 +2612,7 @@
    "punting_blocked":   0,
    "comment":"Darrelle Revis deep, and he was extremely fortunate that he was bailed out by a Kenyan Drake kickoff return, which was the result of the Jets foolishly being offside on a kickoff."
   },
-  "48":{
+  "52":{
    "player_id":   18495,
    "year":"2016",
    "date":"2016-11-13",
@@ -2393,8 +2622,66 @@
    "game_location":"H",
    "opponent":"LAR",
    "game_won":   false,
-   "player_team_score":"6",
-   "opponent_score":"9",
+   "player_team_score":{
+    "propertyValue":"6",
+    "annotationID":    110922
+   },
+   "opponent_score":{
+    "propertyValue":"9",
+    "annotationID":    110921
+   },
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":{
+    "propertyValue":"4",
+    "annotationID":    110923
+   },
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Darrelle Revis on nearly every opportunity. And understandably so. Revis surrendered a 12-yarder to "
+  },
+  "53":{
+   "player_id":   18495,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"31-136",
+   "team":"NYJ",
+   "game_location":"H",
+   "opponent":"NWE",
+   "game_won":   false,
+   "player_team_score":"17",
+   "opponent_score":"22",
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -2418,7 +2705,7 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   4,
-   "defense_tackle_assists":   0,
+   "defense_tackle_assists":   1,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -2430,8 +2717,8 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"Darrelle Revis on nearly every opportunity. And understandably so. Revis surrendered a 12-yarder to "
+   "comment":"Darrelle Revis a couple of times and should get a boost if Gronkowski misses time. "
   }
  },
- "numberGames": 48
+ "numberGames": 53
 }

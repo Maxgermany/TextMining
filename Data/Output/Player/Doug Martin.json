@@ -37,11 +37,23 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   24,
-   "rushing_yards":   95,
+   "rushing_attempts":{
+    "propertyValue":"24",
+    "annotationID":    41635
+   },
+   "rushing_yards":{
+    "propertyValue":"95",
+    "annotationID":    41634
+   },
    "rushing_touchdowns":   0,
-   "receiving_targets":   4,
-   "receiving_receptions":   4,
+   "receiving_targets":{
+    "propertyValue":"4",
+    "annotationID":    41632
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    41633
+   },
    "receiving_yards":   23,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -88,11 +100,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    22442
+    "annotationID":    42251
    },
    "rushing_yards":{
     "propertyValue":"66",
-    "annotationID":    22441
+    "annotationID":    42250
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
@@ -143,17 +155,17 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    22659
+    "annotationID":    42681
    },
    "rushing_yards":{
     "propertyValue":"53",
-    "annotationID":    22660
+    "annotationID":    42682
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    22661
+    "annotationID":    42683
    },
    "receiving_yards":   21,
    "receiving_touchdowns":   0,
@@ -201,11 +213,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    23428
+    "annotationID":    44024
    },
    "rushing_yards":{
     "propertyValue":"33",
-    "annotationID":    23429
+    "annotationID":    44025
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -256,24 +268,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    24069
+    "annotationID":    45181
    },
    "rushing_yards":{
     "propertyValue":"76",
-    "annotationID":    24070
+    "annotationID":    45182
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    24073
+    "annotationID":    45185
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    24071
+    "annotationID":    45183
    },
    "receiving_yards":{
     "propertyValue":"55",
-    "annotationID":    24072
+    "annotationID":    45184
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -320,11 +332,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"16",
-    "annotationID":    24448
+    "annotationID":    45850
    },
    "rushing_yards":{
     "propertyValue":"85",
-    "annotationID":    24449
+    "annotationID":    45851
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
@@ -375,11 +387,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"25",
-    "annotationID":    25173
+    "annotationID":    47161
    },
    "rushing_yards":{
     "propertyValue":"251",
-    "annotationID":    25174
+    "annotationID":    47162
    },
    "rushing_touchdowns":   4,
    "receiving_targets":   5,
@@ -411,8 +423,115 @@
   "8":{
    "player_id":   14151,
    "year":"2012",
+   "date":"2012-11-11",
+   "game_number":"9",
+   "age":"23-303",
+   "team":"TAM",
+   "game_location":"H",
+   "opponent":"SDG",
+   "game_won":   true,
+   "player_team_score":"34",
+   "opponent_score":"24",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   19,
+   "rushing_yards":   68,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   3,
+   "receiving_yards":   51,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Doug Martin nearly broke the NFL single-game rushing record last week.    As for the Raiders, they struggled to move the chains on the ground with Darren McFadden out. "
+  },
+  "9":{
+   "player_id":   14151,
+   "year":"2012",
+   "date":"2012-11-11",
+   "game_number":"9",
+   "age":"23-303",
+   "team":"TAM",
+   "game_location":"H",
+   "opponent":"SDG",
+   "game_won":   true,
+   "player_team_score":"34",
+   "opponent_score":"24",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"19",
+    "annotationID":    47777
+   },
+   "rushing_yards":{
+    "propertyValue":"68",
+    "annotationID":    47778
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   3,
+   "receiving_yards":   51,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Doug Martin for 41 yards on a dump-off pass to set up a short touchdown pass to Dallas Clark."
+  },
+  "10":{
+   "player_id":   14151,
+   "year":"2012",
    "date":"2012-11-18",
-   "game_number":"10",
+   "game_number":{
+    "propertyValue":"10",
+    "annotationID":    48047
+   },
    "age":"23-310",
    "team":"TAM",
    "game_location":"A",
@@ -430,15 +549,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    25342
+    "annotationID":    48043
    },
    "rushing_yards":{
     "propertyValue":"138",
-    "annotationID":    25343
+    "annotationID":    48044
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   5,
-   "receiving_receptions":   4,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    48046
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    48049
+   },
    "receiving_yards":   23,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -463,7 +588,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (24-138) had some big runs to move the ball down the field in the extra session. Freeman then threw to a wide open "
   },
-  "9":{
+  "11":{
    "player_id":   14151,
    "year":"2012",
    "date":"2012-11-25",
@@ -485,16 +610,19 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"21",
-    "annotationID":    25931
+    "annotationID":    49102
    },
    "rushing_yards":{
     "propertyValue":"50",
-    "annotationID":    25932
+    "annotationID":    49103
    },
    "rushing_touchdowns":   2,
    "receiving_targets":   2,
    "receiving_receptions":   2,
-   "receiving_yards":   13,
+   "receiving_yards":{
+    "propertyValue":"13",
+    "annotationID":    49104
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -518,7 +646,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (21-50) scored a short touchdown to give Tampa Bay a 7-3 lead. Atlanta answered with a drive through the air as Ryan connected to "
   },
-  "10":{
+  "12":{
    "player_id":   14151,
    "year":"2012",
    "date":"2012-12-02",
@@ -540,11 +668,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    26320
+    "annotationID":    49822
    },
    "rushing_yards":{
     "propertyValue":"56",
-    "annotationID":    26321
+    "annotationID":    49823
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -573,7 +701,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (18-56) was also held in check. Defensively, "
   },
-  "11":{
+  "13":{
    "player_id":   14151,
    "year":"2012",
    "date":"2012-12-09",
@@ -585,7 +713,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"21",
-    "annotationID":    26682
+    "annotationID":    50430
    },
    "opponent_score":"23",
    "passing_attempts":   0,
@@ -598,12 +726,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   28,
    "rushing_yards":   128,
-   "rushing_touchdowns":   1,
-   "receiving_targets":   5,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    50436
+   },
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    50437
+   },
    "receiving_receptions":   3,
    "receiving_yards":{
     "propertyValue":"4",
-    "annotationID":    26683
+    "annotationID":    50432
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -628,7 +762,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin added another touchdown to make it 21 unanswered for the home team and a 21-10 lead. Late in the 4.h quarter, Foles turned into Brett Favre with 2 jaw-dropping touchdown drives to get a walk-off winner. The rookie quarterback dominated Tampa Bay's anemic secondary. To get the comeback started, Foles had a superb possession that ended with a touchdown toss to "
   },
-  "12":{
+  "14":{
    "player_id":   14151,
    "year":"2012",
    "date":"2012-12-16",
@@ -650,11 +784,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    27021
+    "annotationID":    51064
    },
    "rushing_yards":{
     "propertyValue":"16",
-    "annotationID":    27022
+    "annotationID":    51065
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -683,7 +817,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (9-16), Vincent Jackson (6-81) and Mike Williams (4-63) were all held in check."
   },
-  "13":{
+  "15":{
    "player_id":   14151,
    "year":"2012",
    "date":"2012-12-23",
@@ -705,21 +839,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    27484
+    "annotationID":    51995
    },
    "rushing_yards":{
     "propertyValue":"62",
-    "annotationID":    27485
+    "annotationID":    51996
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"7",
-    "annotationID":    27486
+    "annotationID":    51997
    },
    "receiving_yards":{
     "propertyValue":"57",
-    "annotationID":    27487
+    "annotationID":    51998
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -744,7 +878,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (18-62 rushing, 7-57 receiving) and dared Freeman to beat them.    St. Louis' defense gave up a few big pass plays, but overall the stop unit was excellent against Tampa Bay. It could have been worse for the Bucs as the Rams' defense came close to a number of other interceptions, and Tampa Bay recovered a couple of its own fumbles. The St. Louis defensive line played really well too, recording 5 sacks. Williams Hayes (2 sacks), "
   },
-  "14":{
+  "16":{
    "player_id":   14151,
    "year":"2012",
    "date":"2012-12-30",
@@ -766,17 +900,17 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"28",
-    "annotationID":    27746
+    "annotationID":    52464
    },
    "rushing_yards":{
     "propertyValue":"142",
-    "annotationID":    27747
+    "annotationID":    52465
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    27748
+    "annotationID":    52466
    },
    "receiving_yards":   18,
    "receiving_touchdowns":   0,
@@ -802,11 +936,14 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (28-142) broke 2 tackles during a 40-yard touchdown run. Midway through the 4.h quarter, "
   },
-  "15":{
+  "17":{
    "player_id":   14151,
    "year":"2013",
    "date":"2013-09-08",
-   "game_number":"1",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    53662
+   },
    "age":"24-238",
    "team":"TAM",
    "game_location":"A",
@@ -824,18 +961,27 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    28373
+    "annotationID":    53660
    },
    "rushing_yards":{
     "propertyValue":"65",
-    "annotationID":    28374
+    "annotationID":    53661
    },
-   "rushing_touchdowns":   1,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    53663
+   },
    "receiving_targets":   6,
-   "receiving_receptions":   2,
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    53666
+   },
    "receiving_yards":   -1,
    "receiving_touchdowns":   0,
-   "kick_return_attempts":   1,
+   "kick_return_attempts":{
+    "propertyValue":"1",
+    "annotationID":    53664
+   },
    "kick_return_yards":   40,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
@@ -857,7 +1003,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (24-65) never got going because Tampa Bay couldn't open holes, and the Jets were superb in their gap integrity. Freeman had some accuracy issues, but I don't think it is fair to pin the loss on him considering his offensive line was God awful at opening running lanes and giving him time to throw. His line allowed 3 sacks and a ton of pressure. "
   },
-  "16":{
+  "18":{
    "player_id":   14151,
    "year":"2013",
    "date":"2013-09-15",
@@ -879,11 +1025,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"29",
-    "annotationID":    28982
+    "annotationID":    54808
    },
    "rushing_yards":{
     "propertyValue":"144",
-    "annotationID":    28981
+    "annotationID":    54807
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -912,7 +1058,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin was excellent for Tampa Bay as he ran for 144 yards on 29 carries. Martin picked up a lot of yards after contact while coming close to breaking off a long scoring run. The Bucs just couldn't consistently pass the ball to sustain drives. Freeman completed 9-of-22 passes for 125 yards with a touchdown and an interception. His pick was a telegraphed a pass to "
   },
-  "17":{
+  "19":{
    "player_id":   14151,
    "year":"2013",
    "date":"2013-09-22",
@@ -934,18 +1080,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    29293
+    "annotationID":    55436
    },
    "rushing_yards":{
     "propertyValue":"88",
-    "annotationID":    29295
+    "annotationID":    55438
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":   2,
    "receiving_yards":{
     "propertyValue":"20",
-    "annotationID":    29294
+    "annotationID":    55437
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -970,13 +1116,13 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (20-88) ran well for Tampa Bay as the team enjoyed Carl Nicks making his season debut."
   },
-  "18":{
+  "20":{
    "player_id":   14151,
    "year":"2013",
    "date":"2013-09-29",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    29841
+    "annotationID":    56432
    },
    "age":"24-259",
    "team":"TAM",
@@ -985,11 +1131,11 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"10",
-    "annotationID":    29840
+    "annotationID":    56431
    },
    "opponent_score":{
     "propertyValue":"13",
-    "annotationID":    29828
+    "annotationID":    56419
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1001,20 +1147,20 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"27",
-    "annotationID":    29845
+    "annotationID":    56436
    },
    "rushing_yards":{
     "propertyValue":"45",
-    "annotationID":    29844
+    "annotationID":    56435
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    29842
+    "annotationID":    56433
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    29843
+    "annotationID":    56434
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -1027,7 +1173,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    29831
+    "annotationID":    56422
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1043,7 +1189,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin fumbled the ball away at midfield. That spotted Arizona 3 points. With 3 minutes remaining, Mike Glennon was intercepted by Peterson on a poorly thrown pass as Peterson had Vincent Jackson (2-27) perfectly covered. Peterson's return set up the Cardinals at the Bucs' 13-yard line. The next play saw Carson Palmer throw a strike to Larry Fitzgerald (6-68) for a touchdown. He beat Darrelle Revis to get open in the end zone. That tied the game at 10 with 3 minutes remaining. Glennon was soon sacked by Dontay Moch at the 1-yard line and a punt set up Arizona at the Tampa Bay 38. Palmer hit Jaron Brown for 19 yards and a Dashon Goldson unnecessary roughness penalty set up an easy game-winning field goal for Jay Feely. Peterson iced the game with his second interception at midfield.    The Bucs benched Josh Freeman because of turnover and accuracy problems, but got the exact same thing from Mike Glennon. Nobody should be surprised because Glennon was inaccurate and threw a lot of picks at N. C. State. The rookie completed 24-of-43 passes for 193 yards with 2 interceptions and a touchdown to Mike Williams (4-38). Glennon's score came after a Rashard Mendenhall fumble.    The Bucs' defense played well, but blew a 4.h-quarter lead for the third time in 4 games. Gerald McCoy was phenomenal for Tampa Bay. He had a sack, recovered a fumble and was in the backfield all day. Revis played well too, as he held Fitzgerald without a catch in the first half. In Buccaneers' territory, Revis picked off a pass intended for Fitzgerald in the third quarter. Revis also forced a fumble late in the 4.h quarter. Tampa Bay rookie corner Johnthan Banks made an awesome interception in the end zone with a leaping catch to take points away from Arizona.    Palmer was 21-of-38 for 248 yards with a touchdown and those 2 picks. Against a team with a decent offense, he wouldn't have played well enough to win. Michael Floyd was his top receiver as he caught 5 for 87 yards. WalterFootball.com caught up with Fitzgerald after the game, and he summed up the game nicely, The first half that [sic] was some ugly ball in the first half. All around. The defense kept fighting and fighting to keep the game manageable for us. Those guys played their tail off. They got banged up and we lost lots of bodies last week, but guys continued to step up in their roles and that is what a team is about.    Mendenhall was terrible for the Cardinals. Early on, he dropped an easy pass and fumbled the ball away after running into Fitzgerald. Mendenhall also fumbled the ball out of bounds after a strip by Revis inside the Bucs' 10-yard line when Arizona was setting up the go-ahead field goal. The Cardinals should bench Mendenhall and let young backs Andre Ellington (4-29 rushing, 3-22 receiving) and Stepfan Taylor see if they can produce more.    Cardinals linebacker Karlos Dansby played really well with 9 tackles, but he dropped an interception that could have put up easy points for Arizona. Veterans Calais Campbell, Darnell Dockett and Yeremiah Bell all looked good for the Cardinals.    Doug Martin ran for 45 yards on 27 carries. If he's on your fantasy team and you have a talented backup, you might want to bench Martin if you have solid, alternative options. Cardinals rookie "
   },
-  "19":{
+  "21":{
    "player_id":   14151,
    "year":"2013",
    "date":"2013-10-13",
@@ -1065,24 +1211,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"16",
-    "annotationID":    30846
+    "annotationID":    58331
    },
    "rushing_yards":{
     "propertyValue":"67",
-    "annotationID":    30847
+    "annotationID":    58332
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    30848
+    "annotationID":    58333
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    30849
+    "annotationID":    58334
    },
    "receiving_yards":{
     "propertyValue":"24",
-    "annotationID":    30850
+    "annotationID":    58335
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1107,7 +1253,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (16-67 rushing, 4-24 receiving) had a big run up the middle to the 1-yard line and Glennon hit a fade to Vincent Jackson (9-114) for his second touchdown. The Bucs' opening drive of the second quarter ended when Glennon had an inaccurate pass picked off by "
   },
-  "20":{
+  "22":{
    "player_id":   14151,
    "year":"2013",
    "date":"2013-10-20",
@@ -1156,7 +1302,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin went down with a shoulder injury in the second half after a hard hit on an incomplete pass. He didn't return to the game, and his status for Thursday night against Carolina is worth monitoring for fantasy owners.   "
   },
-  "21":{
+  "23":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-09-07",
@@ -1178,11 +1324,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    35819
+    "annotationID":    68195
    },
    "rushing_yards":{
     "propertyValue":"9",
-    "annotationID":    35820
+    "annotationID":    68196
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1211,7 +1357,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin managed just 9 yards on 9 carries, as he was constantly in and out of the game with a leg injury. He also dropped a pass. Losing Mankins in the second quarter was a huge blow. Martin's replacement, "
   },
-  "22":{
+  "24":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-09-28",
@@ -1234,7 +1380,7 @@
    "rushing_attempts":   13,
    "rushing_yards":{
     "propertyValue":"40",
-    "annotationID":    37142
+    "annotationID":    70848
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -1263,7 +1409,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin was the other Buccaneer who made his return. He was bottled up for the most part, gaining just 40 yards and a touchdown on 14 carries, but the important thing is that he didn't fumble, which is what "
   },
-  "23":{
+  "25":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-10-05",
@@ -1285,11 +1431,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    37447
+    "annotationID":    71433
    },
    "rushing_yards":{
     "propertyValue":"45",
-    "annotationID":    37446
+    "annotationID":    71432
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -1318,7 +1464,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin struggled once again, as his inability to run the ball prevented the team from nursing the lead. Martin mustered just 45 yards on 14 carries. Making matters worse for his fantasy owners, "
   },
-  "24":{
+  "26":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-10-12",
@@ -1340,11 +1486,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    37936
+    "annotationID":    72406
    },
    "rushing_yards":{
     "propertyValue":"45",
-    "annotationID":    37937
+    "annotationID":    72407
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1373,7 +1519,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (11-45) led the Bucs on the ground. "
   },
-  "25":{
+  "27":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-10-26",
@@ -1395,11 +1541,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    38881
+    "annotationID":    74231
    },
    "rushing_yards":{
     "propertyValue":"27",
-    "annotationID":    38880
+    "annotationID":    74230
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1428,7 +1574,65 @@
    "punting_blocked":   0,
    "comment":"Doug Martin struggled once again, managing 27 yards on 10 carries. He also hurt his ankle, but that could be a blessing in disguise, as "
   },
-  "26":{
+  "28":{
+   "player_id":   14151,
+   "year":"2014",
+   "date":"2014-11-23",
+   "game_number":{
+    "propertyValue":"11",
+    "annotationID":    77134
+   },
+   "age":"25-314",
+   "team":"TAM",
+   "game_location":"A",
+   "opponent":"CHI",
+   "game_won":   false,
+   "player_team_score":"13",
+   "opponent_score":"21",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"11",
+    "annotationID":    77135
+   },
+   "rushing_yards":{
+    "propertyValue":"27",
+    "annotationID":    77133
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   1,
+   "receiving_yards":   4,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Doug Martin returned to the lineup, but the Buccaneers still struggled to run the ball. He mustered just 27 yards on 11 carries, while Sims (6-22) didn't have much more success. <div class=dfpAdSlots>   "
+  },
+  "29":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-11-30",
@@ -1450,11 +1654,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    40272
+    "annotationID":    78299
    },
    "rushing_yards":{
     "propertyValue":"58",
-    "annotationID":    40271
+    "annotationID":    78298
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1483,7 +1687,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin, who rushed for 58 yards and a touchdown on 18 carries. He also had a gain of 24 negated by a hold. Martin handled most of the workload, with rookie Charlie Sims gaining just 6 yards on 5 attempts, though he did log 4 catches for 49 receiving yards.    "
   },
-  "27":{
+  "30":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-12-07",
@@ -1505,11 +1709,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    40548
+    "annotationID":    78856
    },
    "rushing_yards":{
     "propertyValue":"22",
-    "annotationID":    40547
+    "annotationID":    78855
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -1538,11 +1742,14 @@
    "punting_blocked":   0,
    "comment":"Doug Martin led the way with just 22 yards on 5 carries.   "
   },
-  "28":{
+  "31":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-12-14",
-   "game_number":"14",
+   "game_number":{
+    "propertyValue":"14",
+    "annotationID":    79756
+   },
    "age":"25-335",
    "team":"TAM",
    "game_location":"A",
@@ -1558,11 +1765,23 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   14,
-   "rushing_yards":   96,
+   "rushing_attempts":{
+    "propertyValue":"14",
+    "annotationID":    79757
+   },
+   "rushing_yards":{
+    "propertyValue":"96",
+    "annotationID":    79755
+   },
    "rushing_touchdowns":   0,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    79753
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    79754
+   },
    "receiving_yards":   3,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1587,7 +1806,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin sprinted for a 63-yard gain in the first half, and that was followed by a Mike Evans touchdown in which he skied to bring the pass in on a fade."
   },
-  "29":{
+  "32":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-12-21",
@@ -1609,11 +1828,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    41628
+    "annotationID":    80939
    },
    "rushing_yards":{
     "propertyValue":"17",
-    "annotationID":    41627
+    "annotationID":    80938
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -1642,7 +1861,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin saw the most carries, but didn't do much with them, gaining 17 yards on 10 attempts. "
   },
-  "30":{
+  "33":{
    "player_id":   14151,
    "year":"2014",
    "date":"2014-12-28",
@@ -1664,11 +1883,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    42010
+    "annotationID":    81671
    },
    "rushing_yards":{
     "propertyValue":"108",
-    "annotationID":    42011
+    "annotationID":    81672
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1697,13 +1916,68 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (19-108) or Charlie Sims (18-69), who scored a touchdown.    "
   },
-  "31":{
+  "34":{
+   "player_id":   14151,
+   "year":"2015",
+   "date":"2015-09-13",
+   "game_number":"1",
+   "age":"26-243",
+   "team":"TAM",
+   "game_location":"H",
+   "opponent":"TEN",
+   "game_won":   false,
+   "player_team_score":"14",
+   "opponent_score":"42",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"11",
+    "annotationID":    82911
+   },
+   "rushing_yards":{
+    "propertyValue":"52",
+    "annotationID":    82912
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   1,
+   "receiving_yards":   2,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Doug Martin (11-52) and Vincent Jackson (4-51) were kept from making any big plays."
+  },
+  "35":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-09-20",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    42728
+    "annotationID":    84032
    },
    "age":"26-250",
    "team":"TAM",
@@ -1722,24 +1996,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"21",
-    "annotationID":    42727
+    "annotationID":    84031
    },
    "rushing_yards":{
     "propertyValue":"78",
-    "annotationID":    42726
+    "annotationID":    84030
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    42729
+    "annotationID":    84033
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    42730
+    "annotationID":    84034
    },
    "receiving_yards":{
     "propertyValue":"20",
-    "annotationID":    42731
+    "annotationID":    84035
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1764,7 +2038,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin ran well again, gaining 78 yards on 21 carries. He also caught 2 passes for 20 receiving yards. He'll continue his bounce-back season, as he's motivated for the first time in years because he's in a contract season.    "
   },
-  "32":{
+  "36":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-09-27",
@@ -1786,11 +2060,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    43764
+    "annotationID":    85881
    },
    "rushing_yards":{
     "propertyValue":"46",
-    "annotationID":    43763
+    "annotationID":    85880
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1819,7 +2093,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin continues to look sharper than he did the last 2 seasons. But Martin still isn't a great fantasy play. He had 46 yards on 14 carries against the Texans. Tampa Bay simply doesn't have a good offensive line, and the running game isn't going to put up big numbers.    If you have Tampa Bay's "
   },
-  "33":{
+  "37":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-10-04",
@@ -1832,7 +2106,7 @@
    "player_team_score":"23",
    "opponent_score":{
     "propertyValue":"37",
-    "annotationID":    44332
+    "annotationID":    86913
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1844,24 +2118,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    44328
+    "annotationID":    86909
    },
    "rushing_yards":{
     "propertyValue":"106",
-    "annotationID":    44329
+    "annotationID":    86910
    },
    "rushing_touchdowns":   1,
    "receiving_targets":{
     "propertyValue":"5",
-    "annotationID":    44330
+    "annotationID":    86911
    },
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    44331
+    "annotationID":    86912
    },
    "receiving_yards":{
     "propertyValue":"37",
-    "annotationID":    44333
+    "annotationID":    86914
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1886,7 +2160,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin, who looked like he was worthy of being a fantasy starter for the first time in a long time. Martin carried 20 times for 106 yards and a touchdown and also had 5 receptions for 37 yards. But don't go rushing to get Martin into your starting lineup until he shows he can run like that with some consistency.    The Panthers devoted most of their defensive attention toward wide receiver "
   },
-  "34":{
+  "38":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-10-11",
@@ -1906,13 +2180,34 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   24,
-   "rushing_yards":   123,
-   "rushing_touchdowns":   2,
-   "receiving_targets":   3,
-   "receiving_receptions":   3,
-   "receiving_yards":   35,
-   "receiving_touchdowns":   1,
+   "rushing_attempts":{
+    "propertyValue":"24",
+    "annotationID":    87796
+   },
+   "rushing_yards":{
+    "propertyValue":"123",
+    "annotationID":    87795
+   },
+   "rushing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    87800
+   },
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    87797
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    87798
+   },
+   "receiving_yards":{
+    "propertyValue":"35",
+    "annotationID":    87799
+   },
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    87801
+   },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
@@ -1935,7 +2230,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin and an efficient game from rookie quarterback Jameis Winston, the Bucs won at home for the first time since December of 2013."
   },
-  "35":{
+  "39":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-10-25",
@@ -1957,11 +2252,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    45935
+    "annotationID":    89848
    },
    "rushing_yards":{
     "propertyValue":"136",
-    "annotationID":    45936
+    "annotationID":    89849
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -1990,7 +2285,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin had his third-straight big game with 19 carries for 136 yards. But the Bucs didn't do a very good job of using Martin to attempt to run the clock out in the second half.    Washington took a big gamble on a third-quarter kickoff that might have been the turning point of the game. The Redskins recovered an onside kick to set up a touchdown. Around the league, there had been 24 onside kicks this season. Washington's was the first successful onside kick of the season.    Although he was sick with flu-like symptoms, wide receiver "
   },
-  "36":{
+  "40":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-11-01",
@@ -2002,11 +2297,11 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"23",
-    "annotationID":    46908
+    "annotationID":    91371
    },
    "opponent_score":{
     "propertyValue":"20",
-    "annotationID":    46906
+    "annotationID":    91369
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2018,20 +2313,20 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"23",
-    "annotationID":    46909
+    "annotationID":    91372
    },
    "rushing_yards":{
     "propertyValue":"71",
-    "annotationID":    46907
+    "annotationID":    91370
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    46904
+    "annotationID":    91367
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    46905
+    "annotationID":    91368
    },
    "receiving_yards":   7,
    "receiving_touchdowns":   0,
@@ -2057,7 +2352,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin was stuffed, giving Atlanta the ball at Tampa Bay's 41-yard line with 1:52 remaining. If the Bucs ended up losing, that call would have been questioned endlessly. Instead, we'll give Smith a pass and credit for showing some guts.    Defensive tackle Gerald McCoy has taken some recent criticism from fans for not coming up with big plays, but he made 1 against the Falcons. On the final play of overtime, McCoy got to Matt Ryan and tied the quarterback's legs up, forcing an incompletion.    Tampa Bay's defense had a huge outing, forcing 4 turnovers that were converted into 20 points. Rookie middle linebacker Kwon Alexander was a force, coming up with a fumble recovery and an interception.    Winston didn't have a big fantasy day, but he had a solid reality day. He completed 16-of-29 passes for 177 yards and a touchdown. More importantly, Winston didn't throw an interception for the third-straight game, and he showed plenty of poise late in the game.    Atlanta's defense clearly was focused on slowing running back Doug Martin, and that strategy worked. Martin was held to 71 yards on 23 carries, ending his streak of 100-yard games at 3.    With wide receiver Vincent Jackson out with a knee injury, the Falcons were able to devote defensive attention to "
   },
-  "37":{
+  "41":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-11-08",
@@ -2079,11 +2374,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    47489
+    "annotationID":    92337
    },
    "rushing_yards":{
     "propertyValue":"31",
-    "annotationID":    47488
+    "annotationID":    92336
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -2112,7 +2407,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin, who had been hot in recent weeks, was bottled up by the New York defense. Martin gained just 31 yards on 11 carries. Martin, however, remains a solid fantasy starter.   "
   },
-  "38":{
+  "42":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-11-22",
@@ -2134,11 +2429,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"27",
-    "annotationID":    48014
+    "annotationID":    93280
    },
    "rushing_yards":{
     "propertyValue":"235",
-    "annotationID":    48015
+    "annotationID":    93281
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -2167,7 +2462,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin had huge performances. And it came on a day in which Tampa Bay's defense had no problems with Philadelphia's fast-paced offense. For the Eagles, the lopsided loss at home was embarrassing, but it didn't do all that much harm to their standing in the NFC East. At 4-6, they're only a game behind the first-place New York Giants.    Winston had what was easily the best game of his young career. He threw 5 touchdown passes (to 5 different receivers). Winston tied the rookie record for most touchdown passes in a game and didn't throw an interception. Winston completed 19-of-29 passes for 246 yards. With the way, he has played in recent weeks, he now is worthy of being a starter in your fantasy league.    Martin had a monstrous day after being relatively quiet in recent weeks. He finished with 27 carries for 235 yards and cracked the 200-yard mark for only the second time in his career. Martin didn't find the end zone, but he had runs of 84 and 58 yards that set up touchdowns.    Even with "
   },
-  "39":{
+  "43":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-11-29",
@@ -2187,12 +2482,24 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   14,
-   "rushing_yards":   97,
+   "rushing_attempts":{
+    "propertyValue":"14",
+    "annotationID":    93887
+   },
+   "rushing_yards":{
+    "propertyValue":"97",
+    "annotationID":    93886
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
-   "receiving_receptions":   1,
-   "receiving_yards":   1,
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    93884
+   },
+   "receiving_yards":{
+    "propertyValue":"1",
+    "annotationID":    93885
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2216,7 +2523,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin ran into the end zone. However, this score was nullified by a hold, forcing the team to kick a field goal. Much later, "
   },
-  "40":{
+  "44":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-12-06",
@@ -2265,7 +2572,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin 15-yard run was nullified by an illegal shift. Martin later had a 28-yard burst that was negated by a "
   },
-  "41":{
+  "45":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-12-13",
@@ -2287,20 +2594,20 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    49711
+    "annotationID":    96416
    },
    "rushing_yards":{
     "propertyValue":"81",
-    "annotationID":    49710
+    "annotationID":    96415
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    49712
+    "annotationID":    96417
    },
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    49713
+    "annotationID":    96418
    },
    "receiving_yards":   5,
    "receiving_touchdowns":   0,
@@ -2326,7 +2633,65 @@
    "punting_blocked":   0,
    "comment":"Doug Martin was the most solid producer. He had 81 rushing yards and a touchdown. But Martin was limited to 11 carries as the Bucs turned to the passing game to try to catch up in the second half.    Rookie quarterback Jameis Winston, who had played well in recent weeks, did not have a good day against a bad defense. Winston struggled with accuracy, completing 18-of-32 passes for 182 yards and 1 touchdown.    The Saints did a good job containing "
   },
-  "42":{
+  "46":{
+   "player_id":   14151,
+   "year":"2015",
+   "date":"2015-12-17",
+   "game_number":"14",
+   "age":"26-338",
+   "team":"TAM",
+   "game_location":"A",
+   "opponent":"STL",
+   "game_won":   false,
+   "player_team_score":"23",
+   "opponent_score":"31",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    96862
+   },
+   "rushing_yards":{
+    "propertyValue":"91",
+    "annotationID":    96861
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    96863
+   },
+   "receiving_yards":   6,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Doug Martin on 1 instance when Martin was in position to catch a simple pass in the flat. Winston also had a second dropped pick in the end zone, and he had to eat a timeout right before halftime because he spent 30 seconds yelling at several Rams players, including Aaron Donald, after what he felt was a dirty hit.    Mike Evans and Austin Seferian-Jenkins benefited from Winston's junk-time stats. Evans had just 3 grabs for 36 yards in the first half, but he finished with 9 catches for 157 yards. He dropped another pass, but he would've enjoyed a much better game had Winston not missed him on numerous occasions. Seferian-Jenkins, meanwhile made only 3 grabs for 29 yards, but he was able to haul in a touchdown at the very end.    Doug Martin and Charlie Sims both ran extremely well. Martin burst for 91 yards on just 18 carries, while Sims (7-50) also posted an impressive stat line. It was odd to see the Rams struggle so much versus the run. However, they did manage to stuff Martin on a 4.h down before halftime, and they were able to force him into a fumble.    Some Rams fans were trying to chant Keep the Rams! Keep the Rams! Perhaps St. Louis would keep its team if more fans showed up. Here's a shot of the stands 20 minutes prior to kickoff last Sunday versus the Lions. Try not to laugh too hard:   "
+  },
+  "47":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-12-27",
@@ -2348,11 +2713,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    50310
+    "annotationID":    98594
    },
    "rushing_yards":{
     "propertyValue":"49",
-    "annotationID":    50309
+    "annotationID":    98593
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
@@ -2381,7 +2746,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin was held to 49 yards on 17 carries with a touchdown. Martin, however, fumbled twice. The second turnover got him benched.    Tampa Bay backup running back "
   },
-  "43":{
+  "48":{
    "player_id":   14151,
    "year":"2015",
    "date":"2015-12-27",
@@ -2405,12 +2770,12 @@
    "rushing_yards":   49,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    50435
+    "annotationID":    98798
    },
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    50436
+    "annotationID":    98799
    },
    "receiving_yards":   6,
    "receiving_touchdowns":   0,
@@ -2436,11 +2801,11 @@
    "punting_blocked":   0,
    "comment":"Doug Martin, accumulated 104 yards and a touchdown on 22 carries. There was some concern with him entering this game, but he put those to rest with an impressive early run featuring some sick cuts. Peterson's only blemish on the evening was a dropped pass. Meanwhile, McKinnon took over for Peterson when the game got out of hand. McKinnon tallied 89 yards on just 7 attempts. He also ran into the end zone twice; the initial 1 being his first-ever NFL rushing touchdown.    "
   },
-  "44":{
+  "49":{
    "player_id":   14151,
    "year":{
     "propertyValue":"2015",
-    "annotationID":    50783
+    "annotationID":    99391
    },
    "date":"2016-01-03",
    "game_number":"16",
@@ -2461,11 +2826,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    50781
+    "annotationID":    99389
    },
    "rushing_yards":{
     "propertyValue":"48",
-    "annotationID":    50782
+    "annotationID":    99390
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
@@ -2494,20 +2859,87 @@
    "punting_blocked":   0,
    "comment":"Doug Martin had at winning the rushing title went out the window when the Bucs fell behind early. Martin carried only 15 times for 48 yards.    Smith is a coach with a defensive background. But his defense hasn't been very good in his first 2 seasons with the Bucs. Tampa Bay has drafted only 1 defensive player in the last 2 years. That needs to change. The Bucs need to add a pass rusher, and Penn State's Carl Nassib could be a very nice fit. The Bucs also need some help in the defensive secondary, and that likely will come in the second or third round of the draft.    There's no question the Bucs made the right call with the first pick in the 2015 NFL Draft. Quarterback "
   },
-  "45":{
+  "50":{
+   "player_id":   14151,
+   "year":"2016",
+   "date":"2016-09-11",
+   "game_number":"1",
+   "age":"27-242",
+   "team":"TAM",
+   "game_location":"A",
+   "opponent":"ATL",
+   "game_won":   true,
+   "player_team_score":"31",
+   "opponent_score":"24",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    100266
+   },
+   "rushing_yards":{
+    "propertyValue":"62",
+    "annotationID":    100265
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    100267
+   },
+   "receiving_receptions":{
+    "propertyValue":"5",
+    "annotationID":    100268
+   },
+   "receiving_yards":{
+    "propertyValue":"34",
+    "annotationID":    100269
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Doug Martin handled the majority of the workload. Martin gained 62 yards on 18 carries and also caught all 5 of his targets for 34 receiving yards.    As for the Falcons, it was the same, old story. They moved the chains well in between the 20s, but failed in the red zone - a problem that has been consistent for them ever since Tony Gonzalez retired. They drafted "
+  },
+  "51":{
    "player_id":   14151,
    "year":"2016",
    "date":"2016-09-18",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    51614
+    "annotationID":    102173
    },
    "age":"27-249",
    "team":"TAM",
    "game_location":"A",
    "opponent":"ARI",
    "game_won":   false,
-   "player_team_score":"7",
+   "player_team_score":{
+    "propertyValue":"7",
+    "annotationID":    102175
+   },
    "opponent_score":"40",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2517,8 +2949,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   7,
-   "rushing_yards":   23,
+   "rushing_attempts":{
+    "propertyValue":"7",
+    "annotationID":    102176
+   },
+   "rushing_yards":{
+    "propertyValue":"23",
+    "annotationID":    102174
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -2546,7 +2984,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin was lost with a hamstring. Winston threw 2 more interceptions, 1 of which came when the Buccaneers still had a chance to make a comeback. Down 20, the Buccaneers once again had a promising drive in the works, but Winston launched a high pass to Sims, which was tipped into the air. The ball fell right into Cooper's hands, and Cooper ran it back for a touchdown. Cooper replaced the woefully inept "
   },
-  "46":{
+  "52":{
    "player_id":   14151,
    "year":"2016",
    "date":"2016-11-13",
@@ -2568,11 +3006,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"16",
-    "annotationID":    55244
+    "annotationID":    110815
    },
    "rushing_yards":{
     "propertyValue":"33",
-    "annotationID":    55245
+    "annotationID":    110816
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -2601,7 +3039,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin made his return to the lineup, but he was limited. He was given 16 carries, which he turned into only 33 yards. Fortunately for his fantasy owners, he was able to score a late touchdown. Because of the margin, he lost some late work to "
   },
-  "47":{
+  "53":{
    "player_id":   14151,
    "year":"2016",
    "date":"2016-11-20",
@@ -2623,21 +3061,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    55889
+    "annotationID":    111946
    },
    "rushing_yards":{
     "propertyValue":"63",
-    "annotationID":    55888
+    "annotationID":    111945
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    55886
+    "annotationID":    111943
    },
    "receiving_yards":{
     "propertyValue":"42",
-    "annotationID":    55887
+    "annotationID":    111944
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2662,7 +3100,65 @@
    "punting_blocked":   0,
    "comment":"Doug Martin (3-42).    Speaking of Martin, he had a tough time finding any running room, gaining 63 yards on 24 carries, and this includes a gain of 12, meaning his other 23 attempts went for only 51 yards. Martin at least helped his team as a receiver, but he dropped a pass on what appeared to be a very promising screen.    Moving on to the Chiefs, "
   },
-  "48":{
+  "54":{
+   "player_id":   14151,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"27-319",
+   "team":"TAM",
+   "game_location":"H",
+   "opponent":"SEA",
+   "game_won":   true,
+   "player_team_score":{
+    "propertyValue":"14",
+    "annotationID":    113732
+   },
+   "opponent_score":{
+    "propertyValue":"5",
+    "annotationID":    113733
+   },
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"23",
+    "annotationID":    113731
+   },
+   "rushing_yards":   87,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   2,
+   "receiving_yards":   3,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Doug Martin and then a 26-yard completion to Cameron Brate (4-49). Evans then beat Richard Sherman down the sideline for a 23-yard touchdown. Spence had another sack to force a punt, but Luke Stocker was called for a hold in the end zone to give Seattle a safety. The Seahawks took advantage thanks to a 29-yard pass interference to add a field goal. Before halftime, Tampa Bay moved into Seattle territory, but Roberto Aguayo missed the 48-yard field goal attempt. Wilson moved the ball into Tampa Bay territory before throwing an interception to Alterraun Verner. The Buccaneers took a 14-5 lead into the half. Both defenses played well in the third quarter, as the teams traded punts. Early in the 4.h quarter, Seahawks defensive lineman Ahtyba Rubin punched the ball out from Doug Martin and free safety Steven Terrell recovered the ball for Seattle close to midfield."
+  },
+  "55":{
    "player_id":   14151,
    "year":"2016",
    "date":"2016-12-04",
@@ -2684,11 +3180,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    56784
+    "annotationID":    114929
    },
    "rushing_yards":{
     "propertyValue":"45",
-    "annotationID":    56783
+    "annotationID":    114928
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -2717,7 +3213,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin handled most of the workload throughout the afternoon, tallying 45 yards and a touchdown on 17 carries, but he wasn't on the field when the Buccaneers were running out the clock late in the afternoon. Instead, it was "
   },
-  "49":{
+  "56":{
    "player_id":   14151,
    "year":"2016",
    "date":"2016-12-11",
@@ -2739,15 +3235,15 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"23",
-    "annotationID":    57290
+    "annotationID":    115873
    },
    "rushing_yards":{
     "propertyValue":"66",
-    "annotationID":    57291
+    "annotationID":    115874
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    57292
+    "annotationID":    115875
    },
    "receiving_targets":   2,
    "receiving_receptions":   2,
@@ -2775,7 +3271,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin received a lion's share of the load. He got 23 carries for 66 yards and a touchdown. Martin has not looked great this season, and once again, he appeared to be a little bit slow. Martin can definitely get the job done in short-yardage situations, but the team should look to mix Sims in a bit more. Sims only saw 4 carries on Sunday, but he turned them into 17 yards. Though the numbers have not been great, the running back group for the Buccaneers appears to be a solid 1.    Defensively, "
   },
-  "50":{
+  "57":{
    "player_id":   14151,
    "year":"2016",
    "date":"2016-12-18",
@@ -2797,11 +3293,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"16",
-    "annotationID":    57990
+    "annotationID":    117166
    },
    "rushing_yards":{
     "propertyValue":"42",
-    "annotationID":    57989
+    "annotationID":    117165
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -2830,7 +3326,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin looked like he could have decent success in this contest when he ripped off some nice, early gains, but the Buccaneers had to abandon the run because they were down by 2 touchdowns in the second quarter. Martin finished with 42 yards on 16 carries.   "
   },
-  "51":{
+  "58":{
    "player_id":   14151,
    "year":"2017",
    "date":"2017-10-05",
@@ -2852,11 +3348,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    61369
+    "annotationID":    123926
    },
    "rushing_yards":{
     "propertyValue":"74",
-    "annotationID":    61368
+    "annotationID":    123925
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
@@ -2885,7 +3381,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin provided the Buccaneers with a huge spark. Playing his first game of the season, Martin muscled his way for 74 yards on just 13 carries. He also scored a touchdown. He was a breath of life for a dead rushing attack. He should receive a larger workload going forward.    "
   },
-  "52":{
+  "59":{
    "player_id":   14151,
    "year":"2017",
    "date":"2017-10-15",
@@ -2907,11 +3403,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    62192
+    "annotationID":    125571
    },
    "rushing_yards":{
     "propertyValue":"53",
-    "annotationID":    62191
+    "annotationID":    125570
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -2940,17 +3436,23 @@
    "punting_blocked":   0,
    "comment":"Doug Martin, who had 53 yards on 14 carries, also found the end zone. He was guilty of a drop in the second quarter. <div class=dfpAdSlots>   "
   },
-  "53":{
+  "60":{
    "player_id":   14151,
    "year":"2017",
    "date":"2017-10-22",
-   "game_number":"6",
+   "game_number":{
+    "propertyValue":"6",
+    "annotationID":    126115
+   },
    "age":"28-282",
    "team":"TAM",
    "game_location":"A",
    "opponent":"BUF",
    "game_won":   false,
-   "player_team_score":"27",
+   "player_team_score":{
+    "propertyValue":"27",
+    "annotationID":    126109
+   },
    "opponent_score":"30",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2960,12 +3462,27 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   20,
-   "rushing_yards":   49,
+   "rushing_attempts":{
+    "propertyValue":"20",
+    "annotationID":    126118
+   },
+   "rushing_yards":{
+    "propertyValue":"49",
+    "annotationID":    126117
+   },
    "rushing_touchdowns":   0,
-   "receiving_targets":   3,
-   "receiving_receptions":   2,
-   "receiving_yards":   31,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    126114
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    126119
+   },
+   "receiving_yards":{
+    "propertyValue":"31",
+    "annotationID":    126120
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2989,7 +3506,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin. The drive end with a short touchdown toss to Howard. Taylor to move the ball through the Bucs' defense, connecting with O'Leary for 32 yards to convert a third-and-long. That set up Stephen Hauschka, who, this time, was good on a 52-yard field goal. Tampa Bay responded with Winston finding Howard wide open in busted coverage for a 33-yard touchdown. The Bills left Howard completely uncovered after a boot action. Taylor soon snatched 23 yards with "
   },
-  "54":{
+  "61":{
    "player_id":   14151,
    "year":"2017",
    "date":"2017-10-29",
@@ -3038,13 +3555,13 @@
    "punting_blocked":   0,
    "comment":"Doug Martin had a tough matchup with Luke Kuechly back on the field."
   },
-  "55":{
+  "62":{
    "player_id":   14151,
    "year":"2017",
    "date":"2017-11-05",
    "game_number":{
     "propertyValue":"8",
-    "annotationID":    63336
+    "annotationID":    127784
    },
    "age":"28-296",
    "team":"TAM",
@@ -3063,11 +3580,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    63337
+    "annotationID":    127785
    },
    "rushing_yards":{
     "propertyValue":"7",
-    "annotationID":    63338
+    "annotationID":    127786
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -3096,7 +3613,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin saw 8 carries and only was able to total a measly 7 yards. The team actually abandoned him and rolled with "
   },
-  "56":{
+  "63":{
    "player_id":   14151,
    "year":"2017",
    "date":"2017-11-12",
@@ -3118,11 +3635,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    63644
+    "annotationID":    128374
    },
    "rushing_yards":{
     "propertyValue":"51",
-    "annotationID":    63643
+    "annotationID":    128373
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -3151,7 +3668,7 @@
    "punting_blocked":   0,
    "comment":"Doug Martin struggled to find running room, as the Jets can still stuff ground attacks effectively. Martin managed just 51 yards on 20 carries. I have the Buccaneers taking his replacement in the second round of my .    Moving back to the Jets, "
   },
-  "57":{
+  "64":{
    "player_id":   14151,
    "year":"2017",
    "date":"2017-11-19",
@@ -3173,11 +3690,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    64016
+    "annotationID":    129068
    },
    "rushing_yards":{
     "propertyValue":"38",
-    "annotationID":    64015
+    "annotationID":    129067
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -3207,5 +3724,5 @@
    "comment":"Doug Martin was restricted to just 38 yards on 19 carries, and most of his yardage came on 1 13-yard burst. Martin has been a major disappointment since returning to the lineup, and Tampa could move on from him. I have the Buccaneers selecting a running back in the second round of my .    "
   }
  },
- "numberGames": 57
+ "numberGames": 64
 }

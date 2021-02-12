@@ -27,8 +27,14 @@
    "game_location":"H",
    "opponent":"GNB",
    "game_won":   true,
-   "player_team_score":"40",
-   "opponent_score":"10",
+   "player_team_score":{
+    "propertyValue":"40",
+    "annotationID":    63328
+   },
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    63329
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -61,7 +67,10 @@
    "point_after_makes":   0,
    "field_goal_attempts":   0,
    "field_goal_makes":   0,
-   "punting_attempts":   1,
+   "punting_attempts":{
+    "propertyValue":"1",
+    "annotationID":    63330
+   },
    "punting_yards":   33,
    "punting_blocked":   0,
    "comment":"Sam Martin booted the ball out of bounds on a kickoff, setting up a Mason Crosby 54-yard field goal after James Jones made a brilliant 16-yard reception."

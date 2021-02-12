@@ -70,14 +70,20 @@
    "player_id":   13369,
    "year":"2012",
    "date":"2012-11-04",
-   "game_number":"8",
+   "game_number":{
+    "propertyValue":"8",
+    "annotationID":    46918
+   },
    "age":"35-289",
    "team":"BUF",
    "game_location":"A",
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":"9",
-   "opponent_score":"21",
+   "opponent_score":{
+    "propertyValue":"21",
+    "annotationID":    46917
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -108,8 +114,14 @@
    "defense_safeties":   0,
    "point_after_attemps":   0,
    "point_after_makes":   0,
-   "field_goal_attempts":   4,
-   "field_goal_makes":   3,
+   "field_goal_attempts":{
+    "propertyValue":"4",
+    "annotationID":    46922
+   },
+   "field_goal_makes":{
+    "propertyValue":"3",
+    "annotationID":    46921
+   },
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
@@ -159,7 +171,7 @@
    "point_after_makes":   2,
    "field_goal_attempts":{
     "propertyValue":"1",
-    "annotationID":    28965
+    "annotationID":    54781
    },
    "field_goal_makes":   0,
    "punting_attempts":   0,

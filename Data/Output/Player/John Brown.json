@@ -23,7 +23,7 @@
    "date":"2014-09-21",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    36784
+    "annotationID":    70113
    },
    "age":"24-171",
    "team":"ARI",
@@ -46,11 +46,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    36782
+    "annotationID":    70111
    },
    "receiving_yards":{
     "propertyValue":"52",
-    "annotationID":    36781
+    "annotationID":    70110
    },
    "receiving_touchdowns":   2,
    "kick_return_attempts":   0,
@@ -128,14 +128,23 @@
    "player_id":   2652,
    "year":"2014",
    "date":"2014-10-26",
-   "game_number":"7",
+   "game_number":{
+    "propertyValue":"7",
+    "annotationID":    74493
+   },
    "age":"24-206",
    "team":"ARI",
    "game_location":"H",
    "opponent":"PHI",
    "game_won":   true,
-   "player_team_score":"24",
-   "opponent_score":"20",
+   "player_team_score":{
+    "propertyValue":"24",
+    "annotationID":    74485
+   },
+   "opponent_score":{
+    "propertyValue":"20",
+    "annotationID":    74491
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -147,12 +156,21 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   10,
-   "receiving_receptions":   5,
-   "receiving_yards":   119,
+   "receiving_targets":{
+    "propertyValue":"10",
+    "annotationID":    74492
+   },
+   "receiving_receptions":{
+    "propertyValue":"5",
+    "annotationID":    74494
+   },
+   "receiving_yards":{
+    "propertyValue":"119",
+    "annotationID":    74495
+   },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    39007
+    "annotationID":    74490
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -180,14 +198,23 @@
    "player_id":   2652,
    "year":"2014",
    "date":"2014-11-09",
-   "game_number":"9",
+   "game_number":{
+    "propertyValue":"9",
+    "annotationID":    76202
+   },
    "age":"24-220",
    "team":"ARI",
    "game_location":"H",
    "opponent":"STL",
    "game_won":   true,
-   "player_team_score":"31",
-   "opponent_score":"14",
+   "player_team_score":{
+    "propertyValue":"31",
+    "annotationID":    76197
+   },
+   "opponent_score":{
+    "propertyValue":"14",
+    "annotationID":    76198
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -200,8 +227,14 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
-   "receiving_receptions":   5,
-   "receiving_yards":   73,
+   "receiving_receptions":{
+    "propertyValue":"5",
+    "annotationID":    76200
+   },
+   "receiving_yards":{
+    "propertyValue":"73",
+    "annotationID":    76201
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -251,11 +284,11 @@
    "receiving_targets":   9,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    39867
+    "annotationID":    76869
    },
    "receiving_yards":{
     "propertyValue":"69",
-    "annotationID":    39868
+    "annotationID":    76870
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -283,8 +316,75 @@
   "6":{
    "player_id":   2652,
    "year":"2014",
+   "date":"2014-11-23",
+   "game_number":"11",
+   "age":"24-234",
+   "team":"ARI",
+   "game_location":"A",
+   "opponent":"SEA",
+   "game_won":   false,
+   "player_team_score":{
+    "propertyValue":"3",
+    "annotationID":    77610
+   },
+   "opponent_score":{
+    "propertyValue":"19",
+    "annotationID":    77612
+   },
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    77609
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    77611
+   },
+   "receiving_yards":{
+    "propertyValue":"61",
+    "annotationID":    77606
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"John Brown led the team with 61 receiving yards on 3 grabs, 1 of which was an impressive, 32-yard catch made as he tapped his feet along the sideline.    Ellington couldn't run the ball once again (10-24), but he was a factor in the passing game, catching 5 balls for 39 receiving yards. He made a great snag on a ball thrown behind him for a gain of 15.   "
+  },
+  "7":{
+   "player_id":   2652,
+   "year":"2014",
    "date":"2014-11-30",
-   "game_number":"12",
+   "game_number":{
+    "propertyValue":"12",
+    "annotationID":    78483
+   },
    "age":"24-241",
    "team":"ARI",
    "game_location":"A",
@@ -303,14 +403,17 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   5,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    78482
+   },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    40360
+    "annotationID":    78480
    },
    "receiving_yards":{
     "propertyValue":"40",
-    "annotationID":    40361
+    "annotationID":    78481
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -335,7 +438,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (2-40) also struggled, while Jaron Brown (7-75) led the team in receiving."
   },
-  "7":{
+  "8":{
    "player_id":   2652,
    "year":"2014",
    "date":"2014-12-11",
@@ -384,7 +487,7 @@
    "punting_blocked":   0,
    "comment":"John Brown on a third down. He did the same thing later on a pass headed for Kerwynn Williams. And, as mentioned, Arizona nearly had 3 turnovers, but the Rams couldn't capitalize.    Stanton had a mixed game. He missed some open receivers, but he connected on a pretty, 49-yard rainbow to "
   },
-  "8":{
+  "9":{
    "player_id":   2652,
    "year":"2014",
    "date":"2014-12-21",
@@ -395,7 +498,10 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":"6",
-   "opponent_score":"35",
+   "opponent_score":{
+    "propertyValue":"35",
+    "annotationID":    81283
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -433,7 +539,7 @@
    "punting_blocked":   0,
    "comment":"John Brown on a third down. "
   },
-  "9":{
+  "10":{
    "player_id":   2652,
    "year":"2014",
    "date":"2014-12-28",
@@ -458,15 +564,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"9",
-    "annotationID":    42223
+    "annotationID":    82104
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    42224
+    "annotationID":    82105
    },
    "receiving_yards":{
     "propertyValue":"51",
-    "annotationID":    42225
+    "annotationID":    82106
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -478,7 +584,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"2",
-    "annotationID":    42226
+    "annotationID":    82107
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -494,13 +600,74 @@
    "punting_blocked":   0,
    "comment":"John Brown. He even had a touchdown off a flea-flicker in the first quarter. The problem is that Lindley is so unbelievably careless with the football. It looked like he was playing blindfolded, carelessly heaving passes into coverage. He fired 3 interceptions, all of which were telegraphed passes, and he easily could've had a few more. Floyd and Larry Fitzgerald actually had to serve as defensive backs to break up interceptions on the same drive in the second quarter. Lindley finished 23-of-39 for 316 yards, 2 touchdowns and 3 picks. Again, he did a good job of moving the chains on occasion, and he was even screwed by a big John Brown drop in the 4.h quarter, but he needs to be a lot more careful with the football to give the Cardinals any sort of chance in the playoffs.    Floyd and Brown saw way more targets than any other Cardinals. Floyd reeled in 8 of the balls thrown to him for 153 yards and 2 touchdowns. Brown, seeing 9 targets, caught 4 balls for 51 yards. Fitzgerald, meanwhile, continued to struggle off his injury, catching just 2 passes for 29 yards.    "
   },
-  "10":{
+  "11":{
+   "player_id":   2652,
+   "year":"2015",
+   "date":"2015-09-13",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    83151
+   },
+   "age":"25-163",
+   "team":"ARI",
+   "game_location":"H",
+   "opponent":"NOR",
+   "game_won":   true,
+   "player_team_score":"31",
+   "opponent_score":"19",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   7,
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    83153
+   },
+   "receiving_yards":{
+    "propertyValue":"46",
+    "annotationID":    83154
+   },
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    83152
+   },
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"John Brown in the end zone. This has to be disconcerting for the Saints because the offensive line was seen as a glaring hole for the Cardinals heading into this contest. While Palmer played well, he wasn't completely flawless. He was lucky to get away with 2 passes that could have easily been intercepted. He also made a huge mistake at the end of the first half, scrambling and sliding inbounds as time ticking down without any timeouts. The Cardinals were in field-goal range, but couldn't stop the clock, resulting in no points in the 2-minute drill.    New Orleans couldn't stop "
+  },
+  "12":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-09-20",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    42581
+    "annotationID":    83760
    },
    "age":"25-170",
    "team":"ARI",
@@ -522,15 +689,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"5",
-    "annotationID":    42578
+    "annotationID":    83757
    },
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    42579
+    "annotationID":    83758
    },
    "receiving_yards":{
     "propertyValue":"45",
-    "annotationID":    42580
+    "annotationID":    83759
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -555,13 +722,13 @@
    "punting_blocked":   0,
    "comment":"John Brown after being beten badly, setting up a short score to Jaron Brown. Alan Ball then took his turn with a deep pass interference flag, a 38-yarder, leading to a Larry Fitzgerald touchdown. Missed tackles and blown coverages were prevalent throughout the afternoon. John Fox has a lot of work to do.    Carson Palmer went 17-of-24 for 185 yards, 4 touchdowns and an interception that was a swatted pass in mid-air by Jared Allen. Palmer was on fire, but Chicago's putrid defense offered no resistance. If you happen to own Palmer, I'd recommend unloading him to a team that is enduring quarterback issues. Palmer, a ticking time bomb in terms of staying healthy, won't have the luxury of going up against Chicago's weak defense each week.    Another player you should attempt to trade is Larry Fitzgerald. Securing 3 of Palmer's 4 touchdowns, Fitzgerald logged 8 catches for 112 yards otherwise. Fitzgerald can still get it done, but he's coming off 2 games against the worst defenses in the NFL. It'll be tougher for him to produce versus superior foes, and besides, it's only a matter of time before he gets hurt.    While Fitzgerald had a huge outing, only 1 other Cardinal had more than 20 receiving yards. That was John Brown, who snatched all 5 of his targets for 45 yards. Not shown on the stat sheet were 2 long pass interference calls, 1 of which he drew on Kyle Fuller, whom he beat quite easily. Fuller was ultimately benched in the second half.    Arizona's running game was unimpressive, to say the least. "
   },
-  "11":{
+  "13":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-09-27",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    43831
+    "annotationID":    86011
    },
    "age":"25-177",
    "team":"ARI",
@@ -583,15 +750,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"5",
-    "annotationID":    43833
+    "annotationID":    86013
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    43832
+    "annotationID":    86012
    },
    "receiving_yards":{
     "propertyValue":"62",
-    "annotationID":    43834
+    "annotationID":    86014
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -616,7 +783,7 @@
    "punting_blocked":   0,
    "comment":"John Brown again on the depth chart. On the day, Floyd caught just 1 of 5 targets for 12 yards, but also had a nice reception called back by holding. It was a mixed bag, as he also had a drop. He will cut into John Brown's targets as both ended up with 5. while Fitzgerald had 11. Brown had better numbers than Floyd, as he caught 3 of 5 targets for 62 yards, but had a sure touchdown in his breadbasket that he let spill to the ground for the dogs to lap up.    "
   },
-  "12":{
+  "14":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-10-04",
@@ -626,8 +793,14 @@
    "game_location":"H",
    "opponent":"STL",
    "game_won":   false,
-   "player_team_score":"22",
-   "opponent_score":"24",
+   "player_team_score":{
+    "propertyValue":"22",
+    "annotationID":    87056
+   },
+   "opponent_score":{
+    "propertyValue":"24",
+    "annotationID":    87055
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -636,17 +809,20 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   1,
+   "rushing_attempts":{
+    "propertyValue":"1",
+    "annotationID":    87057
+   },
    "rushing_yards":   13,
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
     "propertyValue":"7",
-    "annotationID":    44397
+    "annotationID":    87059
    },
    "receiving_yards":{
     "propertyValue":"75",
-    "annotationID":    44398
+    "annotationID":    87060
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -671,7 +847,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (7-75) and Michael Floyd (5-59) also contributed, but neither found the end zone."
   },
-  "13":{
+  "15":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-10-11",
@@ -720,13 +896,13 @@
    "punting_blocked":   0,
    "comment":"John Brown, who got over the top of Darius Slay. Chris Johnson took off on a 40-yard run to the 2-yard line on the next snap. That set up another touchdown run for David Johnson. On the next possession, Golden Tate was stripped by Tony Jefferson, and Rashad Johnson recovered the ball for Arizona. A few plays later, Palmer hit John Brown for an 18-yard touchdown. The game was, effectively, over by halftime. The third quarter was more of the same as Stafford and Calvin Johnson weren't on the same page. A pass flew right to Arizona's "
   },
-  "14":{
+  "16":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-10-18",
    "game_number":{
     "propertyValue":"6",
-    "annotationID":    45574
+    "annotationID":    89177
    },
    "age":"25-198",
    "team":"ARI",
@@ -748,11 +924,11 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"14",
-    "annotationID":    45573
+    "annotationID":    89176
    },
    "receiving_receptions":{
     "propertyValue":"10",
-    "annotationID":    45572
+    "annotationID":    89175
    },
    "receiving_yards":   196,
    "receiving_touchdowns":   0,
@@ -778,11 +954,14 @@
    "punting_blocked":   0,
    "comment":"John Brown's fumble, yet it wasn't called. Martavis Bryant was out of bounds before the second foot landed in the end zone, yet the play was never reviewed. Carson Palmer was hit late, yet no roughing-the-passer was called. A defensive pass interference on Pittsburgh was nullified mysteriously. There were other shady things going on, but I'm getting tired of typing. It was unreal. It's not a matter of whether or not this game was fixed; it's only a question of who happened to pay off Hochuli. </i>    Bruce Arians' homecoming looked like it would be an inevitable win, even though the Cardinals' offense wasn't getting into the end zone, because Mike Vick was so unbelievably bad. At halftime, the Steelers had totaled just 59 yards, while the Cardinals had 279, but astonishingly, the score was 10-3 Cardinals (Editor's Note: Read the previous editor's note to understand why).    Carson Palmer and company were moving the ball with ease through the air, and he and Michael Floyd connected in the first quarter for a 3-yard touchdown. But that was the only touchdown Arizona would score all day. Floyd was called for offensive pass interference, which wiped away what would have been his second touchdown. The Steelers' defense played the epitome of bend, but don't break defense, picking Palmer off twice and stopping the Cardinals on 58 percent of third downs.    Palmer was not his usual, accurate self and relied on some big receptions from his receivers, especially John Brown, who continues to show his immense ability. Brown made catches all over the field on his way to a big day, finishing with 10 receptions on 14 targets for 198 yards. All 3 were career highs for him. The only blemish, and it was an ugly 1. was a fumble which set up the go-ahead touchdown for the Steelers.    Vick was stuck on negative passing yards for most of the first half, and by the time he left in the third quarter, he was 3-for-8 for 6 yards. He ended up leaving due to a hamstring strain or possibly was just benched for Oklahoma Sooners product "
   },
-  "15":{
+  "17":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-10-26",
-   "game_number":"7",
+   "game_number":{
+    "propertyValue":"7",
+    "annotationID":    91335
+   },
    "age":"25-206",
    "team":"ARI",
    "game_location":"H",
@@ -827,7 +1006,7 @@
    "punting_blocked":   0,
    "comment":"John Brown out. Troy Niklas (2-12) had 2 scores.    "
   },
-  "16":{
+  "18":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-11-22",
@@ -852,15 +1031,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    48169
+    "annotationID":    93585
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    48170
+    "annotationID":    93586
    },
    "receiving_yards":{
     "propertyValue":"43",
-    "annotationID":    48171
+    "annotationID":    93587
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -885,7 +1064,7 @@
    "punting_blocked":   0,
    "comment":"John Brown either, though Brown did catch a touchdown on his 3 receptions for 43 yards. None of the running backs held that distinction. Speedy rookie J.J. Nelson was that player, as he snatched 4 of his 6 targets for a whopping 142 yards and a touchdown. Nelson's 64-yard score tied the game in the third quarter. He caught a deep pass and made an amazing juke on the defender, then used his elite speed to fly into the end zone.    The Cardinals didn't run the ball very well. The Bengals did a great job of bottling up "
   },
-  "17":{
+  "19":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-11-29",
@@ -911,11 +1090,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    48701
+    "annotationID":    94564
    },
    "receiving_yards":{
     "propertyValue":"99",
-    "annotationID":    48702
+    "annotationID":    94565
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -940,7 +1119,7 @@
    "punting_blocked":   0,
    "comment":"John Brown, who snatched 5 balls for 99 yards. Nearly half of his production came on a 48-yard bomb. "
   },
-  "18":{
+  "20":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-12-06",
@@ -966,11 +1145,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    48957
+    "annotationID":    95040
    },
    "receiving_yards":{
     "propertyValue":"113",
-    "annotationID":    48958
+    "annotationID":    95041
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -995,7 +1174,7 @@
    "punting_blocked":   0,
    "comment":"John Brown and Michael Floyd healthy, Palmer has tons of weapons at his disposal, and St. Louis simply couldn't handle all of them. John Brown led the way with 6 grabs for 113 yards. Michael Floyd (7-104) made an amazing catch along the sideline in the second half, as Palmer launched the ball from his own 2-yard line. "
   },
-  "19":{
+  "21":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-12-10",
@@ -1021,11 +1200,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    49361
+    "annotationID":    95720
    },
    "receiving_yards":{
     "propertyValue":"78",
-    "annotationID":    49362
+    "annotationID":    95721
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1050,7 +1229,62 @@
    "punting_blocked":   0,
    "comment":"John Brown (4-78), who broke free because of blown assignments against a secondary missing star safety Harrison Smith. "
   },
-  "20":{
+  "22":{
+   "player_id":   2652,
+   "year":"2015",
+   "date":"2015-12-20",
+   "game_number":"14",
+   "age":"25-261",
+   "team":"ARI",
+   "game_location":"A",
+   "opponent":"PHI",
+   "game_won":   true,
+   "player_team_score":"40",
+   "opponent_score":"17",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   9,
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    97881
+   },
+   "receiving_yards":{
+    "propertyValue":"38",
+    "annotationID":    97882
+   },
+   "receiving_touchdowns":   1,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"John Brown dropped the long score.    Speaking of Brown, he let 2 deep balls fall through his hands, spoiling what could've been an amazing evening. Brown still managed to post solid fantasy numbers, catching 3 balls for 38 yards and a touchdown.    Elsewhere, "
+  },
+  "23":{
    "player_id":   2652,
    "year":"2015",
    "date":"2015-12-27",
@@ -1076,11 +1310,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    50390
+    "annotationID":    98723
    },
    "receiving_yards":{
     "propertyValue":"25",
-    "annotationID":    50391
+    "annotationID":    98724
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1105,11 +1339,75 @@
    "punting_blocked":   0,
    "comment":"John Brown (3-25).    "
   },
-  "21":{
+  "24":{
+   "player_id":   2652,
+   "year":"2016",
+   "date":"2016-09-11",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    101087
+   },
+   "age":"26-161",
+   "team":"ARI",
+   "game_location":"H",
+   "opponent":"NWE",
+   "game_won":   false,
+   "player_team_score":"21",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"4",
+    "annotationID":    101090
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    101088
+   },
+   "receiving_yards":{
+    "propertyValue":"8",
+    "annotationID":    101089
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"John Brown, meanwhile, caught only 1 pass for 8 yards on 4 targets. With Palmer taking a step backward, Brown's production will drop.    "
+  },
+  "25":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-09-18",
-   "game_number":"2",
+   "game_number":{
+    "propertyValue":"2",
+    "annotationID":    102203
+   },
    "age":"26-168",
    "team":"ARI",
    "game_location":"H",
@@ -1131,11 +1429,11 @@
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    51621
+    "annotationID":    102204
    },
    "receiving_yards":{
     "propertyValue":"14",
-    "annotationID":    51623
+    "annotationID":    102206
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1143,7 +1441,7 @@
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
     "propertyValue":"1",
-    "annotationID":    51622
+    "annotationID":    102205
    },
    "punt_return_yards":   7,
    "punt_return_touchdowns":   0,
@@ -1163,7 +1461,7 @@
    "punting_blocked":   0,
    "comment":"John Brown, he continued to do nothing, hauling in 1 pass for 14 yards. He's not healthy, and Palmer isn't as sharp as he's been in past years.    Going back to the Buccaneers, despite Winston's struggles, Evans still caught 6 balls for 70 yards and the aforementioned touchdown. However, he did so on 17 targets. Evans had issues getting open against Peterson. He also dropped a pass and was called for offensive pass interference. Winston's other primary receivers were "
   },
-  "22":{
+  "26":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-09-25",
@@ -1189,11 +1487,11 @@
    "receiving_targets":   11,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    52100
+    "annotationID":    103024
    },
    "receiving_yards":{
     "propertyValue":"70",
-    "annotationID":    52101
+    "annotationID":    103025
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
@@ -1218,7 +1516,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (6-70) led the way for the team. "
   },
-  "23":{
+  "27":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-10-02",
@@ -1244,11 +1542,11 @@
    "receiving_targets":   16,
    "receiving_receptions":{
     "propertyValue":"10",
-    "annotationID":    53305
+    "annotationID":    105107
    },
    "receiving_yards":{
     "propertyValue":"144",
-    "annotationID":    53306
+    "annotationID":    105108
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1273,7 +1571,62 @@
    "punting_blocked":   0,
    "comment":"John Brown got off to a slow start this season because he was dealing with concussion ramifications, but he seems back to his old self. He caught 10 passes for 144 yards. "
   },
-  "24":{
+  "28":{
+   "player_id":   2652,
+   "year":"2016",
+   "date":"2016-10-06",
+   "game_number":"5",
+   "age":"26-186",
+   "team":"ARI",
+   "game_location":"A",
+   "opponent":"SFO",
+   "game_won":   true,
+   "player_team_score":"33",
+   "opponent_score":"21",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   5,
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    105305
+   },
+   "receiving_yards":{
+    "propertyValue":"11",
+    "annotationID":    105306
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   4,
+   "punt_return_yards":   25,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"John Brown caught only 1 pass for 11 yards, while Michael Floyd failed to log a single reception."
+  },
+  "29":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-10-30",
@@ -1298,15 +1651,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    54210
+    "annotationID":    109028
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    54211
+    "annotationID":    109029
    },
    "receiving_yards":{
     "propertyValue":"49",
-    "annotationID":    54212
+    "annotationID":    109030
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1331,7 +1684,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (4-49) had the third. "
   },
-  "25":{
+  "30":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-11-13",
@@ -1357,11 +1710,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    55605
+    "annotationID":    111448
    },
    "receiving_yards":{
     "propertyValue":"30",
-    "annotationID":    55604
+    "annotationID":    111447
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1369,7 +1722,7 @@
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
     "propertyValue":"2",
-    "annotationID":    55606
+    "annotationID":    111449
    },
    "punt_return_yards":   7,
    "punt_return_touchdowns":   0,
@@ -1389,7 +1742,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (2-30) and J.J. Nelson (2-29) counteracted each other and did not make much of an impact.    Perhaps the most surprising part of this contest was the performance of "
   },
-  "26":{
+  "31":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-11-20",
@@ -1414,7 +1767,7 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    55845
+    "annotationID":    111881
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -1441,7 +1794,71 @@
    "punting_blocked":   0,
    "comment":"John Brown must have run the wrong route. Palmer later tossed a second pick, an overthrow into double coverage. Palmer had a chance at the very end because of a Sam Bradford fumble turned into a touchdown, but Palmer was sacked on numerous occasions on the final couple of drives. It appeared as though the officials felt so sorry for Palmer that they gave him a free first down on a clean hit that should've ended the game, but Palmer was ultimately sacked on 4.h down, allowing Minnesota to prevail. Palmer finished 20-of-38 for 198 yards, 2 touchdowns and the pair of interceptions. However, he was brutal in the second half, going 9-of-19 for 45 yards, 1 touchdown and a pick following intermission. He took only 4 sacks, but it really felt like 14. Palmer was hit hard all afternoon. In fact, I'm surprised he made it through the game without an injury. The second half was a mess for the entire team, as Arizona managed just 5 first downs.    As for David Johnson, he didn't do much in the second half either. In fact, he was given just 5 carries after the break, which was a huge error on Arizona's part, given how well Johnson had been running. Johnson finished with 103 yards and a touchdown on 22 carries. Johnson was also second on the team in receiving yardage, as he reeled in 7 of 11 targets for 57 yards and a touchdown. He was only behind Fitzgerald (6-63), who made an amazing 1.handed catch in the opening half.    Elsewhere in the passing game, Jermaine Gresham (2-33) snared Palmer's touchdown. The play featured a misplay by Harrison Smith, who thought he had an interception, and a missed tackle from Smith as well. Michael Floyd (2-21) didn't do much, while neither John Brown (4 targets) and J.J. Nelson (5 targets) managed a single receiving yard.    As for Minnesota's offense, it wasn't pretty, but the Vikings did enough to get the job done. Sam Bradford finished 20-of-28 for 169 yards and a touchdown. It has to be noted that "
   },
-  "27":{
+  "32":{
+   "player_id":   2652,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"26-238",
+   "team":"ARI",
+   "game_location":"A",
+   "opponent":"ATL",
+   "game_won":   false,
+   "player_team_score":{
+    "propertyValue":"19",
+    "annotationID":    113130
+   },
+   "opponent_score":"38",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    113127
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    113128
+   },
+   "receiving_yards":{
+    "propertyValue":"19",
+    "annotationID":    113131
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":{
+    "propertyValue":"1",
+    "annotationID":    113129
+   },
+   "punt_return_yards":   6,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"John Brown (1-19) left the game with an injured hamstring, forcing a hobbled Floyd into action.   "
+  },
+  "33":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-12-18",
@@ -1467,15 +1884,15 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    57852
+    "annotationID":    116905
    },
    "receiving_yards":{
     "propertyValue":"81",
-    "annotationID":    57853
+    "annotationID":    116906
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    57854
+    "annotationID":    116907
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1499,7 +1916,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (5-81-1) didn't, as Vonn Bell was late coming over the top on Brown's 30-yard score. Brees connected with "
   },
-  "28":{
+  "34":{
    "player_id":   2652,
    "year":"2016",
    "date":"2016-12-24",
@@ -1526,7 +1943,7 @@
    "receiving_receptions":   1,
    "receiving_yards":{
     "propertyValue":"12",
-    "annotationID":    58359
+    "annotationID":    117960
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1551,7 +1968,7 @@
    "punting_blocked":   0,
    "comment":"John Brown's role. Speaking of Brown, he only logged a single catch for 12 yards. "
   },
-  "29":{
+  "35":{
    "player_id":   2652,
    "year":"2017",
    "date":"2017-09-10",
@@ -1576,15 +1993,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"9",
-    "annotationID":    59151
+    "annotationID":    119551
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    59152
+    "annotationID":    119552
    },
    "receiving_yards":{
     "propertyValue":"32",
-    "annotationID":    59153
+    "annotationID":    119553
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1609,7 +2026,7 @@
    "punting_blocked":   0,
    "comment":"John Brown trailed only Fitzgerald in targets (9), but could only convert 4 of them for 32 yards.    Adding injury to insult and injury for the Cardinals, they lost tackle "
   },
-  "30":{
+  "36":{
    "player_id":   2652,
    "year":"2017",
    "date":"2017-10-01",
@@ -1658,7 +2075,7 @@
    "punting_blocked":   0,
    "comment":"John Brown, but then had a deflected pass intercepted in the end zone by Ray Ray Armstrong. The 49ers struck first with a field goal drive, as "
   },
-  "31":{
+  "37":{
    "player_id":   2652,
    "year":"2017",
    "date":"2017-10-08",
@@ -1684,11 +2101,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    61416
+    "annotationID":    124027
    },
    "receiving_yards":{
     "propertyValue":"26",
-    "annotationID":    61417
+    "annotationID":    124028
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1713,7 +2130,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (2-26) snatched Palmer's sole touchdown, but he also dropped a pass.    The Cardinals' running game struggled once again, which was hardly a surprise. "
   },
-  "32":{
+  "38":{
    "player_id":   2652,
    "year":"2017",
    "date":"2017-10-15",
@@ -1739,11 +2156,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    62204
+    "annotationID":    125590
    },
    "receiving_yards":{
     "propertyValue":"63",
-    "annotationID":    62205
+    "annotationID":    125591
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1768,7 +2185,7 @@
    "punting_blocked":   0,
    "comment":"John Brown (3-63) and Troy Niklas (2-20) caught Palmer's touchdowns."
   },
-  "33":{
+  "39":{
    "player_id":   2652,
    "year":"2017",
    "date":"2017-10-22",
@@ -1791,9 +2208,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   4,
-   "receiving_receptions":   1,
-   "receiving_yards":   6,
+   "receiving_targets":{
+    "propertyValue":"4",
+    "annotationID":    125762
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    125760
+   },
+   "receiving_yards":{
+    "propertyValue":"6",
+    "annotationID":    125763
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1817,7 +2243,7 @@
    "punting_blocked":   0,
    "comment":"John Brown to set up another Los Angeles score, and just like that, the Rams were up 23-0 at halftime.    "
   },
-  "34":{
+  "40":{
    "player_id":   2652,
    "year":"2017",
    "date":"2017-11-05",
@@ -1828,7 +2254,10 @@
    "opponent":"SFO",
    "game_won":   true,
    "player_team_score":"20",
-   "opponent_score":"10",
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    127862
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -1844,7 +2273,7 @@
    "receiving_receptions":   1,
    "receiving_yards":{
     "propertyValue":"52",
-    "annotationID":    63378
+    "annotationID":    127861
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1870,5 +2299,5 @@
    "comment":"John Brown for 52 yards (his only catch), but Phil Dawson missed a short field goal for Arizona."
   }
  },
- "numberGames": 34
+ "numberGames": 40
 }

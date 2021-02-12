@@ -70,14 +70,23 @@
    "player_id":   4960,
    "year":"2011",
    "date":"2011-11-20",
-   "game_number":"10",
+   "game_number":{
+    "propertyValue":"10",
+    "annotationID":    35875
+   },
    "age":"25-228",
    "team":"OAK",
    "game_location":"A",
    "opponent":"MIN",
    "game_won":   true,
-   "player_team_score":"27",
-   "opponent_score":"21",
+   "player_team_score":{
+    "propertyValue":"27",
+    "annotationID":    35878
+   },
+   "opponent_score":{
+    "propertyValue":"21",
+    "annotationID":    35879
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -100,8 +109,14 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   2,
-   "defense_tackle_assists":   2,
+   "defense_tackles":{
+    "propertyValue":"2",
+    "annotationID":    35880
+   },
+   "defense_tackle_assists":{
+    "propertyValue":"2",
+    "annotationID":    35881
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -149,7 +164,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   4,
+   "defense_tackles":{
+    "propertyValue":"4",
+    "annotationID":    36954
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -219,7 +237,7 @@
    "date":"2011-12-18",
    "game_number":{
     "propertyValue":"14",
-    "annotationID":    20805
+    "annotationID":    39064
    },
    "age":"25-256",
    "team":"OAK",
@@ -228,7 +246,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"27",
-    "annotationID":    20804
+    "annotationID":    39063
    },
    "opponent_score":"28",
    "passing_attempts":   0,
@@ -255,7 +273,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"2",
-    "annotationID":    20803
+    "annotationID":    39062
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,

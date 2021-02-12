@@ -21,7 +21,10 @@
    "player_id":   1067,
    "year":"2013",
    "date":"2013-10-20",
-   "game_number":"7",
+   "game_number":{
+    "propertyValue":"7",
+    "annotationID":    59070
+   },
    "age":"23-042",
    "team":"PHI",
    "game_location":"H",
@@ -29,17 +32,26 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"3",
-    "annotationID":    31247
+    "annotationID":    59068
    },
    "opponent_score":"17",
-   "passing_attempts":   11,
-   "passing_completions":   20,
-   "passing_yards":   129,
+   "passing_attempts":{
+    "propertyValue":"11",
+    "annotationID":    59065
+   },
+   "passing_completions":{
+    "propertyValue":"20",
+    "annotationID":    59066
+   },
+   "passing_yards":{
+    "propertyValue":"129",
+    "annotationID":    59067
+   },
    "passing_rating":   35.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    31248
+    "annotationID":    59069
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
@@ -74,6 +86,55 @@
   },
   "2":{
    "player_id":   1067,
+   "year":"2013",
+   "date":"2013-10-27",
+   "game_number":"8",
+   "age":"23-049",
+   "team":"PHI",
+   "game_location":"H",
+   "opponent":"NYG",
+   "game_won":   false,
+   "player_team_score":"7",
+   "opponent_score":"15",
+   "passing_attempts":   17,
+   "passing_completions":   26,
+   "passing_yards":   158,
+   "passing_rating":   65.9,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   1,
+   "passing_sacks":   3,
+   "passing_sacks_yards_lost":   24,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Matt Barkley should've started. Barkley didn't put any points on the board, but he at least didn't give the Giants any points. QBDK was initially intercepted on a throw behind "
+  },
+  "3":{
+   "player_id":   1067,
    "year":"2016",
    "date":"2016-10-20",
    "game_number":"7",
@@ -86,21 +147,21 @@
    "opponent_score":"26",
    "passing_attempts":{
     "propertyValue":"6",
-    "annotationID":    53374
+    "annotationID":    107523
    },
    "passing_completions":{
     "propertyValue":"15",
-    "annotationID":    53375
+    "annotationID":    107524
    },
    "passing_yards":{
     "propertyValue":"81",
-    "annotationID":    53376
+    "annotationID":    107525
    },
    "passing_rating":   18.3,
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    53377
+    "annotationID":    107526
    },
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   10,
@@ -133,7 +194,83 @@
    "punting_blocked":   0,
    "comment":"Matt Barkley, who was a disaster. Barkley went 6-of-15 for 81 yards and 2 interceptions. The first pick was a tipped pass by "
   },
-  "3":{
+  "4":{
+   "player_id":   1067,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":{
+    "propertyValue":"11",
+    "annotationID":    113451
+   },
+   "age":"26-080",
+   "team":"CHI",
+   "game_location":"H",
+   "opponent":"TEN",
+   "game_won":   false,
+   "player_team_score":{
+    "propertyValue":"21",
+    "annotationID":    113443
+   },
+   "opponent_score":{
+    "propertyValue":"27",
+    "annotationID":    113442
+   },
+   "passing_attempts":{
+    "propertyValue":"28",
+    "annotationID":    113453
+   },
+   "passing_completions":{
+    "propertyValue":"54",
+    "annotationID":    113454
+   },
+   "passing_yards":{
+    "propertyValue":"316",
+    "annotationID":    113455
+   },
+   "passing_rating":   72.8,
+   "passing_touchdowns":{
+    "propertyValue":"3",
+    "annotationID":    113456
+   },
+   "passing_interceptions":{
+    "propertyValue":"2",
+    "annotationID":    113457
+   },
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    113458
+   },
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Matt Barkley finally began making mistakes. They led 27-7 and appeared to think that this game was over. Except, it wasn't. Thanks in part to Jurrell Casey's injury (sprained foot), the Bears roared back, trimming the lead to 27-21. They had a chance to win at the end and even had the game won, but Josh Bellamy dropped an easy catch in the end zone. This was 1 of countless drops Chicago was guilty of down the stretch. The Bears were able to get wide open against Tennessee's poor secondary, but couldn't prevent themselves from dropping lots of passes. Of course, this is what happens to a team missing 3 of its top weapons.    At any rate, Mariota finished 15-of-23 for 226 yards and 2 touchdowns. He played well overall, especially in the first half, but he barely threw the ball following the break; he was just 5-of-9 for 87 yards after intermission. The Titans didn't need to throw much at first, and this appeared to ruin Mariota's rhythm. This was apparent when he overthrew a wide-open Kendall Wright for a long touchdown late in the game. Mariota, by the way, didn't have to do much running. He scrambled only 4 times, but picked up 46 yards in the process, which includes a 29-yard scamper.    Mariota's scores were thrown to Rishrd Matthews (3-64) and Delanie Walker (3-50). Neither Wright (0 catches) nor Tajae Sharpe (2-11) did much, though the former would've secured a long touchdown had Mariota not missed him.    It might be time for the Titans to give Henry a greater workload. DeMarco Murray couldn't do anything on the ground, mustering only 43 yards on 17 carries. Given how much of a workload he has shouldered, he appears to be worn down, though he did catch 5 passes for 41 receiving yards. Murray also fumbled in the red zone, but was fortunate that Anthony Fasano was able to fall on the loose ball. Henry, meanwhile, looked much fresher, accumulating 60 yards and a touchdown on just 8 attempts.    The best running back on the field, at least statistically, was Jordan Howard, who gained 84 rushing yards on 18 carries to go along with 3 catches for 43 receiving yards. Stats can be misleading, however, and that would be the case here, as Howard dropped a couple of passes, 1 of which was in the end zone. Also, 22 of Howard's 84 rushing yards came on 1 burst that caught the Titans off-guard.    Speaking of misleading stats, Matt Barkley was 28-of-54 for 316 yards, 3 touchdowns and 2 interceptions. However, Barkley was just 7-of-16 for 63 yards, 1 touchdown and a pick by halftime. Most of his positive stats came after halftime when the exhausted Titans, who haven't had a week off yet, forgot to cover the horrible Chicago receivers. They nearly paid the price, but managed to hold on. Now, they'll be able to enjoy their bye week before entering the final quarter of the season. If you're wondering about Barkley's interceptions, only 1 was his fault. His first was wrestled away by linebacker "
+  },
+  "5":{
    "player_id":   1067,
    "year":"2016",
    "date":"2016-12-04",
@@ -147,22 +284,22 @@
    "opponent_score":"6",
    "passing_attempts":{
     "propertyValue":"11",
-    "annotationID":    56502
+    "annotationID":    114425
    },
    "passing_completions":{
     "propertyValue":"18",
-    "annotationID":    56503
+    "annotationID":    114426
    },
    "passing_yards":{
     "propertyValue":"192",
-    "annotationID":    56504
+    "annotationID":    114427
    },
    "passing_rating":   97.5,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    56505
+    "annotationID":    114428
    },
    "passing_sacks_yards_lost":   8,
    "rushing_attempts":   4,
@@ -194,7 +331,7 @@
    "punting_blocked":   0,
    "comment":"Matt Barkley, meanwhile, went 11-of-18 for 192 yards. It wasn't anything special, but Barkley did a good job considering the weather conditions and the lack of weapons. Remarkably, his receivers didn't drop nearly as many passes as they did last week despite playing in the snow, though he did miss out on a touchdown because 1 of his receivers let the ball fall through his hands.    Just 2 Bears logged more than 19 receiving yards: "
   },
-  "4":{
+  "6":{
    "player_id":   1067,
    "year":"2016",
    "date":"2016-12-11",
@@ -207,29 +344,29 @@
    "player_team_score":"17",
    "opponent_score":{
     "propertyValue":"20",
-    "annotationID":    57018
+    "annotationID":    115365
    },
    "passing_attempts":{
     "propertyValue":"20",
-    "annotationID":    57019
+    "annotationID":    115366
    },
    "passing_completions":{
     "propertyValue":"32",
-    "annotationID":    57020
+    "annotationID":    115367
    },
    "passing_yards":{
     "propertyValue":"212",
-    "annotationID":    57021
+    "annotationID":    115368
    },
    "passing_rating":   92.2,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    57022
+    "annotationID":    115369
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    57023
+    "annotationID":    115370
    },
    "passing_sacks_yards_lost":   8,
    "rushing_attempts":   0,
@@ -261,7 +398,7 @@
    "punting_blocked":   0,
    "comment":"Matt Barkley. The former Eagle thrived against the 49ers and Titans, but this was his first real test. He certainly passed, as he proved to NFL decision-makers that he's capable of being a solid No. 2 quarterback in the NFL. Barkley finished 20-of-32 for 212 yards and a touchdown. Though he got lucky to avoid some potential turnovers, he also made a number of nifty plays, including 1 in which he sidestepped a pass-rusher on a third-and-9 to extend the play and help the Bears convert a first down. Barkley almost led a game-tying drive at the end of regulation, but his conversions to "
   },
-  "5":{
+  "7":{
    "player_id":   1067,
    "year":"2016",
    "date":"2016-12-18",
@@ -273,7 +410,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"27",
-    "annotationID":    57681
+    "annotationID":    116610
    },
    "opponent_score":"30",
    "passing_attempts":   30,
@@ -282,7 +419,7 @@
    "passing_rating":   81.7,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    57680
+    "annotationID":    116609
    },
    "passing_interceptions":   3,
    "passing_sacks":   1,
@@ -316,7 +453,7 @@
    "punting_blocked":   0,
    "comment":"Matt Barkley threw 110 more yards and 2 more touchdowns than Aaron Rodgers. Someone please help me escape this evil place.    After falling to 4-6, Aaron Rodgers said the team had to run the table. Well, they are only 2 games away from doing that after beating the rival Bears. Matt Barkley played tremendously to tie the game late in the 4.h quarter after the Packers had built a 27-10 lead, but Rodgers and "
   },
-  "6":{
+  "8":{
    "player_id":   1067,
    "year":"2016",
    "date":"2016-12-24",
@@ -335,15 +472,15 @@
    "passing_touchdowns":   2,
    "passing_interceptions":{
     "propertyValue":"5",
-    "annotationID":    58127
+    "annotationID":    117508
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    58129
+    "annotationID":    117510
    },
    "passing_sacks_yards_lost":{
     "propertyValue":"5",
-    "annotationID":    58128
+    "annotationID":    117509
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -374,7 +511,7 @@
    "punting_blocked":   0,
    "comment":"Matt Barkley is not the quarterback of the future. Barkley put together some solid performances leading up to this contest, but he unraveled with a meltdown. Barkley threw 5 interceptions in this game, most of which were his fault. The first was a poor decision, as Barkley took a deep shot into triple coverage. The second occurred because Barkley was in full panic mode, launching a pass as he was in the grasp. The third was the only 1 that wasn't his fault, as it was off a deflected ball. The 4.h was an atrocious throw; "
   },
-  "7":{
+  "9":{
    "player_id":   1067,
    "year":"2016",
    "date":"2017-01-01",
@@ -386,53 +523,53 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"10",
-    "annotationID":    58536
+    "annotationID":    118385
    },
    "opponent_score":"38",
    "passing_attempts":{
     "propertyValue":"10",
-    "annotationID":    58537
+    "annotationID":    118386
    },
    "passing_completions":{
     "propertyValue":"14",
-    "annotationID":    58538
+    "annotationID":    118387
    },
    "passing_yards":{
     "propertyValue":"125",
-    "annotationID":    58539
+    "annotationID":    118388
    },
    "passing_rating":   59.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    58540
+    "annotationID":    118389
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    58542
+    "annotationID":    118391
    },
    "passing_sacks_yards_lost":{
     "propertyValue":"4",
-    "annotationID":    58535
+    "annotationID":    118384
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    58543
+    "annotationID":    118392
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    58544
+    "annotationID":    118393
    },
    "receiving_yards":{
     "propertyValue":"2",
-    "annotationID":    58541
+    "annotationID":    118390
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    58545
+    "annotationID":    118394
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -457,5 +594,5 @@
    "comment":"Matt Barkley self-destructing. Barkley, who threw 8 interceptions in the past 2 games heading into this contest, continued to be a turnover machine, adding 2 to his dubious total. Barkley's first pick occurred when he forced a poor pass into coverage when he had an underneath receiver open in the red zone. He did the same thing after halftime, once again deep in Minnesota territory. Barkley capped off his afternoon with strip-sack that was returned for a touchdown. Barkley misfired on only 4 occasions, going 10-of-14 for 125 yards. That's not bad, but the 3 give-aways obviously need to be taken into account. Barkley played well several weeks ago, but he has transformed into a turnover machine. He might still have a role as a No. 2 quarterback in this league, but he really needs to work on being more careful with the football.    The 1 piece of good news for the Bears is that "
   }
  },
- "numberGames": 7
+ "numberGames": 9
 }

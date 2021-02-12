@@ -28,7 +28,10 @@
    "opponent":"WAS",
    "game_won":   true,
    "player_team_score":"34",
-   "opponent_score":"27",
+   "opponent_score":{
+    "propertyValue":"27",
+    "annotationID":    38187
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -50,9 +53,18 @@
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
-   "defense_sacks":   1,
-   "defense_tackles":   2,
-   "defense_tackle_assists":   3,
+   "defense_sacks":{
+    "propertyValue":"1",
+    "annotationID":    38185
+   },
+   "defense_tackles":{
+    "propertyValue":"2",
+    "annotationID":    38186
+   },
+   "defense_tackle_assists":{
+    "propertyValue":"3",
+    "annotationID":    38188
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

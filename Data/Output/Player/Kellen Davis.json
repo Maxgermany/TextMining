@@ -27,8 +27,14 @@
    "game_location":"A",
    "opponent":"OAK",
    "game_won":   false,
-   "player_team_score":"20",
-   "opponent_score":"25",
+   "player_team_score":{
+    "propertyValue":"20",
+    "annotationID":    36929
+   },
+   "opponent_score":{
+    "propertyValue":"25",
+    "annotationID":    36927
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -40,10 +46,22 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   2,
-   "receiving_receptions":   2,
-   "receiving_yards":   25,
-   "receiving_touchdowns":   1,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    36920
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    36921
+   },
+   "receiving_yards":{
+    "propertyValue":"25",
+    "annotationID":    36928
+   },
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    36924
+   },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
@@ -92,7 +110,7 @@
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    24554
+    "annotationID":    46058
    },
    "receiving_yards":   3,
    "receiving_touchdowns":   0,
@@ -143,19 +161,19 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    24555
+    "annotationID":    46059
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    24556
+    "annotationID":    46060
    },
    "receiving_yards":{
     "propertyValue":"12",
-    "annotationID":    24558
+    "annotationID":    46062
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    24557
+    "annotationID":    46061
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -182,6 +200,58 @@
   "4":{
    "player_id":   5255,
    "year":"2012",
+   "date":"2012-11-11",
+   "game_number":"9",
+   "age":"27-031",
+   "team":"CHI",
+   "game_location":"H",
+   "opponent":"HOU",
+   "game_won":   false,
+   "player_team_score":"6",
+   "opponent_score":"13",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   5,
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    47940
+   },
+   "receiving_yards":   6,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Kellen Davis fumbled near midfield and then Michael Bush coughed the ball up deep in Houston territory after converting a 4th-and-1."
+  },
+  "5":{
+   "player_id":   5255,
+   "year":"2012",
    "date":"2012-12-23",
    "game_number":"15",
    "age":"27-073",
@@ -204,15 +274,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    27539
+    "annotationID":    52083
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    27540
+    "annotationID":    52084
    },
    "receiving_yards":{
     "propertyValue":"19",
-    "annotationID":    27541
+    "annotationID":    52085
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -237,7 +307,7 @@
    "punting_blocked":   0,
    "comment":"Kellen Davis, 2-19).   "
   },
-  "5":{
+  "6":{
    "player_id":   5255,
    "year":"2013",
    "date":"2013-10-17",
@@ -286,7 +356,7 @@
    "punting_blocked":   0,
    "comment":"Kellen Davis all found the end zone. Rice's touchdown was the best of them all, as Wilson found him downfield for a 31-yarder on a broken play in which he was scrambling out of the pocket toward the right sideline. "
   },
-  "6":{
+  "7":{
    "player_id":   5255,
    "year":"2015",
    "date":"2015-11-08",
@@ -336,5 +406,5 @@
    "comment":"Kellen Davis recovered for New York at the Jaguars' 25-yard line. A few plays later, "
   }
  },
- "numberGames": 6
+ "numberGames": 7
 }

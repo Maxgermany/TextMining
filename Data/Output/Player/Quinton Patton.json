@@ -21,7 +21,10 @@
    "player_id":   17230,
    "year":"2014",
    "date":"2014-12-20",
-   "game_number":"15",
+   "game_number":{
+    "propertyValue":"15",
+    "annotationID":    80476
+   },
    "age":"24-133",
    "team":"SFO",
    "game_location":"H",
@@ -37,15 +40,33 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   1,
+   "rushing_attempts":{
+    "propertyValue":"1",
+    "annotationID":    80472
+   },
    "rushing_yards":   20,
    "rushing_touchdowns":   0,
-   "receiving_targets":   6,
-   "receiving_receptions":   2,
-   "receiving_yards":   9,
+   "receiving_targets":{
+    "propertyValue":"6",
+    "annotationID":    80474
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    80479
+   },
+   "receiving_yards":{
+    "propertyValue":"9",
+    "annotationID":    80467
+   },
    "receiving_touchdowns":   0,
-   "kick_return_attempts":   1,
-   "kick_return_yards":   24,
+   "kick_return_attempts":{
+    "propertyValue":"1",
+    "annotationID":    80473
+   },
+   "kick_return_yards":{
+    "propertyValue":"24",
+    "annotationID":    80477
+   },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
@@ -72,7 +93,7 @@
    "date":"2015-10-04",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    44440
+    "annotationID":    87123
    },
    "age":"25-056",
    "team":"SFO",
@@ -81,11 +102,11 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"3",
-    "annotationID":    44446
+    "annotationID":    87129
    },
    "opponent_score":{
     "propertyValue":"17",
-    "annotationID":    44438
+    "annotationID":    87121
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -100,15 +121,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    44443
+    "annotationID":    87126
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    44444
+    "annotationID":    87127
    },
    "receiving_yards":{
     "propertyValue":"53",
-    "annotationID":    44445
+    "annotationID":    87128
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -145,7 +166,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"25",
-    "annotationID":    45636
+    "annotationID":    89296
    },
    "opponent_score":"20",
    "passing_attempts":   0,
@@ -161,19 +182,19 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    45639
+    "annotationID":    89299
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    45640
+    "annotationID":    89300
    },
    "receiving_yards":{
     "propertyValue":"38",
-    "annotationID":    45641
+    "annotationID":    89301
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    45638
+    "annotationID":    89298
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -209,7 +230,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"6",
-    "annotationID":    46673
+    "annotationID":    90975
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -226,11 +247,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    46674
+    "annotationID":    90976
    },
    "receiving_yards":{
     "propertyValue":"33",
-    "annotationID":    46672
+    "annotationID":    90974
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -280,15 +301,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"5",
-    "annotationID":    47525
+    "annotationID":    92409
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    47523
+    "annotationID":    92407
    },
    "receiving_yards":{
     "propertyValue":"70",
-    "annotationID":    47524
+    "annotationID":    92408
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -339,11 +360,11 @@
    "receiving_targets":   9,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    49449
+    "annotationID":    95891
    },
    "receiving_yards":{
     "propertyValue":"46",
-    "annotationID":    49450
+    "annotationID":    95892
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
@@ -374,7 +395,7 @@
    "date":"2016-01-03",
    "game_number":{
     "propertyValue":"16",
-    "annotationID":    50867
+    "annotationID":    99527
    },
    "age":"25-147",
    "team":"SFO",
@@ -384,7 +405,7 @@
    "player_team_score":"19",
    "opponent_score":{
     "propertyValue":"16",
-    "annotationID":    50868
+    "annotationID":    99528
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -400,13 +421,13 @@
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    50869
+    "annotationID":    99529
    },
    "receiving_yards":   33,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
     "propertyValue":"1",
-    "annotationID":    50870
+    "annotationID":    99530
    },
    "kick_return_yards":   2,
    "kick_return_touchdowns":   0,
@@ -432,6 +453,64 @@
   "8":{
    "player_id":   17230,
    "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"6",
+   "age":"26-068",
+   "team":"SFO",
+   "game_location":"A",
+   "opponent":"BUF",
+   "game_won":   false,
+   "player_team_score":"16",
+   "opponent_score":"45",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"7",
+    "annotationID":    107077
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    107075
+   },
+   "receiving_yards":{
+    "propertyValue":"52",
+    "annotationID":    107076
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Quinton Patton (4-52) were the leaders in terms of yardage. Smith did most of his damage on the touchdown catch, but Patton looked impressive. It seems that the coaching staff wants to get him more involved in the passing attack. The third receiver to get 7 targets was "
+  },
+  "9":{
+   "player_id":   17230,
+   "year":"2016",
    "date":"2016-10-23",
    "game_number":"7",
    "age":"26-075",
@@ -441,7 +520,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"17",
-    "annotationID":    53805
+    "annotationID":    108245
    },
    "opponent_score":"34",
    "passing_attempts":   0,
@@ -458,11 +537,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    53803
+    "annotationID":    108243
    },
    "receiving_yards":{
     "propertyValue":"13",
-    "annotationID":    53804
+    "annotationID":    108244
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -487,7 +566,7 @@
    "punting_blocked":   0,
    "comment":"Quinton Patton (3-13), Jeremy Kerley (2-15) and Torrey Smith (1-17) were all relatively disappointing."
   },
-  "9":{
+  "10":{
    "player_id":   17230,
    "year":"2016",
    "date":"2016-11-06",
@@ -536,13 +615,13 @@
    "punting_blocked":   0,
    "comment":"Quinton Patton. The Saints came back with "
   },
-  "10":{
+  "11":{
    "player_id":   17230,
    "year":"2016",
    "date":"2016-11-13",
    "game_number":{
     "propertyValue":"9",
-    "annotationID":    55571
+    "annotationID":    111387
    },
    "age":"26-096",
    "team":"SFO",
@@ -564,15 +643,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"9",
-    "annotationID":    55572
+    "annotationID":    111388
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    55570
+    "annotationID":    111386
    },
    "receiving_yards":{
     "propertyValue":"52",
-    "annotationID":    55569
+    "annotationID":    111385
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -597,7 +676,7 @@
    "punting_blocked":   0,
    "comment":"Quinton Patton (3-52). Kerley was solid all around and was able to get open against Arizona's secondary. Without Tyrann Mathieu, the unit struggled to contain the speedy Kerley, and he produced as a result. Kerley could be worth a speculative add, but he is too inconsistent to be relied on in fantasy. Patton, meanwhile, only caught 3 of his 9 targets. He could become a producer, but for now, he is just a mediocre option on a team with quarterback questions. Tight end "
   },
-  "11":{
+  "12":{
    "player_id":   17230,
    "year":"2016",
    "date":"2016-12-11",
@@ -623,11 +702,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    57323
+    "annotationID":    115943
    },
    "receiving_yards":{
     "propertyValue":"31",
-    "annotationID":    57324
+    "annotationID":    115944
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -653,5 +732,5 @@
    "comment":"Quinton Patton (4-31). "
   }
  },
- "numberGames": 11
+ "numberGames": 12
 }

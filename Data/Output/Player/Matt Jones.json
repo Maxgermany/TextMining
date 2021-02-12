@@ -21,7 +21,10 @@
    "player_id":   11663,
    "year":"2008",
    "date":"2008-09-07",
-   "game_number":"1",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    328
+   },
    "age":"25-138",
    "team":"JAX",
    "game_location":"A",
@@ -43,11 +46,11 @@
    "receiving_targets":   10,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    176
+    "annotationID":    330
    },
    "receiving_yards":{
     "propertyValue":"80",
-    "annotationID":    177
+    "annotationID":    331
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -57,7 +60,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   1,
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    329
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -98,11 +104,11 @@
    "receiving_targets":   10,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    437
+    "annotationID":    800
    },
    "receiving_yards":{
     "propertyValue":"50",
-    "annotationID":    438
+    "annotationID":    801
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -202,11 +208,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    958
+    "annotationID":    1740
    },
    "receiving_yards":{
     "propertyValue":"71",
-    "annotationID":    957
+    "annotationID":    1739
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -257,11 +263,11 @@
    "receiving_targets":   10,
    "receiving_receptions":{
     "propertyValue":"7",
-    "annotationID":    1741
+    "annotationID":    3105
    },
    "receiving_yards":{
     "propertyValue":"69",
-    "annotationID":    1739
+    "annotationID":    3103
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -312,15 +318,15 @@
    "receiving_targets":   16,
    "receiving_receptions":{
     "propertyValue":"8",
-    "annotationID":    2350
+    "annotationID":    4258
    },
    "receiving_yards":{
     "propertyValue":"117",
-    "annotationID":    2351
+    "annotationID":    4259
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    2352
+    "annotationID":    4260
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -370,11 +376,11 @@
    "receiving_targets":   12,
    "receiving_receptions":{
     "propertyValue":"7",
-    "annotationID":    2424
+    "annotationID":    4375
    },
    "receiving_yards":{
     "propertyValue":"69",
-    "annotationID":    2425
+    "annotationID":    4376
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -400,6 +406,64 @@
    "comment":"Matt Jones was once again Garrard's sole effective target; Jones caught 7 passes for 69 yards.    Even more surprising is that Cincinnati's "
   },
   "8":{
+   "player_id":   11663,
+   "year":"2008",
+   "date":"2008-11-23",
+   "game_number":"11",
+   "age":"25-215",
+   "team":"JAX",
+   "game_location":"H",
+   "opponent":"MIN",
+   "game_won":   false,
+   "player_team_score":"12",
+   "opponent_score":"30",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"9",
+    "annotationID":    5965
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    5966
+   },
+   "receiving_yards":{
+    "propertyValue":"37",
+    "annotationID":    5967
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Matt Jones led all wideouts with 4 receptions for 37 yards. "
+  },
+  "9":{
    "player_id":   11663,
    "year":"2008",
    "date":"2008-12-01",
@@ -448,7 +512,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones connected only 3 times for 34 yards.    "
   },
-  "9":{
+  "10":{
    "player_id":   11663,
    "year":"2008",
    "date":"2008-12-07",
@@ -474,11 +538,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    3517
+    "annotationID":    7356
    },
    "receiving_yards":{
     "propertyValue":"34",
-    "annotationID":    3518
+    "annotationID":    7357
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -503,13 +567,71 @@
    "punting_blocked":   0,
    "comment":"Matt Jones connected only 3 times for 34 yards.    "
   },
-  "10":{
+  "11":{
+   "player_id":   11664,
+   "year":"2015",
+   "date":"2015-09-13",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    82698
+   },
+   "age":"22-190",
+   "team":"WAS",
+   "game_location":"H",
+   "opponent":"MIA",
+   "game_won":   false,
+   "player_team_score":"10",
+   "opponent_score":"17",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"6",
+    "annotationID":    82700
+   },
+   "rushing_yards":{
+    "propertyValue":"28",
+    "annotationID":    82699
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Matt Jones was mixed in with 28 yards on 6 attempts.   "
+  },
+  "12":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-09-20",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    42759
+    "annotationID":    84090
    },
    "age":"22-197",
    "team":"WAS",
@@ -529,23 +651,23 @@
    "rushing_attempts":   19,
    "rushing_yards":{
     "propertyValue":"123",
-    "annotationID":    42758
+    "annotationID":    84089
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    42760
+    "annotationID":    84091
    },
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    42761
+    "annotationID":    84092
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    42762
+    "annotationID":    84093
    },
    "receiving_yards":{
     "propertyValue":"23",
-    "annotationID":    42763
+    "annotationID":    84094
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -570,13 +692,13 @@
    "punting_blocked":   0,
    "comment":"Matt Jones, a third-round rookie running back. Jones generated 123 rushing yards and 2 touchdowns, and also caught 3 passes for 23 receiving yards. The numbers are completely legit; Jones looked every bit as good as the stats indicate. He ran with great power and explosion, and St. Louis looked completely helpless to stop him. He opened the game with a 39-yard scoring run, and he managed to out-carry "
   },
-  "11":{
+  "13":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-09-24",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    43337
+    "annotationID":    85071
    },
    "age":"22-201",
    "team":"WAS",
@@ -595,7 +717,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    43338
+    "annotationID":    85072
    },
    "rushing_yards":   38,
    "rushing_touchdowns":   0,
@@ -625,7 +747,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones fumbled the ball into the end zone, resulting in a touchback. As you can tell, this was a horrible coaching effort by the Redskins. They didn't seem prepared to play, as Tom Coughlin coached circles around Jay Gruden. The Giants, meanwhile, improved to 1-2. They could - not should, like Jim Nantz repeatedly said - be 3-0 right now had they not blown consecutive double-digit leads in the 4.h quarter. They managed to hold on this time, at least, albeit against an opponent they've dominated for years.    Kirk Cousins had an awful game. The final numbers weren't bad - 30-of-48, 316 yards, 1 touchdown, 2 interceptions - but most of his yardage came in garbage time. By the time the score was 25-6 late in the second half, Cousins was just 11-of-19 for 132 yards and the 2 picks. That means that nearly 200 yards and a touchdown occurred when the game was out of hand, and the Giants were playing a simple prevent defense. Cousins is most definitely not the long-term solution for the Redskins. Both picks were poor throws, including his first 1 that he telegraphed, which showed how 10.ative he was. He could've thrown multiple scores, but his passes were underthrown and/or late. He was hurt by some drops, but many of his long-range passes were off the mark, at least when the verdict of this game was still up in the air.    The Redskins were expected to run the ball well in this contest; New York's ground defense hasn't been very good, while Matt Jones and Alfred Morris had been trampling over their first 2 opponents."
   },
-  "12":{
+  "14":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-10-04",
@@ -647,11 +769,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    44135
+    "annotationID":    86547
    },
    "rushing_yards":{
     "propertyValue":"11",
-    "annotationID":    44134
+    "annotationID":    86546
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -680,11 +802,14 @@
    "punting_blocked":   0,
    "comment":"Matt Jones was limited to only 11 yards on 7 carries. "
   },
-  "13":{
+  "15":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-10-11",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    87865
+   },
    "age":"22-218",
    "team":"WAS",
    "game_location":"A",
@@ -703,7 +828,10 @@
    "rushing_attempts":   11,
    "rushing_yards":   20,
    "rushing_touchdowns":   1,
-   "receiving_targets":   2,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    87867
+   },
    "receiving_receptions":   1,
    "receiving_yards":   17,
    "receiving_touchdowns":   0,
@@ -729,7 +857,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones and Alfred Morris weren't able to do much of anything against the Falcons."
   },
-  "14":{
+  "16":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-11-08",
@@ -741,11 +869,11 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"10",
-    "annotationID":    47171
+    "annotationID":    91825
    },
    "opponent_score":{
     "propertyValue":"27",
-    "annotationID":    47168
+    "annotationID":    91822
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -757,11 +885,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    47170
+    "annotationID":    91824
    },
    "rushing_yards":{
     "propertyValue":"27",
-    "annotationID":    47169
+    "annotationID":    91823
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -790,7 +918,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones handled most of the workload, gaining 27 yards on 11 carries, whereas Alfred Morris managed just 10 yards on 4 attempts."
   },
-  "15":{
+  "17":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-11-29",
@@ -812,18 +940,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    48341
+    "annotationID":    93937
    },
    "rushing_yards":{
     "propertyValue":"19",
-    "annotationID":    48342
+    "annotationID":    93938
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
     "propertyValue":"45",
-    "annotationID":    48343
+    "annotationID":    93939
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -848,7 +976,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones appeared to be the primary ball-carrier, but handled just 8 carries for 19 yards. He did, however, salvage his fantasy day just a bit with a 45-yard reception. "
   },
-  "16":{
+  "18":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-12-07",
@@ -870,7 +998,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    49475
+    "annotationID":    95926
    },
    "rushing_yards":   49,
    "rushing_touchdowns":   0,
@@ -900,7 +1028,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones (3-6) posted meager numbers. However, Jones handled the majority of the workload after intermission. Morris finished with just 24 yards and the score on 11 attempts, while Jones generated 62 yards on 18 tries. Jones was very fortunate late in the game. He fumbled the ball while trying to run out the clock, but somehow got it back. Fumbling has been Jones' Achilles' heel, which is a shame because he's such a dynamic runner.    Meanwhile, the Bears had a middling performance from their offense. They moved the chains effectively at times, but were guilty of drops as well as a lost fumble. "
   },
-  "17":{
+  "19":{
    "player_id":   11664,
    "year":"2015",
    "date":"2015-12-13",
@@ -912,7 +1040,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"24",
-    "annotationID":    49477
+    "annotationID":    95933
    },
    "opponent_score":"21",
    "passing_attempts":   0,
@@ -925,21 +1053,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    49480
+    "annotationID":    95936
    },
    "rushing_yards":{
     "propertyValue":"62",
-    "annotationID":    49479
+    "annotationID":    95935
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    49476
+    "annotationID":    95932
    },
    "receiving_receptions":   2,
    "receiving_yards":{
     "propertyValue":"24",
-    "annotationID":    49478
+    "annotationID":    95934
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -964,7 +1092,65 @@
    "punting_blocked":   0,
    "comment":"Matt Jones (3-6) posted meager numbers. However, Jones handled the majority of the workload after intermission. Morris finished with just 24 yards and the score on 11 attempts, while Jones generated 62 yards on 18 tries. Jones was very fortunate late in the game. He fumbled the ball while trying to run out the clock, but somehow got it back. Fumbling has been Jones' Achilles' heel, which is a shame because he's such a dynamic runner.    Meanwhile, the Bears had a middling performance from their offense. They moved the chains effectively at times, but were guilty of drops as well as a lost fumble. "
   },
-  "18":{
+  "20":{
+   "player_id":   11664,
+   "year":"2015",
+   "date":"2015-12-20",
+   "game_number":{
+    "propertyValue":"14",
+    "annotationID":    97069
+   },
+   "age":"22-288",
+   "team":"WAS",
+   "game_location":"H",
+   "opponent":"BUF",
+   "game_won":   true,
+   "player_team_score":"35",
+   "opponent_score":"25",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"10",
+    "annotationID":    97070
+   },
+   "rushing_yards":{
+    "propertyValue":"28",
+    "annotationID":    97071
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   1,
+   "receiving_yards":   8,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Matt Jones handled the majority of the workload last week, but Alfred Morris had more touches in this contest. Morris garnered 84 yards on 14 carries, while Matt Jones (10-28) appeared as though he was stuck in mud.    As for Buffalo's running backs, "
+  },
+  "21":{
    "player_id":   11664,
    "year":"2016",
    "date":"2016-09-12",
@@ -1013,13 +1199,13 @@
    "punting_blocked":   0,
    "comment":"Matt Jones was able to get going. He carried the ball 13 times and totaled 61 yards during the contest. He looked explosive against the Cowboys' weak defensive line and had a couple of nice gains on the day. The team really needs him to improve as the roster does not really have any other viable ball-carriers.    In terms of the pass game, the Redskins were really able to spread the ball around. Ten different receivers caught passes for the team, and their 2 tight ends "
   },
-  "19":{
+  "22":{
    "player_id":   11664,
    "year":"2016",
    "date":"2016-09-18",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    51421
+    "annotationID":    101866
    },
    "age":"23-195",
    "team":"WAS",
@@ -1038,11 +1224,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    51419
+    "annotationID":    101864
    },
    "rushing_yards":{
     "propertyValue":"61",
-    "annotationID":    51420
+    "annotationID":    101865
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1071,7 +1257,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones was able to get going. He carried the ball 13 times and totaled 61 yards during the contest. He looked explosive against the Cowboys' weak defensive line and had a couple of nice gains on the day. The team really needs him to improve as the roster does not really have any other viable ball-carriers.    In terms of the pass game, the Redskins were really able to spread the ball around. Ten different receivers caught passes for the team, and their 2 tight ends "
   },
-  "20":{
+  "23":{
    "player_id":   11664,
    "year":"2016",
    "date":"2016-09-25",
@@ -1093,11 +1279,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    51856
+    "annotationID":    102640
    },
    "rushing_yards":{
     "propertyValue":"65",
-    "annotationID":    51855
+    "annotationID":    102639
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1126,7 +1312,7 @@
    "punting_blocked":   0,
    "comment":"Matt Jones didn't have a great stat line either, mustering 65 yards on 17 carries. However, he was huge at the end of the game, running powerfully and breaking tackles. He was instrumental in Washington's victory. Jones appeared to suffer a concussion at 1 point, but didn't miss much action. "
   },
-  "21":{
+  "24":{
    "player_id":   11664,
    "year":"2016",
    "date":"2016-10-02",
@@ -1148,11 +1334,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"22",
-    "annotationID":    52737
+    "annotationID":    104148
    },
    "rushing_yards":{
     "propertyValue":"117",
-    "annotationID":    52736
+    "annotationID":    104147
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -1181,7 +1367,132 @@
    "punting_blocked":   0,
    "comment":"Matt Jones was Washington's second-best offensive player on the afternoon. He rushed for 117 yards and a touchdown on 22 carries, running powerfully against the undermanned Browns.    Before moving on to the Browns, it needs to be noted that Pro Bowl left tackle "
   },
-  "22":{
+  "25":{
+   "player_id":   11664,
+   "year":"2016",
+   "date":"2016-10-09",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    105696
+   },
+   "age":"23-216",
+   "team":"WAS",
+   "game_location":"A",
+   "opponent":"BAL",
+   "game_won":   true,
+   "player_team_score":"16",
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    105697
+   },
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"14",
+    "annotationID":    105705
+   },
+   "rushing_yards":{
+    "propertyValue":"31",
+    "annotationID":    105706
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    105707
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    105708
+   },
+   "receiving_yards":{
+    "propertyValue":"25",
+    "annotationID":    105709
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Matt Jones at Washington's 15-yard line. The Redskins' defense held strong, however, and the Ravens tried a fake field goal, but Justin Tucker's pass fell incomplete. It was a curious decision that ended up hurting Baltimore in the 4.h quarter. Just before the half, the Redskins missed a 56-yard field goal, letting the Ravens take a 10-6 lead into the locker room. In the third quarter, the Redskins took advantage of a short field with Cousins making a pretty throw to Pierre Garcon (5-56) for a 21-yard touchdown. With a 13-10 lead, Washington got the ball back deep in its own territory. Cousins was picked off by Ravens linebacker C.J. Mosley, but on the interception return, when he extended the ball for the end zone, he fumbled the ball out of bounds for a touchback. That turned out to be the play of the game as it robbed Baltimore of critical points, even if Mosley was tackled short of the end zone. It ended up being a 17-yard gain for Washington, and the Redskins took advantage with a drive that produced a field goal. After a bunch of punts from each team, the Ravens had 1 more shot and Flacco ran for a first down on a 4.h-and-2 at the 2-minute warning. Flacco continued to move the ball with short passes and then threw a strike to Wallace to get inside the Redskins' 25-yard line. A few plays later, Flacco hit Breshard Perriman, who made a catch over Josh Norman, for what was called a touchdown, but upon review, Perriman only got 1 foot down and it was overturned to an incompletion. On 4.h down, Will Compton broke up a pass intended for Wallace.    Joe Flacco was 30-of-46 for 210 yards and 1 touchdown. Baltimore's offensive line had problems protecting Flacco in the second half. Terrance West (11-95) led the Ravens on the ground.    Mike Wallace (7-63) was Baltimore's leading receiver. Dennis Pitta (7-59) played well, while Steve Smith (3-29) left the game with an ankle injury. Midway through the game, Breshard Perriman (2-11) dropped a perfect bomb for what should have been a 50-yard touchdown and didn't get his second foot down on the end-zone catch in the 4.h quarter.    Kirk Cousins was 29-of-41 for 260 yards with 1 touchdown and 1 interception. Garcon led the Redskins receiving. Jordan Reed (8-53) could have had a bigger game, but Cousins missed some throws.    Matt Jones (14-31 rushing, 2-25 receiving) was contained by the Ravens' defense.    Washington's front 7 won the line of scrimmage in the second half with sacks coming from "
+  },
+  "26":{
+   "player_id":   11664,
+   "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"6",
+   "age":"23-223",
+   "team":"WAS",
+   "game_location":"H",
+   "opponent":"PHI",
+   "game_won":   true,
+   "player_team_score":"27",
+   "opponent_score":"20",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"16",
+    "annotationID":    106377
+   },
+   "rushing_yards":{
+    "propertyValue":"135",
+    "annotationID":    106376
+   },
+   "rushing_touchdowns":   1,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Matt Jones. He gashed them for 135 yards and a touchdown on 16 carries. That includes a 57-yard burst at the end of the game to seal the victory for the Redskins. "
+  },
+  "27":{
    "player_id":   11664,
    "year":"2016",
    "date":"2016-10-23",
@@ -1204,7 +1515,7 @@
    "rushing_attempts":   10,
    "rushing_yards":{
     "propertyValue":"27",
-    "annotationID":    53643
+    "annotationID":    108003
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1234,5 +1545,5 @@
    "comment":"Matt Jones had a disastrous performance with 3 fumbles, including 1 into the end zone to take away critical points from his team. The Lions earned their third-straight win to stay in the playoff race, while the Redskins were dealt a blow with the Giants and Eagles both winning on Sunday.    Late in the first quarter, the Redskins got on the move with a completion to Niles Paul taking the ball across midfield. They moved the ball close to the end zone, but Matt Jones had his second fumble of the game and the Lions recovered the ball in the end zone to take points away from Washington. Detroit took advantage by getting on the move with a 27-yard screen pass to "
   }
  },
- "numberGames": 22
+ "numberGames": 27
 }

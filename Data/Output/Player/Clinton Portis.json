@@ -23,7 +23,7 @@
    "date":"2008-09-04",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    18
+    "annotationID":    43
    },
    "age":"27-003",
    "team":"WAS",
@@ -42,11 +42,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"23",
-    "annotationID":    20
+    "annotationID":    45
    },
    "rushing_yards":{
     "propertyValue":"84",
-    "annotationID":    19
+    "annotationID":    44
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -79,7 +79,10 @@
    "player_id":   17821,
    "year":"2008",
    "date":"2008-09-14",
-   "game_number":"2",
+   "game_number":{
+    "propertyValue":"2",
+    "annotationID":    700
+   },
    "age":"27-013",
    "team":"WAS",
    "game_location":"H",
@@ -96,10 +99,22 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   21,
-   "rushing_yards":   96,
-   "rushing_touchdowns":   2,
-   "receiving_targets":   2,
-   "receiving_receptions":   2,
+   "rushing_yards":{
+    "propertyValue":"96",
+    "annotationID":    699
+   },
+   "rushing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    701
+   },
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    702
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    703
+   },
    "receiving_yards":   3,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -146,15 +161,15 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"29",
-    "annotationID":    1423
+    "annotationID":    2529
    },
    "rushing_yards":{
     "propertyValue":"145",
-    "annotationID":    1422
+    "annotationID":    2528
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    1421
+    "annotationID":    2527
    },
    "receiving_targets":   2,
    "receiving_receptions":   2,
@@ -205,19 +220,19 @@
    "rushing_attempts":   21,
    "rushing_yards":{
     "propertyValue":"129",
-    "annotationID":    1596
+    "annotationID":    2840
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    1599
+    "annotationID":    2843
    },
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    1600
+    "annotationID":    2844
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    1601
+    "annotationID":    2845
    },
    "receiving_yards":   14,
    "receiving_touchdowns":   0,
@@ -265,11 +280,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"27",
-    "annotationID":    2090
+    "annotationID":    3822
    },
    "rushing_yards":{
     "propertyValue":"175",
-    "annotationID":    2089
+    "annotationID":    3821
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -320,11 +335,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    2326
+    "annotationID":    4222
    },
    "rushing_yards":{
     "propertyValue":"126",
-    "annotationID":    2325
+    "annotationID":    4221
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -356,6 +371,64 @@
   "7":{
    "player_id":   17821,
    "year":"2008",
+   "date":"2008-11-23",
+   "game_number":"11",
+   "age":"27-083",
+   "team":"WAS",
+   "game_location":"A",
+   "opponent":"SEA",
+   "game_won":   true,
+   "player_team_score":{
+    "propertyValue":"20",
+    "annotationID":    6512
+   },
+   "opponent_score":"17",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"29",
+    "annotationID":    6511
+   },
+   "rushing_yards":{
+    "propertyValue":"143",
+    "annotationID":    6510
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   2,
+   "receiving_yards":   16,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Clinton Portis gained 143 yards on 29 attempts. Unfortunately, he was banged up on the team's final drive, which allowed the aptly named Betts to fumble the cover away. Betts unjustly vultured a touchdown earlier in the contest.    Capitalizing off Portis' running ability, "
+  },
+  "8":{
+   "player_id":   17821,
+   "year":"2008",
    "date":"2008-11-30",
    "game_number":"12",
    "age":"27-090",
@@ -366,7 +439,7 @@
    "player_team_score":"7",
    "opponent_score":{
     "propertyValue":"23",
-    "annotationID":    3207
+    "annotationID":    6831
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -378,11 +451,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    3206
+    "annotationID":    6830
    },
    "rushing_yards":{
     "propertyValue":"22",
-    "annotationID":    3205
+    "annotationID":    6829
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -411,7 +484,62 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis, who had to leave the game multiple times with various injuries, garnered only 22 yards on 11 carries.    Campbell finished 23-of-38, 232 yards and a pick. "
   },
-  "8":{
+  "9":{
+   "player_id":   17821,
+   "year":"2008",
+   "date":"2008-12-14",
+   "game_number":"14",
+   "age":"27-104",
+   "team":"WAS",
+   "game_location":"A",
+   "opponent":"CIN",
+   "game_won":   false,
+   "player_team_score":"13",
+   "opponent_score":"20",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"25",
+    "annotationID":    7969
+   },
+   "rushing_yards":{
+    "propertyValue":"77",
+    "annotationID":    7968
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   1,
+   "receiving_yards":   6,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Clinton Portis, Zorn ran with Mike Sellers."
+  },
+  "10":{
    "player_id":   17821,
    "year":"2008",
    "date":"2008-12-21",
@@ -433,11 +561,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"22",
-    "annotationID":    4044
+    "annotationID":    8815
    },
    "rushing_yards":{
     "propertyValue":"70",
-    "annotationID":    4043
+    "annotationID":    8814
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -466,7 +594,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis rushed for 70 yards and the game's only touchdown on 22 carries.    "
   },
-  "9":{
+  "11":{
    "player_id":   17821,
    "year":"2008",
    "date":"2008-12-28",
@@ -488,11 +616,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"29",
-    "annotationID":    4348
+    "annotationID":    9253
    },
    "rushing_yards":{
     "propertyValue":"80",
-    "annotationID":    4347
+    "annotationID":    9252
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
@@ -521,13 +649,68 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis rushed for 80 yards and a touchdown on 29 carries. Meanwhile, "
   },
-  "10":{
+  "12":{
+   "player_id":   17821,
+   "year":"2009",
+   "date":"2009-09-13",
+   "game_number":"1",
+   "age":"28-012",
+   "team":"WAS",
+   "game_location":"A",
+   "opponent":"NYG",
+   "game_won":   false,
+   "player_team_score":"17",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"16",
+    "annotationID":    10050
+   },
+   "rushing_yards":{
+    "propertyValue":"62",
+    "annotationID":    10049
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   1,
+   "receiving_yards":   10,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Clinton Portis' touches. Portis had 62 yards on 16 rushes against a very tough Giants defense. Betts, meanwhile, had only 3 touches.    "
+  },
+  "13":{
    "player_id":   17821,
    "year":"2009",
    "date":"2009-09-20",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    4687
+    "annotationID":    10511
    },
    "age":"28-019",
    "team":"WAS",
@@ -536,16 +719,16 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"9",
-    "annotationID":    4684
+    "annotationID":    10508
    },
    "opponent_score":{
     "propertyValue":"7",
-    "annotationID":    4691
+    "annotationID":    10515
    },
    "passing_attempts":   0,
    "passing_completions":{
     "propertyValue":"1",
-    "annotationID":    4689
+    "annotationID":    10513
    },
    "passing_yards":   0,
    "passing_rating":   39.6,
@@ -555,24 +738,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    4693
+    "annotationID":    10517
    },
    "rushing_yards":{
     "propertyValue":"79",
-    "annotationID":    4692
+    "annotationID":    10516
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    4690
+    "annotationID":    10514
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    4688
+    "annotationID":    10512
    },
    "receiving_yards":{
     "propertyValue":"9",
-    "annotationID":    4685
+    "annotationID":    10509
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -597,7 +780,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis ran left guard for a loss and up the middle for no gain. On third down, Portis was given the ball and he threw an incompletion to Chris Cooley. Washington has yet to score 30 points under Zorn, and it's not hard to see why.    Zorn almost made a huge gaff in this game. Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St. Louis 5, eschewing a field goal. The Redskins failed, so all the Rams needed was a field goal to win. Fortunately for Washington, Marc Bulger couldn't convert a single first down.    Campbell needs to get the ball more to Santana Moss. Moss once again had a lackluster performance, catching just 3 balls for 35 yards. Chris Cooley led the team with 7 receptions for 83 yards.    Clinton Portis ran well, gaining 79 yards on 19 carries. However, fantasy owners were expecting a lot more. There's no reason Portis should have received less than 25 attempts in this game. This was yet another of Zorn's errors.    Two guys who didn't disappoint were "
   },
-  "11":{
+  "14":{
    "player_id":   17821,
    "year":"2009",
    "date":"2009-09-27",
@@ -619,20 +802,20 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"12",
-    "annotationID":    4873
+    "annotationID":    10802
    },
    "rushing_yards":{
     "propertyValue":"42",
-    "annotationID":    4874
+    "annotationID":    10803
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    4875
+    "annotationID":    10804
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    4876
+    "annotationID":    10805
    },
    "receiving_yards":   6,
    "receiving_touchdowns":   0,
@@ -658,7 +841,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis ran the ball just 12 times for 42 yards against a pitiful Lions defense that hasn't been able to stop the rush. What is Zorn thinking? Is he facing Portis every week in his 2-man fantasy league? There is no reasonable explanation for this.    Zorn will also get criticized for going for it on 4th-and-goal at the 1-yard line in the first quarter. Portis couldn't get the touchdown, but I didn't really disagree with the call. I would have gone for it myself. Nevertheless, it gave the Lions the momentum they needed, as they went 99 yards for a touchdown.    "
   },
-  "12":{
+  "15":{
    "player_id":   17821,
    "year":"2009",
    "date":"2009-10-04",
@@ -680,11 +863,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"25",
-    "annotationID":    5411
+    "annotationID":    11720
    },
    "rushing_yards":{
     "propertyValue":"98",
-    "annotationID":    5412
+    "annotationID":    11721
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -713,7 +896,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis was man enough to carry the ball 25 times, gaining 98 yards in the process. Glad to see that Zorn learned that getting the ball to his best player can pay dividends.   "
   },
-  "13":{
+  "16":{
    "player_id":   17821,
    "year":"2009",
    "date":"2009-10-11",
@@ -736,7 +919,7 @@
    "rushing_attempts":   19,
    "rushing_yards":{
     "propertyValue":"57",
-    "annotationID":    5585
+    "annotationID":    12023
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
@@ -765,7 +948,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis run out of the end zone. Portis made a really stupid decision, running laterally when he couldn't find a hole to scamper through up front. Portis rushed for 57 yards and a touchdown. He had a second score off a reception.    "
   },
-  "14":{
+  "17":{
    "player_id":   17821,
    "year":"2009",
    "date":"2009-10-18",
@@ -787,18 +970,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    6101
+    "annotationID":    12943
    },
    "rushing_yards":{
     "propertyValue":"109",
-    "annotationID":    6100
+    "annotationID":    12942
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":   3,
    "receiving_yards":{
     "propertyValue":"15",
-    "annotationID":    6102
+    "annotationID":    12944
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -823,7 +1006,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis rushed for 109 yards on 15 carries, but most of that came on a 78-yard gain in the third quarter. Portis left the game with an injury early on, but came back to get the longest rush of his career. Still, it's pretty embarrassing that the Redskins couldn't open up any running lanes against Kansas City's horrific defense.    Washington's leading receiver was "
   },
-  "15":{
+  "18":{
    "player_id":   17821,
    "year":"2010",
    "date":"2010-09-12",
@@ -845,11 +1028,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    10919
+    "annotationID":    21212
    },
    "rushing_yards":{
     "propertyValue":"63",
-    "annotationID":    10918
+    "annotationID":    21211
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -878,7 +1061,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis gained 63 yards on 18 attempts. "
   },
-  "16":{
+  "19":{
    "player_id":   17821,
    "year":"2010",
    "date":"2010-09-19",
@@ -900,11 +1083,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    11284
+    "annotationID":    21840
    },
    "rushing_yards":{
     "propertyValue":"33",
-    "annotationID":    11283
+    "annotationID":    21839
    },
    "rushing_touchdowns":   2,
    "receiving_targets":   1,
@@ -933,7 +1116,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis scored twice, but was otherwise ineffective, gaining just 33 yards on 13 attempts.   "
   },
-  "17":{
+  "20":{
    "player_id":   17821,
    "year":"2010",
    "date":"2010-09-26",
@@ -955,15 +1138,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    11710
+    "annotationID":    22558
    },
    "rushing_yards":{
     "propertyValue":"44",
-    "annotationID":    11709
+    "annotationID":    22556
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    22559
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    22560
+   },
    "receiving_yards":   14,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -988,13 +1177,13 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis would have a pretty good performance. Well, he managed 44 yards, but only had 7 carries because the Redskins trailed throughout. Interestingly, "
   },
-  "18":{
+  "21":{
    "player_id":   17821,
    "year":"2010",
    "date":"2010-10-03",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    12186
+    "annotationID":    23282
    },
    "age":"29-032",
    "team":"WAS",
@@ -1013,11 +1202,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    12185
+    "annotationID":    23281
    },
    "rushing_yards":{
     "propertyValue":"55",
-    "annotationID":    12184
+    "annotationID":    23280
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1046,7 +1235,7 @@
    "punting_blocked":   0,
    "comment":"Clinton Portis actually looked really spry in this contest. The Redskins continuously found success running on the left side, and Portis was able to total 55 yards on 11 carries. However, Portis suffered a groin injury and left the game in the 4.h quarter. He'll have an MRI on Monday. "
   },
-  "19":{
+  "22":{
    "player_id":   17821,
    "year":"2010",
    "date":"2010-11-21",
@@ -1068,11 +1257,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    14292
+    "annotationID":    26783
    },
    "rushing_yards":{
     "propertyValue":"32",
-    "annotationID":    14293
+    "annotationID":    26784
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1102,5 +1291,5 @@
    "comment":"Clinton Portis would start. Portis, however, had just 5 carries for 32 yards before suffering a groin injury. Luckily, "
   }
  },
- "numberGames": 19
+ "numberGames": 22
 }

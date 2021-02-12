@@ -70,14 +70,23 @@
    "player_id":   18895,
    "year":"2011",
    "date":"2011-12-24",
-   "game_number":"15",
+   "game_number":{
+    "propertyValue":"15",
+    "annotationID":    40002
+   },
    "age":"28-321",
    "team":"SEA",
    "game_location":"H",
    "opponent":"SFO",
    "game_won":   false,
-   "player_team_score":"17",
-   "opponent_score":"19",
+   "player_team_score":{
+    "propertyValue":"17",
+    "annotationID":    40006
+   },
+   "opponent_score":{
+    "propertyValue":"19",
+    "annotationID":    40005
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -101,7 +110,10 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   0,
-   "defense_tackle_assists":   1,
+   "defense_tackle_assists":{
+    "propertyValue":"1",
+    "annotationID":    40007
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -201,7 +213,7 @@
    "defense_tackles":   0,
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    28005
+    "annotationID":    52897
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

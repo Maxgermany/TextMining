@@ -27,7 +27,10 @@
    "game_location":"A",
    "opponent":"STL",
    "game_won":   false,
-   "player_team_score":"6",
+   "player_team_score":{
+    "propertyValue":"6",
+    "annotationID":    90984
+   },
    "opponent_score":"27",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -39,15 +42,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    46676
+    "annotationID":    90981
    },
    "rushing_yards":{
     "propertyValue":"4",
-    "annotationID":    46675
+    "annotationID":    90979
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   3,
-   "receiving_receptions":   2,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    90982
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    90985
+   },
    "receiving_yards":   14,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -75,10 +84,59 @@
   "2":{
    "player_id":   5268,
    "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"6",
+   "age":"24-158",
+   "team":"SFO",
+   "game_location":"A",
+   "opponent":"BUF",
+   "game_won":   false,
+   "player_team_score":"16",
+   "opponent_score":"45",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   5,
+   "rushing_yards":   13,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   1,
+   "receiving_yards":   6,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Mike Davis. Davis did not move the pile at all on either, and the 49ers turned it over on downs as a result. Kelly should have altered his approach after the first failure. He needs to go back to the college ranks. One bright spot for the 49ers was the performance of "
+  },
+  "3":{
+   "player_id":   5268,
+   "year":"2016",
    "date":"2016-10-23",
    "game_number":{
     "propertyValue":"7",
-    "annotationID":    53815
+    "annotationID":    108267
    },
    "age":"24-165",
    "team":"SFO",
@@ -97,11 +155,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    53816
+    "annotationID":    108268
    },
    "rushing_yards":{
     "propertyValue":"21",
-    "annotationID":    53817
+    "annotationID":    108269
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
@@ -130,7 +188,7 @@
    "punting_blocked":   0,
    "comment":"Mike Davis. Carlos Hyde was out for the game, so Davis was expected to carry the load; however, Harris got 11 carries, for 39 yards, while Davis just received 7. for 21 yards. Harris looked like a decent change-of-pace back, but Davis is just a plodder at the best. "
   },
-  "3":{
+  "4":{
    "player_id":   5268,
    "year":"2016",
    "date":"2016-11-06",
@@ -155,11 +213,11 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    54887
+    "annotationID":    110218
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    54888
+    "annotationID":    110219
    },
    "receiving_yards":   9,
    "receiving_touchdowns":   0,
@@ -186,5 +244,5 @@
    "comment":"Mike Davis at the 1.yard line and New Orleans recovered the loose ball. The 49ers got the ball back after forcing a 4.and-out, however, and produced a field goal drive. Late in the third quarter, the Saints missed a long field goal, but Brees threw some beautiful passes, including a 32-yard touchdown to Thomas. It was a tremendous juggling catch by Thomas along the sideline. New Orleans added a field goal and then stopped the 49ers on a 4.h down in the red zone as Kaepernick fumbled the snap away. In garbage time, "
   }
  },
- "numberGames": 3
+ "numberGames": 4
 }

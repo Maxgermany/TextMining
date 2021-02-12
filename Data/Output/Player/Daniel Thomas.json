@@ -19,9 +19,15 @@
  "games":{
   "1":{
    "player_id":   22024,
-   "year":"2011",
+   "year":{
+    "propertyValue":"2011",
+    "annotationID":    30863
+   },
    "date":"2011-09-18",
-   "game_number":"2",
+   "game_number":{
+    "propertyValue":"2",
+    "annotationID":    30867
+   },
    "age":"23-324",
    "team":"MIA",
    "game_location":"H",
@@ -40,9 +46,18 @@
    "rushing_attempts":   18,
    "rushing_yards":   107,
    "rushing_touchdowns":   0,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
-   "receiving_yards":   10,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    30868
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    30869
+   },
+   "receiving_yards":{
+    "propertyValue":"10",
+    "annotationID":    30864
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -70,7 +85,10 @@
    "player_id":   22024,
    "year":"2011",
    "date":"2011-09-25",
-   "game_number":"3",
+   "game_number":{
+    "propertyValue":"3",
+    "annotationID":    31205
+   },
    "age":"23-331",
    "team":"MIA",
    "game_location":"A",
@@ -89,10 +107,19 @@
    "rushing_attempts":   23,
    "rushing_yards":   95,
    "rushing_touchdowns":   0,
-   "receiving_targets":   3,
-   "receiving_receptions":   3,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    31206
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    31207
+   },
    "receiving_yards":   27,
-   "receiving_touchdowns":   1,
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    31200
+   },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
@@ -100,7 +127,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   1,
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    31201
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -128,7 +158,7 @@
    "player_team_score":"31",
    "opponent_score":{
     "propertyValue":"3",
-    "annotationID":    18615
+    "annotationID":    34540
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -179,7 +209,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"20",
-    "annotationID":    18977
+    "annotationID":    35235
    },
    "opponent_score":"9",
    "passing_attempts":   0,
@@ -192,11 +222,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    18975
+    "annotationID":    35236
    },
    "rushing_yards":{
     "propertyValue":"42",
-    "annotationID":    18976
+    "annotationID":    35237
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -247,16 +277,16 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    19161
+    "annotationID":    35652
    },
    "rushing_yards":{
     "propertyValue":"50",
-    "annotationID":    19162
+    "annotationID":    35653
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    19163
+    "annotationID":    35654
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -452,11 +482,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    22703
+    "annotationID":    42754
    },
    "rushing_yards":{
     "propertyValue":"69",
-    "annotationID":    22702
+    "annotationID":    42753
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -491,7 +521,7 @@
    "date":"2012-09-30",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    23300
+    "annotationID":    43805
    },
    "age":"24-337",
    "team":"MIA",
@@ -510,11 +540,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"4",
-    "annotationID":    23301
+    "annotationID":    43806
    },
    "rushing_yards":{
     "propertyValue":"4",
-    "annotationID":    23302
+    "annotationID":    43807
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -565,11 +595,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    23567
+    "annotationID":    44243
    },
    "rushing_yards":{
     "propertyValue":"29",
-    "annotationID":    23568
+    "annotationID":    44244
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -620,11 +650,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    24678
+    "annotationID":    46274
    },
    "rushing_yards":{
     "propertyValue":"42",
-    "annotationID":    24679
+    "annotationID":    46275
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -656,6 +686,61 @@
   "13":{
    "player_id":   22024,
    "year":"2012",
+   "date":"2012-11-11",
+   "game_number":"9",
+   "age":"25-013",
+   "team":"MIA",
+   "game_location":"H",
+   "opponent":"TEN",
+   "game_won":   false,
+   "player_team_score":"3",
+   "opponent_score":"37",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    47543
+   },
+   "rushing_yards":   21,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   6,
+   "receiving_receptions":{
+    "propertyValue":"5",
+    "annotationID":    47544
+   },
+   "receiving_yards":   34,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Daniel Thomas had the same amount of yardage on 5 attempts. Bush, who also had an 8.yard reception, needs to have the ball more often. There's no excuse for giving him just 5 touches.   "
+  },
+  "14":{
+   "player_id":   22024,
+   "year":"2012",
    "date":"2012-11-25",
    "game_number":"11",
    "age":"25-027",
@@ -675,11 +760,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    25893
+    "annotationID":    49035
    },
    "rushing_yards":{
     "propertyValue":"60",
-    "annotationID":    25894
+    "annotationID":    49036
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -708,7 +793,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas (9-60) both scored. Bush looked great for the first time in quite a while, gaining 87 yards on just 14 carries. It's the first time Bush rushed for more than 67 yards since Week 2.    The Seahawks shockingly didn't run the ball well, which was the difference in this game with both rookie quarterbacks shining. "
   },
-  "14":{
+  "15":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-09-08",
@@ -730,11 +815,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    28174
+    "annotationID":    53204
    },
    "rushing_yards":{
     "propertyValue":"14",
-    "annotationID":    28175
+    "annotationID":    53205
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -763,11 +848,14 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas (8-14). The Dolphins tacked on another field goal with 4 minutes remaining. Tannehill's only miscue was a pass deflected by "
   },
-  "15":{
+  "16":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-09-15",
-   "game_number":"2",
+   "game_number":{
+    "propertyValue":"2",
+    "annotationID":    54509
+   },
    "age":"25-321",
    "team":"MIA",
    "game_location":"A",
@@ -785,15 +873,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    28832
+    "annotationID":    54505
    },
    "rushing_yards":{
     "propertyValue":"30",
-    "annotationID":    28833
+    "annotationID":    54506
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    54507
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    54508
+   },
    "receiving_yards":   10,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -818,7 +912,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas (8-30).    Despite this strong showing by Miami's offense, there is a big concern, which is pass protection. Tannehill took 5 sacks and was stripped twice. The Colts don't even have a good pass rush, so what's going to happen when the Dolphins battle a team that has a strong front 7 (the Browns don't count because they can't score, so the strength of their defense doesn't matter)?    The Colts also have pass-protection issues. In fact, owner Jim Irsay took to Twitter and demanded for better blocking from his offensive line. Luck was sacked 3 times, but that doesn't tell the story of how much pressure Luck saw throughout the afternoon. Making matters worse, Indianapolis lost starting guard "
   },
-  "16":{
+  "17":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-09-22",
@@ -841,19 +935,19 @@
    "rushing_attempts":   5,
    "rushing_yards":{
     "propertyValue":"21",
-    "annotationID":    29416
+    "annotationID":    55639
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    29417
+    "annotationID":    55640
    },
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    29418
+    "annotationID":    55641
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    29419
+    "annotationID":    55642
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -879,7 +973,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas also split carries. The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone. <div class=dfpAdSlots>   "
   },
-  "17":{
+  "18":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-10-20",
@@ -899,8 +993,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   12,
-   "rushing_yards":   60,
+   "rushing_attempts":{
+    "propertyValue":"12",
+    "annotationID":    58946
+   },
+   "rushing_yards":{
+    "propertyValue":"60",
+    "annotationID":    58945
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
@@ -928,7 +1028,68 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas more carries than Lamar Miller."
   },
-  "18":{
+  "19":{
+   "player_id":   22024,
+   "year":"2013",
+   "date":"2013-10-27",
+   "game_number":"7",
+   "age":"25-363",
+   "team":"MIA",
+   "game_location":"A",
+   "opponent":"NWE",
+   "game_won":   false,
+   "player_team_score":{
+    "propertyValue":"17",
+    "annotationID":    59668
+   },
+   "opponent_score":"27",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"9",
+    "annotationID":    59665
+   },
+   "rushing_yards":{
+    "propertyValue":"47",
+    "annotationID":    59666
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   1,
+   "receiving_yards":{
+    "propertyValue":"5",
+    "annotationID":    59667
+   },
+   "receiving_touchdowns":   1,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   1,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Daniel Thomas (9-47). On third-and-3 at the 5.yard line, Tannehill threw a bullet to Thomas for a touchdown and a 17-3 halftime lead. The Dolphins were moving well in the third quarter before "
+  },
+  "20":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-10-31",
@@ -950,16 +1111,16 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"12",
-    "annotationID":    31464
+    "annotationID":    60178
    },
    "rushing_yards":{
     "propertyValue":"38",
-    "annotationID":    31465
+    "annotationID":    60179
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    31466
+    "annotationID":    60180
    },
    "receiving_receptions":   1,
    "receiving_yards":   4,
@@ -986,7 +1147,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas (12-38) - though he did fumble after a 41-yard inside the Cincinnati 10-yard line - yet the latter eats into way too many of Miller's carries. Thomas was stuffed on 2 third-and-short situations in this contest. It's puzzling why Miami insists on using him there. Sure, he's heavier, but Miller is a much better runner. He would unquestionably have more luck in terms of moving the chains.    It looked like it was going to be a long night for "
   },
-  "19":{
+  "21":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-11-11",
@@ -1006,7 +1167,10 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   4,
+   "rushing_attempts":{
+    "propertyValue":"4",
+    "annotationID":    62249
+   },
    "rushing_yards":   -2,
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1035,11 +1199,14 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas way more touches than Lamar Miller (11-6)."
   },
-  "20":{
+  "22":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-11-17",
-   "game_number":"10",
+   "game_number":{
+    "propertyValue":"10",
+    "annotationID":    62251
+   },
    "age":"26-019",
    "team":"MIA",
    "game_location":"H",
@@ -1055,8 +1222,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   10,
-   "rushing_yards":   57,
+   "rushing_attempts":{
+    "propertyValue":"10",
+    "annotationID":    62252
+   },
+   "rushing_yards":{
+    "propertyValue":"57",
+    "annotationID":    62250
+   },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
    "receiving_receptions":   1,
@@ -1084,7 +1257,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas way more touches than Lamar Miller (11-6)."
   },
-  "21":{
+  "23":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-11-24",
@@ -1106,11 +1279,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    32952
+    "annotationID":    62930
    },
    "rushing_yards":{
     "propertyValue":"8",
-    "annotationID":    32953
+    "annotationID":    62931
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1139,7 +1312,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas (3-8) combined for half of that total. Miller did at least catch 4 passes for 39 receiving yards. Thomas, meanwhile, was knocked out of the game with an ankle.    The Panthers also struggled to move the chains on the ground. "
   },
-  "22":{
+  "24":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-12-08",
@@ -1161,11 +1334,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"16",
-    "annotationID":    33826
+    "annotationID":    64547
    },
    "rushing_yards":{
     "propertyValue":"105",
-    "annotationID":    33825
+    "annotationID":    64546
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1194,7 +1367,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas did all of the damage, generating 105 yards and a score on 16 attempts.    "
   },
-  "23":{
+  "25":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-12-15",
@@ -1243,7 +1416,7 @@
    "punting_blocked":   0,
    "comment":"Daniel Thomas. "
   },
-  "24":{
+  "26":{
    "player_id":   22024,
    "year":"2013",
    "date":"2013-12-22",
@@ -1265,11 +1438,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    34438
+    "annotationID":    65648
    },
    "rushing_yards":{
     "propertyValue":"6",
-    "annotationID":    34437
+    "annotationID":    65647
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1299,5 +1472,5 @@
    "comment":"Daniel Thomas received most of the workload, but mustered just 6 yards on 9 carries. He repeatedly screwed up in pass protection, so I have no idea what Miami was thinking by sticking with him. "
   }
  },
- "numberGames": 24
+ "numberGames": 26
 }

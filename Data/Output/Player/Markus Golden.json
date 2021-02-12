@@ -175,7 +175,10 @@
    "opponent":"NOR",
    "game_won":   false,
    "player_team_score":"41",
-   "opponent_score":"48",
+   "opponent_score":{
+    "propertyValue":"48",
+    "annotationID":    116802
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -197,8 +200,14 @@
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
-   "defense_sacks":   1,
-   "defense_tackles":   2,
+   "defense_sacks":{
+    "propertyValue":"1",
+    "annotationID":    116801
+   },
+   "defense_tackles":{
+    "propertyValue":"2",
+    "annotationID":    116800
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -248,7 +257,7 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":{
     "propertyValue":"2",
-    "annotationID":    58333
+    "annotationID":    117881
    },
    "defense_tackles":   3,
    "defense_tackle_assists":   0,

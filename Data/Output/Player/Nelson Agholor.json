@@ -89,9 +89,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   6,
-   "receiving_receptions":   3,
-   "receiving_yards":   31,
+   "receiving_targets":{
+    "propertyValue":"6",
+    "annotationID":    84894
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    84896
+   },
+   "receiving_yards":{
+    "propertyValue":"31",
+    "annotationID":    84895
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -140,7 +149,7 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    43568
+    "annotationID":    85532
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -193,11 +202,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    44138
+    "annotationID":    86554
    },
    "receiving_yards":{
     "propertyValue":"64",
-    "annotationID":    44139
+    "annotationID":    86555
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -228,7 +237,7 @@
    "date":"2015-10-11",
    "game_number":{
     "propertyValue":"5",
-    "annotationID":    44774
+    "annotationID":    87718
    },
    "age":"22-140",
    "team":"PHI",
@@ -250,15 +259,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    44772
+    "annotationID":    87716
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    44773
+    "annotationID":    87717
    },
    "receiving_yards":{
     "propertyValue":"5",
-    "annotationID":    44775
+    "annotationID":    87719
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -308,15 +317,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    48182
+    "annotationID":    93612
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    48183
+    "annotationID":    93613
    },
    "receiving_yards":{
     "propertyValue":"15",
-    "annotationID":    48184
+    "annotationID":    93614
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -365,8 +374,14 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
-   "receiving_receptions":   3,
-   "receiving_yards":   62,
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    95730
+   },
+   "receiving_yards":{
+    "propertyValue":"62",
+    "annotationID":    95731
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -413,9 +428,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   5,
-   "receiving_receptions":   2,
-   "receiving_yards":   35,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    97995
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    97998
+   },
+   "receiving_yards":{
+    "propertyValue":"35",
+    "annotationID":    97999
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -442,6 +466,61 @@
   "9":{
    "player_id":   137,
    "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"5",
+   "age":"23-145",
+   "team":"PHI",
+   "game_location":"A",
+   "opponent":"WAS",
+   "game_won":   false,
+   "player_team_score":"20",
+   "opponent_score":"27",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   4,
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    106378
+   },
+   "receiving_yards":{
+    "propertyValue":"34",
+    "annotationID":    106379
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Nelson Agholor (3-34). Ertz (1-22), as mentioned, was guilty of a horrible drop.    Because of Philadelphia's early deficit, the team couldn't establish the run. In fact, "
+  },
+  "10":{
+   "player_id":   137,
+   "year":"2016",
    "date":"2016-10-30",
    "game_number":"7",
    "age":"23-159",
@@ -465,11 +544,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    54571
+    "annotationID":    109649
    },
    "receiving_yards":{
     "propertyValue":"25",
-    "annotationID":    54572
+    "annotationID":    109650
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -494,7 +573,7 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor (3-25) was guilty of a couple of drops. It's easy to see why the Eagles are desperate to trade for a wideout.    The Eagles have problems at running back as well. "
   },
-  "10":{
+  "11":{
    "player_id":   137,
    "year":"2016",
    "date":"2016-11-06",
@@ -520,7 +599,7 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    54674
+    "annotationID":    109841
    },
    "receiving_yards":   41,
    "receiving_touchdowns":   0,
@@ -546,7 +625,7 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor, meanwhile, dropped some passes and fumbled the ball, but was fortunate enough to recover it.    Sproles once again carried the load for the Eagles. He gained 57 yards on 13 carries, but was stuffed on that aforementioned 4.h-and-1 play. He also nearly scored on a punt return, but barely stepped out of bounds. "
   },
-  "11":{
+  "12":{
    "player_id":   137,
    "year":"2016",
    "date":"2016-11-13",
@@ -595,11 +674,11 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor each dropped passes. Doug Pederson called yet another slow-developing play on a third down, and Ryan Mathews was predictably stuffed. Special-teamer "
   },
-  "12":{
+  "13":{
    "player_id":   137,
    "year":{
     "propertyValue":"2016",
-    "annotationID":    56207
+    "annotationID":    112599
    },
    "date":"2016-11-20",
    "game_number":"10",
@@ -610,7 +689,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"15",
-    "annotationID":    56212
+    "annotationID":    112604
    },
    "opponent_score":"26",
    "passing_attempts":   0,
@@ -626,7 +705,7 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    56210
+    "annotationID":    112602
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -653,13 +732,13 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor is now persona non grata in the City of Brotherly Love. If Agholor is still on the roster by Tuesday, the people downtown may stop protesting free democratic elections and begin chanting for Agholor to be cut. The Eagles should just misplace him with some luggage on the flight back to Philadelphia.    The Seahawks absolutely dominated the Eagles. The final score says that Seattle won by just 11, but the margin of victory felt like it was a lot more than that. The Seahawks controlled the contest from start to finish and really solidified themselves as a contender after a tough start to the year. The running game for the Seahawks was very impressive. Despite the unceremonious release of Christine Michael early in the week, the team was able to utilize its backs to the best of their respective abilities. Thomas Rawls led the way for the Seahawks with 14 carries for 57 yards. He did not miss a beat in his return from injury, and his physical running style will be hugely beneficial for the offense. C.J. Prosise looked great as well. He had a 72-yard touchdown run where he burst through the line and ran around some would-be tacklers. Prosise displayed great speed and looked like he would be the third-down/change-of-pace back going forward. In all, he totaled 4 carries for 76 yards and the touchdown, before leaving the game hurt. Unfortunately, Prosise' injury turned out to be a broken scapula, which will result in him missing approximately 8 weeks.    Russell Wilson was yet another Seahawk who put together a strong performance. Wilson finally looks to be back after an injury-plagued start to the 2016 season. In the contest, Wilson went 18-of-31 for 272 yards and a touchdown. He displayed excellent downfield accuracy, tossing numerous perfect deep balls. On 1 in particular, he lofted the ball to Tyler Lockett for what was nearly a touchdown. Wilson hit the speedster in stride, but Lockett went out of bounds at the 3-yard line. Wilson was also able to have an impact in terms of scrambling around. His mobility has returned as his ankle has gotten healthier, and that was on display today. He ran the ball 5 times for 23 yards, but he was also able to move around the pocket, avoid sacks, and complete passes downfield. On a trick play, he caught a 15-yard pass from Doug Baldwin went for a touchdown. Overall, this was a great day for Wilson, and he is certainly returning to his peak performance level.    Because of the improved play of Wilson, Seattle's receivers were able to find some success. Doug Baldwin (4-104) was the top target of the quarterback during the game. He was constantly getting open downfield, and he was able to get some serious yards after the catch as well. On 1 short completion, Baldwin managed to turn upfield and avoid tacklers to get a big gain. He should be a low-end WR1 so long as Wilson is healthy.    Jimmy Graham (3-46, 1 TD) was Wilson's second-favorite target. Graham put together yet another solid performance, and he continues to defy the odds coming off of a devastating knee injury. His touchdown was a highly impressive play, as he caught the ball and used his physicality to push the defender away as he brought it in. Graham then scampered to the end zone for the 35-yard touchdown. He is 1 of the top-five tight ends in fantasy right now.    Elsewhere, Tyler Lockett (2-39) looks to be at full speed again. He had just 2 catches, but he had some opportunities that were wiped out by penalties. He will be a factor down the stretch and is worth picking up if he is available in your league.    Defensively, Bobby Wagner once again stood out. Arguably the best linebacker in the league, Wagner had 15 total tackles on the day and was constantly making plays in the backfield. He recorded a sack and 2 tackles for a loss. He is probably the most important player on the Seahawks' defense.    The Eagles have to be disappointed in the result of this contest. They were hanging with the Seahawks early, but they absolutely fell apart as the game went on. Part of that can be blamed on the inexperience of Carson Wentz. Wentz had a tough day, going 23-of-45 for 218 yards, 2 touchdowns and 2 interceptions. He simply did not have it. Early on, he made some sharp throws against the Seahawks' defense, but eventually the talent of their secondary caught up with him. Wentz had some issues with staring down receivers, and that helped to lead to 1 of the picks by Kam Chancellor. Wentz telegraphed his throw and allowed the roaming safety to come across and grab the pass. That seemed to shake Wentz's confidence, and from there, he had more problems. Still, Wentz was not altogether terrible. He had a below-average game against a tough defense. The contest will be a learning experience for the rookie, and it will be interesting to see if he improves following this contest.    Part of Wentz's issues stemmed from issues with Philadelphia's receiving corps. At 1 point, the receivers had 15 receiving yards, which was the same amount as Russell Wilson. Nelson Agholor was guilty of some brutal drops, as always. By the end of the game, "
   },
-  "13":{
+  "14":{
    "player_id":   137,
    "year":"2016",
    "date":"2016-12-11",
    "game_number":{
     "propertyValue":"13",
-    "annotationID":    57155
+    "annotationID":    115642
    },
    "age":"23-201",
    "team":"PHI",
@@ -668,7 +747,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"22",
-    "annotationID":    57158
+    "annotationID":    115645
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -685,16 +764,16 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    57156
+    "annotationID":    115643
    },
    "receiving_yards":{
     "propertyValue":"22",
-    "annotationID":    57159
+    "annotationID":    115646
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
     "propertyValue":"2",
-    "annotationID":    57157
+    "annotationID":    115644
    },
    "kick_return_yards":   27,
    "kick_return_touchdowns":   0,
@@ -717,7 +796,7 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor, at 1 point, that would have gone for a touchdown if it was not for a blatant pass interference by Quinton Dunbar. The only big mistake that Wentz made was a pick in the end zone. In the first half, the Eagles were driving and had all the momentum against the Redskins. They were facing a third-and-goal when Wentz threw a ball over the middle. Safety Deshazor Everett managed to get in front of the receiver and picked it off. It was not a bad throw from Wentz, but he has to show better decision-making as he continues to develop.    Wentz was able to do a lot despite having only 1 proven receiver. Ertz led the way in targets (13), catches (10) and yards (112) during the game. He could end up being a big fantasy performer down the stretch, though the Redskins have been notoriously bad against tight ends this year.    Jordan Matthews (8-79) put together a strong performance, and he is the No. 1 receiver on the Eagles right now. He can be used as a WR3 unless he has a tough matchup. Nelson Agholor (2-22) looked better today as he used his speed to beat Washington's corners. He just did not see a lot of targets. Tight end "
   },
-  "14":{
+  "15":{
    "player_id":   137,
    "year":"2016",
    "date":"2016-12-18",
@@ -739,23 +818,23 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    57540
+    "annotationID":    116311
    },
    "rushing_yards":{
     "propertyValue":"1",
-    "annotationID":    57541
+    "annotationID":    116312
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    57542
+    "annotationID":    116313
    },
    "receiving_yards":   9,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
     "propertyValue":"1",
-    "annotationID":    57543
+    "annotationID":    116314
    },
    "kick_return_yards":   27,
    "kick_return_touchdowns":   0,
@@ -778,13 +857,13 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor caught 1 pass each. Check out the to see which wideouts the Eagles could be targeting in the draft.    "
   },
-  "15":{
+  "16":{
    "player_id":   137,
    "year":"2017",
    "date":"2017-09-10",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    59337
+    "annotationID":    119887
    },
    "age":"24-109",
    "team":"PHI",
@@ -806,19 +885,19 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"8",
-    "annotationID":    59332
+    "annotationID":    119878
    },
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    59335
+    "annotationID":    119881
    },
    "receiving_yards":{
     "propertyValue":"86",
-    "annotationID":    59336
+    "annotationID":    119882
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    59338
+    "annotationID":    119888
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -842,7 +921,7 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor for a 58-yard touchdown. That 1 play was a microcosm of Wentz's performance on Sunday. Wentz's mobility allowed him to move around the pocket easily and find open receivers. Wentz was very accurate on most of his throws, and he was able to make clutch completions in third-and-long scenarios. His downfield accuracy was very good, and that should bode well for the Eagles moving forward. Wentz's 1 issue was that he overthrew Agholor on a few different occasions. On 3 passes, Agholor had to reach up to try to knock a ball down to himself, and each time, he was mostly wide open. One of Wentz's biggest mistakes came on a backward pass to Agholor that was too high. Agholor dropped it, and the Redskins recovered the fumble. Overall, Wentz went 26-for-39, totaling 307 yards, 2 touchdowns, and throwing an interception. This is an impressive stat line, and he is definitely improving with each game. Wentz will soon be a top-10 quarterback in the NFL.    Wentz's favorite receiver was unsurprisingly tight end Zach Ertz. Last season, the 2 developed a strong rapport, and it carried over to this opener. Ertz caught all 8 of his targets for 93 yards and had many key first-down catches. Ertz is a smooth route runner, and he is definitely a TE1 in fantasy this season. Wentz's other top receivers were Nelson Agholor (6-86, 1 TD) and Alshon Jeffery (3-38)."
   },
-  "16":{
+  "17":{
    "player_id":   137,
    "year":"2017",
    "date":"2017-10-01",
@@ -868,11 +947,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    61220
+    "annotationID":    123639
    },
    "receiving_yards":{
     "propertyValue":"58",
-    "annotationID":    61219
+    "annotationID":    123638
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -897,7 +976,7 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor (3-58) and Alshon Jeffery (3-29, 1 TD)."
   },
-  "17":{
+  "18":{
    "player_id":   137,
    "year":"2017",
    "date":"2017-10-08",
@@ -923,11 +1002,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    61391
+    "annotationID":    123963
    },
    "receiving_yards":{
     "propertyValue":"93",
-    "annotationID":    61392
+    "annotationID":    123964
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -952,7 +1031,7 @@
    "punting_blocked":   0,
    "comment":"Nelson Agholor (4-93), Smith (3-70), Zach Ertz (6-61) and Trey Burton (2-16)."
   },
-  "18":{
+  "19":{
    "player_id":   137,
    "year":"2017",
    "date":"2017-10-12",
@@ -978,11 +1057,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    61801
+    "annotationID":    124773
    },
    "receiving_yards":{
     "propertyValue":"55",
-    "annotationID":    61802
+    "annotationID":    124774
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1008,5 +1087,5 @@
    "comment":"Nelson Agholor to convert a first down to ice the game. Luckily for him, the defense did a great job on Newton.    Ertz had a tough matchup going into this game, as Carolina is excellent against tight ends. That changed with Kuechly out, as Ertz was able to score twice. He caught 2 balls for 18 yards. The other touchdown was caught by Agholor (4-55). "
   }
  },
- "numberGames": 18
+ "numberGames": 19
 }

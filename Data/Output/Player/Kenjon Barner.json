@@ -20,6 +20,55 @@
   "1":{
    "player_id":   1081,
    "year":"2016",
+   "date":"2016-10-09",
+   "game_number":"4",
+   "age":"27-164",
+   "team":"PHI",
+   "game_location":"A",
+   "opponent":"DET",
+   "game_won":   false,
+   "player_team_score":"23",
+   "opponent_score":"24",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Kenjon Barner and Wendell Smallwood didn't see much action in this contest, but that may change in the near future."
+  },
+  "2":{
+   "player_id":   1081,
+   "year":"2016",
    "date":"2016-11-06",
    "game_number":"8",
    "age":"27-192",
@@ -66,7 +115,7 @@
    "punting_blocked":   0,
    "comment":"Kenjon Barner also had a touchdown on his only attempt.    Following the 2 early touchdown following Wentz's interceptions, the Giants barely did anything on offense. It didn't help that stud guard "
   },
-  "2":{
+  "3":{
    "player_id":   1081,
    "year":"2016",
    "date":"2016-11-20",
@@ -115,18 +164,24 @@
    "punting_blocked":   0,
    "comment":"Kenjon Barner was mixed in a bit, too. If Sproles and Mathews miss time, Smallwood would likely be the top option for the team.    The Eagles actually dealt with a myriad of injuries during this contest. "
   },
-  "3":{
+  "4":{
    "player_id":   1081,
    "year":"2017",
    "date":"2017-10-08",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    124020
+   },
    "age":"28-163",
    "team":"PHI",
    "game_location":"H",
    "opponent":"ARI",
    "game_won":   true,
    "player_team_score":"34",
-   "opponent_score":"7",
+   "opponent_score":{
+    "propertyValue":"7",
+    "annotationID":    124019
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -135,8 +190,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   5,
-   "rushing_yards":   23,
+   "rushing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    124021
+   },
+   "rushing_yards":{
+    "propertyValue":"23",
+    "annotationID":    124022
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -145,7 +206,10 @@
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
-   "punt_return_attempts":   3,
+   "punt_return_attempts":{
+    "propertyValue":"3",
+    "annotationID":    124018
+   },
    "punt_return_yards":   110,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
@@ -165,5 +229,5 @@
    "comment":"Kenjon Barner took a punt deep into Cardinals' territory to set up another score. On Philadelphia's next possession, "
   }
  },
- "numberGames": 3
+ "numberGames": 4
 }

@@ -43,11 +43,11 @@
    "receiving_targets":   9,
    "receiving_receptions":{
     "propertyValue":"8",
-    "annotationID":    112
+    "annotationID":    200
    },
    "receiving_yards":{
     "propertyValue":"84",
-    "annotationID":    113
+    "annotationID":    201
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -76,7 +76,10 @@
    "player_id":   6721,
    "year":"2008",
    "date":"2008-09-21",
-   "game_number":"3",
+   "game_number":{
+    "propertyValue":"3",
+    "annotationID":    1357
+   },
    "age":"24-154",
    "team":"MIA",
    "game_location":"A",
@@ -95,9 +98,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   3,
-   "receiving_receptions":   3,
-   "receiving_yards":   66,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    1358
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    1359
+   },
+   "receiving_yards":{
+    "propertyValue":"66",
+    "annotationID":    1360
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -127,7 +139,7 @@
    "date":"2008-10-05",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    1319
+    "annotationID":    2354
    },
    "age":"24-168",
    "team":"MIA",
@@ -149,15 +161,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    1320
+    "annotationID":    2355
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    1315
+    "annotationID":    2350
    },
    "receiving_yards":{
     "propertyValue":"47",
-    "annotationID":    1316
+    "annotationID":    2351
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -188,7 +200,7 @@
    "date":"2008-10-05",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    1374
+    "annotationID":    2443
    },
    "age":"24-168",
    "team":"MIA",
@@ -210,15 +222,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    1375
+    "annotationID":    2444
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    1370
+    "annotationID":    2439
    },
    "receiving_yards":{
     "propertyValue":"47",
-    "annotationID":    1371
+    "annotationID":    2440
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -268,17 +280,17 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    1507
+    "annotationID":    2670
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    1508
+    "annotationID":    2671
    },
    "receiving_yards":   12,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
     "propertyValue":"1",
-    "annotationID":    1509
+    "annotationID":    2672
    },
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
@@ -378,7 +390,7 @@
    "receiving_yards":   47,
    "receiving_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    3745
+    "annotationID":    8331
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -427,15 +439,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    4375
+    "annotationID":    9288
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    4376
+    "annotationID":    9289
    },
    "receiving_yards":{
     "propertyValue":"39",
-    "annotationID":    4377
+    "annotationID":    9290
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -462,6 +474,61 @@
   },
   "9":{
    "player_id":   6721,
+   "year":{
+    "propertyValue":"2009",
+    "annotationID":    9405
+   },
+   "date":"2009-09-13",
+   "game_number":"1",
+   "age":"25-146",
+   "team":"MIA",
+   "game_location":"A",
+   "opponent":"ATL",
+   "game_won":   false,
+   "player_team_score":"7",
+   "opponent_score":"19",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   2,
+   "receiving_yards":{
+    "propertyValue":"10",
+    "annotationID":    9404
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Anthony Fasano fumbled the ball away at the Atlanta 10. In total, the Dolphins had 4 turnovers after coming up with a plus-17 turnover differential last year - a sign that things won't be the same in 2009.    "
+  },
+  "10":{
+   "player_id":   6721,
    "year":"2010",
    "date":"2010-11-07",
    "game_number":"8",
@@ -486,7 +553,7 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    13453
+    "annotationID":    25403
    },
    "receiving_yards":   26,
    "receiving_touchdowns":   0,
@@ -512,7 +579,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano in the end zone on 3rd-and-goal at the 1-yard line. And unlike the past 2 weeks, "
   },
-  "10":{
+  "11":{
    "player_id":   6721,
    "year":"2010",
    "date":"2010-11-14",
@@ -538,11 +605,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    13864
+    "annotationID":    26085
    },
    "receiving_yards":{
     "propertyValue":"107",
-    "annotationID":    13865
+    "annotationID":    26086
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -567,7 +634,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano had a career performance, catching 5 balls for 107 yards and a touchdown. Don't rush to pick him up in fantasy leagues, however. He's just way too inconsistent.    Speaking of fantasy football, "
   },
-  "11":{
+  "12":{
    "player_id":   6721,
    "year":"2011",
    "date":"2011-09-25",
@@ -616,7 +683,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano allowed a bad sack. Guard "
   },
-  "12":{
+  "13":{
    "player_id":   6721,
    "year":"2011",
    "date":"2011-10-02",
@@ -665,7 +732,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano. "
   },
-  "13":{
+  "14":{
    "player_id":   6721,
    "year":"2011",
    "date":"2011-11-06",
@@ -691,15 +758,15 @@
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    18616
+    "annotationID":    34541
    },
    "receiving_yards":{
     "propertyValue":"38",
-    "annotationID":    18618
+    "annotationID":    34543
    },
    "receiving_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    18617
+    "annotationID":    34542
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -723,7 +790,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (2-38), who actually dropped 1 of Moore's few incompletions. "
   },
-  "14":{
+  "15":{
    "player_id":   6721,
    "year":"2011",
    "date":"2011-11-20",
@@ -736,7 +803,7 @@
    "player_team_score":"35",
    "opponent_score":{
     "propertyValue":"8",
-    "annotationID":    19166
+    "annotationID":    35657
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -751,15 +818,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    19164
+    "annotationID":    35655
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    19165
+    "annotationID":    35656
    },
    "receiving_yards":{
     "propertyValue":"8",
-    "annotationID":    19167
+    "annotationID":    35658
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -784,7 +851,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (2-8). "
   },
-  "15":{
+  "16":{
    "player_id":   6721,
    "year":"2011",
    "date":"2011-12-04",
@@ -810,11 +877,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    19924
+    "annotationID":    37311
    },
    "receiving_yards":{
     "propertyValue":"66",
-    "annotationID":    19925
+    "annotationID":    37312
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -839,7 +906,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (4-66), but stalled when Brandon Marshall slipped and ran a route short of the first-down marker."
   },
-  "16":{
+  "17":{
    "player_id":   6721,
    "year":"2011",
    "date":"2011-12-18",
@@ -888,13 +955,13 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano. Miami cornerback "
   },
-  "17":{
+  "18":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-09-16",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    22369
+    "annotationID":    42097
    },
    "age":"28-149",
    "team":"MIA",
@@ -917,11 +984,11 @@
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    22370
+    "annotationID":    42098
    },
    "receiving_yards":{
     "propertyValue":"19",
-    "annotationID":    22371
+    "annotationID":    42099
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -946,7 +1013,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (2-19). The only other Dolphin skill-position player of note was "
   },
-  "18":{
+  "19":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-09-23",
@@ -972,11 +1039,11 @@
    "receiving_targets":   10,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    22704
+    "annotationID":    42757
    },
    "receiving_yards":{
     "propertyValue":"47",
-    "annotationID":    22705
+    "annotationID":    42758
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1001,7 +1068,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (5-47). One of Fasano's receptions was highly controversial, as he seemed to drop the ball when he landed out of bounds. Skinny Rex Ryan challenged the call, but the reception was shockingly upheld. The Dolphins scored several plays later. <div class=dfpAdSlots>   "
   },
-  "19":{
+  "20":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-10-07",
@@ -1027,11 +1094,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    23569
+    "annotationID":    44245
    },
    "receiving_yards":{
     "propertyValue":"28",
-    "annotationID":    23570
+    "annotationID":    44246
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1056,7 +1123,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (3-28) had modest contributions. Both the Dolphins and the Bengals played good defensive football. Miami got good games from "
   },
-  "20":{
+  "21":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-10-14",
@@ -1082,11 +1149,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    23977
+    "annotationID":    44997
    },
    "receiving_yards":{
     "propertyValue":"33",
-    "annotationID":    23978
+    "annotationID":    44998
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1111,7 +1178,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (4-33). Hartline, who didn't catch a single ball, was targeted just twice.   "
   },
-  "21":{
+  "22":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-10-28",
@@ -1123,7 +1190,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"30",
-    "annotationID":    24683
+    "annotationID":    46283
    },
    "opponent_score":"9",
    "passing_attempts":   0,
@@ -1140,15 +1207,15 @@
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    24680
+    "annotationID":    46280
    },
    "receiving_yards":{
     "propertyValue":"4",
-    "annotationID":    24682
+    "annotationID":    46282
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    24681
+    "annotationID":    46281
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1172,7 +1239,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (1-4) all had clutch plays. Gaffney's 30-yarder led to Moore lofting in a short touchdown pass to Fasano, who made a great catch while dragging his feet to clinch the score. That put Miami up 27-3. <div class=dfpAdSlots>   "
   },
-  "22":{
+  "23":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-12-09",
@@ -1197,19 +1264,19 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    26719
+    "annotationID":    50501
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    26720
+    "annotationID":    50502
    },
    "receiving_yards":{
     "propertyValue":"9",
-    "annotationID":    26721
+    "annotationID":    50503
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    26723
+    "annotationID":    50505
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1233,7 +1300,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano for a touchdown on 4.h-and-goal. Fasano (2-9) made a tremendous reception as he laid out for a diving 1.handed catch along the sideline. Tannehill's final drives were shut down. He finished 17-of-33 for 150 yards with a score and zero interceptions. Tannehill played better than his stats indicate against 1 of the best defenses in the NFL. "
   },
-  "23":{
+  "24":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-12-16",
@@ -1259,11 +1326,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    26988
+    "annotationID":    51011
    },
    "receiving_yards":{
     "propertyValue":"56",
-    "annotationID":    26989
+    "annotationID":    51012
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1288,7 +1355,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano also played well, hauling in 6 grabs for 56 yards and a touchdown.    "
   },
-  "24":{
+  "25":{
    "player_id":   6721,
    "year":"2012",
    "date":"2012-12-30",
@@ -1314,11 +1381,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    27800
+    "annotationID":    52537
    },
    "receiving_yards":{
     "propertyValue":"31",
-    "annotationID":    27801
+    "annotationID":    52538
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1343,7 +1410,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (3-31) was knocked out of the game with an injury.    Landing the bye was huge for New England to get some players healthier before attempting another postseason run. The Patriots got exactly what they needed on Sunday.   "
   },
-  "25":{
+  "26":{
    "player_id":   6721,
    "year":"2013",
    "date":"2013-11-03",
@@ -1392,7 +1459,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano - that went longer than 12 yards. However, Smith wasn't entirely to blame for this output, as his supporting cast really let him down. Kansas City's offensive line didn't play very well. Smith was sacked on just 2 occasions, but that's only because he released the ball so quickly for minimal gains. Center "
   },
-  "26":{
+  "27":{
    "player_id":   6721,
    "year":"2013",
    "date":"2013-11-17",
@@ -1417,15 +1484,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    32694
+    "annotationID":    62480
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    32695
+    "annotationID":    62481
    },
    "receiving_yards":{
     "propertyValue":"37",
-    "annotationID":    32696
+    "annotationID":    62482
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1450,7 +1517,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (4-37) snagged Smith's garbage-time touchdown and also drew a pass interference earlier. "
   },
-  "27":{
+  "28":{
    "player_id":   6721,
    "year":"2013",
    "date":"2013-11-24",
@@ -1476,11 +1543,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    32923
+    "annotationID":    62882
    },
    "receiving_yards":{
     "propertyValue":"21",
-    "annotationID":    32924
+    "annotationID":    62883
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1505,7 +1572,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (4-21).   "
   },
-  "28":{
+  "29":{
    "player_id":   6721,
    "year":"2013",
    "date":"2013-12-01",
@@ -1517,7 +1584,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"28",
-    "annotationID":    33540
+    "annotationID":    63992
    },
    "opponent_score":"35",
    "passing_attempts":   0,
@@ -1534,11 +1601,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    33539
+    "annotationID":    63995
    },
    "receiving_yards":{
     "propertyValue":"28",
-    "annotationID":    33541
+    "annotationID":    63993
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1563,7 +1630,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano (3-28) moved the ball to the 2. Smith rolled out and threw the ball right to "
   },
-  "29":{
+  "30":{
    "player_id":   6721,
    "year":"2014",
    "date":"2014-09-07",
@@ -1612,7 +1679,117 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano catching a 5.yard touchdown, but that was all the Kansas City offense could muster. Locker led another field goal drive to ice the win.    Locker completed 22-of-33 passes for 266 yards with 2 touchdowns. Fantasy owners of "
   },
-  "30":{
+  "31":{
+   "player_id":   6721,
+   "year":"2014",
+   "date":"2014-11-02",
+   "game_number":"8",
+   "age":"30-196",
+   "team":"KAN",
+   "game_location":"H",
+   "opponent":"NYJ",
+   "game_won":   true,
+   "player_team_score":"24",
+   "opponent_score":"10",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   3,
+   "receiving_yards":   24,
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    74918
+   },
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Anthony Fasano, who was on the ground. Fasano crawled into the end zone and put the Chiefs up by 14. Kansas City never relinquished its lead and held a double-digit advantage for most of the afternoon. Kansas City's defense took over in the second half, preventing the Jets from scoring a single point. Part of that was the quarterback getting hurt, but QBDK wasn't going to lead the Jets to victory anyway. While he made some nice plays - particularly 1 instance in which he eluded a sack and found "
+  },
+  "32":{
+   "player_id":   6721,
+   "year":"2014",
+   "date":"2014-11-20",
+   "game_number":"11",
+   "age":"30-214",
+   "team":"KAN",
+   "game_location":"A",
+   "opponent":"OAK",
+   "game_won":   false,
+   "player_team_score":"20",
+   "opponent_score":"24",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    77009
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    77010
+   },
+   "receiving_yards":{
+    "propertyValue":"30",
+    "annotationID":    77011
+   },
+   "receiving_touchdowns":   1,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Anthony Fasano (2-30) reeled in Smith's other touchdown.    As for the Raiders, this was a Pyrrhic victory for them. They should have lost, as they have a better strength of schedule than the Jaguars. Many teams will be dying to trade up for Marcus Mariota, and now the Jaguars will be the fortunate franchise to acquire a boatload of picks. Check out my for more.    At least Oakland has its franchise quarterback, right? Jim Nantz exclaimed that the Raiders finally found their guy in Carr once this game was over. I wouldn't be too sure about that. Carr made some very nice throws in this contest, but he could have been picked at least 5 times. The Raiders were very unfortunate that the Chiefs dropped all of those potential interceptions, as a loss would have really helped them. Carr finished 18-of-35 for 174 yards and a touchdown.    Carr's score went to "
+  },
+  "33":{
    "player_id":   6721,
    "year":"2014",
    "date":"2014-12-07",
@@ -1661,7 +1838,68 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano, but the officials ruled that Fasano pushed off even though it was a bogus call. Smith is a good game manager, but he doesn't have the arm or the weapons around him to advance deep into the playoffs.    There was a scary moment in this game when "
   },
-  "31":{
+  "34":{
+   "player_id":   6721,
+   "year":"2015",
+   "date":"2015-09-13",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    82872
+   },
+   "age":"31-146",
+   "team":"TEN",
+   "game_location":"A",
+   "opponent":"TAM",
+   "game_won":   true,
+   "player_team_score":"42",
+   "opponent_score":"14",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    82873
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    82874
+   },
+   "receiving_yards":{
+    "propertyValue":"18",
+    "annotationID":    82875
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4.h touchdown pass of the first half. Tennessee added to its lead in the third quarter with a Sankey touchdown plunge. In garbage time, Winston hit Seferian-Jenkins in the middle of the field, and the big tight end broke 2 tackles to score from 41-yards out.    Mariota's game ended after 3 quarters, and "
+  },
+  "35":{
    "player_id":   6721,
    "year":"2015",
    "date":"2015-09-20",
@@ -1687,11 +1925,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    42618
+    "annotationID":    83837
    },
    "receiving_yards":{
     "propertyValue":"84",
-    "annotationID":    42619
+    "annotationID":    83838
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1716,7 +1954,7 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano was Mariota's favorite target. Fasano caught 5 passes for 84 yards and a touchdown. The other tight end, "
   },
-  "32":{
+  "36":{
    "player_id":   6721,
    "year":"2015",
    "date":"2015-11-08",
@@ -1729,7 +1967,7 @@
    "player_team_score":"34",
    "opponent_score":{
     "propertyValue":"28",
-    "annotationID":    47438
+    "annotationID":    92226
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1744,11 +1982,11 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    47436
+    "annotationID":    92224
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    47437
+    "annotationID":    92225
    },
    "receiving_yards":   33,
    "receiving_touchdowns":   1,
@@ -1774,7 +2012,65 @@
    "punting_blocked":   0,
    "comment":"Anthony Fasano with a 5-yard touchdown pass to seal the victory. The win snapped a 6.game losing streak by the Titans (2-6) and was their first victory since the season opener against Tampa Bay. For the Saints (4-5), the loss ended a 3.game winning streak. The loss came as rumors continue to fly about the future of Saints coach Sean Payton. There were reports Sunday morning that the Saints would allow Payton to explore other jobs in the offseason. Payton, who has been with the Saints since 2006, reportedly could draw interest from the Miami Dolphins and other teams.    Mariota had the best game of his young career. He completed 28-of-39 passes for 371 yards and 4 touchdowns with no interceptions. Mariota was calm and composed throughout the game. Despite his team's record, Mariota is worth starting on your fantasy team in favorable matchups.    Tight end "
   },
-  "33":{
+  "37":{
+   "player_id":   6721,
+   "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"6",
+   "age":"32-179",
+   "team":"TEN",
+   "game_location":"H",
+   "opponent":"CLE",
+   "game_won":   true,
+   "player_team_score":"28",
+   "opponent_score":"26",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    106441
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    106442
+   },
+   "receiving_yards":   15,
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    106443
+   },
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Anthony Fasano caught Mariota's other touchdowns, while Delanie Walker was limited to just 1 catch (21 yards)."
+  },
+  "38":{
    "player_id":   6721,
    "year":"2016",
    "date":"2016-11-13",
@@ -1822,7 +2118,56 @@
    "punting_yards":   0,
    "punting_blocked":   0,
    "comment":"Anthony Fasano, who was wide open, for a short touchdown, which put the Titans up 21-0 at the end of the first quarter. Green Bay got moving with a few receptions to "
+  },
+  "39":{
+   "player_id":   6721,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"12",
+   "age":"32-221",
+   "team":"TEN",
+   "game_location":"A",
+   "opponent":"CHI",
+   "game_won":   true,
+   "player_team_score":"27",
+   "opponent_score":"21",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Anthony Fasano was able to fall on the loose ball. Henry, meanwhile, looked much fresher, accumulating 60 yards and a touchdown on just 8 attempts.    The best running back on the field, at least statistically, was Jordan Howard, who gained 84 rushing yards on 18 carries to go along with 3 catches for 43 receiving yards. Stats can be misleading, however, and that would be the case here, as Howard dropped a couple of passes, 1 of which was in the end zone. Also, 22 of Howard's 84 rushing yards came on 1 burst that caught the Titans off-guard.    Speaking of misleading stats, Matt Barkley was 28-of-54 for 316 yards, 3 touchdowns and 2 interceptions. However, Barkley was just 7-of-16 for 63 yards, 1 touchdown and a pick by halftime. Most of his positive stats came after halftime when the exhausted Titans, who haven't had a week off yet, forgot to cover the horrible Chicago receivers. They nearly paid the price, but managed to hold on. Now, they'll be able to enjoy their bye week before entering the final quarter of the season. If you're wondering about Barkley's interceptions, only 1 was his fault. His first was wrestled away by linebacker "
   }
  },
- "numberGames": 33
+ "numberGames": 39
 }

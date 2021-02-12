@@ -19,9 +19,15 @@
  "games":{
   "1":{
    "player_id":   4042,
-   "year":"2011",
+   "year":{
+    "propertyValue":"2011",
+    "annotationID":    31635
+   },
    "date":"2011-09-25",
-   "game_number":"3",
+   "game_number":{
+    "propertyValue":"3",
+    "annotationID":    31634
+   },
    "age":"23-081",
    "team":"TAM",
    "game_location":"H",
@@ -50,7 +56,10 @@
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
-   "defense_sacks":   1,
+   "defense_sacks":{
+    "propertyValue":"1",
+    "annotationID":    31633
+   },
    "defense_tackles":   2,
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -127,7 +136,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"14",
-    "annotationID":    20383
+    "annotationID":    38260
    },
    "opponent_score":"41",
    "passing_attempts":   0,
@@ -447,7 +456,7 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":{
     "propertyValue":"2",
-    "annotationID":    54503
+    "annotationID":    109490
    },
    "defense_tackles":   3,
    "defense_tackle_assists":   0,

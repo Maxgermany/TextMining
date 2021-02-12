@@ -21,7 +21,10 @@
    "player_id":   20905,
    "year":"2011",
    "date":"2011-10-30",
-   "game_number":"7",
+   "game_number":{
+    "propertyValue":"7",
+    "annotationID":    34261
+   },
    "age":"30-056",
    "team":"SFO",
    "game_location":"H",
@@ -29,9 +32,12 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"20",
-    "annotationID":    18487
+    "annotationID":    34285
    },
-   "opponent_score":"10",
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    34286
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -43,9 +49,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
-   "receiving_yards":   18,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    34281
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    34282
+   },
+   "receiving_yards":{
+    "propertyValue":"18",
+    "annotationID":    34284
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -54,7 +69,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   1,
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    34283
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

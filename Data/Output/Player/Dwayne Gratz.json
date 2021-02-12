@@ -125,10 +125,13 @@
    "game_location":"A",
    "opponent":"HOU",
    "game_won":   false,
-   "player_team_score":"17",
+   "player_team_score":{
+    "propertyValue":"17",
+    "annotationID":    81808
+   },
    "opponent_score":{
     "propertyValue":"23",
-    "annotationID":    42076
+    "annotationID":    81807
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -152,12 +155,21 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   3,
-   "defense_tackle_assists":   1,
-   "defense_interceptions":   1,
+   "defense_tackles":{
+    "propertyValue":"3",
+    "annotationID":    81811
+   },
+   "defense_tackle_assists":{
+    "propertyValue":"1",
+    "annotationID":    81809
+   },
+   "defense_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    81810
+   },
    "defense_interception_yards":{
     "propertyValue":"55",
-    "annotationID":    42075
+    "annotationID":    81804
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,

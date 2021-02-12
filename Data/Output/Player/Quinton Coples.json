@@ -199,11 +199,11 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":{
     "propertyValue":"1",
-    "annotationID":    33404
+    "annotationID":    63730
    },
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    33405
+    "annotationID":    63731
    },
    "defense_tackle_assists":   2,
    "defense_interceptions":   0,
@@ -229,8 +229,14 @@
    "game_location":"A",
    "opponent":"TEN",
    "game_won":   true,
-   "player_team_score":"16",
-   "opponent_score":"11",
+   "player_team_score":{
+    "propertyValue":"16",
+    "annotationID":    80044
+   },
+   "opponent_score":{
+    "propertyValue":"11",
+    "annotationID":    80042
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -252,7 +258,10 @@
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
-   "defense_sacks":   1,
+   "defense_sacks":{
+    "propertyValue":"1",
+    "annotationID":    80041
+   },
    "defense_tackles":   2,
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

@@ -21,19 +21,31 @@
    "player_id":   19942,
    "year":"2011",
    "date":"2011-10-09",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    32588
+   },
    "age":"27-270",
    "team":"PIT",
    "game_location":"H",
    "opponent":"TEN",
    "game_won":   true,
    "player_team_score":"38",
-   "opponent_score":"17",
-   "passing_attempts":   1,
-   "passing_completions":   1,
+   "opponent_score":{
+    "propertyValue":"17",
+    "annotationID":    32567
+   },
+   "passing_attempts":{
+    "propertyValue":"1",
+    "annotationID":    32589
+   },
+   "passing_completions":{
+    "propertyValue":"1",
+    "annotationID":    32590
+   },
    "passing_yards":{
     "propertyValue":"33",
-    "annotationID":    17628
+    "annotationID":    32566
    },
    "passing_rating":   118.7,
    "passing_touchdowns":   0,
@@ -64,9 +76,15 @@
    "point_after_makes":   0,
    "field_goal_attempts":   0,
    "field_goal_makes":   0,
-   "punting_attempts":   1,
+   "punting_attempts":{
+    "propertyValue":"1",
+    "annotationID":    32591
+   },
    "punting_yards":   48,
-   "punting_blocked":   1,
+   "punting_blocked":{
+    "propertyValue":"1",
+    "annotationID":    32592
+   },
    "comment":"Daniel Sepulveda threw a pass to defensive back Ryan Mundy went for 33 yards."
   }
  },

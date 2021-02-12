@@ -20,15 +20,15 @@
   "1":{
    "player_id":   1999,
    "year":"2016",
-   "date":"2016-10-24",
-   "game_number":"7",
-   "age":"24-150",
+   "date":"2016-10-13",
+   "game_number":"6",
+   "age":"24-139",
    "team":"DEN",
-   "game_location":"H",
-   "opponent":"HOU",
-   "game_won":   true,
-   "player_team_score":"27",
-   "opponent_score":"9",
+   "game_location":"A",
+   "opponent":"SDG",
+   "game_won":   false,
+   "player_team_score":"13",
+   "opponent_score":"21",
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -37,24 +37,18 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   17,
-   "rushing_yards":   83,
-   "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    54551
+   "rushing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    106283
    },
-   "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    54553
+   "rushing_yards":{
+    "propertyValue":"46",
+    "annotationID":    106284
    },
-   "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    54552
-   },
-   "receiving_yards":{
-    "propertyValue":"4",
-    "annotationID":    54554
-   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   2,
+   "receiving_yards":   7,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -76,23 +70,23 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"Devontae Booker touchdown. This gave the Broncos a double-digit lead. At that point, it appeared as though Denver would run away with it, but Siemian was finally picked, as he had a tipped pass of his own returned for 6. The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8. With 4 downs, all they had to do was punch it in to give themselves a chance to tie, but they couldn't do it. All of the controversy will be regarding their play calls. "
+   "comment":"Devontae Booker (5-46), but he had runs of 15 and 12 negated by holds by Max Garcia (who was responsible for the safety) and Matt Paradis."
   },
   "2":{
    "player_id":   1999,
    "year":"2016",
-   "date":"2016-10-30",
-   "game_number":{
-    "propertyValue":"8",
-    "annotationID":    54557
-   },
-   "age":"24-156",
+   "date":"2016-10-24",
+   "game_number":"7",
+   "age":"24-150",
    "team":"DEN",
    "game_location":"H",
-   "opponent":"SDG",
+   "opponent":"HOU",
    "game_won":   true,
    "player_team_score":"27",
-   "opponent_score":"19",
+   "opponent_score":{
+    "propertyValue":"9",
+    "annotationID":    109604
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -101,18 +95,24 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   19,
-   "rushing_yards":   54,
+   "rushing_attempts":   17,
+   "rushing_yards":   83,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    54556
+    "annotationID":    109608
    },
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    54555
+    "propertyValue":"2",
+    "annotationID":    109605
    },
-   "receiving_receptions":   5,
-   "receiving_yards":   30,
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    109609
+   },
+   "receiving_yards":{
+    "propertyValue":"4",
+    "annotationID":    109611
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -139,6 +139,67 @@
   "3":{
    "player_id":   1999,
    "year":"2016",
+   "date":"2016-10-30",
+   "game_number":{
+    "propertyValue":"8",
+    "annotationID":    109617
+   },
+   "age":"24-156",
+   "team":"DEN",
+   "game_location":"H",
+   "opponent":"SDG",
+   "game_won":   true,
+   "player_team_score":"27",
+   "opponent_score":"19",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   19,
+   "rushing_yards":   54,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    109620
+   },
+   "receiving_targets":{
+    "propertyValue":"6",
+    "annotationID":    109615
+   },
+   "receiving_receptions":{
+    "propertyValue":"5",
+    "annotationID":    109621
+   },
+   "receiving_yards":   30,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Devontae Booker touchdown. This gave the Broncos a double-digit lead. At that point, it appeared as though Denver would run away with it, but Siemian was finally picked, as he had a tipped pass of his own returned for 6. The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8. With 4 downs, all they had to do was punch it in to give themselves a chance to tie, but they couldn't do it. All of the controversy will be regarding their play calls. "
+  },
+  "4":{
+   "player_id":   1999,
+   "year":"2016",
    "date":"2016-11-06",
    "game_number":"9",
    "age":"24-163",
@@ -158,11 +219,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    55094
+    "annotationID":    110522
    },
    "rushing_yards":{
     "propertyValue":"22",
-    "annotationID":    55093
+    "annotationID":    110521
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -191,7 +252,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker couldn't find any sort of running room, and he was limited to just 22 yards on 10 carries. This was a huge shocker to me, as the Raiders had struggled to defend the run all season.    "
   },
-  "4":{
+  "5":{
    "player_id":   1999,
    "year":"2016",
    "date":"2016-11-13",
@@ -213,11 +274,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    55402
+    "annotationID":    111129
    },
    "rushing_yards":{
     "propertyValue":"76",
-    "annotationID":    55403
+    "annotationID":    111130
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -246,7 +307,62 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker got 24 carries, but only recorded 76 yards. He had some nice bursts, but he should have fared better against the weak Saints defense. "
   },
-  "5":{
+  "6":{
+   "player_id":   1999,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"24-184",
+   "team":"DEN",
+   "game_location":"H",
+   "opponent":"KAN",
+   "game_won":   false,
+   "player_team_score":"27",
+   "opponent_score":"30",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"24",
+    "annotationID":    114009
+   },
+   "rushing_yards":{
+    "propertyValue":"79",
+    "annotationID":    114008
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   1,
+   "receiving_yards":   22,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Devontae Booker gained 79 yards on 24 carries. He handled much more of a workload than "
+  },
+  "7":{
    "player_id":   1999,
    "year":"2016",
    "date":"2016-12-04",
@@ -268,16 +384,28 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    56355
+    "annotationID":    114131
    },
    "rushing_yards":{
     "propertyValue":"35",
-    "annotationID":    56354
+    "annotationID":    114130
    },
-   "rushing_touchdowns":   1,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
-   "receiving_yards":   2,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    114136
+   },
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    114137
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    114138
+   },
+   "receiving_yards":{
+    "propertyValue":"2",
+    "annotationID":    114139
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -301,7 +429,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker handled most of the workload, but didn't do much, gaining only 35 yards on 18 carries. He at least helped his fantasy owners with a touchdown on a very powerful run. "
   },
-  "6":{
+  "8":{
    "player_id":   1999,
    "year":"2016",
    "date":"2016-12-11",
@@ -323,11 +451,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    56859
+    "annotationID":    115059
    },
    "rushing_yards":{
     "propertyValue":"1",
-    "annotationID":    56858
+    "annotationID":    115058
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -356,7 +484,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker was limited to just 1 yard on 3 carries. "
   },
-  "7":{
+  "9":{
    "player_id":   1999,
    "year":"2016",
    "date":"2016-12-18",
@@ -378,11 +506,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"6",
-    "annotationID":    57926
+    "annotationID":    117045
    },
    "rushing_yards":{
     "propertyValue":"17",
-    "annotationID":    57927
+    "annotationID":    117046
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -411,7 +539,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker, getting 10 carries to Booker's 6. He outgained Booker, 37-17. The Broncos clearly miss C.J. Anderson.    The last thing I want to mention is "
   },
-  "8":{
+  "10":{
    "player_id":   1999,
    "year":"2016",
    "date":"2016-12-25",
@@ -435,8 +563,14 @@
    "rushing_yards":   27,
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
-   "receiving_receptions":   6,
-   "receiving_yards":   44,
+   "receiving_receptions":{
+    "propertyValue":"6",
+    "annotationID":    118200
+   },
+   "receiving_yards":{
+    "propertyValue":"44",
+    "annotationID":    118201
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -460,7 +594,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker on a screen, and then wasn't even close to Demaryius Thomas, who had a step downfield."
   },
-  "9":{
+  "11":{
    "player_id":   1999,
    "year":"2016",
    "date":"2017-01-01",
@@ -482,21 +616,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    58936
+    "annotationID":    119130
    },
    "rushing_yards":{
     "propertyValue":"57",
-    "annotationID":    58937
+    "annotationID":    119131
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    58938
+    "annotationID":    119132
    },
    "receiving_yards":{
     "propertyValue":"52",
-    "annotationID":    58939
+    "annotationID":    119133
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -521,7 +655,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker was more effective otherwise, as his 14 attempts went for 57 yards and a touchdown. He also caught 2 passes for 52 receiving yards and a touchdown.    Aside from Booker, Denver's leading receiver was "
   },
-  "10":{
+  "12":{
    "player_id":   1999,
    "year":"2017",
    "date":"2017-10-30",
@@ -570,7 +704,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker led the Broncos in rushing, partly because C."
   },
-  "11":{
+  "13":{
    "player_id":   1999,
    "year":"2017",
    "date":"2017-11-05",
@@ -619,7 +753,7 @@
    "punting_blocked":   0,
    "comment":"Devontae Booker led the Broncos in rushing, partly because C."
   },
-  "12":{
+  "14":{
    "player_id":   1999,
    "year":"2017",
    "date":"2017-11-19",
@@ -641,21 +775,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    64276
+    "annotationID":    129605
    },
    "rushing_yards":{
     "propertyValue":"44",
-    "annotationID":    64277
+    "annotationID":    129606
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    64278
+    "annotationID":    129607
    },
    "receiving_yards":{
     "propertyValue":"54",
-    "annotationID":    64279
+    "annotationID":    129608
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -681,5 +815,5 @@
    "comment":"Devontae Booker, who served as the co-leader of the backfield and primary passing back. Booker out-touched Anderson 19-to-15, and he saw more action late in the contest after Anderson fumbled. Overall, Booker finished with 14 carries for 44 yards and 5 catches for 54 yards. He can be added if you're looking for running back depth, or as a handcuff to Anderson, who got 13 carries for 37 yards and a touchdown.    Denver's defense continued to be the main strength for the team. Prior to the 4.h quarter, the team had done a good job of preventing the Bengals' offense from moving. But by the end, the Broncos' defense was worn out and didn't get enough offensive support. The unit will keep the Broncos in games, but until the offense gets better, they won't be a contender at all. <div class=dfpAdSlots>   "
   }
  },
- "numberGames": 12
+ "numberGames": 14
 }

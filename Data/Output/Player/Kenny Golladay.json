@@ -19,16 +19,25 @@
  "games":{
   "1":{
    "player_id":   8050,
-   "year":"2017",
+   "year":{
+    "propertyValue":"2017",
+    "annotationID":    119475
+   },
    "date":"2017-09-10",
-   "game_number":"1",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    119481
+   },
    "age":"23-311",
    "team":"DET",
    "game_location":"H",
    "opponent":"ARI",
    "game_won":   true,
    "player_team_score":"35",
-   "opponent_score":"23",
+   "opponent_score":{
+    "propertyValue":"23",
+    "annotationID":    119472
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -41,9 +50,18 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
-   "receiving_receptions":   4,
-   "receiving_yards":   69,
-   "receiving_touchdowns":   2,
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    119482
+   },
+   "receiving_yards":{
+    "propertyValue":"69",
+    "annotationID":    119483
+   },
+   "receiving_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    119484
+   },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
@@ -72,7 +90,7 @@
    "date":"2017-09-18",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    60366
+    "annotationID":    121819
    },
    "age":"23-319",
    "team":"DET",
@@ -144,11 +162,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    60367
+    "annotationID":    121820
    },
    "receiving_yards":{
     "propertyValue":"25",
-    "annotationID":    60368
+    "annotationID":    121821
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -199,11 +217,11 @@
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    63680
+    "annotationID":    128430
    },
    "receiving_yards":{
     "propertyValue":"64",
-    "annotationID":    63681
+    "annotationID":    128431
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -254,9 +272,12 @@
    "receiving_targets":   3,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    63977
+    "annotationID":    128980
    },
-   "receiving_yards":   52,
+   "receiving_yards":{
+    "propertyValue":"52",
+    "annotationID":    128981
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,

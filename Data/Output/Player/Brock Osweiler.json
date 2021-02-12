@@ -21,7 +21,10 @@
    "player_id":   16905,
    "year":"2013",
    "date":"2013-09-29",
-   "game_number":"4",
+   "game_number":{
+    "propertyValue":"4",
+    "annotationID":    56557
+   },
    "age":"22-311",
    "team":"DEN",
    "game_location":"H",
@@ -30,14 +33,17 @@
    "player_team_score":"52",
    "opponent_score":{
     "propertyValue":"20",
-    "annotationID":    29904
+    "annotationID":    56551
    },
    "passing_attempts":{
     "propertyValue":"2",
-    "annotationID":    29905
+    "annotationID":    56554
    },
    "passing_completions":   3,
-   "passing_yards":   10,
+   "passing_yards":{
+    "propertyValue":"10",
+    "annotationID":    56553
+   },
    "passing_rating":   71.5,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
@@ -45,7 +51,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"2",
-    "annotationID":    29906
+    "annotationID":    56555
    },
    "rushing_yards":   3,
    "rushing_touchdowns":   0,
@@ -97,7 +103,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    41202
+    "annotationID":    80049
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -190,34 +196,34 @@
    "opponent_score":"24",
    "passing_attempts":{
     "propertyValue":"23",
-    "annotationID":    48721
+    "annotationID":    94603
    },
    "passing_completions":{
     "propertyValue":"42",
-    "annotationID":    48722
+    "annotationID":    94604
    },
    "passing_yards":{
     "propertyValue":"270",
-    "annotationID":    48723
+    "annotationID":    94605
    },
    "passing_rating":   72.5,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    48724
+    "annotationID":    94606
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    48725
+    "annotationID":    94607
    },
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    48718
+    "annotationID":    94600
    },
    "passing_sacks_yards_lost":   16,
    "rushing_attempts":   2,
    "rushing_yards":{
     "propertyValue":"4",
-    "annotationID":    48720
+    "annotationID":    94602
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -252,7 +258,7 @@
    "date":"2015-12-06",
    "game_number":{
     "propertyValue":"12",
-    "annotationID":    49162
+    "annotationID":    95357
    },
    "age":"25-014",
    "team":"DEN",
@@ -261,45 +267,45 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"17",
-    "annotationID":    49159
+    "annotationID":    95354
    },
    "opponent_score":{
     "propertyValue":"3",
-    "annotationID":    49160
+    "annotationID":    95367
    },
    "passing_attempts":{
     "propertyValue":"16",
-    "annotationID":    49163
+    "annotationID":    95358
    },
    "passing_completions":{
     "propertyValue":"26",
-    "annotationID":    49164
+    "annotationID":    95359
    },
    "passing_yards":{
     "propertyValue":"166",
-    "annotationID":    49165
+    "annotationID":    95360
    },
    "passing_rating":   76.8,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    49166
+    "annotationID":    95361
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    49167
+    "annotationID":    95362
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    49168
+    "annotationID":    95363
    },
    "passing_sacks_yards_lost":   7,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    49161
+    "annotationID":    95368
    },
    "rushing_yards":{
     "propertyValue":"1",
-    "annotationID":    49169
+    "annotationID":    95364
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -340,16 +346,34 @@
    "game_won":   false,
    "player_team_score":"12",
    "opponent_score":"15",
-   "passing_attempts":   35,
-   "passing_completions":   51,
-   "passing_yards":   308,
+   "passing_attempts":{
+    "propertyValue":"35",
+    "annotationID":    96631
+   },
+   "passing_completions":{
+    "propertyValue":"51",
+    "annotationID":    96632
+   },
+   "passing_yards":{
+    "propertyValue":"308",
+    "annotationID":    96633
+   },
    "passing_rating":   84.4,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
-   "passing_sacks":   5,
+   "passing_sacks":{
+    "propertyValue":"5",
+    "annotationID":    96630
+   },
    "passing_sacks_yards_lost":   32,
-   "rushing_attempts":   3,
-   "rushing_yards":   10,
+   "rushing_attempts":{
+    "propertyValue":"3",
+    "annotationID":    96635
+   },
+   "rushing_yards":{
+    "propertyValue":"10",
+    "annotationID":    96634
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -378,6 +402,76 @@
    "comment":"Brock Osweiler, particularly in the second half. "
   },
   "7":{
+   "player_id":   16905,
+   "year":"2015",
+   "date":"2015-12-20",
+   "game_number":{
+    "propertyValue":"14",
+    "annotationID":    97609
+   },
+   "age":"25-028",
+   "team":"DEN",
+   "game_location":"A",
+   "opponent":"PIT",
+   "game_won":   false,
+   "player_team_score":{
+    "propertyValue":"27",
+    "annotationID":    97614
+   },
+   "opponent_score":{
+    "propertyValue":"34",
+    "annotationID":    97585
+   },
+   "passing_attempts":   21,
+   "passing_completions":   44,
+   "passing_yards":   296,
+   "passing_rating":   83.1,
+   "passing_touchdowns":{
+    "propertyValue":"3",
+    "annotationID":    97610
+   },
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    97611
+   },
+   "passing_sacks":{
+    "propertyValue":"2",
+    "annotationID":    97613
+   },
+   "passing_sacks_yards_lost":   15,
+   "rushing_attempts":   5,
+   "rushing_yards":   19,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    97612
+   },
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Brock Osweiler picked their secondary apart, completing 14-of-18 passes for 214 yards passing, 3 touchdown passes and another 1 on a 7-yard rushing touchdown. It was a dominant half, with the Broncos converting 8 third-down opportunities.    Former Steelers wide receiver Emmanuel Sanders must have gotten plenty of satisfaction as he scorched his old team on a 61-yard touchdown in the first quarter, and piled up yardage and receptions to finish the day with 10 receptions on 16 targets for 181 yards and that early touchdown.    The other Broncos receiver to eviscerate the Steelers secondary in the first half was Demaryius Thomas, who caught 2 touchdowns from Osweiler, to help his team out to an imposing 27-13 lead at halftime. That lead was made even more imposing by a Denver defense, who were swarming Ben Roethlisberger early and often.    The Steelers did keep within striking distance as they probed the Broncos' defense, with their final 2 drives of the half looking good, but both ended with field goals by Chris Boswell. Those 2 drives were full of Antonio Brown dog-walking Chris Harris around the field and foreshadowed what would happen in the second half.    Coming into this game, the Broncos had allowed 115 completions on 204 wide receiver targets for 1,316 yards and 2 touchdowns to wide receivers. That's in 13 games, so entire opposing wide receiver groups had averaged barely over 100 yards receiving, and you can barely see the number that happens after you divide 2 by 13. That is some dominance. But then Mr. Antonio Brown walked onto the field. The second half was the Antonio Brown show, as he took his initial dominance of Chris Harris to a new level. Brown was consistently open and open quickly. Roethlisberger pelted him with targets, and after a third-quarter touchdown to get the Steelers within 7 points, Brown finished the scoring with a beautiful pass from Roethlisberger for the receiver's second touchdown of the game, to make it 34-27.    That's right, the Broncos didn't score a single point in the second half, as Pittsburgh's pass rush started getting to Osweiler, causing him to hurry his throws. He threw 1 interception, but had 2 others bounce off Steelers defensive backs' hands. But Demaryius Thomas and Vernon Davis, who both had costly drops for the second straight game, didn't help Osweiler.    The end of this game was a nail-biter, as Roethlisberger threw an inexplicable interception in clock-killing mode, but the Steelers' defense, as they had done all second half, tightened up and stopped the Denver offense. Then, on third down, when the Steelers needed a first down to ice the game, whom did they go to? You are correct; Mr. Brown. Brown ended up catching 16-of-18 targets for 189 yards and 2 touchdowns, which is par for the course for him this year, but still unexpected against the Broncos' No. 1 defense.    Roethlisberger completed 40-of-55 passes for 380 yards, 3 touchdowns and 2 interceptions. The Broncos hadn't allowed 300 yards passing all season and had allowed 3 touchdowns just once, to Tom Brady. Roethlisberger now has 836 combined yards against the top 2 defenses in the league, Seattle and Denver.    Pittsburgh's wide receivers today caught 32-of-43 targets for 338 yards and 3 touchdowns. Remember that stat earlier? The amazing 1 where the Broncos had allowed just 115 completions on 204 wide receiver targets for 1,316 yards and 2 touchdowns through 13 games? Good, because that's an amazing discrepancy.    So, the Steelers' win gets them in the wild card over the New York Jets for the time being. Pittsburgh will have to finish the season on the road, with games at Baltimore and Cleveland. Both are extremely winnable games, but both are division rivals on the road.    The Broncos are slipping down the playoff rankings quickly. If they were to lose their last 2 games, against Cincinnati and San Diego, they easily could fall out of the playoffs completely. If Denver wins 1 of 2. the team will look good for a wildcard spot after Kansas City jumps into the AFC West lead. It the Broncos win both, they hold onto the AFC West and would have a good chance of beating out the Bengals for the No. 2 seed. That's a wide range of outcomes, and with Brock Osweiler looking good early and then leading his team to zero points in the second half of the last 3 games, it could go any which way.   "
+  },
+  "8":{
    "player_id":   16905,
    "year":"2015",
    "date":"2015-12-28",
@@ -426,7 +520,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler and saved the day to claim the division. That's not exactly what transpired, despite the fact that Phil Simms gushed so much about Manning that he probably sent roses to Manning's house, leaving Manning's wife wondering why a mysterious substance wasn't delivered instead. Let's break down this incredible misconception. First of all, Osweiler didn't struggle. He threw 2 interceptions and lost a fumble, but neither of the picks were his fault. The first occurred because "
   },
-  "8":{
+  "9":{
    "player_id":   16905,
    "year":"2015",
    "date":"2016-01-03",
@@ -445,7 +539,7 @@
    "passing_touchdowns":   1,
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    50937
+    "annotationID":    99662
    },
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   8,
@@ -478,13 +572,98 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler and saved the day to claim the division. That's not exactly what transpired, despite the fact that Phil Simms gushed so much about Manning that he probably sent roses to Manning's house, leaving Manning's wife wondering why a mysterious substance wasn't delivered instead. Let's break down this incredible misconception. First of all, Osweiler didn't struggle. He threw 2 interceptions and lost a fumble, but neither of the picks were his fault. The first occurred because "
   },
-  "9":{
+  "10":{
+   "player_id":   16905,
+   "year":"2016",
+   "date":"2016-09-11",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    100439
+   },
+   "age":"25-294",
+   "team":"HOU",
+   "game_location":"H",
+   "opponent":"CHI",
+   "game_won":   true,
+   "player_team_score":{
+    "propertyValue":"23",
+    "annotationID":    100421
+   },
+   "opponent_score":{
+    "propertyValue":"14",
+    "annotationID":    100422
+   },
+   "passing_attempts":{
+    "propertyValue":"22",
+    "annotationID":    100424
+   },
+   "passing_completions":{
+    "propertyValue":"35",
+    "annotationID":    100425
+   },
+   "passing_yards":{
+    "propertyValue":"231",
+    "annotationID":    100426
+   },
+   "passing_rating":   89.1,
+   "passing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    100441
+   },
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    100440
+   },
+   "passing_sacks":{
+    "propertyValue":"2",
+    "annotationID":    100442
+   },
+   "passing_sacks_yards_lost":{
+    "propertyValue":"16",
+    "annotationID":    100432
+   },
+   "rushing_attempts":{
+    "propertyValue":"4",
+    "annotationID":    100438
+   },
+   "rushing_yards":{
+    "propertyValue":"14",
+    "annotationID":    100423
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Brock Osweiler at quarterback and Lamar Miller at running back, and drafting Will Fuller in the first round. Those 3 players came up huge for Houston's offense to lead the team to the victory. Bears quarterback Jay Cutler played really well in the first half, but the Texans' defense dominated the final 2 quarters and battered Cutler with a serious pass rush to shut out Chicago after intermission.    Osweiler had a good first drive going to open the game, but in Chicago territory, Tracy Porter out-fought DeAndre Hopkins for a 50-50 pass and came away with an interception. Jay Cutler took advantage and started moving the ball down the field, including an excellent catch by Alshon Jeffery. To end the drive, Jeremy Langford plunged into the end zone from a yard out and gave the Bears a quick 7-0 lead. Chicago's defense quickly got off the field and Eddie Royal had a 31-yard punt return to the Texans' 40-yard line, but the Texans stopped the Bears on 4.h-and-1 to get the ball back. Houston was able to get a field goal drive thanks to Miller's running. The Texans took the lead with a 23-yard touchdown to Hopkins as, once again, he made a phenomenal contested catch. At the end of the second quarter, Will Fuller dropped what would have been an 83-yard touchdown, and the Bears responded by hitting Jeffery for a 54-yard gain. With only a play before having to settle a field goal, Cutler threw a perfect strike to Royal for a 19-yard touchdown after he worked over Kareem Jackson. That gave the Bears a 14-10 halftime lead. At the start of the third quarter, Kevin White ran the wrong route, and that let Andre Hal pick off a pass to set up the Texans in Chicago territory. Houston had to settle for a field goal. Late in the third quarter, Fuller caught a 27-yard pass to get into Bears territory. He finished the drive by making a shoestring catch on a wide receiver screen before using his speed to dart down the field for an 18-yard touchdown. Shortly later on a third down, Fuller made a superb leaping grab of about 30 yards and set up a short field goal for Nick Novak. Houston's defense then slammed the door for the win.    Brock Osweiler completed 22-of-35 for 231 yards with 2 touchdowns and an interception. He threw the ball better than the numbers illustrate, and he easily could have had a couple more touchdown passes.    Lamar Miller ran for 106 yards on 28 carries with 4 receptions for 11 yards.    DeAndre Hopkins had 5 catches for 54 yards with a score. Will Fuller (5-107-1) had a great debut aside from his drop. Chicago's corners couldn't run with Fuller, especially in the second half. Osweiler targeted Fuller heavily, at times more than Hopkins, and if you need a wideout for your fantasy team, Fuller could be an adept pickup.    Jay Cutler was 16-of-29 for 216 yards with 1 touchdown and 1 interception. He played better than the numbers illustrate as well. The Bears' offensive tackles got whipped in the second half.    Jeremy Langford ran for 57 yards on 17 carries, but bailed out his fantasy owners with a score.    Alshon Jeffery had 4 catches for 105 yards. Eddie Royal (4-57-1) chipped well in the first half, and Kevin White (3-34) flashed at times.    Chicago's front 7 played well overall, but the secondary struggled. "
+  },
+  "11":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-09-18",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    51252
+    "annotationID":    101542
    },
    "age":"25-301",
    "team":"HOU",
@@ -493,38 +672,38 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"19",
-    "annotationID":    51247
+    "annotationID":    101537
    },
    "opponent_score":"12",
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    51248
+    "annotationID":    101538
    },
    "passing_completions":{
     "propertyValue":"33",
-    "annotationID":    51249
+    "annotationID":    101539
    },
    "passing_yards":{
     "propertyValue":"268",
-    "annotationID":    51250
+    "annotationID":    101540
    },
    "passing_rating":   68.8,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    51256
+    "annotationID":    101546
    },
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    51253
+    "annotationID":    101543
    },
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    51254
+    "annotationID":    101544
    },
    "passing_sacks_yards_lost":   14,
    "rushing_attempts":{
     "propertyValue":"2",
-    "annotationID":    51255
+    "annotationID":    101545
    },
    "rushing_yards":   -3,
    "rushing_touchdowns":   0,
@@ -554,7 +733,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler was light years better than Hoyer, going 19-of-33 for 268 yards and 1 touchdown. He did throw 2 interceptions, though 1 wasn't his fault because he was hit as he released the ball. His other pick, meanwhile, wouldn't have happened had "
   },
-  "10":{
+  "12":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-09-22",
@@ -566,9 +745,18 @@
    "game_won":   false,
    "player_team_score":"0",
    "opponent_score":"27",
-   "passing_attempts":   24,
-   "passing_completions":   41,
-   "passing_yards":   196,
+   "passing_attempts":{
+    "propertyValue":"24",
+    "annotationID":    102407
+   },
+   "passing_completions":{
+    "propertyValue":"41",
+    "annotationID":    102408
+   },
+   "passing_yards":{
+    "propertyValue":"196",
+    "annotationID":    102409
+   },
    "passing_rating":   60.6,
    "passing_touchdowns":   0,
    "passing_interceptions":   1,
@@ -603,7 +791,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler screwed up after that, firing a careless interception in which he didn't see Jamie Collins."
   },
-  "11":{
+  "13":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-10-02",
@@ -615,42 +803,42 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"27",
-    "annotationID":    52804
+    "annotationID":    104275
    },
    "opponent_score":{
     "propertyValue":"20",
-    "annotationID":    52814
+    "annotationID":    104285
    },
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    52807
+    "annotationID":    104278
    },
    "passing_completions":{
     "propertyValue":"37",
-    "annotationID":    52808
+    "annotationID":    104279
    },
    "passing_yards":{
     "propertyValue":"254",
-    "annotationID":    52809
+    "annotationID":    104280
    },
    "passing_rating":   82.5,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    52812
+    "annotationID":    104283
    },
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    52813
+    "annotationID":    104284
    },
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
     "propertyValue":"10",
-    "annotationID":    52798
+    "annotationID":    104269
    },
    "rushing_attempts":   1,
    "rushing_yards":{
     "propertyValue":"14",
-    "annotationID":    52803
+    "annotationID":    104274
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -679,7 +867,126 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler began the game 9-of-10 for 112 yards and 2 touchdowns. And then reality set in, and Houston's offense managed just 6 points after that. Osweiler struggled following his opening 2 drives. He was just 14-of-27 after that with 2 interceptions, finishing 25-of-37 for 254 yards, 2 scores and 2 picks overall. Osweiler made a number of poor throws following his early start, throwing low and high on numerous occasions. His first pick was thrown behind his target, which set up a Tennessee touchdown. With the Texans' offense bogging down, it appeared as though the Titans were going to have a chance to pull the upset. However, with the game tied at 20, "
   },
-  "12":{
+  "14":{
+   "player_id":   16905,
+   "year":"2016",
+   "date":"2016-10-09",
+   "game_number":"5",
+   "age":"25-322",
+   "team":"HOU",
+   "game_location":"A",
+   "opponent":"MIN",
+   "game_won":   false,
+   "player_team_score":"13",
+   "opponent_score":"31",
+   "passing_attempts":{
+    "propertyValue":"19",
+    "annotationID":    105321
+   },
+   "passing_completions":{
+    "propertyValue":"42",
+    "annotationID":    105322
+   },
+   "passing_yards":{
+    "propertyValue":"184",
+    "annotationID":    105323
+   },
+   "passing_rating":   56.1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    105324
+   },
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    105325
+   },
+   "passing_sacks":   4,
+   "passing_sacks_yards_lost":   29,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Brock Osweiler had an extremely rough afternoon, as his passes were all over the place. He sailed balls over his receivers' heads, while other passes skipped into the turf. He had an easy pick-six that was dropped by "
+  },
+  "15":{
+   "player_id":   16905,
+   "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"6",
+   "age":"25-329",
+   "team":"HOU",
+   "game_location":"H",
+   "opponent":"IND",
+   "game_won":   true,
+   "player_team_score":"26",
+   "opponent_score":"23",
+   "passing_attempts":   25,
+   "passing_completions":   39,
+   "passing_yards":   269,
+   "passing_rating":   90.7,
+   "passing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    107406
+   },
+   "passing_interceptions":   1,
+   "passing_sacks":   1,
+   "passing_sacks_yards_lost":   13,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    107407
+   },
+   "rushing_yards":   -4,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Brock Osweiler leading his team back to a victory. It just didn't seem remotely possible, and yet, Houston roared back from a 2.touchdown deficit to prevail in overtime. Osweiler was abysmal in the first 2.and-a-half quarters. He opened the game by nearly being picked on a "
+  },
+  "16":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-10-24",
@@ -701,7 +1008,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    54251
+    "annotationID":    109099
    },
    "rushing_yards":   16,
    "rushing_touchdowns":   0,
@@ -731,7 +1038,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler's struggles.    Under all the criticism and pressure, the Texans (5-3) needed a bounce-back performance, and they got it, taking care of business at home against the Lions (4-4). Brock Osweiler didn't dominate, but he turned in a quality start to manage the game into a victory for Houston. The real leader was the Texans' defense. It was strength versus strength, and Houston's pass defense did a nice job of limiting "
   },
-  "13":{
+  "17":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-10-30",
@@ -751,12 +1058,12 @@
    "passing_interceptions":   1,
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    54252
+    "annotationID":    109102
    },
    "passing_sacks_yards_lost":   22,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    54253
+    "annotationID":    109103
    },
    "rushing_yards":   -3,
    "rushing_touchdowns":   0,
@@ -786,7 +1093,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler's struggles.    Under all the criticism and pressure, the Texans (5-3) needed a bounce-back performance, and they got it, taking care of business at home against the Lions (4-4). Brock Osweiler didn't dominate, but he turned in a quality start to manage the game into a victory for Houston. The real leader was the Texans' defense. It was strength versus strength, and Houston's pass defense did a nice job of limiting "
   },
-  "14":{
+  "18":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-11-13",
@@ -800,20 +1107,20 @@
    "opponent_score":"21",
    "passing_attempts":{
     "propertyValue":"14",
-    "annotationID":    55255
+    "annotationID":    110840
    },
    "passing_completions":{
     "propertyValue":"27",
-    "annotationID":    55256
+    "annotationID":    110841
    },
    "passing_yards":{
     "propertyValue":"99",
-    "annotationID":    55259
+    "annotationID":    110844
    },
    "passing_rating":   85.3,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    55258
+    "annotationID":    110843
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
@@ -847,7 +1154,105 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler did in this contest. The good news is that Osweiler didn't turn the ball over. The bad news is that he couldn't get anything going throughout the afternoon. His woeful numbers tell the tale, as Osweiler finished 14-of-27 for 99 yards and 2 touchdowns. That's not a typo - in this day and age, when passing is easier than ever because bogus illegal-contact and defensive-holding penalties are called all the time, Osweiler accumulated just 99 yards. Osweiler was very underwhelming, as you might imagine. His completions were mostly dinks and dunks, and whenever he tried going deeper, he couldn't connect at all with "
   },
-  "15":{
+  "19":{
+   "player_id":   16905,
+   "year":"2016",
+   "date":"2016-11-21",
+   "game_number":"10",
+   "age":"25-365",
+   "team":"HOU",
+   "game_location":"A",
+   "opponent":"OAK",
+   "game_won":   false,
+   "player_team_score":"20",
+   "opponent_score":"27",
+   "passing_attempts":   26,
+   "passing_completions":   39,
+   "passing_yards":   243,
+   "passing_rating":   81.5,
+   "passing_touchdowns":   1,
+   "passing_interceptions":   1,
+   "passing_sacks":   2,
+   "passing_sacks_yards_lost":   13,
+   "rushing_attempts":   2,
+   "rushing_yards":   19,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   1,
+   "receiving_yards":   -6,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Brock Osweiler is. I also can't believe that the Texans paid $72 million for this. Forget the million; I wouldn't even pay $72 for Osweiler, period.    San Diego got a nice road win over the offensively challenged Texans, as "
+  },
+  "20":{
+   "player_id":   16905,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"26-005",
+   "team":"HOU",
+   "game_location":"H",
+   "opponent":"SDG",
+   "game_won":   false,
+   "player_team_score":"13",
+   "opponent_score":"21",
+   "passing_attempts":   22,
+   "passing_completions":   37,
+   "passing_yards":   246,
+   "passing_rating":   45.6,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   3,
+   "passing_sacks":   1,
+   "passing_sacks_yards_lost":   7,
+   "rushing_attempts":   3,
+   "rushing_yards":   23,
+   "rushing_touchdowns":   1,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Brock Osweiler is. I also can't believe that the Texans paid $72 million for this. Forget the million; I wouldn't even pay $72 for Osweiler, period.    San Diego got a nice road win over the offensively challenged Texans, as "
+  },
+  "21":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-12-04",
@@ -861,25 +1266,25 @@
    "opponent_score":"21",
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    56401
+    "annotationID":    114230
    },
    "passing_completions":{
     "propertyValue":"35",
-    "annotationID":    56402
+    "annotationID":    114231
    },
    "passing_yards":{
     "propertyValue":"202",
-    "annotationID":    56403
+    "annotationID":    114232
    },
    "passing_rating":   97.6,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    56404
+    "annotationID":    114233
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    56405
+    "annotationID":    114234
    },
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":   3,
@@ -911,7 +1316,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler had to do most of the work, and he actually wasn't horrible for once. Osweiler finished 22-of-35 for 202 yards and 2 touchdowns. Keep in mind, however, that some of this came in garbage time. Osweiler's 44-yard touchdown to "
   },
-  "16":{
+  "22":{
    "player_id":   16905,
    "year":"2016",
    "date":"2016-12-18",
@@ -960,7 +1365,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler has been horrible this year, and that is even sugarcoating it. This game happened to be the final straw, as Bill O'Brien benched Osweiler at the end of the second quarter. Osweiler had been putting forth a miserable performance leading up to getting yanked. The Texans were doing nothing offensively in the early going, but once the Jaguars got on the board, Osweiler began forcing the issue. He threw his first interception on a high pass to "
   },
-  "17":{
+  "23":{
    "player_id":   16905,
    "year":"2016",
    "date":"2017-01-01",
@@ -976,13 +1381,25 @@
    "passing_completions":   40,
    "passing_yards":   253,
    "passing_rating":   80.5,
-   "passing_touchdowns":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    118718
+   },
    "passing_interceptions":   0,
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   20,
-   "rushing_attempts":   1,
-   "rushing_yards":   1,
-   "rushing_touchdowns":   1,
+   "rushing_attempts":{
+    "propertyValue":"1",
+    "annotationID":    118719
+   },
+   "rushing_yards":{
+    "propertyValue":"1",
+    "annotationID":    118720
+   },
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    118721
+   },
    "receiving_targets":   0,
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -1009,7 +1426,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler into the game. With the injury to Savage, the Texans now have to figure out who they are going to start in the opening round of the playoffs next Saturday.    On Houston's first possession of the game, Savage was drilled by "
   },
-  "18":{
+  "24":{
    "player_id":   16905,
    "year":"2017",
    "date":"2017-10-15",
@@ -1058,13 +1475,13 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler took the field in his absence. However, Siemian was able to return in the third quarter. It didn't matter very much for the Broncos, however, as Siemian really struggled. Siemian was strip-sacked in the early going by "
   },
-  "19":{
+  "25":{
    "player_id":   16905,
    "year":"2017",
    "date":"2017-11-05",
    "game_number":{
     "propertyValue":"8",
-    "annotationID":    63220
+    "annotationID":    127572
    },
    "age":"26-348",
    "team":"DEN",
@@ -1075,20 +1492,20 @@
    "opponent_score":"51",
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    63216
+    "annotationID":    127568
    },
    "passing_completions":{
     "propertyValue":"38",
-    "annotationID":    63217
+    "annotationID":    127569
    },
    "passing_yards":{
     "propertyValue":"208",
-    "annotationID":    63218
+    "annotationID":    127570
    },
    "passing_rating":   53.4,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    63219
+    "annotationID":    127571
    },
    "passing_interceptions":   2,
    "passing_sacks":   3,
@@ -1122,7 +1539,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler completed only half of his passes, going 19-of-38 for 208 yards, 1 touchdown and a couple of interceptions. A chunk of Osweiler's stats came in garbage time, as he had just 8 completions in the opening half. Osweiler was a mess, as he easily could've been picked on a couple of other occasions. For instance, "
   },
-  "20":{
+  "26":{
    "player_id":   16905,
    "year":"2017",
    "date":"2017-11-12",
@@ -1136,30 +1553,30 @@
    "opponent_score":"41",
    "passing_attempts":{
     "propertyValue":"18",
-    "annotationID":    63902
+    "annotationID":    128831
    },
    "passing_completions":{
     "propertyValue":"33",
-    "annotationID":    63903
+    "annotationID":    128832
    },
    "passing_yards":{
     "propertyValue":"221",
-    "annotationID":    63904
+    "annotationID":    128833
    },
    "passing_rating":   72.9,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    63905
+    "annotationID":    128834
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    63906
+    "annotationID":    128835
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    63907
+    "annotationID":    128836
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -1189,7 +1606,7 @@
    "punting_blocked":   0,
    "comment":"Brock Osweiler was just fine, as he went 18-of-33 for 221 yards, 1 touchdown and an interception, which occurred very late in the game when Osweiler desperately was trying to make stuff happen. Osweiler did a good job of moving the chains in between the 20s, but the offense stalled in the red zone.    "
   },
-  "21":{
+  "27":{
    "player_id":   16905,
    "year":"2017",
    "date":"2017-11-19",
@@ -1239,5 +1656,5 @@
    "comment":"Brock Osweiler doesn't qualify as that. Osweiler had an up-and-down performance in his third start this year. In the early going, it looked like the Broncos were going to have to bench him. He started the game poorly, throwing numerous inaccurate passes, including a terrible interception in the end zone. Osweiler threw the ball straight to Dre' Kirkpatrick, who would have run 102 yards into the end zone untouched had he not inexplicably dropped the ball just before the goal line. However, after the half, Osweiler's performance greatly improved. He still had trouble with downfield passes, often overthrowing his receivers due to a lack of touch on his passes, but his short and medium accuracy was there. Osweiler was able to keep the Broncos competitive thanks to his improved accuracy. In particular, Osweiler's touchdown pass to "
   }
  },
- "numberGames": 21
+ "numberGames": 27
 }

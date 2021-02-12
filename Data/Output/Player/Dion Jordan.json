@@ -21,14 +21,20 @@
    "player_id":   11745,
    "year":"2013",
    "date":"2013-09-08",
-   "game_number":"1",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    53251
+   },
    "age":"23-187",
    "team":"MIA",
    "game_location":"A",
    "opponent":"CLE",
    "game_won":   true,
    "player_team_score":"23",
-   "opponent_score":"10",
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    53254
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -50,8 +56,14 @@
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
-   "defense_sacks":   1,
-   "defense_tackles":   1,
+   "defense_sacks":{
+    "propertyValue":"1",
+    "annotationID":    53252
+   },
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    53253
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

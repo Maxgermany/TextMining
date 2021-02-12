@@ -70,7 +70,10 @@
    "player_id":   11186,
    "year":"2008",
    "date":"2008-09-21",
-   "game_number":"3",
+   "game_number":{
+    "propertyValue":"3",
+    "annotationID":    1408
+   },
    "age":"27-198",
    "team":"SFO",
    "game_location":"H",
@@ -167,6 +170,61 @@
   "4":{
    "player_id":   11186,
    "year":"2008",
+   "date":"2008-11-23",
+   "game_number":"11",
+   "age":"27-261",
+   "team":"SFO",
+   "game_location":"A",
+   "opponent":"DAL",
+   "game_won":   false,
+   "player_team_score":"22",
+   "opponent_score":"35",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   9,
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    6327
+   },
+   "receiving_yards":{
+    "propertyValue":"56",
+    "annotationID":    6328
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Bryant Johnson had 4 receptions for 56 yards. "
+  },
+  "5":{
+   "player_id":   11186,
+   "year":"2008",
    "date":"2008-12-07",
    "game_number":"13",
    "age":"27-275",
@@ -190,11 +248,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    3592
+    "annotationID":    7479
    },
    "receiving_yards":{
     "propertyValue":"49",
-    "annotationID":    3593
+    "annotationID":    7480
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -219,7 +277,7 @@
    "punting_blocked":   0,
    "comment":"Bryant Johnson 6 times each. Bruce had 70 yards; Johnson recorded 49 yards and a touchdown.    "
   },
-  "5":{
+  "6":{
    "player_id":   11186,
    "year":"2009",
    "date":"2009-09-27",
@@ -245,15 +303,15 @@
    "receiving_targets":   11,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    4859
+    "annotationID":    10778
    },
    "receiving_yards":{
     "propertyValue":"73",
-    "annotationID":    4858
+    "annotationID":    10777
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    4860
+    "annotationID":    10779
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -277,11 +335,14 @@
    "punting_blocked":   0,
    "comment":"Bryant Johnson that went incomplete, but drew a pass interference flag.    Speaking of Bryant Johnson, he surprisingly led the Lions in receiving yardage with 73. He caught 4 balls, 1 of which was a touchdown. "
   },
-  "6":{
+  "7":{
    "player_id":   11186,
    "year":"2009",
    "date":"2009-10-11",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    12028
+   },
    "age":"28-218",
    "team":"DET",
    "game_location":"H",
@@ -300,8 +361,14 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   7,
-   "receiving_receptions":   3,
+   "receiving_targets":{
+    "propertyValue":"7",
+    "annotationID":    12026
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    12027
+   },
    "receiving_yards":   26,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -311,7 +378,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   1,
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    12024
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -326,7 +396,7 @@
    "punting_blocked":   0,
    "comment":"Bryant Johnson had 4 grabs for 35 yards.    As you might expect, "
   },
-  "7":{
+  "8":{
    "player_id":   11186,
    "year":"2009",
    "date":"2009-11-01",
@@ -336,7 +406,10 @@
    "game_location":"H",
    "opponent":"STL",
    "game_won":   false,
-   "player_team_score":"10",
+   "player_team_score":{
+    "propertyValue":"10",
+    "annotationID":    14157
+   },
    "opponent_score":"17",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -352,11 +425,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    6797
+    "annotationID":    14158
    },
    "receiving_yards":{
     "propertyValue":"43",
-    "annotationID":    6798
+    "annotationID":    14159
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -381,7 +454,7 @@
    "punting_blocked":   0,
    "comment":"Bryant Johnson, who had 2 grabs for 43 yards.    What really hurt the Lions, besides the drops, Linehan's ineptness and Megatron's absence, was a "
   },
-  "8":{
+  "9":{
    "player_id":   11186,
    "year":"2010",
    "date":"2010-12-12",
@@ -391,8 +464,14 @@
    "game_location":"H",
    "opponent":"GNB",
    "game_won":   true,
-   "player_team_score":"7",
-   "opponent_score":"3",
+   "player_team_score":{
+    "propertyValue":"7",
+    "annotationID":    28028
+   },
+   "opponent_score":{
+    "propertyValue":"3",
+    "annotationID":    28030
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -404,14 +483,17 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   3,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    28031
+   },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    15051
+    "annotationID":    28032
    },
    "receiving_yards":{
     "propertyValue":"21",
-    "annotationID":    15050
+    "annotationID":    28023
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -437,5 +519,5 @@
    "comment":"Bryant Johnson (2-21) and Brandon Pettigrew (2-14)."
   }
  },
- "numberGames": 8
+ "numberGames": 9
 }

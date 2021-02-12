@@ -40,9 +40,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   5,
-   "receiving_receptions":   3,
-   "receiving_yards":   69,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    79859
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    79860
+   },
+   "receiving_yards":{
+    "propertyValue":"69",
+    "annotationID":    79861
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -92,11 +101,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    41616
+    "annotationID":    80914
    },
    "receiving_yards":{
     "propertyValue":"87",
-    "annotationID":    41617
+    "annotationID":    80915
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -134,7 +143,7 @@
    "player_team_score":"19",
    "opponent_score":{
     "propertyValue":"7",
-    "annotationID":    41836
+    "annotationID":    81367
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -199,11 +208,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    45463
+    "annotationID":    88965
    },
    "receiving_yards":{
     "propertyValue":"57",
-    "annotationID":    45464
+    "annotationID":    88966
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -234,7 +243,7 @@
    "date":"2015-10-25",
    "game_number":{
     "propertyValue":"7",
-    "annotationID":    45920
+    "annotationID":    89814
    },
    "age":"23-105",
    "team":"KAN",
@@ -256,7 +265,7 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"6",
-    "annotationID":    45921
+    "annotationID":    89815
    },
    "receiving_receptions":   3,
    "receiving_yards":   71,
@@ -296,7 +305,7 @@
    "player_team_score":"33",
    "opponent_score":{
     "propertyValue":"3",
-    "annotationID":    48058
+    "annotationID":    93366
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -311,15 +320,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    48055
+    "annotationID":    93363
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    48056
+    "annotationID":    93364
    },
    "receiving_yards":{
     "propertyValue":"56",
-    "annotationID":    48057
+    "annotationID":    93365
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -369,15 +378,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    48427
+    "annotationID":    94101
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    48428
+    "annotationID":    94102
    },
    "receiving_yards":{
     "propertyValue":"25",
-    "annotationID":    48429
+    "annotationID":    94103
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -477,11 +486,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    49582
+    "annotationID":    96149
    },
    "receiving_yards":{
     "propertyValue":"87",
-    "annotationID":    49583
+    "annotationID":    96150
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -509,6 +518,104 @@
   "10":{
    "player_id":   24336,
    "year":"2016",
+   "date":"2017-01-15",
+   "game_number":"17",
+   "age":"24-187",
+   "team":"KAN",
+   "game_location":"H",
+   "opponent":"PIT",
+   "game_won":   false,
+   "player_team_score":"16",
+   "opponent_score":"18",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   3,
+   "receiving_receptions":   2,
+   "receiving_yards":   3,
+   "receiving_touchdowns":   1,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Albert Wilson (5-57, TD) and Chris Conley (5-33) tried their best to replace Maclin, as well as Travis Kelce (6-23), who was erased by Belichick's schemes."
+  },
+  "11":{
+   "player_id":   24336,
+   "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"5",
+   "age":"24-096",
+   "team":"KAN",
+   "game_location":"A",
+   "opponent":"OAK",
+   "game_won":   true,
+   "player_team_score":"26",
+   "opponent_score":"10",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   1,
+   "receiving_yards":   26,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Albert Wilson. Charles finished the drive with a 4-yard touchdown. The Chiefs had another good drive going with a 38-yard pass to "
+  },
+  "12":{
+   "player_id":   24336,
+   "year":"2016",
    "date":"2016-11-06",
    "game_number":"8",
    "age":"24-117",
@@ -517,7 +624,10 @@
    "opponent":"JAX",
    "game_won":   true,
    "player_team_score":"19",
-   "opponent_score":"14",
+   "opponent_score":{
+    "propertyValue":"14",
+    "annotationID":    110082
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -555,7 +665,7 @@
    "punting_blocked":   0,
    "comment":"Albert Wilson for a 23-yard touchdown pass a couple of plays later. Early in the second quarter, Bortles threw a terrible interception right into the hands of "
   },
-  "11":{
+  "13":{
    "player_id":   24336,
    "year":"2016",
    "date":"2016-11-13",
@@ -581,11 +691,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    55177
+    "annotationID":    110674
    },
    "receiving_yards":{
     "propertyValue":"25",
-    "annotationID":    55178
+    "annotationID":    110675
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -610,7 +720,7 @@
    "punting_blocked":   0,
    "comment":"Albert Wilson (4-25) both dropped passes. Kelce at least hauled in a 2.point conversion.    I mentioned earlier that Ware didn't have many good runs. Ware's burst of 12 at the end gave him 61 yards on 13 carries, but he didn't have much of an opportunity to rush the ball, given that the Chiefs trailed throughout until the very end.   "
   },
-  "12":{
+  "14":{
    "player_id":   24336,
    "year":"2016",
    "date":"2016-11-20",
@@ -623,7 +733,7 @@
    "player_team_score":"17",
    "opponent_score":{
     "propertyValue":"19",
-    "annotationID":    55909
+    "annotationID":    112005
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -638,15 +748,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    55911
+    "annotationID":    112007
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    55912
+    "annotationID":    112008
    },
    "receiving_yards":{
     "propertyValue":"19",
-    "annotationID":    55910
+    "annotationID":    112006
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -671,7 +781,7 @@
    "punting_blocked":   0,
    "comment":"Albert Wilson (4-19) hauled in Smith's sole aerial score. Kelce (7-108) was a big contributor even though he sustained an injury on the opening possession. Kelce managed to stay in on the game on the drive, but failed to haul in a catchable pass inside the 5-yard line. He later drew a holding penalty in the end zone. Hill, meanwhile, caught 4 balls for 53 yards.    "
   },
-  "13":{
+  "15":{
    "player_id":   24336,
    "year":"2016",
    "date":"2016-12-04",
@@ -683,7 +793,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"29",
-    "annotationID":    56625
+    "annotationID":    114649
    },
    "opponent_score":"28",
    "passing_attempts":   0,
@@ -696,27 +806,27 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    56626
+    "annotationID":    114650
    },
    "rushing_yards":{
     "propertyValue":"55",
-    "annotationID":    56624
+    "annotationID":    114648
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    56627
+    "annotationID":    114651
    },
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    56621
+    "annotationID":    114645
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    56622
+    "annotationID":    114646
    },
    "receiving_yards":{
     "propertyValue":"48",
-    "annotationID":    56623
+    "annotationID":    114647
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -741,13 +851,13 @@
    "punting_blocked":   0,
    "comment":"Albert Wilson (4-48). Hill is really emerging as a weapon in the Chiefs' offense, and he has done enough to earn a starting job even when Jeremy Maclin comes back. Hill is a must-own in dynasty formats, and he is worth adding in standard leagues as well. Wilson, meanwhile, played well, but he is too inconsistent to be considered in fantasy. He did have a nice 55-yard touchdown run on a fake punt, but he is not likely to score much week in and week out.    Spencer Ware once again was the lead back for the Chiefs. He surprisingly had some issues against the Falcons' run defense, carrying the ball 14 times for 29 yards. The line could not get a lot of push up front, and the team had more success in the passing game. Ware did catch 3 passes for 23 yards and a touchdown, and he could have had more if Smith had hit him on that long pass. Ware is a low-end RB1 in most formats moving forward.    Final Note: Having "
   },
-  "14":{
+  "16":{
    "player_id":   24336,
    "year":"2017",
    "date":"2017-09-24",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    60762
+    "annotationID":    122599
    },
    "age":"25-074",
    "team":"KAN",
@@ -770,11 +880,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    60763
+    "annotationID":    122600
    },
    "receiving_yards":{
     "propertyValue":"18",
-    "annotationID":    60764
+    "annotationID":    122601
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -799,7 +909,7 @@
    "punting_blocked":   0,
    "comment":"Albert Wilson (3-18) caught Smith's touchdowns, as Hill's came via a horrible defensive scheme where he was somehow matched up on a linebacker. Hill seemed to suffer an injury late in the game when a deep shot sailed out of bounds, but the announcers speculated that it might just be cramps. Meanwhile, "
   },
-  "15":{
+  "17":{
    "player_id":   24336,
    "year":"2017",
    "date":"2017-10-19",
@@ -825,15 +935,15 @@
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    62255
+    "annotationID":    125688
    },
    "receiving_yards":{
     "propertyValue":"63",
-    "annotationID":    62257
+    "annotationID":    125690
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    62256
+    "annotationID":    125689
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -858,5 +968,5 @@
    "comment":"Albert Wilson (1-63) and Travis Kelce (4-33)."
   }
  },
- "numberGames": 15
+ "numberGames": 17
 }

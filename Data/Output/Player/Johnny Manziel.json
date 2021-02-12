@@ -78,9 +78,18 @@
    "game_won":   false,
    "player_team_score":"10",
    "opponent_score":"26",
-   "passing_attempts":   5,
-   "passing_completions":   8,
-   "passing_yards":   63,
+   "passing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    78010
+   },
+   "passing_completions":{
+    "propertyValue":"8",
+    "annotationID":    78011
+   },
+   "passing_yards":{
+    "propertyValue":"63",
+    "annotationID":    78012
+   },
    "passing_rating":   87,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
@@ -88,9 +97,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"2",
-    "annotationID":    40100
+    "annotationID":    78009
    },
-   "rushing_yards":   13,
+   "rushing_yards":{
+    "propertyValue":"13",
+    "annotationID":    78013
+   },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -133,21 +145,21 @@
    "passing_attempts":   10,
    "passing_completions":{
     "propertyValue":"18",
-    "annotationID":    41029
+    "annotationID":    79734
    },
    "passing_yards":   80,
    "passing_rating":   27.3,
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    41030
+    "annotationID":    79735
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   26,
    "rushing_attempts":   5,
    "rushing_yards":{
     "propertyValue":"13",
-    "annotationID":    41028
+    "annotationID":    79733
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -236,7 +248,10 @@
    "opponent":"CAR",
    "game_won":   false,
    "player_team_score":"13",
-   "opponent_score":"17",
+   "opponent_score":{
+    "propertyValue":"17",
+    "annotationID":    80564
+   },
    "passing_attempts":   3,
    "passing_completions":   8,
    "passing_yards":   32,
@@ -247,7 +262,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"2",
-    "annotationID":    41426
+    "annotationID":    80563
    },
    "rushing_yards":   3,
    "rushing_touchdowns":   0,
@@ -280,6 +295,70 @@
   "6":{
    "player_id":   14013,
    "year":"2015",
+   "date":"2015-09-13",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    82592
+   },
+   "age":"22-281",
+   "team":"CLE",
+   "game_location":"A",
+   "opponent":"NYJ",
+   "game_won":   false,
+   "player_team_score":"10",
+   "opponent_score":{
+    "propertyValue":"31",
+    "annotationID":    82595
+   },
+   "passing_attempts":   13,
+   "passing_completions":   24,
+   "passing_yards":   182,
+   "passing_rating":   75.3,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    82593
+   },
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    82594
+   },
+   "passing_sacks":{
+    "propertyValue":"3",
+    "annotationID":    82596
+   },
+   "passing_sacks_yards_lost":   14,
+   "rushing_attempts":   5,
+   "rushing_yards":   35,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Johnny Manziel at some point this year, but not this early. "
+  },
+  "7":{
+   "player_id":   14013,
+   "year":"2015",
    "date":"2015-09-20",
    "game_number":"2",
    "age":"22-288",
@@ -299,9 +378,12 @@
    "passing_sacks_yards_lost":   14,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    42632
+    "annotationID":    83864
    },
-   "rushing_yards":   1,
+   "rushing_yards":{
+    "propertyValue":"1",
+    "annotationID":    83865
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -329,7 +411,7 @@
    "punting_blocked":   0,
    "comment":"Johnny Manziel won this contest because of 3 great plays. Two were perfect deep bombs to "
   },
-  "7":{
+  "8":{
    "player_id":   14013,
    "year":"2015",
    "date":"2015-10-25",
@@ -378,7 +460,7 @@
    "punting_blocked":   0,
    "comment":"Johnny Manziel came in for the final drive and moved the Browns about 30 yards before Cleveland stalled out.    Todd Gurley ran for 128 yards on 19 carries with 2 touchdowns. His combination of power and speed is tremendous.    "
   },
-  "8":{
+  "9":{
    "player_id":   14013,
    "year":"2015",
    "date":"2015-11-01",
@@ -427,7 +509,7 @@
    "punting_blocked":   0,
    "comment":"Johnny Manziel came in. The Cardinals didn't play a complete game, thanks to turnovers and coverage issues, but they made good second half adjustments to cruise in Cleveland.    To start the game, "
   },
-  "9":{
+  "10":{
    "player_id":   14013,
    "year":"2015",
    "date":"2015-11-05",
@@ -439,7 +521,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"10",
-    "annotationID":    47136
+    "annotationID":    91771
    },
    "opponent_score":"31",
    "passing_attempts":   15,
@@ -450,12 +532,12 @@
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    47138
+    "annotationID":    91774
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":{
     "propertyValue":"4",
-    "annotationID":    47137
+    "annotationID":    91775
    },
    "rushing_yards":   31,
    "rushing_touchdowns":   0,
@@ -485,7 +567,7 @@
    "punting_blocked":   0,
    "comment":"Johnny Manziel right before halftime, Cleveland drew to within 14-10. That was the team's longest possession since December 2013. Unfortunately for the Browns, they simply couldn't keep up. Their offense had 4 consecutive 3.and-outs following intermission, while the defense had no answer for "
   },
-  "10":{
+  "11":{
    "player_id":   14013,
    "year":"2015",
    "date":"2015-11-30",
@@ -534,7 +616,7 @@
    "punting_blocked":   0,
    "comment":"Johnny Manziel. Davis finished 25-of-38 for 230 yards and the pick. Much of those positive numbers came in garbage time. The Browns didn't seem to show any interest in playing hard for Davis, and it appears as though Pettine has lost the locker room.    With all of the injuries, Brian Hartline led the team with 8 catches for 83 yards. "
   },
-  "11":{
+  "12":{
    "player_id":   14013,
    "year":"2015",
    "date":"2015-12-13",
@@ -548,24 +630,24 @@
    "opponent_score":"10",
    "passing_attempts":{
     "propertyValue":"21",
-    "annotationID":    49440
+    "annotationID":    95882
    },
    "passing_completions":{
     "propertyValue":"31",
-    "annotationID":    49441
+    "annotationID":    95883
    },
    "passing_yards":{
     "propertyValue":"270",
-    "annotationID":    49442
+    "annotationID":    95884
    },
    "passing_rating":   92.1,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    49447
+    "annotationID":    95889
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    49448
+    "annotationID":    95890
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   19,
@@ -598,7 +680,68 @@
    "punting_blocked":   0,
    "comment":"Johnny Manziel's performance: Manziel has been good when he hasn't been terrible. Manziel did a number of positive things in this contest. He led numerous scoring drives and was able to hit his receivers for some long gains. His final numbers were solid, as he went 21-of-31 for 270 yards, 1 touchdown and an interception. However, Manziel made some bone-headed decisions in this game that would've cost his team had they been battling a more-competitive opponent. For instance, Manziel had 1 of the worst picks I've ever seen. He scrambled left, and in desperation, he heaved the ball way late and way over the middle of the field. It was 1 of the most pathetic throws you'll ever see. Manziel also took a horrible sack because he held on to the ball too long, and then was nearly guilty of a safety, but was fortunate to be bailed out by a "
   },
-  "12":{
+  "13":{
+   "player_id":   14013,
+   "year":"2015",
+   "date":"2015-12-20",
+   "game_number":"14",
+   "age":"23-014",
+   "team":"CLE",
+   "game_location":"A",
+   "opponent":"SEA",
+   "game_won":   false,
+   "player_team_score":"13",
+   "opponent_score":"30",
+   "passing_attempts":{
+    "propertyValue":"19",
+    "annotationID":    97525
+   },
+   "passing_completions":   32,
+   "passing_yards":{
+    "propertyValue":"161",
+    "annotationID":    97526
+   },
+   "passing_rating":   69.9,
+   "passing_touchdowns":   1,
+   "passing_interceptions":   1,
+   "passing_sacks":{
+    "propertyValue":"3",
+    "annotationID":    97528
+   },
+   "passing_sacks_yards_lost":   25,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    97529
+   },
+   "rushing_yards":   17,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Johnny Manziel was 19-of-161 yards with a touchdown and an interception. He had some nice plays and some duds, but Cleveland's offense doesn't have the talent to really challenge a defense like Seattle's.    Duke Johnson had 4 carries for 46 yards with 5 receptions for 39 yards. He continues to flash serious play-making ability, but doesn't get a lot of touches.    Cleveland tight end Gary Barnidge logged 29 yards on 3 catches with a score. The leading Browns wide receiver was "
+  },
+  "14":{
    "player_id":   14013,
    "year":"2015",
    "date":"2015-12-27",
@@ -648,5 +791,5 @@
    "comment":"Johnny Manziel continues to play on a high level. Manziel looked good in some starts against the Steelers, 49ers and Seahawks. However, he appeared as though he was taking a major step backward in this loss to the Chiefs, at least in the opening half. Manziel had numerous questionable passes in the early going. He threw an interception when he telegraphed a pass, allowing "
   }
  },
- "numberGames": 12
+ "numberGames": 14
 }

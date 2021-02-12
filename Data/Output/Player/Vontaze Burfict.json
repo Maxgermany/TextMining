@@ -265,6 +265,55 @@
   "6":{
    "player_id":   2980,
    "year":"2016",
+   "date":"2016-10-09",
+   "game_number":"5",
+   "age":"26-015",
+   "team":"CIN",
+   "game_location":"A",
+   "opponent":"DAL",
+   "game_won":   false,
+   "player_team_score":"14",
+   "opponent_score":"28",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   9,
+   "defense_tackle_assists":   1,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Vontaze Burfict's return. The Bengals simply had no chance against him, as Elliott galloped for 134 yards and 2 touchdowns on 15 carries. He also caught 3 passes for 37 yards.    Prescott's sole aerial score went to "
+  },
+  "7":{
+   "player_id":   2980,
+   "year":"2016",
    "date":"2016-12-04",
    "game_number":"12",
    "age":"26-071",
@@ -273,7 +322,10 @@
    "opponent":"PHI",
    "game_won":   true,
    "player_team_score":"32",
-   "opponent_score":"14",
+   "opponent_score":{
+    "propertyValue":"14",
+    "annotationID":    114502
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -297,8 +349,14 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   10,
-   "defense_tackle_assists":   5,
-   "defense_interceptions":   2,
+   "defense_tackle_assists":{
+    "propertyValue":"5",
+    "annotationID":    114504
+   },
+   "defense_interceptions":{
+    "propertyValue":"2",
+    "annotationID":    114505
+   },
    "defense_interception_yards":   54,
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -311,7 +369,7 @@
    "punting_blocked":   0,
    "comment":"Vontaze Burfict. Dalton then used "
   },
-  "7":{
+  "8":{
    "player_id":   2980,
    "year":"2016",
    "date":"2016-12-18",
@@ -360,7 +418,7 @@
    "punting_blocked":   0,
    "comment":"Vontaze Burfict and Vinny Rey were knocked out, and the reason the Bengals have been so much better defensively since the bye has been Burfict's improved play, but still, talk about a double bad beat.    When the Steelers and Bengals meet, there's always a heightened sense of competition and each hit seems to have more impact. The Bengals were the team to strike first with a touchdown, as after Jeremy Hill was stopped 3 times at the goal line, the Bengals went for it on 4.h-and-goal, and Andy Dalton snuck it in to take a 10-3 lead in the first quarter. The Bengals were bottling up "
   },
-  "8":{
+  "9":{
    "player_id":   2980,
    "year":"2017",
    "date":"2017-11-12",
@@ -372,7 +430,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"20",
-    "annotationID":    63583
+    "annotationID":    128251
    },
    "opponent_score":"24",
    "passing_attempts":   0,
@@ -400,7 +458,7 @@
    "defense_tackles":   1,
    "defense_tackle_assists":{
     "propertyValue":"2",
-    "annotationID":    63584
+    "annotationID":    128252
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -416,5 +474,5 @@
    "comment":"Vontaze Burfict was penalized for a late hit and then thrown out of the game several plays later for contacting an official.    Dalton finished 20-of-35 for 265 yards, 2 touchdowns and the lost fumble. Considering that his team barely had the ball, those were solid numbers. Dalton did what he could, and even led an impressive touchdown drive to take the lead in the 4.h quarter, but Tennessee marched back down the field for the decisive score.    "
   }
  },
- "numberGames": 8
+ "numberGames": 9
 }

@@ -70,7 +70,7 @@
    "player_id":   2377,
    "year":{
     "propertyValue":"2014",
-    "annotationID":    37222
+    "annotationID":    71020
    },
    "date":"2014-09-28",
    "game_number":"4",
@@ -83,15 +83,15 @@
    "opponent_score":"28",
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    37216
+    "annotationID":    71014
    },
    "passing_completions":{
     "propertyValue":"30",
-    "annotationID":    37217
+    "annotationID":    71015
    },
    "passing_yards":{
     "propertyValue":"317",
-    "annotationID":    37218
+    "annotationID":    71016
    },
    "passing_rating":   98.9,
    "passing_touchdowns":   0,
@@ -101,11 +101,11 @@
    "rushing_attempts":   5,
    "rushing_yards":{
     "propertyValue":"27",
-    "annotationID":    37219
+    "annotationID":    71017
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    37221
+    "annotationID":    71019
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -145,32 +145,32 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"3",
-    "annotationID":    37873
+    "annotationID":    72299
    },
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"23",
-    "annotationID":    37870
+    "annotationID":    72296
    },
    "passing_completions":{
     "propertyValue":"37",
-    "annotationID":    37871
+    "annotationID":    72297
    },
    "passing_yards":{
     "propertyValue":"188",
-    "annotationID":    37872
+    "annotationID":    72298
    },
    "passing_rating":   41.3,
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    37874
+    "annotationID":    72300
    },
    "passing_sacks":   8,
    "passing_sacks_yards_lost":   45,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    37875
+    "annotationID":    72301
    },
    "rushing_yards":   11,
    "rushing_touchdowns":   0,
@@ -218,7 +218,10 @@
    "passing_rating":   56.1,
    "passing_touchdowns":   1,
    "passing_interceptions":   2,
-   "passing_sacks":   5,
+   "passing_sacks":{
+    "propertyValue":"5",
+    "annotationID":    72941
+   },
    "passing_sacks_yards_lost":   39,
    "rushing_attempts":   1,
    "rushing_yards":   7,
@@ -253,7 +256,10 @@
    "player_id":   2377,
    "year":"2014",
    "date":"2014-10-26",
-   "game_number":"8",
+   "game_number":{
+    "propertyValue":"8",
+    "annotationID":    74290
+   },
    "age":"21-350",
    "team":"MIN",
    "game_location":"A",
@@ -265,12 +271,27 @@
    "passing_completions":   42,
    "passing_yards":   241,
    "passing_rating":   81.5,
-   "passing_touchdowns":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    74291
+   },
    "passing_interceptions":   0,
-   "passing_sacks":   1,
-   "passing_sacks_yards_lost":   6,
-   "rushing_attempts":   1,
-   "rushing_yards":   3,
+   "passing_sacks":{
+    "propertyValue":"1",
+    "annotationID":    74292
+   },
+   "passing_sacks_yards_lost":{
+    "propertyValue":"6",
+    "annotationID":    74294
+   },
+   "rushing_attempts":{
+    "propertyValue":"1",
+    "annotationID":    74293
+   },
+   "rushing_yards":{
+    "propertyValue":"3",
+    "annotationID":    74289
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -301,6 +322,55 @@
   "6":{
    "player_id":   2377,
    "year":"2014",
+   "date":"2014-11-02",
+   "game_number":"9",
+   "age":"21-357",
+   "team":"MIN",
+   "game_location":"H",
+   "opponent":"WAS",
+   "game_won":   true,
+   "player_team_score":"29",
+   "opponent_score":"26",
+   "passing_attempts":   26,
+   "passing_completions":   42,
+   "passing_yards":   268,
+   "passing_rating":   88.2,
+   "passing_touchdowns":   1,
+   "passing_interceptions":   0,
+   "passing_sacks":   2,
+   "passing_sacks_yards_lost":   16,
+   "rushing_attempts":   3,
+   "rushing_yards":   20,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Teddy Bridgewater helped his team overcome Steratore, as he was brilliant in the second half. It was not pretty early on, however, as Bridgewater missed a wide-open "
+  },
+  "7":{
+   "player_id":   2377,
+   "year":"2014",
    "date":"2014-11-16",
    "game_number":"10",
    "age":"22-006",
@@ -310,12 +380,27 @@
    "game_won":   false,
    "player_team_score":"13",
    "opponent_score":"21",
-   "passing_attempts":   18,
-   "passing_completions":   28,
-   "passing_yards":   158,
+   "passing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    76496
+   },
+   "passing_completions":{
+    "propertyValue":"28",
+    "annotationID":    76497
+   },
+   "passing_yards":{
+    "propertyValue":"158",
+    "annotationID":    76498
+   },
    "passing_rating":   76.2,
-   "passing_touchdowns":   1,
-   "passing_interceptions":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    76499
+   },
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    76500
+   },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   11,
    "rushing_attempts":   4,
@@ -347,7 +432,65 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater. The Vikings' rookie signal-caller was constantly under siege. He was sacked only twice, but that's not indicative of how much heat he saw throughout the afternoon. "
   },
-  "7":{
+  "8":{
+   "player_id":   2377,
+   "year":"2014",
+   "date":"2014-11-23",
+   "game_number":"11",
+   "age":"22-013",
+   "team":"MIN",
+   "game_location":"H",
+   "opponent":"GNB",
+   "game_won":   false,
+   "player_team_score":"21",
+   "opponent_score":"24",
+   "passing_attempts":   21,
+   "passing_completions":   37,
+   "passing_yards":   210,
+   "passing_rating":   79.8,
+   "passing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    77408
+   },
+   "passing_interceptions":   1,
+   "passing_sacks":{
+    "propertyValue":"2",
+    "annotationID":    77409
+   },
+   "passing_sacks_yards_lost":   14,
+   "rushing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    77405
+   },
+   "rushing_yards":   32,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Teddy Bridgewater battled against a hot team while going head-to-head with the top quarterback in the NFL.    It isn't a surprise that Green Bay got the scoring started with how well the team has been playing the past few weeks. On a third-and-10, "
+  },
+  "9":{
    "player_id":   2377,
    "year":"2014",
    "date":"2014-11-30",
@@ -359,15 +502,30 @@
    "game_won":   true,
    "player_team_score":"31",
    "opponent_score":"13",
-   "passing_attempts":   15,
-   "passing_completions":   21,
-   "passing_yards":   138,
+   "passing_attempts":{
+    "propertyValue":"15",
+    "annotationID":    78144
+   },
+   "passing_completions":{
+    "propertyValue":"21",
+    "annotationID":    78145
+   },
+   "passing_yards":{
+    "propertyValue":"138",
+    "annotationID":    78146
+   },
    "passing_rating":   120.7,
-   "passing_touchdowns":   2,
+   "passing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    78147
+   },
    "passing_interceptions":   0,
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   20,
-   "rushing_attempts":   2,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    78148
+   },
    "rushing_yards":   12,
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -396,7 +554,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater was able to just manage the game and not have to worry about his offensive line, though Matt Kalil did single-handedly ruin 1 drive."
   },
-  "8":{
+  "10":{
    "player_id":   2377,
    "year":"2014",
    "date":"2014-12-07",
@@ -415,7 +573,7 @@
    "passing_touchdowns":   2,
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    40602
+    "annotationID":    78954
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   12,
@@ -448,7 +606,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater had 1 of his best performances of his rookie campaign. It looked like he'd struggle early on when "
   },
-  "9":{
+  "11":{
    "player_id":   2377,
    "year":"2014",
    "date":"2014-12-07",
@@ -497,7 +655,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater, Mark Sanchez, Jay Cutler, Drew Brees (who torched them), an injured Cam Newton, Ryan Tannehill, Christian Ponder, Jay Cutler."
   },
-  "10":{
+  "12":{
    "player_id":   2377,
    "year":"2014",
    "date":"2014-12-14",
@@ -516,7 +674,7 @@
    "passing_touchdowns":   1,
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    41268
+    "annotationID":    80198
    },
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   31,
@@ -549,7 +707,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater had some bright spots this week, but he absolutely killed his team with 2 interceptions. His first was a high pass, which "
   },
-  "11":{
+  "13":{
    "player_id":   2377,
    "year":"2014",
    "date":"2014-12-21",
@@ -563,20 +721,20 @@
    "opponent_score":"37",
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    41507
+    "annotationID":    80710
    },
    "passing_completions":{
     "propertyValue":"26",
-    "annotationID":    41508
+    "annotationID":    80711
    },
    "passing_yards":{
     "propertyValue":"259",
-    "annotationID":    41509
+    "annotationID":    80712
    },
    "passing_rating":   114.1,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    41510
+    "annotationID":    80713
    },
    "passing_interceptions":   1,
    "passing_sacks":   4,
@@ -610,7 +768,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass. Bridgewater was also robbed of a touchdown late in the first half, as the officials made a bogus call by not awarding "
   },
-  "12":{
+  "14":{
    "player_id":   2377,
    "year":"2014",
    "date":"2014-12-28",
@@ -624,28 +782,28 @@
    "opponent_score":"9",
    "passing_attempts":{
     "propertyValue":"17",
-    "annotationID":    41903
+    "annotationID":    81497
    },
    "passing_completions":{
     "propertyValue":"25",
-    "annotationID":    41904
+    "annotationID":    81498
    },
    "passing_yards":{
     "propertyValue":"209",
-    "annotationID":    41905
+    "annotationID":    81499
    },
    "passing_rating":   90.2,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    41906
+    "annotationID":    81500
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    41907
+    "annotationID":    81501
    },
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    41910
+    "annotationID":    81504
    },
    "passing_sacks_yards_lost":   19,
    "rushing_attempts":   6,
@@ -664,7 +822,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    41908
+    "annotationID":    81502
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -680,13 +838,16 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater had a quality performance. Most of his throws were accurate, and he showed nice velocity and touch on his passes. Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception. He also picked up 14 yards on a scramble. He should've had a second score, a 35-yarder to Jennings, but the ball barely scraped the ground.    No Viking caught more than 3 passes. Jennings (3-45) was second in receiving, trailing only "
   },
-  "13":{
+  "15":{
    "player_id":   2377,
-   "year":"2015",
+   "year":{
+    "propertyValue":"2015",
+    "annotationID":    84000
+   },
    "date":"2015-09-14",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    42709
+    "annotationID":    83998
    },
    "age":"22-308",
    "team":"MIN",
@@ -702,7 +863,7 @@
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    42710
+    "annotationID":    83999
    },
    "passing_sacks":   5,
    "passing_sacks_yards_lost":   54,
@@ -735,9 +896,12 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater running into the end zone on a 4.h down. Peterson's second missed opportunity was a lost fumble on first-and-goal. Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover. The Vikings gave the rock to fullback "
   },
-  "14":{
+  "16":{
    "player_id":   2377,
-   "year":"2015",
+   "year":{
+    "propertyValue":"2015",
+    "annotationID":    84007
+   },
    "date":"2015-09-20",
    "game_number":"2",
    "age":"22-314",
@@ -747,25 +911,34 @@
    "game_won":   true,
    "player_team_score":"26",
    "opponent_score":"16",
-   "passing_attempts":   14,
-   "passing_completions":   18,
-   "passing_yards":   153,
+   "passing_attempts":{
+    "propertyValue":"14",
+    "annotationID":    84008
+   },
+   "passing_completions":{
+    "propertyValue":"18",
+    "annotationID":    84009
+   },
+   "passing_yards":{
+    "propertyValue":"153",
+    "annotationID":    84010
+   },
    "passing_rating":   120.6,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    42711
+    "annotationID":    84004
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    42712
+    "annotationID":    84005
    },
    "passing_sacks_yards_lost":   2,
    "rushing_attempts":   6,
    "rushing_yards":   21,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    42713
+    "annotationID":    84006
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -793,7 +966,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater running into the end zone on a 4.h down. Peterson's second missed opportunity was a lost fumble on first-and-goal. Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover. The Vikings gave the rock to fullback "
   },
-  "15":{
+  "17":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-09-27",
@@ -807,27 +980,27 @@
    "opponent_score":"14",
    "passing_attempts":{
     "propertyValue":"13",
-    "annotationID":    43668
+    "annotationID":    85747
    },
    "passing_completions":{
     "propertyValue":"24",
-    "annotationID":    43669
+    "annotationID":    85748
    },
    "passing_yards":{
     "propertyValue":"121",
-    "annotationID":    43670
+    "annotationID":    85749
    },
    "passing_rating":   50.9,
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    43671
+    "annotationID":    85750
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    43672
+    "annotationID":    85751
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -857,13 +1030,13 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater on the other hand, didn't look sharp early, as the Vikings went to the air instead of pounding the ball on the ground with Peterson. But as soon as the running game got going, Bridgewater had a much easier time with a better pocket to work from. He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns. He'll have better days, but establishing the run is needed for him and this passing game.    Philip Rivers' day was not pleasant. He was hurried and sacked all game, while his offensive line limped off the field seemingly every other play. "
   },
-  "16":{
+  "18":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-10-04",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    44578
+    "annotationID":    87364
    },
    "age":"22-328",
    "team":"MIN",
@@ -873,38 +1046,38 @@
    "player_team_score":"20",
    "opponent_score":{
     "propertyValue":"23",
-    "annotationID":    44574
+    "annotationID":    87360
    },
    "passing_attempts":{
     "propertyValue":"27",
-    "annotationID":    44571
+    "annotationID":    87357
    },
    "passing_completions":{
     "propertyValue":"41",
-    "annotationID":    44572
+    "annotationID":    87358
    },
    "passing_yards":{
     "propertyValue":"269",
-    "annotationID":    44573
+    "annotationID":    87359
    },
    "passing_rating":   92.4,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    44579
+    "annotationID":    87365
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"7",
-    "annotationID":    44569
+    "annotationID":    87355
    },
    "passing_sacks_yards_lost":   57,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    44576
+    "annotationID":    87362
    },
    "rushing_yards":{
     "propertyValue":"23",
-    "annotationID":    44575
+    "annotationID":    87361
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -933,7 +1106,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater had problems with his offensive line as well. He took a whopping 7 sacks, including 1 that ended the game. Bridgewater was stripped, allowing the Broncos to take over with barely any time left on the clock. The pressure disrupted lots of drives and forced Bridgewater to sail lots of passes out of bounds. However, he was able to put together some quality drives as well to give Minnesota a chance. Bridgewater went 27-of-41 for 269 yards and a touchdown. He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4.h-and-1 just shy of midfield on the opening drive. He made some poor throws in the first half, but was very accurate after intermission, connecting on 13 out of his 15 attempts. Unfortunately, his offensive line did him in and ruined a potential victory.    Bridgewater targeted 2 players 10 times each: "
   },
-  "17":{
+  "19":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-10-18",
@@ -945,17 +1118,29 @@
    "game_won":   true,
    "player_team_score":"16",
    "opponent_score":"10",
-   "passing_attempts":   17,
-   "passing_completions":   31,
-   "passing_yards":   249,
+   "passing_attempts":{
+    "propertyValue":"17",
+    "annotationID":    88970
+   },
+   "passing_completions":{
+    "propertyValue":"31",
+    "annotationID":    88971
+   },
+   "passing_yards":{
+    "propertyValue":"249",
+    "annotationID":    88972
+   },
    "passing_rating":   65.1,
-   "passing_touchdowns":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    88969
+   },
    "passing_interceptions":   2,
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   12,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    45465
+    "annotationID":    88968
    },
    "rushing_yards":   -5,
    "rushing_touchdowns":   0,
@@ -985,13 +1170,13 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater forced a pass in the end zone under pressure during the opening drive that was picked off. Right after that, the Chiefs had a safety in the end zone because of a holding penalty. It was somehow not ruled a safety even though all of the linemen were in the end zone. Minnesota dominated the play in the opening half, winning the yardage battle 193-51, with Kansas City recording just 3 first downs. The Chiefs managed to move the chains a bit better in the second half, but it wasn't enough. Minnesota was able to clamp down when it mattered most. The team forced a "
   },
-  "18":{
+  "20":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-10-25",
    "game_number":{
     "propertyValue":"6",
-    "annotationID":    46212
+    "annotationID":    90254
    },
    "age":"22-349",
    "team":"MIN",
@@ -1001,41 +1186,41 @@
    "player_team_score":"28",
    "opponent_score":{
     "propertyValue":"19",
-    "annotationID":    46211
+    "annotationID":    90253
    },
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    46207
+    "annotationID":    90249
    },
    "passing_completions":{
     "propertyValue":"35",
-    "annotationID":    46208
+    "annotationID":    90250
    },
    "passing_yards":{
     "propertyValue":"316",
-    "annotationID":    46209
+    "annotationID":    90251
    },
    "passing_rating":   118.3,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    46213
+    "annotationID":    90255
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"4",
-    "annotationID":    46206
+    "annotationID":    90248
    },
    "passing_sacks_yards_lost":{
     "propertyValue":"31",
-    "annotationID":    46204
+    "annotationID":    90246
    },
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    46202
+    "annotationID":    90257
    },
    "rushing_yards":{
     "propertyValue":"1",
-    "annotationID":    46205
+    "annotationID":    90256
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1064,13 +1249,13 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater and rookie wide receiver Stefon Diggs continued their hot play to lead a comeback road win in Detroit. Minnesota's front 7 dominated the Lions' offensive line, and Matthew Stafford had no chance to sustain drives with the relentless Vikings pass rush. Minnesota remains in the playoff race, while Detroit maintains its status as a top competitor for the No. 1 overall pick in the 2016 NFL Draft.    The Lions started the game well in the first quarter. They got going early with Stafford connecting downfield for 46 yards with Calvin Johnson. To finish the drive, Stafford went to Johnson on a short fade pass on the side of the end zone in front of Xavier Rhodes for the touchdown. Minnesota responded with Bridgewater using Diggs, Mike Wallace, and handoffs to Adrian Peterson to put up a 3.point drive. Stafford came back to find Eric Ebron wide open for a gain of 55 yards. Ameer Abdullah had a nice run of 13 to the Vikings 7-yard line, and then Stafford hit Ebron for a touchdown. Bridgewater led another field goal drive for Minnesota, but on his next possession, he fumbled the exchange to Peterson, and Detroit's Stephen Tulloch fell on the loose ball. That led to a Lions field goal and a 17-6 lead. Minnesota answered with a 49-yard pass to fullback Zach Line as he was left completely uncovered along the sideline. On a third-and-goal, Bridgewater found Kyle Rudolph wide open for a short touchdown catch. Bridgewater tacked on a field goal drive with Blair Walsh hitting a 51-yarder in the final seconds before half. The Lions took a 17-15 lead into halftime. Early in the third quarter, Bridgewater laid out a bomb for Diggs, who made a superb diving catch for a 36-yard touchdown. On the Vikings next possession, Peterson broke off a 75-yard run to Detroit's 3-yard line. Caraun Reid came up with a sack on third-and-goal, leaving Minnesota with just a field goal. Bridgewater went on to set up another chip-shot field goal with a 30-yard pass to Adam Thielen. The Vikings suffocated the Lions' defense until garbage time late in the 4.h quarter. A 31-yard pass to Theo Riddick, a nice gain to Eric Ebron, and Calvin Johnson caught a deflected pass at the 1.yard line. However, the Vikings put together a goal-line stand and took over after Stafford was incomplete on 4.h down.    Teddy Bridgewater completed 25-of-35 for 316 yards with 2 touchdowns. He was very efficient for Minnesota, taking what the defense gave him and picking apart Detroit's weak secondary.    Adrian Peterson ran for 98 yards on 19 carries. Aside from his long run, he didn't find much running holes against Detroit.    Fifth-round pick Stefon Diggs totaled 108 yards and a touchdown on 6 receptions. He showed his speed once again as the Lions' corners were incapable of keeping Diggs from separating.    Matthew Stafford completed 18-of-26 passes for 256 yards with 2 touchdowns. It was an underwhelming game, but Stafford had no chance with his pathetic offensive line. He was consistently getting planted into the turf. "
   },
-  "19":{
+  "21":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-11-01",
    "game_number":{
     "propertyValue":"7",
-    "annotationID":    46661
+    "annotationID":    90959
    },
    "age":"22-356",
    "team":"MIN",
@@ -1088,9 +1273,12 @@
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
     "propertyValue":"7",
-    "annotationID":    46662
+    "annotationID":    90960
    },
-   "rushing_attempts":   2,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    90961
+   },
    "rushing_yards":   21,
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1119,7 +1307,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater had struggled for about 58 minutes. In the first half alone, he was 7-of-14 for only 41 yards and an interception. However, he found "
   },
-  "20":{
+  "22":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-11-08",
@@ -1168,7 +1356,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater out of the game. I said it when Williams was reinstated - it was a huge mistake to allow that maniac to continue coaching because his dirty tactics would lead to some valuable quarterbacks sustaining injuries. If Roger Goodell wasn't so incompetent and corrupt, he'd remove Williams immediately, but that's not going to happen.    In the first quarter of this game, the Rams scored a touchdown to cut the Vikings lead to 10-6. St. Louis decided to go for 2 and failed. Passing on the extra point turned out to be catastrophic for St. Louis as they lost in overtime. At the end of the year, if the Rams come up short for a wild card while Minnesota gets into the postseason, that play could end up being a pivotal moment in the season. Aside from the wild card, Minnesota is hot on the heels of Green Bay, but seeing Teddy Bridgewater knocked out of the game with a concussion could greatly impair the Vikings' efforts to pass the Packers in the NFC North.    The Vikings got on the board first with a field-goal drive as Bridgewater was taking what the Rams were giving him with short passes moving the ball down the field. That continued on the next drive, as Bridgewater moved it inside the 10-yard line before "
   },
-  "21":{
+  "23":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-11-22",
@@ -1188,7 +1376,7 @@
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"6",
-    "annotationID":    48091
+    "annotationID":    93440
    },
    "passing_sacks_yards_lost":   48,
    "rushing_attempts":   4,
@@ -1220,7 +1408,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater, giving him no room to breathe. They sacked Bridgewater 6 times. Five different players got to him, with "
   },
-  "22":{
+  "24":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-11-29",
@@ -1232,20 +1420,20 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"20",
-    "annotationID":    48278
+    "annotationID":    93820
    },
    "opponent_score":"10",
    "passing_attempts":{
     "propertyValue":"20",
-    "annotationID":    48279
+    "annotationID":    93821
    },
    "passing_completions":{
     "propertyValue":"28",
-    "annotationID":    48280
+    "annotationID":    93822
    },
    "passing_yards":{
     "propertyValue":"174",
-    "annotationID":    48281
+    "annotationID":    93823
    },
    "passing_rating":   72.6,
    "passing_touchdowns":   0,
@@ -1281,7 +1469,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater was able to function as a game-manager. Bridgewater completed 20-of-28 passes for 174 yards and an interception. The pick occurred in the end zone when he underthrew "
   },
-  "23":{
+  "25":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-12-06",
@@ -1295,22 +1483,22 @@
    "opponent_score":"38",
    "passing_attempts":{
     "propertyValue":"17",
-    "annotationID":    48916
+    "annotationID":    94975
    },
    "passing_completions":{
     "propertyValue":"28",
-    "annotationID":    48917
+    "annotationID":    94976
    },
    "passing_yards":{
     "propertyValue":"118",
-    "annotationID":    48918
+    "annotationID":    94977
    },
    "passing_rating":   55.4,
    "passing_touchdowns":   0,
    "passing_interceptions":   1,
    "passing_sacks":{
     "propertyValue":"4",
-    "annotationID":    48919
+    "annotationID":    94978
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":   1,
@@ -1342,7 +1530,7 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater simply doesn't seem ready for prime time, as he has struggled in his big games thus far. He fell flat on his face against the Packers, and he was even worse in this contest. Bridgewater went 17-of-28 for 118 yards and an interception, and even those numbers were enhanced by late-game garbage time. By intermission, Bridgewater was just 9-of-16 for only 64 yards and a pick that was a poor overthrow. He was constantly under siege, as the 4 sacks he took isn't nearly indicative of the amount of pressure he was under. The Seahawks dominated the trenches, with "
   },
-  "24":{
+  "26":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-12-10",
@@ -1354,20 +1542,20 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"20",
-    "annotationID":    49355
+    "annotationID":    95711
    },
    "opponent_score":"23",
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    49352
+    "annotationID":    95708
    },
    "passing_completions":{
     "propertyValue":"36",
-    "annotationID":    49353
+    "annotationID":    95709
    },
    "passing_yards":{
     "propertyValue":"335",
-    "annotationID":    49354
+    "annotationID":    95710
    },
    "passing_rating":   108,
    "passing_touchdowns":   1,
@@ -1403,13 +1591,92 @@
    "punting_blocked":   0,
    "comment":"Teddy Bridgewater was going to make a statement to silence his detractors. The narrative for Bridgewater thus far has been that he hasn't been able to step up against superior opponents. He fell flat on his face against the Packers and Seahawks, both of which occurred at home. The Cardinals were favored by 10 points in this contest, so many thought that Bridgewater would struggle again, but he stepped up and played well - until costing his team with a horrible mistake at the very end. Bridgewater opened the game completing 10 of his first 11 passes. He was on fire, constantly beating Arizona's ineffective blitz. The Cardinals didn't make any sort of adjustments despite this. They kept sending tons of pass-rushers, only to have Bridgewater find the open receiver almost every single time. It was truly remarkable that Bridgewater performed so well against a perceived strong defense, and it was equally astonishing that Arizona didn't change its strategy at all. Bridgewater finished 25-of-36 for 335 yards and a touchdown. He managed to come back from being down 20-10, and then he moved his team into field-goal range at the very end of regulation to perhaps tie the contest and send it into overime. With a third-and-10 on the Arizona 31-yard line, however, Bridgewater held on to the ball for an eternity, allowing "
   },
-  "25":{
+  "27":{
+   "player_id":   2377,
+   "year":"2015",
+   "date":"2015-12-20",
+   "game_number":"14",
+   "age":"23-040",
+   "team":"MIN",
+   "game_location":"H",
+   "opponent":"CHI",
+   "game_won":   true,
+   "player_team_score":"38",
+   "opponent_score":{
+    "propertyValue":"17",
+    "annotationID":    97026
+   },
+   "passing_attempts":{
+    "propertyValue":"17",
+    "annotationID":    97027
+   },
+   "passing_completions":{
+    "propertyValue":"20",
+    "annotationID":    97029
+   },
+   "passing_yards":{
+    "propertyValue":"231",
+    "annotationID":    97030
+   },
+   "passing_rating":   154.4,
+   "passing_touchdowns":{
+    "propertyValue":"4",
+    "annotationID":    97031
+   },
+   "passing_interceptions":   0,
+   "passing_sacks":{
+    "propertyValue":"1",
+    "annotationID":    97033
+   },
+   "passing_sacks_yards_lost":{
+    "propertyValue":"10",
+    "annotationID":    97025
+   },
+   "rushing_attempts":{
+    "propertyValue":"4",
+    "annotationID":    97032
+   },
+   "rushing_yards":{
+    "propertyValue":"17",
+    "annotationID":    97028
+   },
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    97034
+   },
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Teddy Bridgewater put together an incredible performance. He was sharp all afternoon, slicing and dicing a Chicago secondary that had overperformed all year. He converted a key first down early on a third-and-10 play with a 12-yard pass to Kyle Rudoph, and then he found "
+  },
+  "28":{
    "player_id":   2377,
    "year":"2015",
    "date":"2015-12-27",
    "game_number":{
     "propertyValue":"15",
-    "annotationID":    50446
+    "annotationID":    98816
    },
    "age":"23-047",
    "team":"MIN",
@@ -1420,15 +1687,15 @@
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"15",
-    "annotationID":    50447
+    "annotationID":    98817
    },
    "passing_completions":{
     "propertyValue":"25",
-    "annotationID":    50448
+    "annotationID":    98818
    },
    "passing_yards":{
     "propertyValue":"168",
-    "annotationID":    50449
+    "annotationID":    98819
    },
    "passing_rating":   93.4,
    "passing_touchdowns":   1,
@@ -1437,7 +1704,7 @@
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":{
     "propertyValue":"2",
-    "annotationID":    50450
+    "annotationID":    98820
    },
    "rushing_yards":   12,
    "rushing_touchdowns":   0,
@@ -1468,5 +1735,5 @@
    "comment":"Teddy Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown. He was clutch, moving the chains on numerous third-down situations. He had a breath-taking 9-yard scramble where he moved left and then reversed field, eluding numerous defenders to pick up the first down.    Bridgewater didn't need to throw very much, which would explain why just 2 players had more than 20 receiving yards. Those were "
   }
  },
- "numberGames": 25
+ "numberGames": 28
 }

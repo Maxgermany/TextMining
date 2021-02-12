@@ -41,8 +41,14 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
-   "receiving_receptions":   2,
-   "receiving_yards":   93,
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    31922
+   },
+   "receiving_yards":{
+    "propertyValue":"93",
+    "annotationID":    31919
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -72,7 +78,7 @@
    "date":"2011-10-09",
    "game_number":{
     "propertyValue":"5",
-    "annotationID":    17583
+    "annotationID":    32499
    },
    "age":"24-185",
    "team":"TEN",
@@ -81,7 +87,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"17",
-    "annotationID":    17584
+    "annotationID":    32500
    },
    "opponent_score":"38",
    "passing_attempts":   0,
@@ -97,11 +103,11 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"9",
-    "annotationID":    17585
+    "annotationID":    32501
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    17586
+    "annotationID":    32502
    },
    "receiving_yards":   59,
    "receiving_touchdowns":   0,
@@ -153,11 +159,11 @@
    "receiving_targets":   11,
    "receiving_receptions":{
     "propertyValue":"9",
-    "annotationID":    20709
+    "annotationID":    38862
    },
    "receiving_yards":{
     "propertyValue":"103",
-    "annotationID":    20710
+    "annotationID":    38863
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -207,15 +213,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"8",
-    "annotationID":    21009
+    "annotationID":    39467
    },
    "receiving_receptions":{
     "propertyValue":"8",
-    "annotationID":    21010
+    "annotationID":    39468
    },
    "receiving_yards":{
     "propertyValue":"169",
-    "annotationID":    21011
+    "annotationID":    39469
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -266,11 +272,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    22034
+    "annotationID":    41470
    },
    "receiving_yards":{
     "propertyValue":"64",
-    "annotationID":    22035
+    "annotationID":    41471
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -320,15 +326,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    22802
+    "annotationID":    42911
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    22803
+    "annotationID":    42912
    },
    "receiving_yards":{
     "propertyValue":"77",
-    "annotationID":    22804
+    "annotationID":    42913
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -379,11 +385,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    23170
+    "annotationID":    43580
    },
    "receiving_yards":{
     "propertyValue":"36",
-    "annotationID":    23171
+    "annotationID":    43581
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -414,7 +420,7 @@
    "date":"2012-10-07",
    "game_number":{
     "propertyValue":"5",
-    "annotationID":    23753
+    "annotationID":    44577
    },
    "age":"25-183",
    "team":"TEN",
@@ -437,11 +443,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    23754
+    "annotationID":    44578
    },
    "receiving_yards":{
     "propertyValue":"37",
-    "annotationID":    23755
+    "annotationID":    44579
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -492,11 +498,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    24278
+    "annotationID":    45537
    },
    "receiving_yards":{
     "propertyValue":"37",
-    "annotationID":    24279
+    "annotationID":    45538
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -546,12 +552,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    24823
+    "annotationID":    46544
    },
    "receiving_receptions":   3,
    "receiving_yards":{
     "propertyValue":"45",
-    "annotationID":    24824
+    "annotationID":    46545
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -602,11 +608,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    25109
+    "annotationID":    47037
    },
    "receiving_yards":{
     "propertyValue":"6",
-    "annotationID":    25110
+    "annotationID":    47038
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -634,6 +640,64 @@
   "12":{
    "player_id":   4469,
    "year":"2012",
+   "date":"2012-11-11",
+   "game_number":"10",
+   "age":"25-218",
+   "team":"TEN",
+   "game_location":"A",
+   "opponent":"MIA",
+   "game_won":   true,
+   "player_team_score":"37",
+   "opponent_score":{
+    "propertyValue":"3",
+    "annotationID":    47556
+   },
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    47557
+   },
+   "receiving_receptions":   1,
+   "receiving_yards":{
+    "propertyValue":"26",
+    "annotationID":    47555
+   },
+   "receiving_touchdowns":   1,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jared Cook (26 yards) and Wright (9 yards).    Meanwhile, the Dolphins had a rough outing offensively. I mentioned the early turnovers; Ryan Tannehill threw yet another interception later on. He finished 23-of-39 for 217 yards and 3 picks and failed to complete a pass longer than 17 yards. This was a reality check after an alleged hot start.    "
+  },
+  "13":{
+   "player_id":   4469,
+   "year":"2012",
    "date":"2012-12-09",
    "game_number":"13",
    "age":"25-246",
@@ -656,15 +720,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    26582
+    "annotationID":    50248
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    26583
+    "annotationID":    50249
    },
    "receiving_yards":{
     "propertyValue":"20",
-    "annotationID":    26584
+    "annotationID":    50250
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -689,7 +753,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-20), who suffered a shoulder injury. His leading receiver was "
   },
-  "13":{
+  "14":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-09-08",
@@ -738,7 +802,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook lost a fumble on what should've been an easy trip to the end zone. "
   },
-  "14":{
+  "15":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-09-15",
@@ -764,11 +828,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    28564
+    "annotationID":    53992
    },
    "receiving_yards":{
     "propertyValue":"10",
-    "annotationID":    28566
+    "annotationID":    53994
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -793,7 +857,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (1-10) didn't do much following a huge debut. Cook missed out on a long catch because he tripped as the ball was sailing toward him.    Richardson, meanwhile, couldn't find any running lanes. He managed 35 yards on 10 carries. The Rams' coaching staff seemed to shy away from him a bit after the aforementioned pick-six gaffe; he had just 5 touches after halftime.    The Rams suffered an injury to an important player themselves in this contest. "
   },
-  "15":{
+  "16":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-09-22",
@@ -819,11 +883,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    29233
+    "annotationID":    55334
    },
    "receiving_yards":{
     "propertyValue":"44",
-    "annotationID":    29234
+    "annotationID":    55335
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -848,13 +912,13 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (5-44). "
   },
-  "16":{
+  "17":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-09-26",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    29578
+    "annotationID":    55951
    },
    "age":"26-172",
    "team":"STL",
@@ -877,11 +941,11 @@
    "receiving_targets":   9,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    29579
+    "annotationID":    55952
    },
    "receiving_yards":{
     "propertyValue":"45",
-    "annotationID":    29580
+    "annotationID":    55953
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -906,7 +970,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (4-45).    There were several injuries in this game. The most prominent 1 looked to be to left tackle "
   },
-  "17":{
+  "18":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-10-06",
@@ -931,15 +995,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    30331
+    "annotationID":    57398
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    30332
+    "annotationID":    57399
    },
    "receiving_yards":{
     "propertyValue":"26",
-    "annotationID":    30333
+    "annotationID":    57400
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -964,7 +1028,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-26) and Chris Givens (2-16) all disappointed their fantasy owners."
   },
-  "18":{
+  "19":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-10-13",
@@ -989,15 +1053,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    30712
+    "annotationID":    58098
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    30713
+    "annotationID":    58099
    },
    "receiving_yards":{
     "propertyValue":"45",
-    "annotationID":    30709
+    "annotationID":    58095
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1022,7 +1086,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (2-45), Givens (2-20) and Stacy (2-11) led the way in that department. Speaking of Cook, his poor fantasy owners had to watch as the other Ram tight ends caught touchdowns. He has been a terrible fantasy bust, but no 1 should be surprised because he was so inconsistent in Tennessee. <div class=dfpAdSlots>   "
   },
-  "19":{
+  "20":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-10-28",
@@ -1048,7 +1112,7 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    31660
+    "annotationID":    60504
    },
    "receiving_yards":   31,
    "receiving_touchdowns":   0,
@@ -1074,7 +1138,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-36), who hurt his team with a drop. "
   },
-  "20":{
+  "21":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-11-03",
@@ -1100,11 +1164,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    31661
+    "annotationID":    60505
    },
    "receiving_yards":{
     "propertyValue":"36",
-    "annotationID":    31662
+    "annotationID":    60506
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1129,7 +1193,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-36), who hurt his team with a drop. "
   },
-  "21":{
+  "22":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-11-24",
@@ -1155,11 +1219,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    32983
+    "annotationID":    63001
    },
    "receiving_yards":{
     "propertyValue":"80",
-    "annotationID":    32984
+    "annotationID":    63002
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1184,7 +1248,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook. Cook happened to lead the Rams in receiving by a wide margin. In fact, he was the only St. Louis player with more than 2 catches. He logged 4 receptions for 80 yards and Clemens' sole aerial score. Cook also drew a pass-interference lag in the end zone, though the throw should've been deemed uncatchable. Jerome Boger was just simply too inept to realize that.    As for the Bears, they moved the chains well - they actually outgained St Louis by 18 net yards - but they kept making dumb mistakes. I mentioned the Forte and McCown fumbles earlier. Also included were: - An impressive Forte touchdown run featuring multiple cuts and a spin move nullified by penalty. - McCown's errant throw toward an open "
   },
-  "22":{
+  "23":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-12-01",
@@ -1210,11 +1274,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    33503
+    "annotationID":    63933
    },
    "receiving_yards":{
     "propertyValue":"49",
-    "annotationID":    33504
+    "annotationID":    63934
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1239,7 +1303,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook led the team in receiving with 3 grabs for 49 yards, but dropped 2 passes. "
   },
-  "23":{
+  "24":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-12-08",
@@ -1265,11 +1329,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    33930
+    "annotationID":    64751
    },
    "receiving_yards":{
     "propertyValue":"49",
-    "annotationID":    33931
+    "annotationID":    64752
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1294,7 +1358,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-49) led the team in receiving.    "
   },
-  "24":{
+  "25":{
    "player_id":   4469,
    "year":"2013",
    "date":"2013-12-29",
@@ -1320,15 +1384,15 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    35230
+    "annotationID":    67095
    },
    "receiving_yards":{
     "propertyValue":"30",
-    "annotationID":    35231
+    "annotationID":    67096
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    35232
+    "annotationID":    67097
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1352,13 +1416,13 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (5-30).    This was an extremely physical game that got a bit chippy at times. There were a couple of scrums that featured players throwing punches and hitting each other late. There were 4 penalties on 1 play. "
   },
-  "25":{
+  "26":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-09-14",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    36242
+    "annotationID":    69101
    },
    "age":"27-160",
    "team":"STL",
@@ -1404,11 +1468,14 @@
    "punting_blocked":   0,
    "comment":"Jared Cook, Austin Pettis, Lance Kendricks - were the only other Rams who logged more than 2 receptions."
   },
-  "26":{
+  "27":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-09-21",
-   "game_number":"3",
+   "game_number":{
+    "propertyValue":"3",
+    "annotationID":    69984
+   },
    "age":"27-167",
    "team":"STL",
    "game_location":"H",
@@ -1453,7 +1520,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook dropped a touchdown in the second half. He had the ball in his hands, but bobbled it a couple of times. He then proceeded to yell at Davis on the sideline for some reason. He apologized to the team for being a bum afterward. - Carter, as mentioned, pick-sixed Davis. The Ram quarterback then was guilty of a game-ending interception when he overthrew his receiver. "
   },
-  "27":{
+  "28":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-10-05",
@@ -1502,7 +1569,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook dropped a potential first-down conversion on third-and-long in Eagles' territory. "
   },
-  "28":{
+  "29":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-10-13",
@@ -1528,67 +1595,9 @@
    "receiving_targets":   11,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    38442
+    "annotationID":    73349
    },
    "receiving_yards":   74,
-   "receiving_touchdowns":   0,
-   "kick_return_attempts":   0,
-   "kick_return_yards":   0,
-   "kick_return_touchdowns":   0,
-   "punt_return_attempts":   0,
-   "punt_return_yards":   0,
-   "punt_return_touchdowns":   0,
-   "defense_sacks":   0,
-   "defense_tackles":   0,
-   "defense_tackle_assists":   0,
-   "defense_interceptions":   0,
-   "defense_interception_yards":   0,
-   "defense_interception_touchdowns":   0,
-   "defense_safeties":   0,
-   "point_after_attemps":   0,
-   "point_after_makes":   0,
-   "field_goal_attempts":   0,
-   "field_goal_makes":   0,
-   "punting_attempts":   0,
-   "punting_yards":   0,
-   "punting_blocked":   0,
-   "comment":"Jared Cook (3-25) were ineffective against Seattle's defense.    Finally, Aaron Donald had an excellent game for the Rams with a sack, 4 tackles, and a lot of disruption. <div class=dfpAdSlots>   "
-  },
-  "29":{
-   "player_id":   4469,
-   "year":"2014",
-   "date":"2014-10-19",
-   "game_number":"6",
-   "age":"27-195",
-   "team":"STL",
-   "game_location":"H",
-   "opponent":"SEA",
-   "game_won":   true,
-   "player_team_score":"28",
-   "opponent_score":"26",
-   "passing_attempts":   0,
-   "passing_completions":   0,
-   "passing_yards":   0,
-   "passing_rating":   0,
-   "passing_touchdowns":   0,
-   "passing_interceptions":   0,
-   "passing_sacks":   0,
-   "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   0,
-   "rushing_yards":   0,
-   "rushing_touchdowns":   0,
-   "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    38443
-   },
-   "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    38444
-   },
-   "receiving_yards":{
-    "propertyValue":"25",
-    "annotationID":    38445
-   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1615,6 +1624,64 @@
   "30":{
    "player_id":   4469,
    "year":"2014",
+   "date":"2014-10-19",
+   "game_number":"6",
+   "age":"27-195",
+   "team":"STL",
+   "game_location":"H",
+   "opponent":"SEA",
+   "game_won":   true,
+   "player_team_score":"28",
+   "opponent_score":"26",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    73350
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    73351
+   },
+   "receiving_yards":{
+    "propertyValue":"25",
+    "annotationID":    73352
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jared Cook (3-25) were ineffective against Seattle's defense.    Finally, Aaron Donald had an excellent game for the Rams with a sack, 4 tackles, and a lot of disruption. <div class=dfpAdSlots>   "
+  },
+  "31":{
+   "player_id":   4469,
+   "year":"2014",
    "date":"2014-11-09",
    "game_number":"9",
    "age":"27-216",
@@ -1625,7 +1692,7 @@
    "player_team_score":"14",
    "opponent_score":{
     "propertyValue":"31",
-    "annotationID":    39475
+    "annotationID":    76161
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1640,15 +1707,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    39474
+    "annotationID":    76160
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    39473
+    "annotationID":    76159
    },
    "receiving_yards":{
     "propertyValue":"84",
-    "annotationID":    39472
+    "annotationID":    76158
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1673,7 +1740,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook led the team with 84 receiving yards on 2 catches. He had Davis' lone aerial score. Kenny Britt (3-31) struggled to get open.   "
   },
-  "31":{
+  "32":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-11-16",
@@ -1722,7 +1789,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook. However, Hill settled in and continuously threw great strikes, finishing 20-of-29 for 220 yards and a touchdown.    The Rams had just 1 receiver who totaled more than 31 receiving yards. That was Britt, who was a monster, securing 4 passes for 128 yards and a touchdown. One of the CBS announcers even exclaimed, The Broncos can't handle Kenny Britt!    Perhaps the most puzzling aspect of this loss for Denver was that its run defense allowed "
   },
-  "32":{
+  "33":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-12-07",
@@ -1748,11 +1815,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    40673
+    "annotationID":    79061
    },
    "receiving_yards":{
     "propertyValue":"61",
-    "annotationID":    40672
+    "annotationID":    79060
    },
    "receiving_touchdowns":   2,
    "kick_return_attempts":   0,
@@ -1777,7 +1844,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook, who led the team with 61 receiving yards on 4 catches.    Elsewhere in the receiving corps, "
   },
-  "33":{
+  "34":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-12-11",
@@ -1803,11 +1870,11 @@
    "receiving_targets":   9,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    40907
+    "annotationID":    79495
    },
    "receiving_yards":{
     "propertyValue":"22",
-    "annotationID":    40908
+    "annotationID":    79496
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1832,7 +1899,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook. The Cardinals had been poor against tight ends all year, yet he managed just 3 catches (8 targets) for 22 yards. He had 2 receptions wiped out by offensive pass interference, but he failed to reel in a decent catch late in the game because he was able to get just 1 foot inbounds.    The Rams' leading receiver was Bailey, who logged 5 catches for 74 yards. "
   },
-  "34":{
+  "35":{
    "player_id":   4469,
    "year":"2014",
    "date":"2014-12-28",
@@ -1858,11 +1925,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    42081
+    "annotationID":    81821
    },
    "receiving_yards":{
     "propertyValue":"37",
-    "annotationID":    42082
+    "annotationID":    81822
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1887,7 +1954,65 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-37), but Seattle's defense came up with a huge play as defensive tackle Jordan Hill made a diving interception when Shaun Hill was trying to throw a screen pass into the turf because the play was covered."
   },
-  "35":{
+  "36":{
+   "player_id":   4469,
+   "year":"2015",
+   "date":"2015-09-13",
+   "game_number":"1",
+   "age":"28-159",
+   "team":"STL",
+   "game_location":"H",
+   "opponent":"SEA",
+   "game_won":   true,
+   "player_team_score":"34",
+   "opponent_score":"31",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"6",
+    "annotationID":    82640
+   },
+   "receiving_receptions":{
+    "propertyValue":"5",
+    "annotationID":    82639
+   },
+   "receiving_yards":{
+    "propertyValue":"85",
+    "annotationID":    82641
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jared Cook, who snatched 5 of the 6 targets thrown to him for 85 yards. "
+  },
+  "37":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-09-20",
@@ -1913,11 +2038,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    42764
+    "annotationID":    84095
    },
    "receiving_yards":{
     "propertyValue":"47",
-    "annotationID":    42765
+    "annotationID":    84096
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1942,7 +2067,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook, who caught 5 balls for 47 yards. "
   },
-  "36":{
+  "38":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-09-27",
@@ -1991,7 +2116,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook false started. - Foles' pass to Cook nowhere near the tight end. Cook stopped running inexplicably on the route. - "
   },
-  "37":{
+  "39":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-10-04",
@@ -2004,7 +2129,7 @@
    "player_team_score":"24",
    "opponent_score":{
     "propertyValue":"22",
-    "annotationID":    44368
+    "annotationID":    86993
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2019,15 +2144,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"6",
-    "annotationID":    44366
+    "annotationID":    86991
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    44367
+    "annotationID":    86992
    },
    "receiving_yards":{
     "propertyValue":"22",
-    "annotationID":    44369
+    "annotationID":    86994
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2052,7 +2177,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook was second on the Rams with 6 targets, but hauled in only 3 balls for 22 yards. He dropped 2 passes, 1 of which should've been a touchdown, proving once again to be inefficient. Another player who can be described that way, "
   },
-  "38":{
+  "40":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-10-11",
@@ -2077,15 +2202,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"6",
-    "annotationID":    44722
+    "annotationID":    87638
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    44721
+    "annotationID":    87637
    },
    "receiving_yards":{
     "propertyValue":"8",
-    "annotationID":    44723
+    "annotationID":    87639
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2110,7 +2235,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook needs to be mentioned. He's 1 of the least-efficient players in the NFL; he caught just 1 of 6 passes thrown to him for only 8 yards.   "
   },
-  "39":{
+  "41":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-10-25",
@@ -2159,7 +2284,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook that was recovered by Cleveland. Aside from Gurley, the offenses were largely ineffective, and the Rams took a 10-3 lead into the third quarter. Cleveland started better in the second half with a 27-yard pass to "
   },
-  "40":{
+  "42":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-11-01",
@@ -2184,15 +2309,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"3",
-    "annotationID":    46668
+    "annotationID":    90970
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    46666
+    "annotationID":    90968
    },
    "receiving_yards":{
     "propertyValue":"57",
-    "annotationID":    46667
+    "annotationID":    90969
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2217,7 +2342,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (2-57) and Gurley (3-13).    As for the 49ers, they had no chance to move the chains. "
   },
-  "41":{
+  "43":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-12-06",
@@ -2229,7 +2354,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"3",
-    "annotationID":    48931
+    "annotationID":    94999
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -2246,11 +2371,11 @@
    "receiving_targets":   9,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    48932
+    "annotationID":    95000
    },
    "receiving_yards":{
     "propertyValue":"22",
-    "annotationID":    48933
+    "annotationID":    95001
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2275,7 +2400,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-22) fumbled, but managed to recover. "
   },
-  "42":{
+  "44":{
    "player_id":   4469,
    "year":"2015",
    "date":"2015-12-13",
@@ -2300,15 +2425,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    49524
+    "annotationID":    96024
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    49525
+    "annotationID":    96025
    },
    "receiving_yards":{
     "propertyValue":"11",
-    "annotationID":    49526
+    "annotationID":    96026
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2333,7 +2458,117 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (1-11) had a big gain, but that was wiped out by a Greg Robinson illegal chop block."
   },
-  "43":{
+  "45":{
+   "player_id":   4469,
+   "year":"2015",
+   "date":"2015-12-17",
+   "game_number":"14",
+   "age":"28-254",
+   "team":"STL",
+   "game_location":"H",
+   "opponent":"TAM",
+   "game_won":   true,
+   "player_team_score":"31",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"6",
+    "annotationID":    96846
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    96844
+   },
+   "receiving_yards":{
+    "propertyValue":"64",
+    "annotationID":    96845
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jared Cook for a 17-yard gain. He then managed to complete another deep pass by threading the needle in between 2 defenders. Keenum made just 2 errors in this contest, both of which occurred on the final drive of the opening half. He had a pass that was dropped by a Tampa defender, and then he took a horrible sack to give his team no chance on a third down. However, those were his only blemishes. It'll be interesting to see how he fares in the next couple of games. If Keenum puts together a pair of quality performances, the Rams may eschew taking a quarterback in the first round, which is what I have happening in my .    As for Gurley, he had trouble finding room against a tough Tampa Bay run defense. He still performed well for his owners, however, as he generated 48 yards and a touchdown on 21 carries. He was in position for a second score following a "
+  },
+  "46":{
+   "player_id":   4469,
+   "year":"2016",
+   "date":"2016-09-11",
+   "game_number":"1",
+   "age":"29-157",
+   "team":"GNB",
+   "game_location":"A",
+   "opponent":"JAX",
+   "game_won":   true,
+   "player_team_score":"27",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    100357
+   },
+   "receiving_receptions":   1,
+   "receiving_yards":   7,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jared Cook also drew a 30-yard pass interference. Plus, it's not like Rodgers disappointed his fantasy owners, given that he ran in a third touchdown. Rodgers absolutely sucked the life out of the Jaguars in the second half. He orchestrated a drive that lasted more than 9 minutes. It culminated in a field goal, but don't blame Rodgers for that, as the Packers oddly opted to run the ball 3 times in a goal-to-go situation. I think it's foolish not to have Rodgers throw the ball at least once, given that he's arguably the best quarterback in the NFL.    Rodgers' 2 touchdowns were thrown to "
+  },
+  "47":{
    "player_id":   4469,
    "year":"2016",
    "date":"2016-11-20",
@@ -2359,11 +2594,11 @@
    "receiving_targets":   11,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    56311
+    "annotationID":    112804
    },
    "receiving_yards":{
     "propertyValue":"105",
-    "annotationID":    56312
+    "annotationID":    112805
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2388,7 +2623,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (6-105), James Starks (5-46) and Jordy Nelson (3-28)."
   },
-  "44":{
+  "48":{
    "player_id":   4469,
    "year":"2016",
    "date":"2016-12-11",
@@ -2437,7 +2672,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook all left the game. Cobb was carted off, but managed to return. Montgomery did as well, but didn't touch the ball very much upon coming back. It's a shame that Montgomery sustained an injury, as he was running the ball very well, gaining 41 yards and a touchdown on 9 carries, 7 of which came prior to halftime. "
   },
-  "45":{
+  "49":{
    "player_id":   4469,
    "year":"2016",
    "date":"2016-12-18",
@@ -2450,7 +2685,7 @@
    "player_team_score":"30",
    "opponent_score":{
     "propertyValue":"27",
-    "annotationID":    57678
+    "annotationID":    116595
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2466,11 +2701,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    57676
+    "annotationID":    116593
    },
    "receiving_yards":{
     "propertyValue":"85",
-    "annotationID":    57677
+    "annotationID":    116594
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2495,13 +2730,13 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (6-85) for a 27-yard gain. Another third-down conversion to Cook and a roughing-the-passer penalty on "
   },
-  "46":{
+  "50":{
    "player_id":   4469,
    "year":"2017",
    "date":"2017-09-24",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    60771
+    "annotationID":    122608
    },
    "age":"30-170",
    "team":"OAK",
@@ -2523,19 +2758,19 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"6",
-    "annotationID":    60769
+    "annotationID":    122606
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    60765
+    "annotationID":    122602
    },
    "receiving_yards":{
     "propertyValue":"43",
-    "annotationID":    60766
+    "annotationID":    122603
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    60770
+    "annotationID":    122607
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2559,7 +2794,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (4-43), who was the only Raider who accumulated more than a dozen receiving yards before the final drive of the game! Carr's primary wideouts, Cooper and Crabtree, caught 1 ball each for 6 and 7 yards, respectively. Crabtree left the game with a chest injury.    Lynch struggled, mustering only 18 yards on 6 carries. He had just 1 tough run for a gain of 5. and that was it. As mentioned, he was stuffed on a big third-and-2 play.    The Redskins, meanwhile, did a great job of moving the chains, but weren't exactly tested. The Raiders might have the worst defense in the NFL, and it showed in this contest, as Cousins went 25-of-30 for 365 yards and 3 touchdowns. He also had a first-down run, but that was negated by a "
   },
-  "47":{
+  "51":{
    "player_id":   4469,
    "year":"2017",
    "date":"2017-10-01",
@@ -2571,7 +2806,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"10",
-    "annotationID":    61291
+    "annotationID":    123775
    },
    "opponent_score":"16",
    "passing_attempts":   0,
@@ -2587,15 +2822,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"8",
-    "annotationID":    61292
+    "annotationID":    123776
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    61293
+    "annotationID":    123777
    },
    "receiving_yards":{
     "propertyValue":"46",
-    "annotationID":    61294
+    "annotationID":    123778
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2620,7 +2855,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook both dropped passes, with the latter mishandling a ball in the end zone, which ultimately may have won the game. Manuel had another chance following a field goal, but he floated a pass toward Cooper. Athletic safety Justin Simmons skied over Cooper to snatch the clinching interception.    It's unclear what Carr's injury is, but the Raiders need him to give themselves a chance at the playoffs; they won't win many games with Manuel, despite what we saw late in this contest. Carr went 10-of-18 for 143 yards and a touchdown. His offensive line struggled to block Denver's pass rush, and it didn't help that Michael Crabtree was out of the lineup. However, given how Manuel performed, it's conceivable that Carr could've led the Raiders to a victory at the very end. Manuel, by the way, went 11-of-17 for 106 yards and the pick.    Cooper was a major disappointment. He saw 8 targets, but came up with just 2 catches for 9 yards. He also had his 7.h drop of the year. He needed to step up with Crabtree out, and he was a big-time bust, despite the tough matchup. Jared Cook had 3 receptions for 46 yards.    Speaking of struggling fantasy stars, "
   },
-  "48":{
+  "52":{
    "player_id":   4469,
    "year":"2017",
    "date":"2017-10-08",
@@ -2646,11 +2881,11 @@
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    61637
+    "annotationID":    124484
    },
    "receiving_yards":{
     "propertyValue":"25",
-    "annotationID":    61638
+    "annotationID":    124485
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2675,7 +2910,7 @@
    "punting_blocked":   0,
    "comment":"Jared Cook (3-25) fumbled the ball away. "
   },
-  "49":{
+  "53":{
    "player_id":   4469,
    "year":"2017",
    "date":"2017-10-19",
@@ -2724,11 +2959,14 @@
    "punting_blocked":   0,
    "comment":"Jared Cook on a 4.h-and-11. Carr then fired a deep pass to get out of a second-and-20. With the clock ticking down, he tossed a deep ball to Cook, which was ruled a touchdown with 18 seconds remaining. The play was changed because Cook was down at the half-yard line, and the Raiders lost time because of the stupid 10-second run-off rule. Undaunted, Carr threw a touchdown to "
   },
-  "50":{
+  "54":{
    "player_id":   4469,
    "year":"2017",
    "date":"2017-11-05",
-   "game_number":"9",
+   "game_number":{
+    "propertyValue":"9",
+    "annotationID":    128057
+   },
    "age":"30-212",
    "team":"OAK",
    "game_location":"A",
@@ -2747,9 +2985,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   9,
-   "receiving_receptions":   8,
-   "receiving_yards":   126,
+   "receiving_targets":{
+    "propertyValue":"9",
+    "annotationID":    128058
+   },
+   "receiving_receptions":{
+    "propertyValue":"8",
+    "annotationID":    128061
+   },
+   "receiving_yards":{
+    "propertyValue":"126",
+    "annotationID":    128060
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2774,5 +3021,5 @@
    "comment":"Jared Cook involved as much as possible, which was a terrific plan. The Dolphins have struggled against tight ends all year, thanks to "
   }
  },
- "numberGames": 50
+ "numberGames": 54
 }

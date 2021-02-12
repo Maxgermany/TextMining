@@ -21,7 +21,10 @@
    "player_id":   8341,
    "year":"2012",
    "date":"2012-10-14",
-   "game_number":"6",
+   "game_number":{
+    "propertyValue":"6",
+    "annotationID":    45437
+   },
    "age":"24-113",
    "team":"GNB",
    "game_location":"A",
@@ -39,11 +42,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"22",
-    "annotationID":    24220
+    "annotationID":    45438
    },
    "rushing_yards":{
     "propertyValue":"65",
-    "annotationID":    24221
+    "annotationID":    45439
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -98,7 +101,7 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    24410
+    "annotationID":    45780
    },
    "receiving_yards":   29,
    "receiving_touchdowns":   0,
@@ -128,13 +131,19 @@
    "player_id":   8341,
    "year":"2012",
    "date":"2012-10-28",
-   "game_number":"8",
+   "game_number":{
+    "propertyValue":"8",
+    "annotationID":    46243
+   },
    "age":"24-127",
    "team":"GNB",
    "game_location":"H",
    "opponent":"JAX",
    "game_won":   true,
-   "player_team_score":"24",
+   "player_team_score":{
+    "propertyValue":"24",
+    "annotationID":    46248
+   },
    "opponent_score":"15",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -146,16 +155,25 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"22",
-    "annotationID":    24665
+    "annotationID":    46250
    },
    "rushing_yards":{
     "propertyValue":"54",
-    "annotationID":    24664
+    "annotationID":    46249
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   6,
-   "receiving_receptions":   4,
-   "receiving_yards":   28,
+   "receiving_targets":{
+    "propertyValue":"6",
+    "annotationID":    46245
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    46244
+   },
+   "receiving_yards":{
+    "propertyValue":"28",
+    "annotationID":    46247
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -201,11 +219,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    25001
+    "annotationID":    46849
    },
    "rushing_yards":{
     "propertyValue":"53",
-    "annotationID":    25002
+    "annotationID":    46850
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -246,7 +264,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"10",
-    "annotationID":    26069
+    "annotationID":    49375
    },
    "opponent_score":"38",
    "passing_attempts":   0,
@@ -259,17 +277,17 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    26070
+    "annotationID":    49376
    },
    "rushing_yards":{
     "propertyValue":"30",
-    "annotationID":    26068
+    "annotationID":    49374
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    26071
+    "annotationID":    49377
    },
    "receiving_yards":   20,
    "receiving_touchdowns":   0,
@@ -301,7 +319,7 @@
    "date":"2012-12-02",
    "game_number":{
     "propertyValue":"12",
-    "annotationID":    26176
+    "annotationID":    49554
    },
    "age":"24-162",
    "team":"GNB",
@@ -320,18 +338,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"12",
-    "annotationID":    26177
+    "annotationID":    49555
    },
    "rushing_yards":{
     "propertyValue":"58",
-    "annotationID":    26179
+    "annotationID":    49557
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    49552
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    49553
+   },
    "receiving_yards":{
     "propertyValue":"12",
-    "annotationID":    26178
+    "annotationID":    49556
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -362,7 +386,7 @@
    "date":"2012-12-09",
    "game_number":{
     "propertyValue":"13",
-    "annotationID":    26818
+    "annotationID":    50692
    },
    "age":"24-169",
    "team":"GNB",
@@ -381,11 +405,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    26819
+    "annotationID":    50693
    },
    "rushing_yards":{
     "propertyValue":"69",
-    "annotationID":    26820
+    "annotationID":    50694
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -424,10 +448,13 @@
    "game_location":"A",
    "opponent":"CHI",
    "game_won":   true,
-   "player_team_score":"21",
+   "player_team_score":{
+    "propertyValue":"21",
+    "annotationID":    50874
+   },
    "opponent_score":{
     "propertyValue":"13",
-    "annotationID":    26922
+    "annotationID":    50872
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -439,16 +466,22 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    26923
+    "annotationID":    50873
    },
    "rushing_yards":{
     "propertyValue":"35",
-    "annotationID":    26921
+    "annotationID":    50871
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
-   "receiving_receptions":   2,
-   "receiving_yards":   6,
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    50877
+   },
+   "receiving_yards":{
+    "propertyValue":"6",
+    "annotationID":    50876
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,

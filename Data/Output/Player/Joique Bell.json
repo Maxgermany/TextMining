@@ -23,7 +23,7 @@
    "date":"2012-09-09",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    21871
+    "annotationID":    41207
    },
    "age":"26-036",
    "team":"DET",
@@ -42,15 +42,15 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    21872
+    "annotationID":    41208
    },
    "rushing_yards":{
     "propertyValue":"1",
-    "annotationID":    21873
+    "annotationID":    41209
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    21874
+    "annotationID":    41210
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -104,11 +104,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    23139
+    "annotationID":    43510
    },
    "receiving_yards":{
     "propertyValue":"72",
-    "annotationID":    23140
+    "annotationID":    43511
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -145,7 +145,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"7",
-    "annotationID":    24606
+    "annotationID":    46143
    },
    "opponent_score":"13",
    "passing_attempts":   0,
@@ -191,7 +191,7 @@
    "date":"2012-10-28",
    "game_number":{
     "propertyValue":"7",
-    "annotationID":    24608
+    "annotationID":    46145
    },
    "age":"26-085",
    "team":"DET",
@@ -210,11 +210,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    24609
+    "annotationID":    46146
    },
    "rushing_yards":{
     "propertyValue":"25",
-    "annotationID":    24607
+    "annotationID":    46144
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -314,11 +314,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"12",
-    "annotationID":    26809
+    "annotationID":    50676
    },
    "rushing_yards":{
     "propertyValue":"49",
-    "annotationID":    26810
+    "annotationID":    50677
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
@@ -368,7 +368,10 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   7,
-   "rushing_yards":   24,
+   "rushing_yards":{
+    "propertyValue":"24",
+    "annotationID":    51130
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":   2,
@@ -398,7 +401,10 @@
   },
   "8":{
    "player_id":   1457,
-   "year":"2012",
+   "year":{
+    "propertyValue":"2012",
+    "annotationID":    52421
+   },
    "date":"2012-12-30",
    "game_number":"16",
    "age":"26-148",
@@ -406,7 +412,10 @@
    "game_location":"H",
    "opponent":"CHI",
    "game_won":   false,
-   "player_team_score":"24",
+   "player_team_score":{
+    "propertyValue":"24",
+    "annotationID":    52420
+   },
    "opponent_score":"26",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -416,14 +425,26 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   2,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    52416
+   },
    "rushing_yards":   6,
    "rushing_touchdowns":   0,
-   "receiving_targets":   2,
-   "receiving_receptions":   2,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    52417
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    52418
+   },
    "receiving_yards":   19,
    "receiving_touchdowns":   0,
-   "kick_return_attempts":   2,
+   "kick_return_attempts":{
+    "propertyValue":"2",
+    "annotationID":    52419
+   },
    "kick_return_yards":   54,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
@@ -451,7 +472,7 @@
    "date":"2013-09-15",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    28935
+    "annotationID":    54708
    },
    "age":"27-042",
    "team":"DET",
@@ -470,24 +491,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    28936
+    "annotationID":    54709
    },
    "rushing_yards":{
     "propertyValue":"31",
-    "annotationID":    28932
+    "annotationID":    54705
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"8",
-    "annotationID":    28937
+    "annotationID":    54710
    },
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    28933
+    "annotationID":    54706
    },
    "receiving_yards":{
     "propertyValue":"41",
-    "annotationID":    28934
+    "annotationID":    54707
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -523,7 +544,10 @@
    "opponent":"WAS",
    "game_won":   true,
    "player_team_score":"27",
-   "opponent_score":"20",
+   "opponent_score":{
+    "propertyValue":"20",
+    "annotationID":    55598
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -532,12 +556,30 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   20,
-   "rushing_yards":   63,
-   "rushing_touchdowns":   1,
-   "receiving_targets":   5,
-   "receiving_receptions":   4,
-   "receiving_yards":   69,
+   "rushing_attempts":{
+    "propertyValue":"20",
+    "annotationID":    55599
+   },
+   "rushing_yards":{
+    "propertyValue":"63",
+    "annotationID":    55597
+   },
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    55595
+   },
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    55596
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    55601
+   },
+   "receiving_yards":{
+    "propertyValue":"69",
+    "annotationID":    55600
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -583,16 +625,19 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    32518
+    "annotationID":    62142
    },
    "rushing_yards":{
     "propertyValue":"49",
-    "annotationID":    32519
+    "annotationID":    62143
    },
-   "rushing_touchdowns":   1,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    62141
+   },
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    32520
+    "annotationID":    62144
    },
    "receiving_receptions":   3,
    "receiving_yards":   48,
@@ -641,11 +686,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    33131
+    "annotationID":    63269
    },
    "rushing_yards":{
     "propertyValue":"94",
-    "annotationID":    33130
+    "annotationID":    63268
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   4,
@@ -696,27 +741,27 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"23",
-    "annotationID":    33798
+    "annotationID":    64495
    },
    "rushing_yards":{
     "propertyValue":"69",
-    "annotationID":    33797
+    "annotationID":    64494
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    33793
+    "annotationID":    64490
    },
    "receiving_targets":{
     "propertyValue":"7",
-    "annotationID":    33788
+    "annotationID":    64485
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    33799
+    "annotationID":    64496
    },
    "receiving_yards":{
     "propertyValue":"58",
-    "annotationID":    33800
+    "annotationID":    64497
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -728,7 +773,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    33794
+    "annotationID":    64491
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -767,7 +812,10 @@
    "rushing_attempts":   9,
    "rushing_yards":   24,
    "rushing_touchdowns":   0,
-   "receiving_targets":   2,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    66019
+   },
    "receiving_receptions":   1,
    "receiving_yards":   23,
    "receiving_touchdowns":   0,
@@ -803,7 +851,10 @@
    "game_location":"H",
    "opponent":"NYG",
    "game_won":   false,
-   "player_team_score":"20",
+   "player_team_score":{
+    "propertyValue":"20",
+    "annotationID":    66027
+   },
    "opponent_score":"23",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -813,20 +864,26 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   20,
-   "rushing_yards":   91,
+   "rushing_attempts":{
+    "propertyValue":"20",
+    "annotationID":    66028
+   },
+   "rushing_yards":{
+    "propertyValue":"91",
+    "annotationID":    66026
+   },
    "rushing_touchdowns":   1,
    "receiving_targets":{
     "propertyValue":"10",
-    "annotationID":    34654
+    "annotationID":    66023
    },
    "receiving_receptions":{
     "propertyValue":"10",
-    "annotationID":    34655
+    "annotationID":    66024
    },
    "receiving_yards":{
     "propertyValue":"63",
-    "annotationID":    34656
+    "annotationID":    66025
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
@@ -855,7 +912,10 @@
    "player_id":   1457,
    "year":"2014",
    "date":"2014-09-08",
-   "game_number":"1",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    68462
+   },
    "age":"28-035",
    "team":"DET",
    "game_location":"H",
@@ -871,12 +931,27 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   15,
+   "rushing_attempts":{
+    "propertyValue":"15",
+    "annotationID":    68456
+   },
    "rushing_yards":   51,
-   "rushing_touchdowns":   1,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
-   "receiving_yards":   5,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    68463
+   },
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    68464
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    68465
+   },
+   "receiving_yards":{
+    "propertyValue":"5",
+    "annotationID":    68461
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -904,7 +979,10 @@
    "player_id":   1457,
    "year":"2014",
    "date":"2014-09-14",
-   "game_number":"2",
+   "game_number":{
+    "propertyValue":"2",
+    "annotationID":    68472
+   },
    "age":"28-041",
    "team":"DET",
    "game_location":"A",
@@ -922,16 +1000,22 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    35931
+    "annotationID":    68468
    },
    "rushing_yards":{
     "propertyValue":"36",
-    "annotationID":    35932
+    "annotationID":    68469
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
-   "receiving_receptions":   6,
-   "receiving_yards":   61,
+   "receiving_receptions":{
+    "propertyValue":"6",
+    "annotationID":    68473
+   },
+   "receiving_yards":{
+    "propertyValue":"61",
+    "annotationID":    68474
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -977,11 +1061,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    36553
+    "annotationID":    69671
    },
    "rushing_yards":{
     "propertyValue":"33",
-    "annotationID":    36554
+    "annotationID":    69672
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1032,11 +1116,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    37844
+    "annotationID":    72239
    },
    "rushing_yards":{
     "propertyValue":"74",
-    "annotationID":    37843
+    "annotationID":    72238
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
@@ -1085,10 +1169,19 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   18,
-   "rushing_yards":   48,
+   "rushing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    73009
+   },
+   "rushing_yards":{
+    "propertyValue":"48",
+    "annotationID":    73008
+   },
    "rushing_touchdowns":   1,
-   "receiving_targets":   5,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    73010
+   },
    "receiving_receptions":   2,
    "receiving_yards":   19,
    "receiving_touchdowns":   0,
@@ -1120,7 +1213,7 @@
    "date":"2014-10-26",
    "game_number":{
     "propertyValue":"8",
-    "annotationID":    38668
+    "annotationID":    73818
    },
    "age":"28-083",
    "team":"DET",
@@ -1139,11 +1232,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    38667
+    "annotationID":    73817
    },
    "rushing_yards":{
     "propertyValue":"39",
-    "annotationID":    38666
+    "annotationID":    73816
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -1184,7 +1277,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"20",
-    "annotationID":    39209
+    "annotationID":    75663
    },
    "opponent_score":"16",
    "passing_attempts":   0,
@@ -1197,11 +1290,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    39208
+    "annotationID":    75662
    },
    "rushing_yards":{
     "propertyValue":"44",
-    "annotationID":    39207
+    "annotationID":    75661
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -1243,7 +1336,7 @@
    "player_team_score":"6",
    "opponent_score":{
     "propertyValue":"14",
-    "annotationID":    39849
+    "annotationID":    76834
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1255,11 +1348,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    39850
+    "annotationID":    76835
    },
    "rushing_yards":{
     "propertyValue":"85",
-    "annotationID":    39848
+    "annotationID":    76833
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -1291,6 +1384,61 @@
   "24":{
    "player_id":   1457,
    "year":"2014",
+   "date":"2014-11-23",
+   "game_number":"11",
+   "age":"28-111",
+   "team":"DET",
+   "game_location":"A",
+   "opponent":"NWE",
+   "game_won":   false,
+   "player_team_score":"9",
+   "opponent_score":"34",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"19",
+    "annotationID":    77235
+   },
+   "rushing_yards":{
+    "propertyValue":"48",
+    "annotationID":    77234
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   1,
+   "receiving_yards":   -2,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   1,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Joique Bell, but that didn't work out very well. The tough runner managed just 48 yards on 19 carries.    Detroit center "
+  },
+  "25":{
+   "player_id":   1457,
+   "year":"2014",
    "date":"2014-11-27",
    "game_number":"12",
    "age":"28-115",
@@ -1310,23 +1458,23 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"23",
-    "annotationID":    39956
+    "annotationID":    77758
    },
    "rushing_yards":{
     "propertyValue":"91",
-    "annotationID":    39952
+    "annotationID":    77754
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    39953
+    "annotationID":    77755
    },
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    39954
+    "annotationID":    77756
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    39955
+    "annotationID":    77757
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -1352,7 +1500,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell got all of the carries. He gained 91 yards and 2 touchdowns on 23 carries. One of his scores was a plunge from the 1-yard line in which he leapt over the pile.    The Bears, conversely, didn't have any chance to run the ball. They didn't even bother trying to establish any sort of ground attack, as "
   },
-  "25":{
+  "26":{
    "player_id":   1457,
    "year":"2014",
    "date":"2014-12-07",
@@ -1374,24 +1522,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    40534
+    "annotationID":    78836
    },
    "rushing_yards":{
     "propertyValue":"83",
-    "annotationID":    40533
+    "annotationID":    78835
    },
    "rushing_touchdowns":   1,
    "receiving_targets":{
     "propertyValue":"5",
-    "annotationID":    40535
+    "annotationID":    78837
    },
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    40536
+    "annotationID":    78838
    },
    "receiving_yards":{
     "propertyValue":"50",
-    "annotationID":    40537
+    "annotationID":    78839
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1416,7 +1564,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell snatched the ball out of the air and ran into the end zone.    Speaking of Bell, he provided some big plays in the contest. The aforementioned aerial touchdown was huge from a betting standpoint. He also had a 57-yard scamper in the 4.h quarter that put him in position to make that score. Bell had 83 rushing yards on 18 carries and also caught 5 balls for 50 receiving yards. He was so powerful with the ball in his hands that he managed to injure "
   },
-  "26":{
+  "27":{
    "player_id":   1457,
    "year":"2014",
    "date":"2014-12-14",
@@ -1438,21 +1586,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    41229
+    "annotationID":    80113
    },
    "rushing_yards":{
     "propertyValue":"62",
-    "annotationID":    41228
+    "annotationID":    80112
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    41230
+    "annotationID":    80114
    },
    "receiving_yards":{
     "propertyValue":"41",
-    "annotationID":    41231
+    "annotationID":    80115
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1477,7 +1625,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell had a great afternoon, rushing for 62 yards on 15 carries and also catching 4 balls for 41 receiving yards.   "
   },
-  "27":{
+  "28":{
    "player_id":   1457,
    "year":"2014",
    "date":"2014-12-21",
@@ -1499,18 +1647,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    41638
+    "annotationID":    80956
    },
    "rushing_yards":{
     "propertyValue":"74",
-    "annotationID":    41640
+    "annotationID":    80958
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
    "receiving_receptions":   2,
    "receiving_yards":{
     "propertyValue":"13",
-    "annotationID":    41639
+    "annotationID":    80957
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1535,7 +1683,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell (13-74), who was benched early for violating team rules, finished the drive with a 17-yard touchdown run that was aided by a big pass interference penalty on Jennings. "
   },
-  "28":{
+  "29":{
    "player_id":   1457,
    "year":"2014",
    "date":"2014-12-28",
@@ -1557,11 +1705,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    42159
+    "annotationID":    81980
    },
    "rushing_yards":{
     "propertyValue":"60",
-    "annotationID":    42158
+    "annotationID":    81979
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1590,11 +1738,69 @@
    "punting_blocked":   0,
    "comment":"Joique Bell had a big game last week, but he let his team down with a lost fumble following a blocked field goal in the second half. He managed 60 yards on 13 carries.   "
   },
-  "29":{
+  "30":{
+   "player_id":   1457,
+   "year":"2015",
+   "date":"2015-09-13",
+   "game_number":"1",
+   "age":"29-040",
+   "team":"DET",
+   "game_location":"A",
+   "opponent":"SDG",
+   "game_won":   false,
+   "player_team_score":"28",
+   "opponent_score":"33",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"6",
+    "annotationID":    82943
+   },
+   "rushing_yards":{
+    "propertyValue":"14",
+    "annotationID":    82944
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   2,
+   "receiving_yards":   27,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Joique Bell's 6 carries, which resulted in 14 yards.    Turnovers were a big part of this game as both Philip Rivers and Matthew Stafford threw a pair of interceptions, and rookie "
+  },
+  "31":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-09-20",
-   "game_number":"2",
+   "game_number":{
+    "propertyValue":"2",
+    "annotationID":    83916
+   },
    "age":"29-047",
    "team":"DET",
    "game_location":"A",
@@ -1610,11 +1816,23 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   4,
-   "rushing_yards":   2,
+   "rushing_attempts":{
+    "propertyValue":"4",
+    "annotationID":    83920
+   },
+   "rushing_yards":{
+    "propertyValue":"2",
+    "annotationID":    83917
+   },
    "rushing_touchdowns":   0,
-   "receiving_targets":   2,
-   "receiving_receptions":   2,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    83918
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    83919
+   },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1639,7 +1857,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell were. A week after being trampled by "
   },
-  "30":{
+  "32":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-09-27",
@@ -1651,7 +1869,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"12",
-    "annotationID":    43921
+    "annotationID":    86189
    },
    "opponent_score":"24",
    "passing_attempts":   0,
@@ -1664,11 +1882,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    43920
+    "annotationID":    86188
    },
    "rushing_yards":{
     "propertyValue":"6",
-    "annotationID":    43919
+    "annotationID":    86187
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1697,7 +1915,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell was much worse, picking up just 6 yards on 10 carries, but he was at least able to salvage a touchdown. With Bell looking sluggish, there's no real reason to own him in 12-team leagues.    As for "
   },
-  "31":{
+  "33":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-11-01",
@@ -1719,11 +1937,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    46607
+    "annotationID":    90890
    },
    "rushing_yards":{
     "propertyValue":"56",
-    "annotationID":    46606
+    "annotationID":    90889
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -1752,7 +1970,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell rumbled for a gain of 32 on the opening drive, but the Lions oddly didn't give him the ball very much afterward. Bell finished with 56 yards on 7 attempts. "
   },
-  "32":{
+  "34":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-11-22",
@@ -1801,7 +2019,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell as the Oakland defense was on its heels. "
   },
-  "33":{
+  "35":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-11-26",
@@ -1823,15 +2041,15 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    48172
+    "annotationID":    93598
    },
    "rushing_yards":{
     "propertyValue":"25",
-    "annotationID":    48173
+    "annotationID":    93599
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    48175
+    "annotationID":    93601
    },
    "receiving_targets":   3,
    "receiving_receptions":   2,
@@ -1859,7 +2077,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell (7-25) bulldozed into the end zone on 1 occasion. He also dropped 1 pass. <div class=dfpAdSlots>   "
   },
-  "34":{
+  "36":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-12-13",
@@ -1881,11 +2099,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    49519
+    "annotationID":    96019
    },
    "rushing_yards":{
     "propertyValue":"50",
-    "annotationID":    49518
+    "annotationID":    96018
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1914,7 +2132,7 @@
    "punting_blocked":   0,
    "comment":"Joique Bell generated 50 yards on 7 carries, but he did nothing until picking up some big gains late in the afternoon. "
   },
-  "35":{
+  "37":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-12-21",
@@ -1935,13 +2153,28 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   8,
-   "rushing_yards":   71,
-   "rushing_touchdowns":   1,
+   "rushing_yards":{
+    "propertyValue":"71",
+    "annotationID":    98118
+   },
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    98120
+   },
    "receiving_targets":   3,
-   "receiving_receptions":   2,
-   "receiving_yards":   30,
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    98122
+   },
+   "receiving_yards":{
+    "propertyValue":"30",
+    "annotationID":    98123
+   },
    "receiving_touchdowns":   0,
-   "kick_return_attempts":   1,
+   "kick_return_attempts":{
+    "propertyValue":"1",
+    "annotationID":    98121
+   },
    "kick_return_yards":   11,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
@@ -1963,11 +2196,14 @@
    "punting_blocked":   0,
    "comment":"Joique Bell (7-13) scored a touchdown. "
   },
-  "36":{
+  "38":{
    "player_id":   1457,
    "year":"2015",
    "date":"2015-12-27",
-   "game_number":"15",
+   "game_number":{
+    "propertyValue":"15",
+    "annotationID":    98130
+   },
    "age":"29-145",
    "team":"DET",
    "game_location":"H",
@@ -1985,15 +2221,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    50051
+    "annotationID":    98129
    },
    "rushing_yards":{
     "propertyValue":"13",
-    "annotationID":    50052
+    "annotationID":    98127
    },
-   "rushing_touchdowns":   1,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    98132
+   },
    "receiving_targets":   3,
-   "receiving_receptions":   2,
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    98133
+   },
    "receiving_yards":   9,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2019,5 +2261,5 @@
    "comment":"Joique Bell (7-13) scored a touchdown. "
   }
  },
- "numberGames": 36
+ "numberGames": 38
 }

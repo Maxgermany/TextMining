@@ -21,14 +21,20 @@
    "player_id":   143,
    "year":"2016",
    "date":"2016-09-25",
-   "game_number":"3",
+   "game_number":{
+    "propertyValue":"3",
+    "annotationID":    103270
+   },
    "age":"22-131",
    "team":"TAM",
    "game_location":"H",
    "opponent":"LAR",
    "game_won":   false,
    "player_team_score":"32",
-   "opponent_score":"37",
+   "opponent_score":{
+    "propertyValue":"37",
+    "annotationID":    103268
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -57,9 +63,18 @@
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
-   "point_after_attemps":   2,
-   "point_after_makes":   3,
-   "field_goal_attempts":   1,
+   "point_after_attemps":{
+    "propertyValue":"2",
+    "annotationID":    103274
+   },
+   "point_after_makes":{
+    "propertyValue":"3",
+    "annotationID":    103271
+   },
+   "field_goal_attempts":{
+    "propertyValue":"1",
+    "annotationID":    103272
+   },
    "field_goal_makes":   0,
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -72,7 +87,7 @@
    "date":"2016-10-23",
    "game_number":{
     "propertyValue":"6",
-    "annotationID":    53814
+    "annotationID":    108263
    },
    "age":"22-159",
    "team":"TAM",
@@ -113,11 +128,11 @@
    "point_after_makes":   4,
    "field_goal_attempts":{
     "propertyValue":"3",
-    "annotationID":    53813
+    "annotationID":    108262
    },
    "field_goal_makes":{
     "propertyValue":"2",
-    "annotationID":    53812
+    "annotationID":    108261
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -125,6 +140,55 @@
    "comment":"Roberto Aguayo, has continued to struggle. In this game, he made 2 of his 3 field goals, but he did miss a 50-yarder. Granted, that is a long kick, but the fact of the matter is that he was a second-round pick. You do not pick kickers in the second round unless they can make 50-yarders in their sleep. Aguayo is now 6-of-11 on the season. He needs to improve, or he will continue to be a liability for the team.   "
   },
   "3":{
+   "player_id":   143,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"22-194",
+   "team":"TAM",
+   "game_location":"H",
+   "opponent":"SEA",
+   "game_won":   true,
+   "player_team_score":"14",
+   "opponent_score":"5",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   2,
+   "point_after_makes":   2,
+   "field_goal_attempts":   1,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Roberto Aguayo missed the 48-yard field goal attempt. Wilson moved the ball into Tampa Bay territory before throwing an interception to "
+  },
+  "4":{
    "player_id":   143,
    "year":"2016",
    "date":"2016-12-04",
@@ -174,5 +238,5 @@
    "comment":"Roberto Aguayo on the brink of his kicking range, and he whiffed on a 31-yard try as a result. The Buccaneers trailed 14-7 at the half, but things started going to Tampa's way following the break. "
   }
  },
- "numberGames": 3
+ "numberGames": 4
 }

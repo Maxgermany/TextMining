@@ -47,13 +47,22 @@
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
-   "punt_return_attempts":   4,
+   "punt_return_attempts":{
+    "propertyValue":"4",
+    "annotationID":    34793
+   },
    "punt_return_yards":   127,
-   "punt_return_touchdowns":   1,
+   "punt_return_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    34794
+   },
    "defense_sacks":   0,
    "defense_tackles":   3,
    "defense_tackle_assists":   0,
-   "defense_interceptions":   1,
+   "defense_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    34795
+   },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -78,7 +87,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"7",
-    "annotationID":    19374
+    "annotationID":    36131
    },
    "opponent_score":"23",
    "passing_attempts":   0,
@@ -101,7 +110,7 @@
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
     "propertyValue":"2",
-    "annotationID":    19373
+    "annotationID":    36130
    },
    "punt_return_yards":   22,
    "punt_return_touchdowns":   0,
@@ -134,7 +143,7 @@
    "player_team_score":"23",
    "opponent_score":{
     "propertyValue":"20",
-    "annotationID":    19539
+    "annotationID":    36479
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -232,10 +241,13 @@
    "game_location":"A",
    "opponent":"CIN",
    "game_won":   false,
-   "player_team_score":"16",
+   "player_team_score":{
+    "propertyValue":"16",
+    "annotationID":    39539
+   },
    "opponent_score":{
     "propertyValue":"23",
-    "annotationID":    21041
+    "annotationID":    39538
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -359,7 +371,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"5",
-    "annotationID":    23315
+    "annotationID":    43830
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -411,7 +423,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"4",
-    "annotationID":    26251
+    "annotationID":    49675
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,
@@ -465,7 +477,7 @@
    "defense_tackle_assists":   0,
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    27071
+    "annotationID":    51136
    },
    "defense_interception_yards":   31,
    "defense_interception_touchdowns":   0,
@@ -544,7 +556,7 @@
    "passing_completions":   1,
    "passing_yards":{
     "propertyValue":"17",
-    "annotationID":    28942
+    "annotationID":    54727
    },
    "passing_rating":   118.7,
    "passing_touchdowns":   0,
@@ -558,7 +570,7 @@
    "receiving_receptions":   1,
    "receiving_yards":{
     "propertyValue":"17",
-    "annotationID":    28943
+    "annotationID":    54728
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -638,7 +650,7 @@
    "date":"2013-09-29",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    29820
+    "annotationID":    56388
    },
    "age":"23-080",
    "team":"ARI",
@@ -648,7 +660,7 @@
    "player_team_score":"13",
    "opponent_score":{
     "propertyValue":"10",
-    "annotationID":    29821
+    "annotationID":    56389
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -674,12 +686,12 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"2",
-    "annotationID":    29818
+    "annotationID":    56390
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
     "propertyValue":"2",
-    "annotationID":    29819
+    "annotationID":    56391
    },
    "defense_interception_yards":   16,
    "defense_interception_touchdowns":   0,
@@ -697,7 +709,10 @@
    "player_id":   17481,
    "year":"2013",
    "date":"2013-10-06",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    57554
+   },
    "age":"23-087",
    "team":"ARI",
    "game_location":"H",
@@ -722,25 +737,25 @@
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
     "propertyValue":"1",
-    "annotationID":    30405
+    "annotationID":    57551
    },
    "kick_return_yards":   18,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
     "propertyValue":"2",
-    "annotationID":    30404
+    "annotationID":    57550
    },
    "punt_return_yards":   20,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    30406
+    "annotationID":    57552
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    30407
+    "annotationID":    57553
    },
    "defense_interception_yards":   43,
    "defense_interception_touchdowns":   0,
@@ -904,8 +919,60 @@
   "18":{
    "player_id":   17481,
    "year":"2013",
+   "date":"2013-10-27",
+   "game_number":"8",
+   "age":"23-108",
+   "team":"ARI",
+   "game_location":"H",
+   "opponent":"ATL",
+   "game_won":   true,
+   "player_team_score":"27",
+   "opponent_score":"13",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   1,
+   "receiving_yards":   13,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   2,
+   "punt_return_yards":   -4,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   2,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Patrick Peterson even covered him on some occasions), Ryan didn't have any potent targets to throw to. "
+  },
+  "19":{
+   "player_id":   17481,
+   "year":"2013",
    "date":"2013-11-10",
-   "game_number":"9",
+   "game_number":{
+    "propertyValue":"9",
+    "annotationID":    61551
+   },
    "age":"23-122",
    "team":"ARI",
    "game_location":"H",
@@ -923,7 +990,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    32182
+    "annotationID":    61553
    },
    "rushing_yards":   -4,
    "rushing_touchdowns":   0,
@@ -934,11 +1001,17 @@
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
-   "punt_return_attempts":   6,
+   "punt_return_attempts":{
+    "propertyValue":"6",
+    "annotationID":    61550
+   },
    "punt_return_yards":   74,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   4,
+   "defense_tackles":{
+    "propertyValue":"4",
+    "annotationID":    61552
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -953,7 +1026,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson, who had great coverage on Johnson, couldn't do anything about it. Keenum ultimately went 15-of-26 for 159 yards and 2 touchdowns in the opening half. Things were looking promising for Keenum, who helped the Texans outscore the Cardinals, 17-7, after the initial strip-six. However, things fell apart for him after intermission. Arizona's defense made some great adjustments and sent some creative blitzes Keenum's way. Keenum, perhaps due to inexperience, couldn't handle Arizona's blitzes. He was sacked only 3 times - 1 of which was for a 22-yard loss - but that's not indicative of the pressure he was under in the second half. Keenum, who went just 7-of-17 for 42 yards and a score following the break, was lucky to get away with what should have been a couple of interceptions. He also launched a couple of deep balls that sailed out of bounds on his final possession.    The Texans were able to hang around despite Keenum's second-half struggles because of poor Arizona coaching. The defense did a great job, but I have no idea what Bruce Arians was doing at times. Arians did a great job early on of setting up weird screens for his tight ends, which is something the Texans couldn't handle. But Arians' obsession with giving the ball to "
   },
-  "19":{
+  "20":{
    "player_id":   17481,
    "year":"2013",
    "date":"2013-11-17",
@@ -1002,7 +1075,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson blanketing him. Shorts complained to the media about his usage after the game.   "
   },
-  "20":{
+  "21":{
    "player_id":   17481,
    "year":"2013",
    "date":"2013-11-24",
@@ -1051,7 +1124,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson's coverage. Hilton made 5 catches for only 38 yards. In fact, the only Colt with more receiving yardage than that was "
   },
-  "21":{
+  "22":{
    "player_id":   17481,
    "year":"2013",
    "date":"2013-12-01",
@@ -1082,7 +1155,10 @@
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   1,
-   "punt_return_yards":   3,
+   "punt_return_yards":{
+    "propertyValue":"3",
+    "annotationID":    63763
+   },
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   2,
@@ -1100,7 +1176,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson. Still though, Foles was extremely accurate and read the blitz well. It must also be noted that he did all of this without "
   },
-  "22":{
+  "23":{
    "player_id":   17481,
    "year":"2013",
    "date":"2013-12-22",
@@ -1132,14 +1208,14 @@
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
     "propertyValue":"2",
-    "annotationID":    34699
+    "annotationID":    66107
    },
    "punt_return_yards":   6,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"2",
-    "annotationID":    34700
+    "annotationID":    66108
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1155,7 +1231,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson erased Golden Tate (2-34), forcing Wilson to fire to the likes of Jermaine Kearse (3-38) and Zach Miller (1-11, TD)."
   },
-  "23":{
+  "24":{
    "player_id":   17481,
    "year":"2013",
    "date":"2013-12-29",
@@ -1204,7 +1280,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson smothering Michael Crabtree (3-29), Kaepernick really had no choice but to turn to Boldin and Vernon Davis (3-45, TD)."
   },
-  "24":{
+  "25":{
    "player_id":   17481,
    "year":"2014",
    "date":"2014-10-12",
@@ -1253,7 +1329,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson. Jackson was then whistled for a dirty hit out of bounds. Oh, and to top it off, FOX announcer Dick Stockton called Larry Fitzgerald DeSean Jackson at 1 point.    "
   },
-  "25":{
+  "26":{
    "player_id":   17481,
    "year":"2014",
    "date":"2014-10-26",
@@ -1302,7 +1378,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson early on and then proceeded to do the same with Jerraud Powers once Peterson left with a concussion."
   },
-  "26":{
+  "27":{
    "player_id":   17481,
    "year":"2014",
    "date":"2014-11-09",
@@ -1351,7 +1427,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson, which he forced into tight coverage. Peterson then secured another pick, which he tipped to himself off a deflection from "
   },
-  "27":{
+  "28":{
    "player_id":   17481,
    "year":"2014",
    "date":"2014-11-16",
@@ -1400,7 +1476,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson had solid coverage, but Stafford simply didn't have an opportunity to get the ball to his All-Pro receiver. Johnson also hurt Stafford with a deep drop on third-and-long. Golden Tate (2-41) had an even worse outing.    With Reggie Bush out again, "
   },
-  "28":{
+  "29":{
    "player_id":   17481,
    "year":"2014",
    "date":"2014-11-30",
@@ -1449,7 +1525,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson, who didn't have a chance. Jones embarrassed Peterson's entire family and unborn grandchildren, catching 10 balls for a career-high 189 yards and a touchdown. Jones shouldn't have had 41 of those yards because he had just 1 foot inbounds on a catch, but Bruce Arians made a rare mistake by not challenging the call.    Elsewhere, "
   },
-  "29":{
+  "30":{
    "player_id":   17481,
    "year":"2014",
    "date":"2014-12-21",
@@ -1459,8 +1535,14 @@
    "game_location":"H",
    "opponent":"SEA",
    "game_won":   false,
-   "player_team_score":"6",
-   "opponent_score":"35",
+   "player_team_score":{
+    "propertyValue":"6",
+    "annotationID":    81232
+   },
+   "opponent_score":{
+    "propertyValue":"35",
+    "annotationID":    81233
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -1483,7 +1565,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   3,
+   "defense_tackles":{
+    "propertyValue":"3",
+    "annotationID":    81231
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -1498,7 +1583,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson, who helplessly tried to strip the ball out of his arm. Lynch finished with 113 yards and a 2 touchdowns on just 10 carries. While he was out, "
   },
-  "30":{
+  "31":{
    "player_id":   17481,
    "year":"2015",
    "date":"2015-10-11",
@@ -1537,7 +1622,7 @@
    "defense_interceptions":   1,
    "defense_interception_yards":{
     "propertyValue":"40",
-    "annotationID":    45029
+    "annotationID":    88185
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -1550,7 +1635,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson, who he returned it 40 yards. Promptly, Palmer threw a perfect pass to "
   },
-  "31":{
+  "32":{
    "player_id":   17481,
    "year":"2015",
    "date":"2015-10-18",
@@ -1599,7 +1684,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson shadowed Antonio Brown."
   },
-  "32":{
+  "33":{
    "player_id":   17481,
    "year":"2015",
    "date":"2015-11-22",
@@ -1648,7 +1733,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson had to sit out the final couple of drives because he couldn't put any weight on his ankle. It's unknown how serious this injury is, but the Cardinals couldn't stop Cincinnati when he wasn't on the field.    As for the Bengals, they made the mistakes in the second half when the Cardinals stopped shooting themselves in the foot. They dropped several passes, while "
   },
-  "33":{
+  "34":{
    "player_id":   17481,
    "year":"2015",
    "date":"2015-12-06",
@@ -1697,7 +1782,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson inexplicably dropped the ball. Foles probably won't start again this year.    This was another wasted effort by "
   },
-  "34":{
+  "35":{
    "player_id":   17481,
    "year":"2015",
    "date":"2015-12-10",
@@ -1707,7 +1792,10 @@
    "game_location":"H",
    "opponent":"MIN",
    "game_won":   true,
-   "player_team_score":"23",
+   "player_team_score":{
+    "propertyValue":"23",
+    "annotationID":    95693
+   },
    "opponent_score":"20",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1727,11 +1815,17 @@
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
-   "punt_return_attempts":   1,
+   "punt_return_attempts":{
+    "propertyValue":"1",
+    "annotationID":    95694
+   },
    "punt_return_yards":   4,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   1,
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    95695
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -1746,13 +1840,62 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson.    As for the Cardinals, they prevailed to clinch playoff berth, but they didn't look overly motivated in this contest. In fact, they were very lethargic at times. They seemed to play with no energy, sleepwalking through this game. As mentioned, they were lucky to get away with a victory because the Vikings killed themselves with some bad errors. "
   },
-  "35":{
+  "36":{
+   "player_id":   17481,
+   "year":"2016",
+   "date":"2016-09-11",
+   "game_number":"1",
+   "age":"26-062",
+   "team":"ARI",
+   "game_location":"H",
+   "opponent":"NWE",
+   "game_won":   false,
+   "player_team_score":"21",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   1,
+   "punt_return_yards":   8,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   4,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Patrick Peterson.    One of the primary reasons I liked the Patriots in this game was "
+  },
+  "37":{
    "player_id":   17481,
    "year":"2016",
    "date":"2016-09-18",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    51607
+    "annotationID":    102162
    },
    "age":"26-069",
    "team":"ARI",
@@ -1785,12 +1928,12 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"4",
-    "annotationID":    51610
+    "annotationID":    102165
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    51611
+    "annotationID":    102166
    },
    "defense_interception_yards":   25,
    "defense_interception_touchdowns":   0,
@@ -1804,7 +1947,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson to look like a receiver. The second was thrown right to Marcus Cooper. Winston then lost a fumble when he was once again moving the ball well. The fumble wasn't his fault though, as Charles Sims' helmet knocked the ball loose. Sims was on the field because Doug Martin was lost with a hamstring. Winston threw 2 more interceptions, 1 of which came when the Buccaneers still had a chance to make a comeback. Down 20, the Buccaneers once again had a promising drive in the works, but Winston launched a high pass to Sims, which was tipped into the air. The ball fell right into Cooper's hands, and Cooper ran it back for a touchdown. Cooper replaced the woefully inept Brandon Williams at corner and was so much better. Winston finished 27-of-52 for 243 yards, 1 touchdown, 4 interceptions and a lost fumble. While the score was a nice 1 - it was a beautiful back-shoulder throw to Mike Evans, who was seeing coverage from Patrick Peterson - Winston's stat line could've been even worse than it was because the Cardinals dropped at least 3 more potential interceptions. One was thrown right to Peterson, who somehow couldn't come up with the turnover.    The Cardinals, meanwhile, really needed to rebound following the loss to New England last week. "
   },
-  "36":{
+  "38":{
    "player_id":   17481,
    "year":"2016",
    "date":"2016-09-25",
@@ -1841,11 +1984,11 @@
    "defense_tackles":   4,
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    52080
+    "annotationID":    102988
    },
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    52081
+    "annotationID":    102989
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -1859,7 +2002,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson made a beautiful interception for the Cardinals. Taylor slightly overthrew his target and Peterson made a 1.handed grab in stride. He managed to stay in bounds, and it really was an impressive and natural-looking play by the superstar corner.   "
   },
-  "37":{
+  "39":{
    "player_id":   17481,
    "year":"2016",
    "date":"2016-10-30",
@@ -1891,7 +2034,7 @@
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
     "propertyValue":"1",
-    "annotationID":    54189
+    "annotationID":    108987
    },
    "punt_return_yards":   2,
    "punt_return_touchdowns":   0,
@@ -1899,7 +2042,7 @@
    "defense_tackles":   3,
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    54190
+    "annotationID":    108988
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -1914,7 +2057,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson's great coverage. Olsen (1-11) didn't do anything, and "
   },
-  "38":{
+  "40":{
    "player_id":   17481,
    "year":"2016",
    "date":"2016-11-20",
@@ -1963,7 +2106,59 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson smothered Stefon Diggs, which would explain why he caught 6 passes for only 37 yards."
   },
-  "39":{
+  "41":{
+   "player_id":   17481,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"26-139",
+   "team":"ARI",
+   "game_location":"A",
+   "opponent":"ATL",
+   "game_won":   false,
+   "player_team_score":"19",
+   "opponent_score":"38",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   1,
+   "punt_return_yards":   6,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":{
+    "propertyValue":"4",
+    "annotationID":    113061
+   },
+   "defense_tackle_assists":   1,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Patrick Peterson. Jermaine Gresham followed that up with a dropped pass on a third down. Following halftime, safety D.J. Swearinger dropped an easy Ryan interception, giving Atlanta new life. Ryan was able to take the opportunity to pick up a first down on a third-and-10 scramble. And if all that wasn't bad enough, the Cardinals forced a punt, down 24-13 early in the 4.h quarter, but Calais Campbell inexplicably lined up offside. The Falcons' drive continued, and was capped off with a touchdown, giving them an insurmountable 31-13 advantage. The Falcons, meanwhile, didn't do anything that impressive, despite their blowout victory. Most of their chunks of offense came on fluky plays, whether they were screen passes to Taylor Gabriel, or Ryan third-down scrambles, or poor pass-interference calls on Patrick Peterson. Again, Atlanta was being outgained in yards per play the entire afternoon, so its offense wasn't as good as Arizona's, and anyone who paid close attention to this game would probably agree.    Ryan finished 26-of-34 for 269 yards, 2 touchdowns and an interception. He played well overall, but wasn't great. Statistics can often be misleading, and that was certainly the case in this instance. Two of Ryan's longest completions, a 35- and a 25-yarder, were short tosses to Gabriel, who did all the work against a sloppy Arizona defense. Ryan's pick wasn't his fault, as it was a "
+  },
+  "42":{
    "player_id":   17481,
    "year":"2016",
    "date":"2016-12-04",
@@ -1995,7 +2190,7 @@
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
     "propertyValue":"1",
-    "annotationID":    56693
+    "annotationID":    114785
    },
    "punt_return_yards":   13,
    "punt_return_touchdowns":   0,
@@ -2003,11 +2198,11 @@
    "defense_tackles":   2,
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    56694
+    "annotationID":    114786
    },
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    56695
+    "annotationID":    114787
    },
    "defense_interception_yards":   2,
    "defense_interception_touchdowns":   0,
@@ -2021,7 +2216,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson to clinch the Cardinals' win.    Palmer played very well, completing 30-of-46 for 300 yards and 3 touchdowns. Fitzgerald continues to rewrite the record books as he totaled 9 catches for 91 yards.    David Johnson was the big star for the Arizona offense with 18 carries for 84 yards and a touchdown on the ground. Through the air, he had 9 receptions for 91 yards and a touchdown.    Cousins was 21-of-37 for 271 yards with 1 touchdown and 1 interception. He added a rushing touchdown. Garcon led the Redskins in receiving with 78 yards on 7 receptions.    Rob Kelley totaled 63 yards on 14 carries.    Calais Campbell had an excellent game for the Cardinals with a big-time presence at the point of attack. Trent Murphy and "
   },
-  "40":{
+  "43":{
    "player_id":   17481,
    "year":"2016",
    "date":"2016-12-11",
@@ -2070,7 +2265,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson. Thanks to "
   },
-  "41":{
+  "44":{
    "player_id":   17481,
    "year":"2016",
    "date":"2016-12-24",
@@ -2119,7 +2314,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson too much. Any other week, this type of performance would have won Wilson the game. This week, it did not. Still, if he plays like this in the playoffs, the team will be in excellent shape.    That said, Seattle's running attack will not be in good shape. "
   },
-  "42":{
+  "45":{
    "player_id":   17481,
    "year":"2016",
    "date":"2017-01-01",
@@ -2168,11 +2363,14 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson set up Arizona in great field position. The Cardinals' next play saw Palmer find "
   },
-  "43":{
+  "46":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-09-10",
-   "game_number":"1",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    119506
+   },
    "age":"27-061",
    "team":"ARI",
    "game_location":"A",
@@ -2203,7 +2401,10 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   0,
-   "defense_tackle_assists":   1,
+   "defense_tackle_assists":{
+    "propertyValue":"1",
+    "annotationID":    119507
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -2217,7 +2418,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson would cover Golden Tate, but Tate was still able to catch 10 passes for 107 yards. "
   },
-  "44":{
+  "47":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-09-25",
@@ -2266,7 +2467,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson in overtime helped get San Francisco on the move. The 49ers advanced the ball with an 11-yard pass to "
   },
-  "45":{
+  "48":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-10-01",
@@ -2315,7 +2516,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson in overtime helped get San Francisco on the move. The 49ers advanced the ball with an 11-yard pass to "
   },
-  "46":{
+  "49":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-10-08",
@@ -2364,7 +2565,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson dominated the matchup.    "
   },
-  "47":{
+  "50":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-10-15",
@@ -2413,7 +2614,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson's absence. Peterson left the game with a quad injury. Along with Evans, "
   },
-  "48":{
+  "51":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-10-22",
@@ -2447,7 +2648,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   1,
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    125692
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -2462,7 +2666,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson. Watkins' catches actually happened on the few instances in which Peterson wasn't covering him. Both "
   },
-  "49":{
+  "52":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-11-05",
@@ -2475,7 +2679,7 @@
    "player_team_score":"20",
    "opponent_score":{
     "propertyValue":"10",
-    "annotationID":    63365
+    "annotationID":    127830
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2514,7 +2718,7 @@
    "punting_blocked":   0,
    "comment":"Patrick Peterson for a return to inside the 49ers' 10-yard line, which set up the Cardinals' offense. Stanton found "
   },
-  "50":{
+  "53":{
    "player_id":   17481,
    "year":"2017",
    "date":"2017-11-19",
@@ -2548,7 +2752,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   2,
+   "defense_tackles":{
+    "propertyValue":"2",
+    "annotationID":    129310
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,
    "defense_interception_yards":   22,
@@ -2564,5 +2771,5 @@
    "comment":"Patrick Peterson's, leading to another Cardinal trip to the end zone. It seemed like the Texans made up their mind to have Savage throw "
   }
  },
- "numberGames": 50
+ "numberGames": 53
 }

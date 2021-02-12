@@ -21,7 +21,10 @@
    "player_id":   20010,
    "year":"2009",
    "date":"2009-10-04",
-   "game_number":"4",
+   "game_number":{
+    "propertyValue":"4",
+    "annotationID":    11840
+   },
    "age":"33-335",
    "team":"NOR",
    "game_location":"H",
@@ -52,9 +55,15 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0.5,
    "defense_tackles":   5,
-   "defense_tackle_assists":   4,
+   "defense_tackle_assists":{
+    "propertyValue":"4",
+    "annotationID":    11841
+   },
    "defense_interceptions":   2,
-   "defense_interception_yards":   99,
+   "defense_interception_yards":{
+    "propertyValue":"99",
+    "annotationID":    11837
+   },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
    "point_after_attemps":   0,
@@ -105,7 +114,7 @@
    "defense_interceptions":   1,
    "defense_interception_yards":{
     "propertyValue":"42",
-    "annotationID":    6601
+    "annotationID":    13819
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,

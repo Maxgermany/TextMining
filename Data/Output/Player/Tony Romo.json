@@ -23,7 +23,7 @@
    "date":"2008-09-07",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    278
+    "annotationID":    519
    },
    "age":"28-139",
    "team":"DAL",
@@ -34,30 +34,30 @@
    "opponent_score":"10",
    "passing_attempts":{
     "propertyValue":"24",
-    "annotationID":    271
+    "annotationID":    512
    },
    "passing_completions":{
     "propertyValue":"32",
-    "annotationID":    272
+    "annotationID":    513
    },
    "passing_yards":{
     "propertyValue":"320",
-    "annotationID":    273
+    "annotationID":    514
    },
    "passing_rating":   103.6,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    279
+    "annotationID":    520
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    280
+    "annotationID":    521
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    281
+    "annotationID":    522
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -99,18 +99,30 @@
    "game_won":   false,
    "player_team_score":"24",
    "opponent_score":"26",
-   "passing_attempts":   28,
-   "passing_completions":   47,
-   "passing_yards":   300,
+   "passing_attempts":{
+    "propertyValue":"28",
+    "annotationID":    2104
+   },
+   "passing_completions":{
+    "propertyValue":"47",
+    "annotationID":    2105
+   },
+   "passing_yards":{
+    "propertyValue":"300",
+    "annotationID":    2106
+   },
    "passing_rating":   90.7,
-   "passing_touchdowns":   3,
+   "passing_touchdowns":{
+    "propertyValue":"3",
+    "annotationID":    2107
+   },
    "passing_interceptions":   1,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
     "propertyValue":"7",
-    "annotationID":    1172
+    "annotationID":    2103
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -153,20 +165,20 @@
    "opponent_score":"22",
    "passing_attempts":{
     "propertyValue":"14",
-    "annotationID":    1464
+    "annotationID":    2603
    },
    "passing_completions":{
     "propertyValue":"23",
-    "annotationID":    1465
+    "annotationID":    2604
    },
    "passing_yards":{
     "propertyValue":"176",
-    "annotationID":    1466
+    "annotationID":    2605
    },
    "passing_rating":   106.2,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    1467
+    "annotationID":    2606
    },
    "passing_interceptions":   1,
    "passing_sacks":   1,
@@ -212,27 +224,27 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"24",
-    "annotationID":    1800
+    "annotationID":    3214
    },
    "opponent_score":"30",
    "passing_attempts":{
     "propertyValue":"24",
-    "annotationID":    1801
+    "annotationID":    3215
    },
    "passing_completions":   38,
    "passing_yards":{
     "propertyValue":"321",
-    "annotationID":    1802
+    "annotationID":    3216
    },
    "passing_rating":   116.2,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    1803
+    "annotationID":    3217
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    1804
+    "annotationID":    3218
    },
    "passing_sacks_yards_lost":   20,
    "rushing_attempts":   1,
@@ -267,6 +279,67 @@
   "5":{
    "player_id":   19060,
    "year":"2008",
+   "date":"2008-11-23",
+   "game_number":"11",
+   "age":"28-216",
+   "team":"DAL",
+   "game_location":"H",
+   "opponent":"SFO",
+   "game_won":   true,
+   "player_team_score":"35",
+   "opponent_score":"22",
+   "passing_attempts":{
+    "propertyValue":"23",
+    "annotationID":    6337
+   },
+   "passing_completions":{
+    "propertyValue":"39",
+    "annotationID":    6338
+   },
+   "passing_yards":{
+    "propertyValue":"341",
+    "annotationID":    6339
+   },
+   "passing_rating":   113.3,
+   "passing_touchdowns":{
+    "propertyValue":"3",
+    "annotationID":    6340
+   },
+   "passing_interceptions":   0,
+   "passing_sacks":   1,
+   "passing_sacks_yards_lost":   7,
+   "rushing_attempts":   4,
+   "rushing_yards":   -3,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Tony Romo didn't have to force anything. Romo consequently finished 23-of-39 for 341 yards and 3 touchdowns.    "
+  },
+  "6":{
+   "player_id":   19060,
+   "year":"2008",
    "date":"2008-11-27",
    "game_number":"12",
    "age":"28-220",
@@ -276,25 +349,25 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"34",
-    "annotationID":    3042
+    "annotationID":    6592
    },
    "opponent_score":"9",
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    3041
+    "annotationID":    6591
    },
    "passing_completions":{
     "propertyValue":"34",
-    "annotationID":    3043
+    "annotationID":    6593
    },
    "passing_yards":{
     "propertyValue":"331",
-    "annotationID":    3044
+    "annotationID":    6594
    },
    "passing_rating":   113.7,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    3045
+    "annotationID":    6595
    },
    "passing_interceptions":   1,
    "passing_sacks":   0,
@@ -328,7 +401,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo continuously took shots downfield, misfiring most of the time. He even threw a pick in the second half. Romo finished the game with great numbers, going 22-of-34 for 331 yards, 3 touchdowns and an interception. He located "
   },
-  "6":{
+  "7":{
    "player_id":   19060,
    "year":"2008",
    "date":"2008-11-27",
@@ -377,7 +450,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo's sake, let's hope Owens wasn't watching this game.    The actual play was a "
   },
-  "7":{
+  "8":{
    "player_id":   19060,
    "year":"2008",
    "date":"2008-12-07",
@@ -391,33 +464,33 @@
    "opponent_score":"20",
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    3647
+    "annotationID":    7570
    },
    "passing_completions":{
     "propertyValue":"36",
-    "annotationID":    3648
+    "annotationID":    7571
    },
    "passing_yards":{
     "propertyValue":"210",
-    "annotationID":    3649
+    "annotationID":    7572
    },
    "passing_rating":   44.9,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    3650
+    "annotationID":    7573
    },
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    3652
+    "annotationID":    7575
    },
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    3653
+    "annotationID":    7576
    },
    "passing_sacks_yards_lost":   16,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    3651
+    "annotationID":    7574
    },
    "rushing_yards":   6,
    "rushing_touchdowns":   0,
@@ -447,7 +520,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo, who continued to pull an Aurora Snow in December. In his 3.year career, Romo is 4-8 straight up and 1-9-2 against the spread after Nov. 30. Romo finished 19-of-36 for 210 yards and 1 touchdown, but he also had 3 interceptions and a fumble.    That said, Romo deserves only some of the blame. "
   },
-  "8":{
+  "9":{
    "player_id":   19060,
    "year":"2008",
    "date":"2008-12-20",
@@ -459,42 +532,45 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"24",
-    "annotationID":    3702
+    "annotationID":    8278
    },
    "opponent_score":"33",
    "passing_attempts":{
     "propertyValue":"24",
-    "annotationID":    3703
+    "annotationID":    8279
    },
    "passing_completions":{
     "propertyValue":"45",
-    "annotationID":    3704
+    "annotationID":    8280
    },
    "passing_yards":{
     "propertyValue":"252",
-    "annotationID":    3705
+    "annotationID":    8281
    },
    "passing_rating":   66.2,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    3716
+    "annotationID":    8292
    },
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    3717
+    "annotationID":    8293
    },
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    3718
+    "annotationID":    8294
    },
-   "passing_sacks_yards_lost":   17,
+   "passing_sacks_yards_lost":{
+    "propertyValue":"17",
+    "annotationID":    8297
+   },
    "rushing_attempts":{
     "propertyValue":"2",
-    "annotationID":    3719
+    "annotationID":    8295
    },
    "rushing_yards":{
     "propertyValue":"2",
-    "annotationID":    3720
+    "annotationID":    8296
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -523,13 +599,74 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was the 1 who choked, living up to his nickname of Aurora Snowmo.    Snowmo finished the contest 24-of-45 for 252 yards and 2 touchdowns, but those numbers were pretty artificial; Snowmo compiled that yardage and the 2 scores in a pair of futile drives in the 4.h quarter. At 1 point in this contest, Snowmo was 13-of-25 for 90 yards, 2 picks and a fumble. This was yet another instance of Snowmo coming up small in December. I still don't understand how he beat the Giants. I know the defense stepped up, but Snowmo actually looked decent in that contest. He was dreadful on Saturday night until it was clear that the game was out of hand, enabling Snowmo to exit out of choke mode.    Excluding Snowmo's follies, the biggest difference in this contest was the coaching mismatch. If you couldn't tell that by the penalty difference (Baltimore 3 for 19 yards; Dallas 10 for 86 yards), how about the fake field goal Baltimore ran in the second half? John Harbugh caught the feeble Wade Phillips completely off guard. Later, when Phillips should have kicked onside, Harbaugh called a timeout prior to the kickoff, but not before "
   },
-  "9":{
+  "10":{
+   "player_id":   19060,
+   "year":"2009",
+   "date":"2009-09-13",
+   "game_number":"1",
+   "age":"29-145",
+   "team":"DAL",
+   "game_location":"A",
+   "opponent":"TAM",
+   "game_won":   true,
+   "player_team_score":"34",
+   "opponent_score":"21",
+   "passing_attempts":{
+    "propertyValue":"16",
+    "annotationID":    9905
+   },
+   "passing_completions":{
+    "propertyValue":"27",
+    "annotationID":    9906
+   },
+   "passing_yards":{
+    "propertyValue":"353",
+    "annotationID":    9909
+   },
+   "passing_rating":   140.6,
+   "passing_touchdowns":{
+    "propertyValue":"3",
+    "annotationID":    9908
+   },
+   "passing_interceptions":   0,
+   "passing_sacks":   1,
+   "passing_sacks_yards_lost":   9,
+   "rushing_attempts":   1,
+   "rushing_yards":   2,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Tony Romo started this game slowly, as he was just 6-of-13 for 64 yards in the first 28 minutes of this contest. I was all prepared to write how Romo struggled with the departure of Terrell Owens, but Romo exploded after that, finishing 16-of-27 for 353 yards and 3 touchdowns. Amazingly, Romo's 353 yards were a career-high. So much for struggling without Owens!    So, who stepped up in Owens' absence? Try everyone. Without needing to target Owens a set amount of times per game, Romo was allowed to scan the field and find the open receiver. "
+  },
+  "11":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-09-20",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    4708
+    "annotationID":    10546
    },
    "age":"29-152",
    "team":"DAL",
@@ -538,7 +675,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"31",
-    "annotationID":    4707
+    "annotationID":    10545
    },
    "opponent_score":"33",
    "passing_attempts":   13,
@@ -578,7 +715,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.    Amazingly, Edwards completed more passes to "
   },
-  "10":{
+  "12":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-09-28",
@@ -594,14 +731,14 @@
    "passing_completions":   33,
    "passing_yards":{
     "propertyValue":"255",
-    "annotationID":    5491
+    "annotationID":    11870
    },
    "passing_rating":   89.8,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    5492
+    "annotationID":    11871
    },
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":   5,
@@ -633,7 +770,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo failed to throw a touchdown. Before this contest, Romo had never gone back-to-back games without a score in his career. That has now changed. Romo was 25-of-42 for 255 yards, a pick and 2 fumbles. He missed wide-open receivers all afternoon.    Romo is really struggling without "
   },
-  "11":{
+  "13":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-10-04",
@@ -647,15 +784,15 @@
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    5493
+    "annotationID":    11875
    },
    "passing_completions":{
     "propertyValue":"42",
-    "annotationID":    5494
+    "annotationID":    11876
    },
    "passing_yards":{
     "propertyValue":"255",
-    "annotationID":    5495
+    "annotationID":    11877
    },
    "passing_rating":   67.1,
    "passing_touchdowns":   0,
@@ -691,7 +828,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo failed to throw a touchdown. Before this contest, Romo had never gone back-to-back games without a score in his career. That has now changed. Romo was 25-of-42 for 255 yards, a pick and 2 fumbles. He missed wide-open receivers all afternoon.    Romo is really struggling without "
   },
-  "12":{
+  "14":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-10-11",
@@ -704,34 +841,34 @@
    "player_team_score":"26",
    "opponent_score":{
     "propertyValue":"20",
-    "annotationID":    5613
+    "annotationID":    12069
    },
    "passing_attempts":{
     "propertyValue":"20",
-    "annotationID":    5614
+    "annotationID":    12070
    },
    "passing_completions":{
     "propertyValue":"34",
-    "annotationID":    5615
+    "annotationID":    12071
    },
    "passing_yards":{
     "propertyValue":"351",
-    "annotationID":    5616
+    "annotationID":    12072
    },
    "passing_rating":   113.7,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    5617
+    "annotationID":    12073
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
     "propertyValue":"3",
-    "annotationID":    5611
+    "annotationID":    12067
    },
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    5612
+    "annotationID":    12068
    },
    "rushing_yards":   5,
    "rushing_touchdowns":   0,
@@ -761,7 +898,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo suffered those 3 drops by Austin-Jones, but was still able to go 20-of-34 for 351 yards and 2 touchdowns without Roy Williams in the lineup."
   },
-  "13":{
+  "15":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-10-25",
@@ -774,24 +911,24 @@
    "player_team_score":"37",
    "opponent_score":{
     "propertyValue":"21",
-    "annotationID":    6476
+    "annotationID":    13602
    },
    "passing_attempts":{
     "propertyValue":"21",
-    "annotationID":    6477
+    "annotationID":    13603
    },
    "passing_completions":{
     "propertyValue":"29",
-    "annotationID":    6478
+    "annotationID":    13604
    },
    "passing_yards":{
     "propertyValue":"311",
-    "annotationID":    6479
+    "annotationID":    13605
    },
    "passing_rating":   141.6,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    6480
+    "annotationID":    13606
    },
    "passing_interceptions":   0,
    "passing_sacks":   2,
@@ -825,13 +962,13 @@
    "punting_blocked":   0,
    "comment":"Tony Romo with the legitimate No. 1 receiver that he needs, Romo was 21-of-29 for 311 yards and 3 touchdowns.    "
   },
-  "14":{
+  "16":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-11-01",
    "game_number":{
     "propertyValue":"7",
-    "annotationID":    6664
+    "annotationID":    13928
    },
    "age":"29-194",
    "team":"DAL",
@@ -842,31 +979,31 @@
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"21",
-    "annotationID":    6660
+    "annotationID":    13924
    },
    "passing_completions":{
     "propertyValue":"36",
-    "annotationID":    6661
+    "annotationID":    13925
    },
    "passing_yards":{
     "propertyValue":"256",
-    "annotationID":    6662
+    "annotationID":    13926
    },
    "passing_rating":   108.1,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    6663
+    "annotationID":    13927
    },
    "passing_interceptions":   0,
    "passing_sacks":   2,
    "passing_sacks_yards_lost":{
     "propertyValue":"7",
-    "annotationID":    6665
+    "annotationID":    13929
    },
    "rushing_attempts":   1,
    "rushing_yards":{
     "propertyValue":"10",
-    "annotationID":    6666
+    "annotationID":    13930
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -895,7 +1032,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was prolific, going 21-of-36 for 256 yards and 3 touchdowns. Romo continuously moved the chains (7-of-13 on third downs) and Seattle's defense just couldn't get off the field all afternoon. The Cowboys won the time-of-possession battle by nearly 10 minutes.    No other Dallas wideout did anything positive of note. "
   },
-  "15":{
+  "17":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-11-15",
@@ -907,15 +1044,30 @@
    "game_won":   false,
    "player_team_score":"7",
    "opponent_score":"17",
-   "passing_attempts":   24,
-   "passing_completions":   39,
-   "passing_yards":   251,
+   "passing_attempts":{
+    "propertyValue":"24",
+    "annotationID":    15559
+   },
+   "passing_completions":{
+    "propertyValue":"39",
+    "annotationID":    15560
+   },
+   "passing_yards":{
+    "propertyValue":"251",
+    "annotationID":    15561
+   },
    "passing_rating":   78,
-   "passing_touchdowns":   1,
-   "passing_interceptions":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    15564
+   },
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    15565
+   },
    "passing_sacks":{
     "propertyValue":"5",
-    "annotationID":    7596
+    "annotationID":    15566
    },
    "passing_sacks_yards_lost":   34,
    "rushing_attempts":   3,
@@ -947,7 +1099,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was sacked 5 times and turned the ball over twice. "
   },
-  "16":{
+  "18":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-11-22",
@@ -959,7 +1111,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"7",
-    "annotationID":    7698
+    "annotationID":    15721
    },
    "opponent_score":"6",
    "passing_attempts":   15,
@@ -968,15 +1120,15 @@
    "passing_rating":   69.7,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    7699
+    "annotationID":    15722
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    7700
+    "annotationID":    15723
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    7701
+    "annotationID":    15724
    },
    "passing_sacks_yards_lost":   6,
    "rushing_attempts":   2,
@@ -995,7 +1147,7 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"1",
-    "annotationID":    7702
+    "annotationID":    15725
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1011,7 +1163,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was just 8-of-19 for 98 yards and a pick prior to the game-winning possession late in the contest. Fortunately for Jerry Jones' sanity, Romo was sharp on that sequence (7-of-8, 60 yards).    Aside from Barber (20 carries, 99 yards), no 1 on the Cowboys put up solid numbers. "
   },
-  "17":{
+  "19":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-11-26",
@@ -1025,25 +1177,25 @@
    "opponent_score":"7",
    "passing_attempts":{
     "propertyValue":"18",
-    "annotationID":    8082
+    "annotationID":    16333
    },
    "passing_completions":{
     "propertyValue":"29",
-    "annotationID":    8083
+    "annotationID":    16334
    },
    "passing_yards":{
     "propertyValue":"309",
-    "annotationID":    8084
+    "annotationID":    16335
    },
    "passing_rating":   121.2,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    8085
+    "annotationID":    16336
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    8086
+    "annotationID":    16337
    },
    "passing_sacks_yards_lost":   10,
    "rushing_attempts":   1,
@@ -1075,7 +1227,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was pretty accurate on all of his throws, going 18-of-29 for 309 yards and 2 touchdowns. There was no indication that he was struggling with the back injury he labored through last week.    "
   },
-  "18":{
+  "20":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-12-13",
@@ -1089,30 +1241,30 @@
    "opponent_score":"20",
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    9210
+    "annotationID":    18317
    },
    "passing_completions":{
     "propertyValue":"30",
-    "annotationID":    9211
+    "annotationID":    18318
    },
    "passing_yards":{
     "propertyValue":"249",
-    "annotationID":    9212
+    "annotationID":    18319
    },
    "passing_rating":   111.7,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    9213
+    "annotationID":    18320
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    9214
+    "annotationID":    18321
    },
    "passing_sacks_yards_lost":   10,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    9215
+    "annotationID":    18322
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -1142,7 +1294,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo is 2-12 ATS as a starter after Nov. 30 One guy is awesome in December. The other guy sucks. If only each pick were so easy. My only regret is not placing 50,000 units on the Chargers. Laying $5.5 million to win $5 million would have been awesome.    I'd love to bash Tony Aurora Snowmo, but this defeat wasn't his fault. Though he converted just 1-of-8 third downs, he was 19-of-30 for 249 yards and 2 touchdowns. Dallas' problem was an overall lack of urgency, a leaky defense that couldn't stop Philip Rivers, and poor, predictable play-calling down at the goal line. The Cowboys had 1st-and-goal on San Diego's 4-yard line in the second quarter. Instead of calling a play-action fake or a bootleg, offensive coordinator Jason Garrett gave "
   },
-  "19":{
+  "21":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-12-19",
@@ -1156,15 +1308,15 @@
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    9280
+    "annotationID":    18457
    },
    "passing_completions":{
     "propertyValue":"34",
-    "annotationID":    9281
+    "annotationID":    18458
    },
    "passing_yards":{
     "propertyValue":"312",
-    "annotationID":    9282
+    "annotationID":    18459
    },
    "passing_rating":   104,
    "passing_touchdowns":   1,
@@ -1200,7 +1352,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was 20-of-30 for 244 yards and 2 touchdowns. Back then, everyone said the Cowboys had finally gotten over the hump. Even I was fooled. Dallas went on to lose their last 2 games by a combined score of 77-30. We all have a short memory. Anyone who thinks that the Cowboys have gotten over their annual December swoon is mistaken, or at least very premature in that judgment. I still say Dallas loses to Washington and Philadelphia to close out the year. Call me a hater or whatever, but I'm just calling it like I see it.    I will give credit where credit is due though, and Romo played extremely well. He was 22-of-34 for 312 yards and a touchdown. He didn't throw a pick, though "
   },
-  "20":{
+  "22":{
    "player_id":   19060,
    "year":"2009",
    "date":"2009-12-27",
@@ -1214,36 +1366,36 @@
    "opponent_score":"0",
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    10061
+    "annotationID":    19817
    },
    "passing_completions":{
     "propertyValue":"38",
-    "annotationID":    10062
+    "annotationID":    19818
    },
    "passing_yards":{
     "propertyValue":"286",
-    "annotationID":    10063
+    "annotationID":    19819
    },
    "passing_rating":   86.1,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    10064
+    "annotationID":    19820
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    10065
+    "annotationID":    19821
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    10066
+    "annotationID":    19822
    },
    "passing_sacks_yards_lost":{
     "propertyValue":"1",
-    "annotationID":    10067
+    "annotationID":    19823
    },
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    10068
+    "annotationID":    19824
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -1273,7 +1425,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo played extremely well yet again, going 25-of-38 for 286 yards, 1 touchdown and an interception against a Redskins team that appeared to be playing prevent defense the entire evening. The pick wasn't Romo's fault; "
   },
-  "21":{
+  "23":{
    "player_id":   19060,
    "year":"2009",
    "date":"2010-01-03",
@@ -1285,30 +1437,30 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"24",
-    "annotationID":    10274
+    "annotationID":    20127
    },
    "opponent_score":"0",
    "passing_attempts":{
     "propertyValue":"24",
-    "annotationID":    10275
+    "annotationID":    20128
    },
    "passing_completions":{
     "propertyValue":"34",
-    "annotationID":    10276
+    "annotationID":    20129
    },
    "passing_yards":{
     "propertyValue":"311",
-    "annotationID":    10277
+    "annotationID":    20130
    },
    "passing_rating":   106.4,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    10278
+    "annotationID":    20131
    },
    "passing_interceptions":   1,
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    10279
+    "annotationID":    20132
    },
    "passing_sacks_yards_lost":   16,
    "rushing_attempts":   3,
@@ -1340,11 +1492,14 @@
    "punting_blocked":   0,
    "comment":"Tony Romo did an incredible job moving the chains, keeping drives alive and putting enough points on the board. He went 24-of-34 for 311 yards, 2 touchdowns and an interception. Romo helped the Cowboys win the time-of-possession battle by nearly 21 minutes and limit the Eagles to just 10 first downs!    While the Eagles refused to run the ball, Dallas took advantage of its strong rushing attack. Both "
   },
-  "22":{
+  "24":{
    "player_id":   19060,
    "year":"2010",
    "date":"2010-09-12",
-   "game_number":"1",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    21194
+   },
    "age":"30-144",
    "team":"DAL",
    "game_location":"A",
@@ -1354,20 +1509,26 @@
    "opponent_score":"13",
    "passing_attempts":{
     "propertyValue":"31",
-    "annotationID":    10905
+    "annotationID":    21191
    },
    "passing_completions":{
     "propertyValue":"47",
-    "annotationID":    10906
+    "annotationID":    21192
    },
    "passing_yards":{
     "propertyValue":"282",
-    "annotationID":    10907
+    "annotationID":    21193
    },
    "passing_rating":   89.1,
-   "passing_touchdowns":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    21195
+   },
    "passing_interceptions":   0,
-   "passing_sacks":   1,
+   "passing_sacks":{
+    "propertyValue":"1",
+    "annotationID":    21196
+   },
    "passing_sacks_yards_lost":   5,
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -1398,13 +1559,13 @@
    "punting_blocked":   0,
    "comment":"Tony Romo found Roy Williams in the end zone for the game-winning score. The play didn't count, however, because Alex Barron held Brian Orakpo. And by held, I mean choked and tackled. It truly was a disgraceful play on Barron's part, and his unborn grandkids will undoubtedly have to live their lives in shame because of it.    Tony Romo went 31-of-47 for 282 yards and a touchdown. Romo did a great job considering how Washington abused his inept offensive line.    His first game after signing a massive contract, "
   },
-  "23":{
+  "25":{
    "player_id":   19060,
    "year":"2010",
    "date":"2010-09-19",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    10994
+    "annotationID":    21344
    },
    "age":"30-151",
    "team":"DAL",
@@ -1415,30 +1576,30 @@
    "opponent_score":"27",
    "passing_attempts":{
     "propertyValue":"34",
-    "annotationID":    10987
+    "annotationID":    21333
    },
    "passing_completions":{
     "propertyValue":"51",
-    "annotationID":    10988
+    "annotationID":    21334
    },
    "passing_yards":{
     "propertyValue":"374",
-    "annotationID":    10989
+    "annotationID":    21335
    },
    "passing_rating":   78.4,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    10990
+    "annotationID":    21336
    },
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    10995
+    "annotationID":    21345
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    10991
+    "annotationID":    21337
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -1468,13 +1629,13 @@
    "punting_blocked":   0,
    "comment":"Tony Romo, his stats (34-of-51, 374 yards, 1 TD, 2 INTs) indicate that he had a solid performance. That's not the case at all; as the 2 picks indicate, he was sloppy with the football. He also showed poor leadership, yelling at "
   },
-  "24":{
+  "26":{
    "player_id":   19060,
    "year":"2010",
    "date":"2010-09-26",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    11603
+    "annotationID":    22391
    },
    "age":"30-158",
    "team":"DAL",
@@ -1483,11 +1644,23 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":"13",
-   "passing_attempts":   23,
-   "passing_completions":   30,
-   "passing_yards":   284,
+   "passing_attempts":{
+    "propertyValue":"23",
+    "annotationID":    22392
+   },
+   "passing_completions":{
+    "propertyValue":"30",
+    "annotationID":    22393
+   },
+   "passing_yards":{
+    "propertyValue":"284",
+    "annotationID":    22394
+   },
    "passing_rating":   127.6,
-   "passing_touchdowns":   2,
+   "passing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    22395
+   },
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
@@ -1520,7 +1693,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was the third quarterback in 3 weeks to torch Houston's secondary. He didn't get to 400 yards like "
   },
-  "25":{
+  "27":{
    "player_id":   19060,
    "year":"2010",
    "date":"2010-10-10",
@@ -1534,30 +1707,30 @@
    "opponent_score":"34",
    "passing_attempts":{
     "propertyValue":"31",
-    "annotationID":    12465
+    "annotationID":    23758
    },
    "passing_completions":{
     "propertyValue":"46",
-    "annotationID":    12466
+    "annotationID":    23759
    },
    "passing_yards":{
     "propertyValue":"406",
-    "annotationID":    12467
+    "annotationID":    23760
    },
    "passing_rating":   89.6,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    12470
+    "annotationID":    23763
    },
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    12471
+    "annotationID":    23764
    },
    "passing_sacks":   6,
    "passing_sacks_yards_lost":   36,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    12472
+    "annotationID":    23765
    },
    "rushing_yards":   9,
    "rushing_touchdowns":   0,
@@ -1587,26 +1760,41 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 31-of-46 for 406 yards, 3 touchdowns and 3 interceptions (1 came in desperation mode). Believe it or not, Romo became the first Cowboys 400-yard passer since Troy Aikman in 1998.    Romo went to "
   },
-  "26":{
+  "28":{
    "player_id":   19060,
    "year":"2010",
    "date":"2010-10-17",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    24372
+   },
    "age":"30-179",
    "team":"DAL",
    "game_location":"A",
    "opponent":"MIN",
    "game_won":   false,
    "player_team_score":"21",
-   "opponent_score":"24",
-   "passing_attempts":   24,
-   "passing_completions":   32,
-   "passing_yards":   220,
+   "opponent_score":{
+    "propertyValue":"24",
+    "annotationID":    24373
+   },
+   "passing_attempts":{
+    "propertyValue":"24",
+    "annotationID":    24374
+   },
+   "passing_completions":{
+    "propertyValue":"32",
+    "annotationID":    24375
+   },
+   "passing_yards":{
+    "propertyValue":"220",
+    "annotationID":    24376
+   },
    "passing_rating":   98.4,
    "passing_touchdowns":   3,
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    12828
+    "annotationID":    24377
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
@@ -1615,7 +1803,10 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
-   "receiving_yards":   11,
+   "receiving_yards":{
+    "propertyValue":"11",
+    "annotationID":    24371
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1639,7 +1830,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo tossed 2 interceptions (both to E."
   },
-  "27":{
+  "29":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-09-11",
@@ -1653,20 +1844,20 @@
    "opponent_score":"27",
    "passing_attempts":{
     "propertyValue":"23",
-    "annotationID":    16386
+    "annotationID":    30232
    },
    "passing_completions":{
     "propertyValue":"36",
-    "annotationID":    16387
+    "annotationID":    30233
    },
    "passing_yards":{
     "propertyValue":"342",
-    "annotationID":    16388
+    "annotationID":    30234
    },
    "passing_rating":   101.9,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    16389
+    "annotationID":    30235
    },
    "passing_interceptions":   1,
    "passing_sacks":   4,
@@ -1700,7 +1891,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 23-of-36 for 342 yards, 2 touchdowns and an interception. Romo played really well for about 50 minutes, but the pick cost Dallas the game; he forced a ball into a covered "
   },
-  "28":{
+  "30":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-09-18",
@@ -1749,7 +1940,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was hit by Carlos Rogers toward the end of the second quarter and did not come out ready to play in the second half."
   },
-  "29":{
+  "31":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-09-26",
@@ -1798,7 +1989,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was red hot in the first half. He hooked up with "
   },
-  "30":{
+  "32":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-10-02",
@@ -1847,7 +2038,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was red hot in the first half. He hooked up with "
   },
-  "31":{
+  "33":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-10-16",
@@ -1861,30 +2052,30 @@
    "opponent_score":"20",
    "passing_attempts":{
     "propertyValue":"27",
-    "annotationID":    17963
+    "annotationID":    33274
    },
    "passing_completions":{
     "propertyValue":"41",
-    "annotationID":    17964
+    "annotationID":    33275
    },
    "passing_yards":{
     "propertyValue":"317",
-    "annotationID":    17965
+    "annotationID":    33276
    },
    "passing_rating":   87.1,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    17966
+    "annotationID":    33277
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    17967
+    "annotationID":    33278
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   17,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    17968
+    "annotationID":    33279
    },
    "rushing_yards":   17,
    "rushing_touchdowns":   0,
@@ -1914,7 +2105,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo had a bad interception, but otherwise showed no lingering effects from his meltdown against the Lions. He went 27-of-41 for 317 yards, 1 touchdown and a pick, though he missed "
   },
-  "32":{
+  "34":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-10-23",
@@ -1928,25 +2119,25 @@
    "opponent_score":"7",
    "passing_attempts":{
     "propertyValue":"14",
-    "annotationID":    18183
+    "annotationID":    33661
    },
    "passing_completions":{
     "propertyValue":"24",
-    "annotationID":    18184
+    "annotationID":    33662
    },
    "passing_yards":{
     "propertyValue":"166",
-    "annotationID":    18185
+    "annotationID":    33663
    },
    "passing_rating":   107.3,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    18186
+    "annotationID":    33664
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    18187
+    "annotationID":    33665
    },
    "passing_sacks_yards_lost":   15,
    "rushing_attempts":   0,
@@ -1978,7 +2169,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo didn't really have to do anything. This, of course, is when Romo is at his best. He went 14-of-24 for 166 yards and 2 touchdowns. He could have thrown a third score, but "
   },
-  "33":{
+  "35":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-10-30",
@@ -1992,30 +2183,33 @@
    "opponent_score":"34",
    "passing_attempts":{
     "propertyValue":"18",
-    "annotationID":    18522
+    "annotationID":    34386
    },
    "passing_completions":{
     "propertyValue":"35",
-    "annotationID":    18523
+    "annotationID":    34387
    },
    "passing_yards":{
     "propertyValue":"203",
-    "annotationID":    18524
+    "annotationID":    34388
    },
    "passing_rating":   66.7,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    18525
+    "annotationID":    34389
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    18526
+    "annotationID":    34390
    },
-   "passing_sacks":   4,
+   "passing_sacks":{
+    "propertyValue":"4",
+    "annotationID":    34392
+   },
    "passing_sacks_yards_lost":   21,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    18527
+    "annotationID":    34391
    },
    "rushing_yards":   9,
    "rushing_touchdowns":   0,
@@ -2045,7 +2239,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 18-of-35 for 203 yards, 1 touchdown and an interception. The pick wasn't his fault - it bounced out of "
   },
-  "34":{
+  "36":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-11-06",
@@ -2059,27 +2253,27 @@
    "opponent_score":"13",
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    18698
+    "annotationID":    34703
    },
    "passing_completions":{
     "propertyValue":"31",
-    "annotationID":    18699
+    "annotationID":    34704
    },
    "passing_yards":{
     "propertyValue":"279",
-    "annotationID":    18700
+    "annotationID":    34705
    },
    "passing_rating":   112.2,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    18702
+    "annotationID":    34707
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    18703
+    "annotationID":    34708
    },
    "rushing_yards":   13,
    "rushing_touchdowns":   0,
@@ -2109,7 +2303,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo's solid outing (19-31, 279 yards, 2 TDs), the Cowboys couldn't really pull away because they did what they do best - shoot themselves in the foot with dumb mistakes. This game was tied at 6 at halftime despite the fact that Dallas was outgaining Seattle, 304-134. The Cowboys had the ball on the Seahawk 1-yard line on 2 occasions and mustered only 3 points. One instance was a first-and-goal at the 1 in which Dallas couldn't punch it in. The second was a "
   },
-  "35":{
+  "37":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-11-13",
@@ -2123,20 +2317,20 @@
    "opponent_score":"7",
    "passing_attempts":{
     "propertyValue":"23",
-    "annotationID":    18935
+    "annotationID":    35149
    },
    "passing_completions":{
     "propertyValue":"26",
-    "annotationID":    18936
+    "annotationID":    35150
    },
    "passing_yards":{
     "propertyValue":"270",
-    "annotationID":    18937
+    "annotationID":    35151
    },
    "passing_rating":   148.4,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    18934
+    "annotationID":    35152
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
@@ -2170,7 +2364,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was downright surgical. He opened this contest 11-of-11 for 179 yards and 3 scores. By halftime, he was 18-of-19 for 237 yards, and he finished 23-of-26 for 270 yards and the same amount of touchdowns.    Two of Romo's scores went to "
   },
-  "36":{
+  "38":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-11-20",
@@ -2184,23 +2378,26 @@
    "opponent_score":"24",
    "passing_attempts":{
     "propertyValue":"23",
-    "annotationID":    19336
+    "annotationID":    36065
    },
    "passing_completions":{
     "propertyValue":"37",
-    "annotationID":    19337
+    "annotationID":    36066
    },
    "passing_yards":{
     "propertyValue":"292",
-    "annotationID":    19338
+    "annotationID":    36067
    },
    "passing_rating":   113.8,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    19339
+    "annotationID":    36070
    },
    "passing_interceptions":   0,
-   "passing_sacks":   4,
+   "passing_sacks":{
+    "propertyValue":"4",
+    "annotationID":    36071
+   },
    "passing_sacks_yards_lost":   28,
    "rushing_attempts":   2,
    "rushing_yards":   -2,
@@ -2231,7 +2428,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was tremendous last week, but even though his stat line looks pretty solid (23-of-37, 292 yards, 3 TDs), he really struggled at times by missing open receivers on numerous occasions.    Romo's scores went to "
   },
-  "37":{
+  "39":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-11-24",
@@ -2243,12 +2440,27 @@
    "game_won":   true,
    "player_team_score":"20",
    "opponent_score":"19",
-   "passing_attempts":   22,
-   "passing_completions":   34,
-   "passing_yards":   226,
+   "passing_attempts":{
+    "propertyValue":"22",
+    "annotationID":    36367
+   },
+   "passing_completions":{
+    "propertyValue":"34",
+    "annotationID":    36368
+   },
+   "passing_yards":{
+    "propertyValue":"226",
+    "annotationID":    36369
+   },
    "passing_rating":   78.8,
-   "passing_touchdowns":   2,
-   "passing_interceptions":   2,
+   "passing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    36370
+   },
+   "passing_interceptions":{
+    "propertyValue":"2",
+    "annotationID":    36371
+   },
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   8,
    "rushing_attempts":   1,
@@ -2280,7 +2492,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo threw terrible interceptions, the defense surrendered big completions to Matt Moore, and the team committed dumb penalties."
   },
-  "38":{
+  "40":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-12-04",
@@ -2329,7 +2541,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo tried their hardest to screw over their kicker. It was an odd chain of events. Romo hit "
   },
-  "39":{
+  "41":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-12-11",
@@ -2343,20 +2555,20 @@
    "opponent_score":"37",
    "passing_attempts":{
     "propertyValue":"21",
-    "annotationID":    20488
+    "annotationID":    38461
    },
    "passing_completions":{
     "propertyValue":"31",
-    "annotationID":    20489
+    "annotationID":    38462
    },
    "passing_yards":{
     "propertyValue":"321",
-    "annotationID":    20490
+    "annotationID":    38463
    },
    "passing_rating":   141.3,
    "passing_touchdowns":{
     "propertyValue":"4",
-    "annotationID":    20491
+    "annotationID":    38466
    },
    "passing_interceptions":   0,
    "passing_sacks":   3,
@@ -2390,7 +2602,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo also had a great evening. He went 21-of-31 for 321 yards and 4 touchdowns. He hit "
   },
-  "40":{
+  "42":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-12-17",
@@ -2401,35 +2613,38 @@
    "opponent":"TAM",
    "game_won":   true,
    "player_team_score":"31",
-   "opponent_score":"15",
+   "opponent_score":{
+    "propertyValue":"15",
+    "annotationID":    38531
+   },
    "passing_attempts":{
     "propertyValue":"23",
-    "annotationID":    20522
+    "annotationID":    38523
    },
    "passing_completions":{
     "propertyValue":"30",
-    "annotationID":    20523
+    "annotationID":    38524
    },
    "passing_yards":{
     "propertyValue":"249",
-    "annotationID":    20524
+    "annotationID":    38525
    },
    "passing_rating":   133.9,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    20525
+    "annotationID":    38526
    },
    "passing_interceptions":   0,
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   10,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    20526
+    "annotationID":    38527
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    20528
+    "annotationID":    38530
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -2457,7 +2672,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo, meanwhile, was prolific. He torched a lethargic Tampa secondary, going 23-of-30 for 249 yards and 4 touchdowns (3 passing, 1 rushing). His 1 error came on a strip-six in the third quarter that gave the Buccaneers life. But as Charlie Campbell pointed out on the forum, Before "
   },
-  "41":{
+  "43":{
    "player_id":   19060,
    "year":"2011",
    "date":"2011-12-24",
@@ -2506,7 +2721,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo suffered an injury on his first possession when he banged his hand on a defender's helmet. If you didn't see a shot of Romo's hand, it was completely swollen and had to be wrapped up. It'll be a surprise if Romo doesn't go next week, however. The x-rays were negative, and he didn't break any bones. That's really good news because "
   },
-  "42":{
+  "44":{
    "player_id":   19060,
    "year":"2011",
    "date":"2012-01-01",
@@ -2555,7 +2770,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo's hand. Reports indicated throughout the week that Romo was throwing the ball extremely well in practice. However, as NBC showed us during pre-game warmups, Romo's hand was still extremely swollen, and he would use his left hand to shake hands right before the coin toss. Romo missed an open "
   },
-  "43":{
+  "45":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-09-16",
@@ -2604,7 +2819,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo threw an interception late across his body. Romo later found "
   },
-  "44":{
+  "46":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-09-23",
@@ -2624,12 +2839,12 @@
    "passing_interceptions":   1,
    "passing_sacks":{
     "propertyValue":"4",
-    "annotationID":    22654
+    "annotationID":    42661
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":{
     "propertyValue":"4",
-    "annotationID":    22655
+    "annotationID":    42662
    },
    "rushing_yards":   1,
    "rushing_touchdowns":   0,
@@ -2659,7 +2874,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo to bail out Tampa Bay from allowing at least a field goal. McCoy rocked Romo again in the 4.h quarter, and Dallas was lucky that its quarterback held onto the ball. "
   },
-  "45":{
+  "47":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-10-14",
@@ -2673,28 +2888,28 @@
    "opponent_score":"31",
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    23927
+    "annotationID":    44913
    },
    "passing_completions":{
     "propertyValue":"36",
-    "annotationID":    23928
+    "annotationID":    44914
    },
    "passing_yards":{
     "propertyValue":"261",
-    "annotationID":    23929
+    "annotationID":    44915
    },
    "passing_rating":   97.1,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    23930
+    "annotationID":    44916
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    23931
+    "annotationID":    44917
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    23932
+    "annotationID":    44918
    },
    "passing_sacks_yards_lost":   7,
    "rushing_attempts":   0,
@@ -2726,7 +2941,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo late for some reason. I don't know how many times I heard the announcers shriek, I don't think the Cowboys are going to get the snap off in time! Dallas also committed 13 penalties, many of which occurred deep in Baltimore territory. Here were some of the specific gaffes: - Tony Romo played well overall (25-of-36, 261 yards, 2 TDs, INT), but his interception was a brutal 1. as he made a very poor decision in scoring position. - Dallas surrendered a 108-yard kickoff return to "
   },
-  "46":{
+  "48":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-10-21",
@@ -2738,15 +2953,30 @@
    "game_won":   true,
    "player_team_score":"19",
    "opponent_score":"14",
-   "passing_attempts":   24,
-   "passing_completions":   34,
-   "passing_yards":   227,
+   "passing_attempts":{
+    "propertyValue":"24",
+    "annotationID":    45479
+   },
+   "passing_completions":{
+    "propertyValue":"34",
+    "annotationID":    45480
+   },
+   "passing_yards":{
+    "propertyValue":"227",
+    "annotationID":    45481
+   },
    "passing_rating":   98.5,
-   "passing_touchdowns":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    45482
+   },
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   3,
+   "rushing_attempts":{
+    "propertyValue":"3",
+    "annotationID":    45478
+   },
    "rushing_yards":   11,
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -2775,7 +3005,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo missed Miles Austin-Jones for an easy touchdown in the first quarter."
   },
-  "47":{
+  "49":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-10-28",
@@ -2791,13 +3021,22 @@
    "passing_completions":   62,
    "passing_yards":   437,
    "passing_rating":   58.3,
-   "passing_touchdowns":   1,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    46643
+   },
    "passing_interceptions":   4,
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   22,
-   "rushing_attempts":   2,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    46645
+   },
    "rushing_yards":   0,
-   "rushing_touchdowns":   1,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    46644
+   },
    "receiving_targets":   0,
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -2824,7 +3063,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo laid out a bomb to Dez Bryant in the end zone."
   },
-  "48":{
+  "50":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-11-04",
@@ -2838,15 +3077,15 @@
    "opponent_score":"19",
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    25273
+    "annotationID":    47339
    },
    "passing_completions":{
     "propertyValue":"35",
-    "annotationID":    25274
+    "annotationID":    47340
    },
    "passing_yards":{
     "propertyValue":"321",
-    "annotationID":    25275
+    "annotationID":    47341
    },
    "passing_rating":   109.3,
    "passing_touchdowns":   1,
@@ -2882,13 +3121,68 @@
    "punting_blocked":   0,
    "comment":"Tony Romo interception in the end zone during the first half. Romo was decent overall, going 25-of-35 for 321 yards and a touchdown to Kevin Ogletree (3-96).    "
   },
-  "49":{
+  "51":{
+   "player_id":   19060,
+   "year":"2012",
+   "date":"2012-11-11",
+   "game_number":"9",
+   "age":"32-204",
+   "team":"DAL",
+   "game_location":"A",
+   "opponent":"PHI",
+   "game_won":   true,
+   "player_team_score":"38",
+   "opponent_score":"23",
+   "passing_attempts":   19,
+   "passing_completions":   26,
+   "passing_yards":   209,
+   "passing_rating":   122.1,
+   "passing_touchdowns":   2,
+   "passing_interceptions":   0,
+   "passing_sacks":{
+    "propertyValue":"3",
+    "annotationID":    47839
+   },
+   "passing_sacks_yards_lost":{
+    "propertyValue":"16",
+    "annotationID":    47838
+   },
+   "rushing_attempts":   1,
+   "rushing_yards":   -1,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Tony Romo to Felix Jones (16-71) where Nate Allen, Nnamdi Asomugha and others missed tackles on Jones."
+  },
+  "52":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-11-18",
    "game_number":{
     "propertyValue":"10",
-    "annotationID":    25355
+    "annotationID":    48072
    },
    "age":"32-211",
    "team":"DAL",
@@ -2899,15 +3193,15 @@
    "opponent_score":"20",
    "passing_attempts":{
     "propertyValue":"35",
-    "annotationID":    25357
+    "annotationID":    48074
    },
    "passing_completions":{
     "propertyValue":"50",
-    "annotationID":    25358
+    "annotationID":    48075
    },
    "passing_yards":{
     "propertyValue":"313",
-    "annotationID":    25359
+    "annotationID":    48076
    },
    "passing_rating":   93.2,
    "passing_touchdowns":   1,
@@ -2917,7 +3211,7 @@
    "rushing_attempts":   2,
    "rushing_yards":{
     "propertyValue":"10",
-    "annotationID":    25356
+    "annotationID":    48073
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -2946,7 +3240,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo should get more of the credit. The delay of game was his only blemish following the intermission, as he went 25-of-33 for 239 yards and a touchdown in the second half and overtime. He did a great job of overcoming a very sluggish start (10-of-17 for 74 yards in the first half despite the absence of Joe Haden) to finish 35-of-50 for 313 yards and the aforementioned score.    Romo's score went to "
   },
-  "50":{
+  "53":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-11-22",
@@ -2964,20 +3258,20 @@
    "passing_rating":   84.1,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    25646
+    "annotationID":    48590
    },
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    25648
+    "annotationID":    48592
    },
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    25649
+    "annotationID":    48593
    },
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    25647
+    "annotationID":    48591
    },
    "rushing_yards":   7,
    "rushing_touchdowns":   0,
@@ -3007,7 +3301,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo. That, apparently, is not the case any longer, as Dallas has now reached a new all-time low in stupidity. Things started innocently enough. Jason Witten false started on the opening drive in the red zone, eliminating their chances of scoring a touchdown. They at least kicked a field goal on that possession; a false start by Doug Free and an inexplicable delay of game on the next play completely derailed the next drive. Washington wasn't doing anything offensively in the first quarter, so Dallas could have established an early lead and eliminate the opposing running game. They instead squandered their opportunities, and Robert Griffin eventually figured things out beginning in the second period. The Cowboys blew crucial coverages, permitting Griffin to torch them deep repeatedly. And just like that, the Redskins established a 28-3 lead by halftime. The Cowboys, in the meantime, continued to shoot themselves in the foot. There were the usual pre-snap penalties, 2 Tony Romo interceptions, a Dez Bryant lost fumble in Washington territory and a Bryant dropped touchdown."
   },
-  "51":{
+  "54":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-12-02",
@@ -3021,27 +3315,27 @@
    "opponent_score":"33",
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    26437
+    "annotationID":    50006
    },
    "passing_completions":{
     "propertyValue":"27",
-    "annotationID":    26438
+    "annotationID":    50007
    },
    "passing_yards":{
     "propertyValue":"303",
-    "annotationID":    26439
+    "annotationID":    50008
    },
    "passing_rating":   150.5,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    26442
+    "annotationID":    50011
    },
    "passing_interceptions":   0,
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":{
     "propertyValue":"3",
-    "annotationID":    26443
+    "annotationID":    50012
    },
    "rushing_yards":   14,
    "rushing_touchdowns":   0,
@@ -3071,7 +3365,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was by far the superior quarterback in this matchup. He went 22-of-27 for 303 yards and 3 touchdowns. Romo was unstoppable after halftime, going a perfect 10-of-10 for 169 yards and the 3 scores following the break. Romo probably would've been great throughout had his offensive line held up. Right tackle "
   },
-  "52":{
+  "55":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-12-09",
@@ -3085,24 +3379,24 @@
    "opponent_score":"19",
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    26524
+    "annotationID":    50157
    },
    "passing_completions":{
     "propertyValue":"43",
-    "annotationID":    26525
+    "annotationID":    50158
    },
    "passing_yards":{
     "propertyValue":"268",
-    "annotationID":    26526
+    "annotationID":    50159
    },
    "passing_rating":   74.6,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    26527
+    "annotationID":    50160
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    26528
+    "annotationID":    50161
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   29,
@@ -3135,7 +3429,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was absolutely lethal in the 4.h quarter, going 11-of-15 for 118 yards and a touchdown in the final period. His impressive comeback pretty much nullified all of the dumb mistakes Dallas made throughout - and there were plenty of them. For example, defensive coordinator Rob Ryan was whistled for a 15-yard personal foul penalty for throwing a flag in the third quarter. His defense was then called for 12 men on the field when the Bengals reached the red zone. The Cowboys also were guilty of getting the plays in late yet again, which cost them a timeout in the 2.minute drill of the first half.    Romo finished 25-of-43 for 268 yards, 1 touchdown and an interception that was essentially a punt on a third-and-long situation. However, it's worth noting that he was nearly picked in the first half by former teammate "
   },
-  "53":{
+  "56":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-12-16",
@@ -3184,7 +3478,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo and Ben Roethlisberger were going back-and-forth with their big weapons."
   },
-  "54":{
+  "57":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-12-23",
@@ -3198,23 +3492,26 @@
    "opponent_score":"34",
    "passing_attempts":{
     "propertyValue":"26",
-    "annotationID":    27250
+    "annotationID":    51504
    },
    "passing_completions":{
     "propertyValue":"43",
-    "annotationID":    27251
+    "annotationID":    51505
    },
    "passing_yards":{
     "propertyValue":"416",
-    "annotationID":    27252
+    "annotationID":    51506
    },
    "passing_rating":   123.8,
    "passing_touchdowns":{
     "propertyValue":"4",
-    "annotationID":    27253
+    "annotationID":    51509
    },
    "passing_interceptions":   0,
-   "passing_sacks":   2,
+   "passing_sacks":{
+    "propertyValue":"2",
+    "annotationID":    51510
+   },
    "passing_sacks_yards_lost":   10,
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -3245,13 +3542,13 @@
    "punting_blocked":   0,
    "comment":"Tony Romo. He went 26-of-43 for 416 yards and 4 touchdowns. He found "
   },
-  "55":{
+  "58":{
    "player_id":   19060,
    "year":"2012",
    "date":"2012-12-30",
    "game_number":{
     "propertyValue":"16",
-    "annotationID":    27972
+    "annotationID":    52829
    },
    "age":"32-253",
    "team":"DAL",
@@ -3262,28 +3559,28 @@
    "opponent_score":"28",
    "passing_attempts":{
     "propertyValue":"20",
-    "annotationID":    27966
+    "annotationID":    52823
    },
    "passing_completions":{
     "propertyValue":"37",
-    "annotationID":    27967
+    "annotationID":    52824
    },
    "passing_yards":{
     "propertyValue":"218",
-    "annotationID":    27968
+    "annotationID":    52825
    },
    "passing_rating":   55.9,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    27969
+    "annotationID":    52826
    },
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    27971
+    "annotationID":    52828
    },
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    27970
+    "annotationID":    52827
    },
    "passing_sacks_yards_lost":   22,
    "rushing_attempts":   0,
@@ -3315,7 +3612,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo enthusiasts can defend him at this point. Romo had been playing extremely well entering this game, but had his teammates disappoint him. Well, Romo was at fault this time. When he wasn't yelling at people on the sidelines for failing to pick up the blitz, he was tossing picks. He threw 3 hideous 1.. Romo's first interception was an overthrow as he was getting blitzed. The second was worse, as it was terribly underthrown. Romo, however, saved his worst pick for last. If there were any baseball umpires on the field, they would have called the infield fly rule; Romo just floated the ball, allowing a Washington defender to easily snatch it out of the air. Romo finished 20-of-37 for 218 yards, 2 touchdowns and the 3 picks. Jerry Jones has a very difficult decision to make with him. Romo is entering the final year of his contract, so he has a massive cap number of $16 million. Jones could decrease that, but that would involve extending Romo to another contract. If Jones does nothing, however, he won't have much maneuverability this offseason.    Of course, this wasn't all on Romo. As mentioned, his teammates struggled to pick up the blitz. "
   },
-  "56":{
+  "59":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-09-08",
@@ -3327,35 +3624,35 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"36",
-    "annotationID":    28497
+    "annotationID":    53871
    },
    "opponent_score":"31",
    "passing_attempts":{
     "propertyValue":"36",
-    "annotationID":    28498
+    "annotationID":    53872
    },
    "passing_completions":{
     "propertyValue":"49",
-    "annotationID":    28499
+    "annotationID":    53873
    },
    "passing_yards":{
     "propertyValue":"263",
-    "annotationID":    28500
+    "annotationID":    53874
    },
    "passing_rating":   90.8,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    28501
+    "annotationID":    53875
    },
    "passing_interceptions":   1,
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    28502
+    "annotationID":    53876
    },
    "passing_sacks_yards_lost":   19,
    "rushing_attempts":{
     "propertyValue":"2",
-    "annotationID":    28503
+    "annotationID":    53877
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -3385,7 +3682,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 36-of-49 for 263 yards, 2 touchdowns and an interception. There was a scary moment in which Romo was blasted in the ribs at the end of the first half. He was down for a couple of minutes, and it was unclear if he'd play after intermission. Things did not look promising when he threw an ugly duck to "
   },
-  "57":{
+  "60":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-09-15",
@@ -3399,15 +3696,15 @@
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"30",
-    "annotationID":    28863
+    "annotationID":    54572
    },
    "passing_completions":{
     "propertyValue":"42",
-    "annotationID":    28864
+    "annotationID":    54573
    },
    "passing_yards":{
     "propertyValue":"298",
-    "annotationID":    28865
+    "annotationID":    54574
    },
    "passing_rating":   99.1,
    "passing_touchdowns":   1,
@@ -3443,13 +3740,13 @@
    "punting_blocked":   0,
    "comment":"Tony Romo's passing yardage. Romo went 30-of-42 for 298 yards and a touchdown. He wasn't picked off, but was lucky not to come away with a couple of interceptions. One was actually nullified by a hold. The Chiefs also dropped a potential pick.    "
   },
-  "58":{
+  "61":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-09-22",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    29238
+    "annotationID":    55344
    },
    "age":"33-154",
    "team":"DAL",
@@ -3460,20 +3757,20 @@
    "opponent_score":"7",
    "passing_attempts":{
     "propertyValue":"17",
-    "annotationID":    29235
+    "annotationID":    55341
    },
    "passing_completions":{
     "propertyValue":"24",
-    "annotationID":    29236
+    "annotationID":    55342
    },
    "passing_yards":{
     "propertyValue":"210",
-    "annotationID":    29237
+    "annotationID":    55343
    },
    "passing_rating":   137.2,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    29239
+    "annotationID":    55345
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
@@ -3507,7 +3804,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 17-of-24 for 210 yards and 3 touchdowns. He was protected well, as he was sacked only once. Romo's scores went to "
   },
-  "59":{
+  "62":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-09-29",
@@ -3521,27 +3818,27 @@
    "opponent_score":"30",
    "passing_attempts":{
     "propertyValue":"27",
-    "annotationID":    29984
+    "annotationID":    56718
    },
    "passing_completions":{
     "propertyValue":"37",
-    "annotationID":    29985
+    "annotationID":    56719
    },
    "passing_yards":   246,
    "passing_rating":   108.6,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    29986
+    "annotationID":    56720
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    29987
+    "annotationID":    56721
    },
    "passing_sacks_yards_lost":   19,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    29988
+    "annotationID":    56722
    },
    "rushing_yards":   15,
    "rushing_touchdowns":   0,
@@ -3571,13 +3868,13 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 27-of-37 for 244 yards and 2 touchdowns. Interestingly, he was sacked more (3) than Rivers (1). Both of Romo's scores went to "
   },
-  "60":{
+  "63":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-10-06",
    "game_number":{
     "propertyValue":"5",
-    "annotationID":    30437
+    "annotationID":    57615
    },
    "age":"33-168",
    "team":"DAL",
@@ -3588,26 +3885,26 @@
    "opponent_score":"51",
    "passing_attempts":{
     "propertyValue":"25",
-    "annotationID":    30433
+    "annotationID":    57611
    },
    "passing_completions":{
     "propertyValue":"36",
-    "annotationID":    30434
+    "annotationID":    57612
    },
    "passing_yards":{
     "propertyValue":"506",
-    "annotationID":    30436
+    "annotationID":    57614
    },
    "passing_rating":   140,
    "passing_touchdowns":{
     "propertyValue":"5",
-    "annotationID":    30438
+    "annotationID":    57616
    },
    "passing_interceptions":   1,
    "passing_sacks":   4,
    "passing_sacks_yards_lost":{
     "propertyValue":"36",
-    "annotationID":    30435
+    "annotationID":    57613
    },
    "rushing_attempts":   1,
    "rushing_yards":   7,
@@ -3638,7 +3935,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo threw for 506 yards. Ths is the first time Dallas has ever had a 500-yard passer - and the franchise has enjoyed plenty of great quarterbacks over the years. Romo went 25-of-36 for 506 yards and 5 touchdowns. For 58 minutes, he was amazing. He was doing his weird hocus-pocus BS where he inexplicably spins out of sacks and finds receivers deep downfield. His first posssession was a thing of beauty, as he held control of the ball for 6:54 and eventually found "
   },
-  "61":{
+  "64":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-10-13",
@@ -3652,28 +3949,28 @@
    "opponent_score":"16",
    "passing_attempts":{
     "propertyValue":"18",
-    "annotationID":    30978
+    "annotationID":    58591
    },
    "passing_completions":{
     "propertyValue":"30",
-    "annotationID":    30979
+    "annotationID":    58592
    },
    "passing_yards":{
     "propertyValue":"170",
-    "annotationID":    30980
+    "annotationID":    58593
    },
    "passing_rating":   72.9,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    30981
+    "annotationID":    58594
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    30982
+    "annotationID":    58595
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    30983
+    "annotationID":    58596
    },
    "passing_sacks_yards_lost":   5,
    "rushing_attempts":   0,
@@ -3705,7 +4002,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 18-of-30 for 170 yards, 1 touchdown and an interception that was tipped into the air. Romo's lone score, which went to "
   },
-  "62":{
+  "65":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-10-20",
@@ -3719,34 +4016,34 @@
    "opponent_score":"3",
    "passing_attempts":{
     "propertyValue":"28",
-    "annotationID":    31239
+    "annotationID":    59051
    },
    "passing_completions":{
     "propertyValue":"47",
-    "annotationID":    31240
+    "annotationID":    59052
    },
    "passing_yards":{
     "propertyValue":"317",
-    "annotationID":    31241
+    "annotationID":    59053
    },
    "passing_rating":   69.2,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    31246
+    "annotationID":    59058
    },
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    31243
+    "annotationID":    59055
    },
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    31244
+    "annotationID":    59056
    },
    "passing_sacks_yards_lost":   23,
    "rushing_attempts":   4,
    "rushing_yards":{
     "propertyValue":"2",
-    "annotationID":    31245
+    "annotationID":    59057
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -3775,7 +4072,56 @@
    "punting_blocked":   0,
    "comment":"Tony Romo went 28-of-47 for 317 yards, 1 touchdown and 2 interceptions, though 1 of the picks came on a Hail Mary attempt. Romo's lone aerial score was thrown to Terrence Williams (6-71), who is really coming on in his rookie campaign. "
   },
-  "63":{
+  "66":{
+   "player_id":   19060,
+   "year":"2013",
+   "date":"2013-10-27",
+   "game_number":"8",
+   "age":"33-189",
+   "team":"DAL",
+   "game_location":"A",
+   "opponent":"DET",
+   "game_won":   false,
+   "player_team_score":"30",
+   "opponent_score":"31",
+   "passing_attempts":   14,
+   "passing_completions":   30,
+   "passing_yards":   206,
+   "passing_rating":   102.9,
+   "passing_touchdowns":   3,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   3,
+   "rushing_yards":   6,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Tony Romo repeatedly. He then barked at some coaches and Romo some more. Following Detroit's touchdown, Bryant was seen screaming at "
+  },
+  "67":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-11-03",
@@ -3789,30 +4135,30 @@
    "opponent_score":"23",
    "passing_attempts":{
     "propertyValue":"34",
-    "annotationID":    31570
+    "annotationID":    60371
    },
    "passing_completions":{
     "propertyValue":"51",
-    "annotationID":    31571
+    "annotationID":    60372
    },
    "passing_yards":{
     "propertyValue":"337",
-    "annotationID":    31572
+    "annotationID":    60373
    },
    "passing_rating":   90.1,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    31576
+    "annotationID":    60377
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    31577
+    "annotationID":    60378
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   23,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    31578
+    "annotationID":    60379
    },
    "rushing_yards":   8,
    "rushing_touchdowns":   0,
@@ -3842,13 +4188,13 @@
    "punting_blocked":   0,
    "comment":"Tony Romo (34-of-51, 337 yards, 2 touchdowns, 1 interception) had a decent game overall, but he cost his team some points by taking 2 consecutive sacks in the red zone during the first half. His pick, which came much later, was a terrible 1. - Jason Garrett screwed up a couple of times. He had to waste a timeout on defense, prompting heavy boos from the crowd, and he also failed to challenge a play in which "
   },
-  "64":{
+  "68":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-11-03",
    "game_number":{
     "propertyValue":"9",
-    "annotationID":    31859
+    "annotationID":    60901
    },
    "age":"33-196",
    "team":"DAL",
@@ -3865,7 +4211,7 @@
    "passing_interceptions":   1,
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    31858
+    "annotationID":    60900
    },
    "passing_sacks_yards_lost":   23,
    "rushing_attempts":   1,
@@ -3897,11 +4243,14 @@
    "punting_blocked":   0,
    "comment":"Tony Romo - an undrafted quarterback with a quick release, a 10.ency to take shots downfield and some scrambling ability (3 scrambles, 26 rushing yards). Even though the Texans lost and their season is over, the silver lining is that they may just have something with Keenum.    Andre Johnson has to be thrilled with Keenum. Whereas Matt Schaub was scared to take shots downfield, Keenum had no concerns airing it out. Johnson, who didn't score a touchdown all year going into this contest, hauled in 3 touchdowns in addition to 9 catches for 229 yards. However, Johnson couldn't come up with an important third-down catch in the 4.h quarter, as he bobbled the ball out of bounds along the sideline. Instead of the chains being moved, Houston had to punt, ultimately leading to Indianapolis' decisive touchdown.    "
   },
-  "65":{
+  "69":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-11-10",
-   "game_number":"10",
+   "game_number":{
+    "propertyValue":"10",
+    "annotationID":    61634
+   },
    "age":"33-203",
    "team":"DAL",
    "game_location":"A",
@@ -3909,14 +4258,29 @@
    "game_won":   false,
    "player_team_score":"17",
    "opponent_score":"49",
-   "passing_attempts":   10,
-   "passing_completions":   24,
-   "passing_yards":   128,
+   "passing_attempts":{
+    "propertyValue":"10",
+    "annotationID":    61635
+   },
+   "passing_completions":{
+    "propertyValue":"24",
+    "annotationID":    61636
+   },
+   "passing_yards":{
+    "propertyValue":"128",
+    "annotationID":    61638
+   },
    "passing_rating":   72.9,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
-   "passing_sacks":   3,
-   "passing_sacks_yards_lost":   24,
+   "passing_sacks":{
+    "propertyValue":"3",
+    "annotationID":    61633
+   },
+   "passing_sacks_yards_lost":{
+    "propertyValue":"24",
+    "annotationID":    61637
+   },
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
@@ -3946,7 +4310,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo and company enough to limit the defensive coordinator's old team to just 9 first downs. "
   },
-  "66":{
+  "70":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-11-24",
@@ -3995,7 +4359,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo came through in the clutch. No, really. He's done that before. His issues, over the years, have been in Week 17 and beyond. It's not Week 17 yet.    The Cowboys needed a win to keep pace in the NFC East, and Tony Romo came through with a clutch drive to get Dallas out of New Jersey with a win. In the weak NFC East, the Giants could start to entertain getting back into the playoff race, but this was a crushing loss to those hopes. In full disclosure, the first quarter wasn't seen as FOX showed the end of the Packers and Vikings games. During that time, Dallas got on the board with a fumble return for a touchdown by "
   },
-  "67":{
+  "71":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-11-28",
@@ -4044,7 +4408,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo led a last-second, game-winning drive against the Giants this past Sunday. This week, he had to engineer a double-digit comeback to help his team achieve another victory. The Cowboys are now 7-5 and have temporarily established sole possession of first place in the NFC East. Things did not look promising for the Cowboys in the early stages of this game. "
   },
-  "68":{
+  "72":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-12-09",
@@ -4064,7 +4428,7 @@
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    34375
+    "annotationID":    65498
    },
    "passing_sacks_yards_lost":   14,
    "rushing_attempts":   1,
@@ -4096,7 +4460,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo had a meltdown with 2 4.h-quarter interceptions to give Green Bay what it needed to pull out the win. The Packers had their slim playoff hopes stay alive with a huge comeback win, as they showed some serious heart fighting back for the win.    It was all Dallas in the first half. Romo hit "
   },
-  "69":{
+  "73":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-12-15",
@@ -4114,11 +4478,11 @@
    "passing_rating":   80,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    34376
+    "annotationID":    65501
    },
    "passing_interceptions":{
     "propertyValue":"2",
-    "annotationID":    34377
+    "annotationID":    65502
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   26,
@@ -4151,7 +4515,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo had a meltdown with 2 4.h-quarter interceptions to give Green Bay what it needed to pull out the win. The Packers had their slim playoff hopes stay alive with a huge comeback win, as they showed some serious heart fighting back for the win.    It was all Dallas in the first half. Romo hit "
   },
-  "70":{
+  "74":{
    "player_id":   19060,
    "year":"2013",
    "date":"2013-12-22",
@@ -4164,40 +4528,40 @@
    "player_team_score":"24",
    "opponent_score":{
     "propertyValue":"23",
-    "annotationID":    34628
+    "annotationID":    65978
    },
    "passing_attempts":{
     "propertyValue":"17",
-    "annotationID":    34637
+    "annotationID":    65987
    },
    "passing_completions":{
     "propertyValue":"27",
-    "annotationID":    34630
+    "annotationID":    65980
    },
    "passing_yards":{
     "propertyValue":"226",
-    "annotationID":    34631
+    "annotationID":    65981
    },
    "passing_rating":   98.7,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    34638
+    "annotationID":    65988
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    34635
+    "annotationID":    65985
    },
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    34639
+    "annotationID":    65989
    },
    "passing_sacks_yards_lost":{
     "propertyValue":"12",
-    "annotationID":    34634
+    "annotationID":    65984
    },
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    34636
+    "annotationID":    65986
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -4227,7 +4591,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo can actually come through in the clutch. This was indeed a reversal for the Cowboys, who relinquished an unbelievable comeback to the Packers last week. However, Dallas, down 23-14 in the 4.h quarter, engineered a last-minute surge of its own to keep its season alive. Save for an interception he made because of a bad decision, Romo was awesome in the second half. While he finished 17-of-27 for 226 yards, 2 touchdowns and the pick, he was 12-of-18 for 164 yards, 1 score and an interception following the break. Romo did this despite suffering some sort of leg/back injury on an attempted spin move. Romo could barely move at times, yet he still led his team from behind. However, despite this win, we've seen this from the Cowboys before. It's not like Romo hasn't orchestrated 4.h-quarter comebacks before. He also played well last December. His problem has always been in Week 17 and beyond. He'll have a chance to win the division with a win over the Eagles in front of his home crowd next week.    Romo's 2 scores went to "
   },
-  "71":{
+  "75":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-09-07",
@@ -4241,25 +4605,25 @@
    "opponent_score":"28",
    "passing_attempts":{
     "propertyValue":"23",
-    "annotationID":    35763
+    "annotationID":    68100
    },
    "passing_completions":{
     "propertyValue":"37",
-    "annotationID":    35764
+    "annotationID":    68101
    },
    "passing_yards":{
     "propertyValue":"281",
-    "annotationID":    35765
+    "annotationID":    68102
    },
    "passing_rating":   60.8,
    "passing_touchdowns":   1,
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    35766
+    "annotationID":    68103
    },
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    35767
+    "annotationID":    68104
    },
    "passing_sacks_yards_lost":   26,
    "rushing_attempts":   0,
@@ -4291,7 +4655,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo then took over as the player who ruined Dallas' offense. Romo made some nice throws throughout the contest - he went 23-of-37 for 281 yards and a touchdown - but he was responsible for 3 interceptions, and he easily could've had several more. Romo's first pick was carelessly thrown in triple coverage. He then tossed a pick in the end zone. He had someone open, but threw the ball late. This ended up being a poor decision because he forced it in, and "
   },
-  "72":{
+  "76":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-09-14",
@@ -4302,18 +4666,21 @@
    "opponent":"TEN",
    "game_won":   true,
    "player_team_score":"26",
-   "opponent_score":"10",
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    68931
+   },
    "passing_attempts":{
     "propertyValue":"19",
-    "annotationID":    36143
+    "annotationID":    68928
    },
    "passing_completions":{
     "propertyValue":"29",
-    "annotationID":    36144
+    "annotationID":    68929
    },
    "passing_yards":{
     "propertyValue":"176",
-    "annotationID":    36145
+    "annotationID":    68930
    },
    "passing_rating":   93.5,
    "passing_touchdowns":   1,
@@ -4349,7 +4716,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo, meanwhile, went 19-of-29 for 176 yards and a touchdown. It appeared as though he'd have a rough afternoon early on. He took a sack from "
   },
-  "73":{
+  "77":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-09-21",
@@ -4363,20 +4730,20 @@
    "opponent_score":"31",
    "passing_attempts":{
     "propertyValue":"18",
-    "annotationID":    36720
+    "annotationID":    69989
    },
    "passing_completions":{
     "propertyValue":"23",
-    "annotationID":    36721
+    "annotationID":    69990
    },
    "passing_yards":{
     "propertyValue":"217",
-    "annotationID":    36722
+    "annotationID":    69991
    },
    "passing_rating":   116.8,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    36723
+    "annotationID":    69992
    },
    "passing_interceptions":   1,
    "passing_sacks":   0,
@@ -4410,7 +4777,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo caught fire in the second half and was absolutely unstoppable. The Rams had a chance late, but they were down in the first place because their defense couldn't get off the field. Romo's overall numbers don't look great. He finished 18-of-23 for 217 yards, 2 touchdowns and an interception. However, these final stats appear to be slightly meager because of a putrid opening half, which included his terrible pick-six that he telegraphed toward "
   },
-  "74":{
+  "78":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-09-28",
@@ -4424,29 +4791,29 @@
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    37269
+    "annotationID":    71103
    },
    "passing_completions":{
     "propertyValue":"29",
-    "annotationID":    37270
+    "annotationID":    71104
    },
    "passing_yards":{
     "propertyValue":"262",
-    "annotationID":    37271
+    "annotationID":    71105
    },
    "passing_rating":   137.4,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    37272
+    "annotationID":    71106
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    37273
+    "annotationID":    71107
    },
    "passing_sacks_yards_lost":{
     "propertyValue":"7",
-    "annotationID":    37268
+    "annotationID":    71102
    },
    "rushing_attempts":   6,
    "rushing_yards":   20,
@@ -4477,7 +4844,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo misfired on just 7 attempts, going 22-of-29 for 262 yards and 3 touchdowns. He had an easy time passing against the Saints' dreadful defense, and he even picked up a scramble of 21 yards, which was the longest rush of his career. Romo was exceptional throughout the entire evening; 1 play that sticks out was when he evaded 2 potential tacklers who nearly pinned him for a sack, and managed to find "
   },
-  "75":{
+  "79":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-10-05",
@@ -4494,8 +4861,14 @@
    "passing_yards":   324,
    "passing_rating":   98,
    "passing_touchdowns":   2,
-   "passing_interceptions":   1,
-   "passing_sacks":   1,
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    71183
+   },
+   "passing_sacks":{
+    "propertyValue":"1",
+    "annotationID":    71184
+   },
    "passing_sacks_yards_lost":   8,
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -4526,7 +4899,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo also overthrew him on a key third down. - Yet another "
   },
-  "76":{
+  "80":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-10-12",
@@ -4538,15 +4911,30 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":"23",
-   "passing_attempts":   21,
-   "passing_completions":   32,
-   "passing_yards":   250,
+   "passing_attempts":{
+    "propertyValue":"21",
+    "annotationID":    72646
+   },
+   "passing_completions":{
+    "propertyValue":"32",
+    "annotationID":    72647
+   },
+   "passing_yards":{
+    "propertyValue":"250",
+    "annotationID":    72648
+   },
    "passing_rating":   110.2,
-   "passing_touchdowns":   2,
+   "passing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    72649
+   },
    "passing_interceptions":   0,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   11,
-   "rushing_attempts":   2,
+   "rushing_attempts":{
+    "propertyValue":"2",
+    "annotationID":    72650
+   },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -4575,7 +4963,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo took a brutal hit from Bobby Wagner early in this contest, and he had trouble getting up."
   },
-  "77":{
+  "81":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-10-19",
@@ -4624,7 +5012,59 @@
    "punting_blocked":   0,
    "comment":"Tony Romo. It was refreshing to actually see them put forth some energy. It didn't matter, however, as the Cowboys proved to be just too good. With the Giants fully focused on containing DeMarco Murray, they let Prince Amukamara have single coverage on Dez Bryant. Amukamara played well, but Tony Romo continuously found Bryant, who made fantastic catch after fantastic catch. Meanwhile, Romo's other targets were constantly wide open, including "
   },
-  "78":{
+  "82":{
+   "player_id":   19060,
+   "year":{
+    "propertyValue":"2014",
+    "annotationID":    74664
+   },
+   "date":"2014-10-27",
+   "game_number":"8",
+   "age":"34-189",
+   "team":"DAL",
+   "game_location":"H",
+   "opponent":"WAS",
+   "game_won":   false,
+   "player_team_score":"17",
+   "opponent_score":"20",
+   "passing_attempts":   17,
+   "passing_completions":   28,
+   "passing_yards":   209,
+   "passing_rating":   95.7,
+   "passing_touchdowns":   1,
+   "passing_interceptions":   0,
+   "passing_sacks":   5,
+   "passing_sacks_yards_lost":   54,
+   "rushing_attempts":   1,
+   "rushing_yards":   1,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Tony Romo back in the lineup, even against the lowly Jaguars in London. Dr. Jerry Jones may clear Romo for action in response to this utterly embarrassing defeat.    For the first time in 2014, "
+  },
+  "83":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-11-09",
@@ -4635,7 +5075,10 @@
    "opponent":"JAX",
    "game_won":   true,
    "player_team_score":"31",
-   "opponent_score":"17",
+   "opponent_score":{
+    "propertyValue":"17",
+    "annotationID":    76026
+   },
    "passing_attempts":   20,
    "passing_completions":   27,
    "passing_yards":   246,
@@ -4673,7 +5116,68 @@
    "punting_blocked":   0,
    "comment":"Tony Romo returned to the lineup, and Dez Bryant dominated the Jaguars in the first half to put Jacksonville away before halftime."
   },
-  "79":{
+  "84":{
+   "player_id":   19060,
+   "year":"2014",
+   "date":"2014-11-23",
+   "game_number":"11",
+   "age":"34-216",
+   "team":"DAL",
+   "game_location":"A",
+   "opponent":"NYG",
+   "game_won":   true,
+   "player_team_score":"31",
+   "opponent_score":"28",
+   "passing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    77717
+   },
+   "passing_completions":{
+    "propertyValue":"26",
+    "annotationID":    77718
+   },
+   "passing_yards":{
+    "propertyValue":"275",
+    "annotationID":    77719
+   },
+   "passing_rating":   143.4,
+   "passing_touchdowns":{
+    "propertyValue":"4",
+    "annotationID":    77720
+   },
+   "passing_interceptions":   0,
+   "passing_sacks":   2,
+   "passing_sacks_yards_lost":   9,
+   "rushing_attempts":   1,
+   "rushing_yards":   -2,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Tony Romo had some issues in the opening quarter, carelessly heaving a pass into triple coverage and then nearly getting picked in the end zone because he didn't see Antrel Rolle."
+  },
+  "85":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-11-27",
@@ -4693,7 +5197,7 @@
    "passing_interceptions":   2,
    "passing_sacks":{
     "propertyValue":"4",
-    "annotationID":    39983
+    "annotationID":    77803
    },
    "passing_sacks_yards_lost":   25,
    "rushing_attempts":   1,
@@ -4725,7 +5229,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo throughout the early portion of the year, couldn't shield Romo whatsoever on Thanksgiving, as the Philadelphia defense sacked him 4 times and rushed many of his throws. Meanwhile, the defense is finally playing as poorly as everyone expected it to perform heading into the season. The Cowboys, quite simply, couldn't get off the field, as Philadelphia's offense was sharp, and unlike the previous 3 games, "
   },
-  "80":{
+  "86":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-12-04",
@@ -4743,7 +5247,7 @@
    "passing_rating":   138,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    40440
+    "annotationID":    78628
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
@@ -4777,7 +5281,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo, of course, has been criticized over the years for his failures in December and January, but he wasn't even given a chance to choke in this contest. The Cowboys ran what Jim Nantz (via Rex Ryan) called a ground and pound attack, as they ran way more than they passed. By the 3-minute mark of the first half, when Dallas went into a quick offense to score a touchdown prior to intermission, Romo attempted 11 throws compared to "
   },
-  "81":{
+  "87":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-12-14",
@@ -4789,33 +5293,33 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"38",
-    "annotationID":    41308
+    "annotationID":    80271
    },
    "opponent_score":{
     "propertyValue":"27",
-    "annotationID":    41309
+    "annotationID":    80272
    },
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    41310
+    "annotationID":    80273
    },
    "passing_completions":{
     "propertyValue":"31",
-    "annotationID":    41311
+    "annotationID":    80274
    },
    "passing_yards":{
     "propertyValue":"265",
-    "annotationID":    41312
+    "annotationID":    80275
    },
    "passing_rating":   129.1,
    "passing_touchdowns":{
     "propertyValue":"3",
-    "annotationID":    41313
+    "annotationID":    80276
    },
    "passing_interceptions":   0,
    "passing_sacks":{
     "propertyValue":"3",
-    "annotationID":    41314
+    "annotationID":    80277
    },
    "passing_sacks_yards_lost":   16,
    "rushing_attempts":   4,
@@ -4847,7 +5351,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo and a couple of strange calls. The Eagles, however, made the charge back, taking a 24-21 lead in the third quarter. In the past, Dallas had always begun hot but withered away in the final week of the year. This game looked like it was going to epitomize all of the Cowboys' late-season failures. The Cowboys, however, took control. They reestablished the lead with a great drive, and thanks to several Philadelphia turnovers, they were able to prevail with a 38-27 victory.    Romo, as mentioned, was exceptional. He had a sequence in the middle of the game in which he had some consecutive drives that went nowhere, 1 of which featured a fumble of his because he held on to the ball for an eternity. However, he went on a tear once the Eagles went in front, completing 8-of-11 attempts for 114 yards and a touchdown following the break. Romo's final numbers were 22-of-31 for 265 yards, 3 touchdowns and a lost fumble. He was nearly picked early, but he torched Philadelphia's beleaguered secondary all evening. "
   },
-  "82":{
+  "88":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-12-21",
@@ -4859,14 +5363,32 @@
    "game_won":   true,
    "player_team_score":"42",
    "opponent_score":"7",
-   "passing_attempts":   18,
-   "passing_completions":   20,
-   "passing_yards":   218,
+   "passing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    81079
+   },
+   "passing_completions":{
+    "propertyValue":"20",
+    "annotationID":    81080
+   },
+   "passing_yards":{
+    "propertyValue":"218",
+    "annotationID":    81081
+   },
    "passing_rating":   151.7,
-   "passing_touchdowns":   4,
+   "passing_touchdowns":{
+    "propertyValue":"4",
+    "annotationID":    81082
+   },
    "passing_interceptions":   0,
-   "passing_sacks":   1,
-   "passing_sacks_yards_lost":   11,
+   "passing_sacks":{
+    "propertyValue":"1",
+    "annotationID":    81078
+   },
+   "passing_sacks_yards_lost":{
+    "propertyValue":"11",
+    "annotationID":    81083
+   },
    "rushing_attempts":   3,
    "rushing_yards":   28,
    "rushing_touchdowns":   0,
@@ -4896,7 +5418,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo fired a touchdown to Dez Bryant on the ensuing snap, and just like that, the Cowboys were up 14-0 and had the game in hand."
   },
-  "83":{
+  "89":{
    "player_id":   19060,
    "year":"2014",
    "date":"2014-12-28",
@@ -4910,23 +5432,23 @@
    "opponent_score":"17",
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    42036
+    "annotationID":    81711
    },
    "passing_completions":{
     "propertyValue":"34",
-    "annotationID":    42037
+    "annotationID":    81712
    },
    "passing_yards":{
     "propertyValue":"299",
-    "annotationID":    42038
+    "annotationID":    81713
    },
    "passing_rating":{
     "propertyValue":"100",
-    "annotationID":    42035
+    "annotationID":    81710
    },
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    42039
+    "annotationID":    81714
    },
    "passing_interceptions":   1,
    "passing_sacks":   0,
@@ -4960,11 +5482,14 @@
    "punting_blocked":   0,
    "comment":"Tony Romo and the rest of the starters would play in this contest. As it turns out, Jason Garrett via Jerry Jones allowed Romo, DeMarco Murray and all of his other first-stringers to stay on the field throughout the entire afternoon. I'm all about keeping momentum going, but Garrett and Jones took a major risk by keeping Romo and Murray on the field for the entire game. They're extremely fortunate that they came out of this game unscathed in what ultimately proved to be a blowout victory. Revenge for the Monday night loss apparently served as Dallas' motivation. The Cowboys were so hyped up to win this game that they attempted (and successfully recovered) an onside kick while leading 20-7 in the second quarter.    Murray looked great, which is the big take-away from this game. Murray didn't play well against the Colts last week, as he was favoring his hand while averaging fewer than 3 yards per carry. He looked like a completely different player in this contest, gashing a normally strong Washington ground defense for 100 yards and a touchdown on 20 attempts. Murray, who broke Emmitt Smith's single-season rushing record with the Cowboys, was robbed of even more yardage when the officials incorrectly blew a play dead because they thought he was down.    Tony Romo was also sharp, though he made a couple of mistakes. He finished 22-of-34 for 299 yards, 2 touchdowns and an interception. He also nearly threw a second pick, but "
   },
-  "84":{
+  "90":{
    "player_id":   19060,
    "year":"2015",
    "date":"2015-09-20",
-   "game_number":"2",
+   "game_number":{
+    "propertyValue":"2",
+    "annotationID":    84875
+   },
    "age":"35-152",
    "team":"DAL",
    "game_location":"A",
@@ -4972,14 +5497,26 @@
    "game_won":   true,
    "player_team_score":"20",
    "opponent_score":"10",
-   "passing_attempts":   18,
-   "passing_completions":   27,
-   "passing_yards":   195,
+   "passing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    84876
+   },
+   "passing_completions":{
+    "propertyValue":"27",
+    "annotationID":    84878
+   },
+   "passing_yards":{
+    "propertyValue":"195",
+    "annotationID":    84879
+   },
    "passing_rating":   87.7,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":   3,
-   "passing_sacks_yards_lost":   18,
+   "passing_sacks_yards_lost":{
+    "propertyValue":"18",
+    "annotationID":    84877
+   },
    "rushing_attempts":   1,
    "rushing_yards":   12,
    "rushing_touchdowns":   0,
@@ -5009,7 +5546,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo broke his clavicle while being sacked and fumbling in the third quarter. At first, it seemed as though he could be out for the season, but the most-recent report says that he'll miss 8 weeks. There's no question that this is a huge blow for Dallas' chances. "
   },
-  "85":{
+  "91":{
    "player_id":   19060,
    "year":"2015",
    "date":"2015-11-22",
@@ -5030,7 +5567,7 @@
    "passing_sacks":   2,
    "passing_sacks_yards_lost":{
     "propertyValue":"7",
-    "annotationID":    47689
+    "annotationID":    92717
    },
    "rushing_attempts":   2,
    "rushing_yards":   2,
@@ -5061,7 +5598,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo, but dropped 7 in a row after they lost him to an injury. Romo returned for this contest and managed to lead his team to a much-needed victory. Romo definitely looked rusty in his return, and understandly so. He threw an interception early in the red zone when he and "
   },
-  "86":{
+  "92":{
    "player_id":   19060,
    "year":"2015",
    "date":"2015-11-26",
@@ -5110,7 +5647,7 @@
    "punting_blocked":   0,
    "comment":"Tony Romo was supposed to be the savior to lead the Cowboys to victory, but the Panthers picked him off thrice. The first occasion occurred on the opening drive, less than a minute into the game. Romo was pick-sixed by "
   },
-  "87":{
+  "93":{
    "player_id":   19060,
    "year":"2016",
    "date":"2017-01-01",
@@ -5128,7 +5665,7 @@
    "passing_rating":   134.4,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    58569
+    "annotationID":    118430
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
@@ -5163,5 +5700,5 @@
    "comment":"Tony Romo, who played for the first time since suffering an injury on Thanksgiving last year. Romo was on the field for just 1 drive, but that's all the Cowboys needed to see. Romo looked like he was rusty when his first pass was nearly picked by "
   }
  },
- "numberGames": 87
+ "numberGames": 93
 }

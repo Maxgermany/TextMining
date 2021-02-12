@@ -42,15 +42,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    43324
+    "annotationID":    85038
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    43325
+    "annotationID":    85039
    },
    "receiving_yards":{
     "propertyValue":"37",
-    "annotationID":    43326
+    "annotationID":    85040
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
@@ -177,7 +177,10 @@
    "player_id":   15617,
    "year":"2015",
    "date":"2015-10-11",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    87697
+   },
    "age":"22-262",
    "team":"GNB",
    "game_location":"H",
@@ -196,9 +199,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   5,
-   "receiving_receptions":   4,
-   "receiving_yards":   59,
+   "receiving_targets":{
+    "propertyValue":"5",
+    "annotationID":    87698
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    87696
+   },
+   "receiving_yards":{
+    "propertyValue":"59",
+    "annotationID":    87695
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -243,14 +255,26 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
-   "rushing_yards":   4,
+   "rushing_yards":{
+    "propertyValue":"4",
+    "annotationID":    89425
+   },
    "rushing_touchdowns":   0,
-   "receiving_targets":   2,
-   "receiving_receptions":   2,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    89430
+   },
+   "receiving_receptions":{
+    "propertyValue":"2",
+    "annotationID":    89431
+   },
    "receiving_yards":   11,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
-   "kick_return_yards":   29,
+   "kick_return_yards":{
+    "propertyValue":"29",
+    "annotationID":    89422
+   },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
@@ -274,15 +298,15 @@
   "6":{
    "player_id":   15617,
    "year":"2016",
-   "date":"2016-10-20",
-   "game_number":"6",
-   "age":"23-272",
+   "date":"2016-10-16",
+   "game_number":"5",
+   "age":"23-268",
    "team":"GNB",
    "game_location":"H",
-   "opponent":"CHI",
-   "game_won":   true,
-   "player_team_score":"26",
-   "opponent_score":"10",
+   "opponent":"DAL",
+   "game_won":   false,
+   "player_team_score":"16",
+   "opponent_score":"30",
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -291,12 +315,88 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   9,
-   "rushing_yards":   60,
+   "rushing_attempts":{
+    "propertyValue":"3",
+    "annotationID":    107385
+   },
+   "rushing_yards":   6,
    "rushing_touchdowns":   0,
-   "receiving_targets":   13,
-   "receiving_receptions":   10,
-   "receiving_yards":   66,
+   "receiving_targets":   12,
+   "receiving_receptions":{
+    "propertyValue":"10",
+    "annotationID":    107383
+   },
+   "receiving_yards":{
+    "propertyValue":"98",
+    "annotationID":    107384
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   2,
+   "kick_return_yards":   64,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Ty Montgomery, who caught 10 balls for 98 yards. Nelson ultimately finished with 3 grabs for 68 yards, though he lost a fumble early in the game. Cobb hauled in Rodgers' sole touchdown, but as mentioned, he could've had another. Cobb finished with 7 receptions for 53 yards.    "
+  },
+  "7":{
+   "player_id":   15617,
+   "year":"2016",
+   "date":"2016-10-20",
+   "game_number":"6",
+   "age":"23-272",
+   "team":"GNB",
+   "game_location":"H",
+   "opponent":"CHI",
+   "game_won":   true,
+   "player_team_score":"26",
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    107555
+   },
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"9",
+    "annotationID":    107559
+   },
+   "rushing_yards":{
+    "propertyValue":"60",
+    "annotationID":    107558
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"13",
+    "annotationID":    107554
+   },
+   "receiving_receptions":{
+    "propertyValue":"10",
+    "annotationID":    107556
+   },
+   "receiving_yards":{
+    "propertyValue":"66",
+    "annotationID":    107557
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -320,11 +420,14 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery, as Jordy Nelson did nothing."
   },
-  "7":{
+  "8":{
    "player_id":   15617,
    "year":"2016",
    "date":"2016-11-06",
-   "game_number":"8",
+   "game_number":{
+    "propertyValue":"8",
+    "annotationID":    110366
+   },
    "age":"23-289",
    "team":"GNB",
    "game_location":"H",
@@ -340,12 +443,27 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   7,
-   "rushing_yards":   53,
+   "rushing_attempts":{
+    "propertyValue":"7",
+    "annotationID":    110368
+   },
+   "rushing_yards":{
+    "propertyValue":"53",
+    "annotationID":    110367
+   },
    "rushing_touchdowns":   0,
-   "receiving_targets":   3,
-   "receiving_receptions":   3,
-   "receiving_yards":   38,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    110369
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    110370
+   },
+   "receiving_yards":{
+    "propertyValue":"38",
+    "annotationID":    110371
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -369,7 +487,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery. In the first half, the dual-threat player only had 4 carries. He had a big burst on the opening play, where he slipped through the offensive line and followed his blockers for a big gain, but he was not used for a while afterward. The team insisted on giving "
   },
-  "8":{
+  "9":{
    "player_id":   15617,
    "year":"2016",
    "date":"2016-11-28",
@@ -418,7 +536,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery (6-40) was the most effective player in the backfield, but he can't shoulder a full workload. It'll be the Montgomery and Michael show down the stretch, with some "
   },
-  "9":{
+  "10":{
    "player_id":   15617,
    "year":"2016",
    "date":"2016-12-04",
@@ -440,14 +558,17 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"6",
-    "annotationID":    56428
+    "annotationID":    114281
    },
    "rushing_yards":{
     "propertyValue":"40",
-    "annotationID":    56429
+    "annotationID":    114282
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   3,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    114283
+   },
    "receiving_receptions":   2,
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -473,7 +594,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery (6-40) was the most effective player in the backfield, but he can't shoulder a full workload. It'll be the Montgomery and Michael show down the stretch, with some "
   },
-  "10":{
+  "11":{
    "player_id":   15617,
    "year":"2016",
    "date":"2016-12-11",
@@ -493,8 +614,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   9,
-   "rushing_yards":   41,
+   "rushing_attempts":{
+    "propertyValue":"9",
+    "annotationID":    116001
+   },
+   "rushing_yards":{
+    "propertyValue":"41",
+    "annotationID":    116000
+   },
    "rushing_touchdowns":   1,
    "receiving_targets":   4,
    "receiving_receptions":   3,
@@ -522,7 +649,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery, Randall Cobb and Jared Cook all left the game."
   },
-  "11":{
+  "12":{
    "player_id":   15617,
    "year":"2016",
    "date":"2016-12-18",
@@ -547,7 +674,10 @@
    "rushing_touchdowns":   2,
    "receiving_targets":   3,
    "receiving_receptions":   2,
-   "receiving_yards":   1,
+   "receiving_yards":{
+    "propertyValue":"1",
+    "annotationID":    116629
+   },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   4,
    "kick_return_yards":   57,
@@ -571,7 +701,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery. The Bears answered as Barkley moved the ball with some nice completions to set up "
   },
-  "12":{
+  "13":{
    "player_id":   15617,
    "year":"2016",
    "date":"2016-12-24",
@@ -593,21 +723,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    58092
+    "annotationID":    117434
    },
    "rushing_yards":{
     "propertyValue":"23",
-    "annotationID":    58093
+    "annotationID":    117435
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    58094
+    "annotationID":    117436
    },
    "receiving_yards":{
     "propertyValue":"17",
-    "annotationID":    58095
+    "annotationID":    117437
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
@@ -632,7 +762,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery was given just 9 carries, which he turned into 23 yards. Montgomery also caught 4 passes for 17 receiving yards.    "
   },
-  "13":{
+  "14":{
    "player_id":   15617,
    "year":"2016",
    "date":"2017-01-01",
@@ -654,11 +784,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    59028
+    "annotationID":    119276
    },
    "rushing_yards":{
     "propertyValue":"44",
-    "annotationID":    59027
+    "annotationID":    119275
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -687,7 +817,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery also had some significant gains, picking up 44 yards on 8 carries. Montgomery had a great juke of linebacker "
   },
-  "14":{
+  "15":{
    "player_id":   15617,
    "year":"2017",
    "date":"2017-09-10",
@@ -709,24 +839,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"19",
-    "annotationID":    59490
+    "annotationID":    120130
    },
    "rushing_yards":{
     "propertyValue":"54",
-    "annotationID":    59491
+    "annotationID":    120131
    },
    "rushing_touchdowns":   1,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    59492
+    "annotationID":    120132
    },
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    59493
+    "annotationID":    120133
    },
    "receiving_yards":{
     "propertyValue":"39",
-    "annotationID":    59494
+    "annotationID":    120134
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -751,7 +881,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery featured as the top back. He couldn't get going early on, but in the second half, he looked strong. Montgomery saw 19 attempts for 54 yards and did get a touchdown on a goal-line carry. Montgomery will have issues against bigger opponents, but he will continue to be the only option for the Packers' backfield and his receiving ability (4-39) will make him a good fantasy play.    Defensively, "
   },
-  "15":{
+  "16":{
    "player_id":   15617,
    "year":"2017",
    "date":"2017-09-17",
@@ -773,21 +903,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    60200
+    "annotationID":    121488
    },
    "rushing_yards":{
     "propertyValue":"35",
-    "annotationID":    60199
+    "annotationID":    121487
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    60197
+    "annotationID":    121485
    },
    "receiving_yards":{
     "propertyValue":"75",
-    "annotationID":    60198
+    "annotationID":    121486
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -812,13 +942,13 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery, who caught 6 balls for 75 yards. Montgomery scored once more on the ground, but was limited to 35 rushing yards on 10 carries.    Speaking of running backs with great fantasy numbers, "
   },
-  "16":{
+  "17":{
    "player_id":   15617,
    "year":"2017",
    "date":"2017-09-28",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    60830
+    "annotationID":    122769
    },
    "age":"24-249",
    "team":"GNB",
@@ -837,11 +967,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    60833
+    "annotationID":    122772
    },
    "rushing_yards":{
     "propertyValue":"28",
-    "annotationID":    60831
+    "annotationID":    122770
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -870,7 +1000,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery runs. Yet, Rodgers still was able to fire 4 scores thanks to a trio of Glennon turnovers. Rodgers' final numbers were 18-of-26 for 179 yards and the 4 touchdowns. The tackles impacted a couple of drives in the first half, but Chicago's pass rush as a whole was very underwhelming.    Montgomery, meanwhile, looked like he was going to have a huge game. He rushed for 28 yards on just 5 carries, as he was given the ball on 5 of Green Bay's initial 7 plays. Unfortunately, Montgomery was knocked out of the contest with a rib injury. Montgomery was 1 of several Packer players who left the game. "
   },
-  "17":{
+  "18":{
    "player_id":   15617,
    "year":"2017",
    "date":"2017-10-15",
@@ -880,7 +1010,10 @@
    "game_location":"A",
    "opponent":"MIN",
    "game_won":   false,
-   "player_team_score":"10",
+   "player_team_score":{
+    "propertyValue":"10",
+    "annotationID":    125072
+   },
    "opponent_score":"23",
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -890,8 +1023,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   10,
-   "rushing_yards":   28,
+   "rushing_attempts":{
+    "propertyValue":"10",
+    "annotationID":    125073
+   },
+   "rushing_yards":{
+    "propertyValue":"28",
+    "annotationID":    125071
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":   1,
@@ -919,7 +1058,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery over Aaron Jones at running back."
   },
-  "18":{
+  "19":{
    "player_id":   15617,
    "year":"2017",
    "date":"2017-10-22",
@@ -941,11 +1080,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"4",
-    "annotationID":    62439
+    "annotationID":    126061
    },
    "rushing_yards":{
     "propertyValue":"6",
-    "annotationID":    62440
+    "annotationID":    126062
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -974,7 +1113,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery (4 carries, 6 yards), but that proved to be a predictable waste of time.    As for Hundley, his final stat line was atrocious, as he was 12-of-25 for 87 yards and late interception that he carelessly tossed into heavy coverage. Hundley did manage to scramble thrice for 44 yards and a touchdown. It's nice that he can be potent on the ground, but Hundley's passing skills are incredibly lackluster, and it takes him eons to process information in the pocket. Hundley was so much worse in the second half, going 5-of-10 for only 21 yards and a pick following intermission. He also was stripped, but the Packers managed to recover the fumble.    Thanks to Hundley's miserable passing, "
   },
-  "19":{
+  "20":{
    "player_id":   15617,
    "year":"2017",
    "date":"2017-11-06",
@@ -1023,7 +1162,7 @@
    "punting_blocked":   0,
    "comment":"Ty Montgomery (6-54) also had to leave the game with a rib issue, though he did so following a 37-yard touchdown burst. "
   },
-  "20":{
+  "21":{
    "player_id":   15617,
    "year":"2017",
    "date":"2017-11-12",
@@ -1045,11 +1184,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"6",
-    "annotationID":    63673
+    "annotationID":    128423
    },
    "rushing_yards":{
     "propertyValue":"54",
-    "annotationID":    63674
+    "annotationID":    128424
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -1079,5 +1218,5 @@
    "comment":"Ty Montgomery (6-54) also had to leave the game with a rib issue, though he did so following a 37-yard touchdown burst. "
   }
  },
- "numberGames": 20
+ "numberGames": 21
 }

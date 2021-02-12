@@ -23,7 +23,7 @@
    "date":"2017-09-10",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    59410
+    "annotationID":    120003
    },
    "age":"21-250",
    "team":"CLE",
@@ -38,25 +38,25 @@
    "passing_rating":   85.7,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    59411
+    "annotationID":    120004
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    59412
+    "annotationID":    120005
    },
    "passing_sacks":{
     "propertyValue":"7",
-    "annotationID":    59416
+    "annotationID":    120009
    },
    "passing_sacks_yards_lost":   42,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    59409
+    "annotationID":    120002
    },
    "rushing_yards":   17,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    59413
+    "annotationID":    120006
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -90,7 +90,7 @@
    "date":"2017-09-17",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    59647
+    "annotationID":    120413
    },
    "age":"21-257",
    "team":"CLE",
@@ -101,25 +101,25 @@
    "opponent_score":"24",
    "passing_attempts":{
     "propertyValue":"15",
-    "annotationID":    59649
+    "annotationID":    120415
    },
    "passing_completions":{
     "propertyValue":"31",
-    "annotationID":    59650
+    "annotationID":    120416
    },
    "passing_yards":{
     "propertyValue":"182",
-    "annotationID":    59651
+    "annotationID":    120417
    },
    "passing_rating":   27.3,
    "passing_touchdowns":   0,
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    59652
+    "annotationID":    120418
    },
    "passing_sacks":{
     "propertyValue":"2",
-    "annotationID":    59648
+    "annotationID":    120414
    },
    "passing_sacks_yards_lost":   5,
    "rushing_attempts":   5,
@@ -157,7 +157,7 @@
    "date":"2017-09-24",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    60355
+    "annotationID":    121808
    },
    "age":"21-264",
    "team":"CLE",
@@ -168,35 +168,35 @@
    "opponent_score":"31",
    "passing_attempts":{
     "propertyValue":"22",
-    "annotationID":    60349
+    "annotationID":    121802
    },
    "passing_completions":{
     "propertyValue":"47",
-    "annotationID":    60350
+    "annotationID":    121803
    },
    "passing_yards":{
     "propertyValue":"242",
-    "annotationID":    60351
+    "annotationID":    121804
    },
    "passing_rating":   50.1,
    "passing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    60357
+    "annotationID":    121810
    },
    "passing_interceptions":{
     "propertyValue":"3",
-    "annotationID":    60356
+    "annotationID":    121809
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    60353
+    "annotationID":    121806
    },
    "passing_sacks_yards_lost":   7,
    "rushing_attempts":   7,
    "rushing_yards":   44,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    60354
+    "annotationID":    121807
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -228,7 +228,10 @@
    "player_id":   12374,
    "year":"2017",
    "date":"2017-10-01",
-   "game_number":"4",
+   "game_number":{
+    "propertyValue":"4",
+    "annotationID":    123195
+   },
    "age":"21-271",
    "team":"CLE",
    "game_location":"H",
@@ -236,16 +239,31 @@
    "game_won":   false,
    "player_team_score":"7",
    "opponent_score":"31",
-   "passing_attempts":   16,
-   "passing_completions":   34,
-   "passing_yards":   118,
+   "passing_attempts":{
+    "propertyValue":"16",
+    "annotationID":    123198
+   },
+   "passing_completions":{
+    "propertyValue":"34",
+    "annotationID":    123199
+   },
+   "passing_yards":{
+    "propertyValue":"118",
+    "annotationID":    123200
+   },
    "passing_rating":   43.5,
    "passing_touchdowns":   0,
    "passing_interceptions":   1,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   7,
-   "rushing_attempts":   5,
-   "rushing_yards":   10,
+   "rushing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    123201
+   },
+   "rushing_yards":{
+    "propertyValue":"10",
+    "annotationID":    123202
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -279,7 +297,7 @@
    "date":"2017-10-08",
    "game_number":{
     "propertyValue":"5",
-    "annotationID":    61483
+    "annotationID":    124169
    },
    "age":"21-278",
    "team":"CLE",
@@ -336,13 +354,28 @@
    "opponent":"TEN",
    "game_won":   false,
    "player_team_score":"9",
-   "opponent_score":"12",
-   "passing_attempts":   12,
-   "passing_completions":   20,
-   "passing_yards":   114,
+   "opponent_score":{
+    "propertyValue":"12",
+    "annotationID":    125987
+   },
+   "passing_attempts":{
+    "propertyValue":"12",
+    "annotationID":    125988
+   },
+   "passing_completions":{
+    "propertyValue":"20",
+    "annotationID":    125989
+   },
+   "passing_yards":{
+    "propertyValue":"114",
+    "annotationID":    125990
+   },
    "passing_rating":   36.2,
    "passing_touchdowns":   0,
-   "passing_interceptions":   2,
+   "passing_interceptions":{
+    "propertyValue":"2",
+    "annotationID":    125991
+   },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   0,
@@ -388,15 +421,15 @@
    "opponent_score":"33",
    "passing_attempts":{
     "propertyValue":"18",
-    "annotationID":    62719
+    "annotationID":    126615
    },
    "passing_completions":{
     "propertyValue":"34",
-    "annotationID":    62717
+    "annotationID":    126613
    },
    "passing_yards":{
     "propertyValue":"179",
-    "annotationID":    62718
+    "annotationID":    126614
    },
    "passing_rating":   68.1,
    "passing_touchdowns":   0,
@@ -404,12 +437,12 @@
    "passing_sacks":   3,
    "passing_sacks_yards_lost":{
     "propertyValue":"18",
-    "annotationID":    62720
+    "annotationID":    126616
    },
    "rushing_attempts":   5,
    "rushing_yards":{
     "propertyValue":"18",
-    "annotationID":    62721
+    "annotationID":    126617
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
@@ -451,7 +484,7 @@
    "player_team_score":"24",
    "opponent_score":{
     "propertyValue":"38",
-    "annotationID":    63698
+    "annotationID":    128470
    },
    "passing_attempts":   21,
    "passing_completions":   37,
@@ -459,22 +492,22 @@
    "passing_rating":   73.3,
    "passing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    63694
+    "annotationID":    128465
    },
    "passing_interceptions":{
     "propertyValue":"1",
-    "annotationID":    63695
+    "annotationID":    128466
    },
    "passing_sacks":{
     "propertyValue":"1",
-    "annotationID":    63696
+    "annotationID":    128467
    },
    "passing_sacks_yards_lost":   3,
    "rushing_attempts":   7,
    "rushing_yards":   57,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    63697
+    "annotationID":    128468
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -514,18 +547,42 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"7",
-    "annotationID":    64092
+    "annotationID":    129212
    },
    "opponent_score":"19",
-   "passing_attempts":   16,
-   "passing_completions":   32,
-   "passing_yards":   179,
+   "passing_attempts":{
+    "propertyValue":"16",
+    "annotationID":    129218
+   },
+   "passing_completions":{
+    "propertyValue":"32",
+    "annotationID":    129219
+   },
+   "passing_yards":{
+    "propertyValue":"179",
+    "annotationID":    129220
+   },
    "passing_rating":   51.4,
-   "passing_touchdowns":   1,
-   "passing_interceptions":   2,
-   "passing_sacks":   5,
-   "passing_sacks_yards_lost":   45,
-   "rushing_attempts":   5,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    129221
+   },
+   "passing_interceptions":{
+    "propertyValue":"2",
+    "annotationID":    129222
+   },
+   "passing_sacks":{
+    "propertyValue":"5",
+    "annotationID":    129215
+   },
+   "passing_sacks_yards_lost":{
+    "propertyValue":"45",
+    "annotationID":    129217
+   },
+   "rushing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    129216
+   },
    "rushing_yards":   22,
    "rushing_touchdowns":   0,
    "receiving_targets":   0,

@@ -39,11 +39,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    223
+    "annotationID":    417
    },
    "rushing_yards":{
     "propertyValue":"53",
-    "annotationID":    224
+    "annotationID":    418
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -78,7 +78,7 @@
    "date":"2008-09-14",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    357
+    "annotationID":    653
    },
    "age":"21-177",
    "team":"CAR",
@@ -98,11 +98,11 @@
    "rushing_attempts":   14,
    "rushing_yards":{
     "propertyValue":"77",
-    "annotationID":    356
+    "annotationID":    652
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    358
+    "annotationID":    654
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -232,7 +232,10 @@
    "player_id":   21291,
    "year":"2008",
    "date":"2008-10-05",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    2139
+   },
    "age":"21-198",
    "team":"CAR",
    "game_location":"H",
@@ -398,7 +401,7 @@
    "rushing_attempts":   17,
    "rushing_yards":{
     "propertyValue":"68",
-    "annotationID":    1952
+    "annotationID":    3455
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -430,15 +433,15 @@
   "9":{
    "player_id":   21291,
    "year":"2008",
-   "date":"2008-10-26",
-   "game_number":"8",
-   "age":"21-219",
+   "date":"2008-10-19",
+   "game_number":"7",
+   "age":"21-212",
    "team":"CAR",
    "game_location":"H",
-   "opponent":"ARI",
+   "opponent":"NOR",
    "game_won":   true,
-   "player_team_score":"27",
-   "opponent_score":"23",
+   "player_team_score":"30",
+   "opponent_score":"7",
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -447,12 +450,15 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   8,
-   "rushing_yards":   10,
-   "rushing_touchdowns":   0,
+   "rushing_attempts":   17,
+   "rushing_yards":{
+    "propertyValue":"68",
+    "annotationID":    3567
+   },
+   "rushing_touchdowns":   1,
    "receiving_targets":   1,
    "receiving_receptions":   1,
-   "receiving_yards":   0,
+   "receiving_yards":   3,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -474,13 +480,16 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"Jonathan Stewart took a backseat to DeAngelo Williams this week."
+   "comment":"Jonathan Stewart and DeAngelo Williams gained 68 and 66 yards, respectively, on about the same number of carries."
   },
   "10":{
    "player_id":   21291,
    "year":"2008",
    "date":"2008-10-26",
-   "game_number":"8",
+   "game_number":{
+    "propertyValue":"8",
+    "annotationID":    3979
+   },
    "age":"21-219",
    "team":"CAR",
    "game_location":"H",
@@ -496,8 +505,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   8,
-   "rushing_yards":   10,
+   "rushing_attempts":{
+    "propertyValue":"8",
+    "annotationID":    3980
+   },
+   "rushing_yards":{
+    "propertyValue":"10",
+    "annotationID":    3978
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
@@ -528,6 +543,119 @@
   "11":{
    "player_id":   21291,
    "year":"2008",
+   "date":"2008-10-26",
+   "game_number":{
+    "propertyValue":"8",
+    "annotationID":    4084
+   },
+   "age":"21-219",
+   "team":"CAR",
+   "game_location":"H",
+   "opponent":"ARI",
+   "game_won":   true,
+   "player_team_score":"27",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"8",
+    "annotationID":    4085
+   },
+   "rushing_yards":{
+    "propertyValue":"10",
+    "annotationID":    4083
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   1,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart took a backseat to DeAngelo Williams this week."
+  },
+  "12":{
+   "player_id":   21291,
+   "year":"2008",
+   "date":"2008-11-09",
+   "game_number":"9",
+   "age":"21-233",
+   "team":"CAR",
+   "game_location":"A",
+   "opponent":"OAK",
+   "game_won":   true,
+   "player_team_score":"17",
+   "opponent_score":"6",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"7",
+    "annotationID":    5285
+   },
+   "rushing_yards":{
+    "propertyValue":"21",
+    "annotationID":    5286
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   1,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart (7 carries, 21 yards) was the player who was held. 10. Walter threw another pick in Carolina territory to open the 4.h quarter. 11. Walter took a sack on third-and-four on the next possession. 12. Marques Tuisasosoppo, playing for an injured Walter, took a sack on third-and-seven on the following drive. 13. The Raiders surrendered a 55-yard punt return, setting up a final "
+  },
+  "13":{
+   "player_id":   21291,
+   "year":"2008",
    "date":"2008-11-16",
    "game_number":"10",
    "age":"21-240",
@@ -545,8 +673,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   15,
-   "rushing_yards":   130,
+   "rushing_attempts":{
+    "propertyValue":"15",
+    "annotationID":    5734
+   },
+   "rushing_yards":{
+    "propertyValue":"130",
+    "annotationID":    5733
+   },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
    "receiving_receptions":   1,
@@ -574,7 +708,62 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart and DeAngelo Williams eclipsed the 100-yard barrier."
   },
-  "12":{
+  "14":{
+   "player_id":   21291,
+   "year":"2008",
+   "date":"2008-11-23",
+   "game_number":"11",
+   "age":"21-247",
+   "team":"CAR",
+   "game_location":"A",
+   "opponent":"ATL",
+   "game_won":   false,
+   "player_team_score":"28",
+   "opponent_score":"45",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"5",
+    "annotationID":    6414
+   },
+   "rushing_yards":{
+    "propertyValue":"15",
+    "annotationID":    6415
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart touched the ball only 5 times (15 yards).   "
+  },
+  "15":{
    "player_id":   21291,
    "year":"2008",
    "date":"2008-11-30",
@@ -623,7 +812,108 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart debacling the Packers, Jake Delhomme didn't have to throw much."
   },
-  "13":{
+  "16":{
+   "player_id":   21291,
+   "year":"2008",
+   "date":"2008-12-08",
+   "game_number":"13",
+   "age":"21-262",
+   "team":"CAR",
+   "game_location":"H",
+   "opponent":"TAM",
+   "game_won":   true,
+   "player_team_score":"38",
+   "opponent_score":"23",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   15,
+   "rushing_yards":   115,
+   "rushing_touchdowns":   2,
+   "receiving_targets":   2,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   1,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart had 88 and 52 yards, respectively. Both scored touchdowns.    However, the player Denver had immense problems containing was "
+  },
+  "17":{
+   "player_id":   21291,
+   "year":"2008",
+   "date":"2008-12-14",
+   "game_number":"14",
+   "age":"21-268",
+   "team":"CAR",
+   "game_location":"H",
+   "opponent":"DEN",
+   "game_won":   true,
+   "player_team_score":"30",
+   "opponent_score":"10",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   16,
+   "rushing_yards":{
+    "propertyValue":"52",
+    "annotationID":    8124
+   },
+   "rushing_touchdowns":   1,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   1,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart had 88 and 52 yards, respectively. Both scored touchdowns.    However, the player Denver had immense problems containing was "
+  },
+  "18":{
    "player_id":   21291,
    "year":"2008",
    "date":"2008-12-28",
@@ -645,11 +935,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    4198
+    "annotationID":    9051
    },
    "rushing_yards":{
     "propertyValue":"56",
-    "annotationID":    4197
+    "annotationID":    9050
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -678,7 +968,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart gained 56 yards and a touchdown on 17 carries.    "
   },
-  "14":{
+  "19":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-10-11",
@@ -700,11 +990,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    5572
+    "annotationID":    12003
    },
    "rushing_yards":{
     "propertyValue":"39",
-    "annotationID":    5571
+    "annotationID":    12002
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -733,7 +1023,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart was responsible for that score. He wasn't even expected to play, but he rushed for 39 yards on 10 carries. "
   },
-  "15":{
+  "20":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-10-18",
@@ -755,11 +1045,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    6055
+    "annotationID":    12833
    },
    "rushing_yards":{
     "propertyValue":"110",
-    "annotationID":    6054
+    "annotationID":    12832
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
@@ -788,7 +1078,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart, meanwhile, garnered 110 yards and a score on 17 attempts. It's worth noting that Stewart fumbled at the Tampa Bay 2-yard line.    It's hard to believe, but "
   },
-  "16":{
+  "21":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-10-25",
@@ -810,11 +1100,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    6383
+    "annotationID":    13436
    },
    "rushing_yards":{
     "propertyValue":"25",
-    "annotationID":    6384
+    "annotationID":    13437
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -843,7 +1133,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart wasn't very active (7 carries, 25 yards).    "
   },
-  "17":{
+  "22":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-11-01",
@@ -865,15 +1155,15 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    6877
+    "annotationID":    14278
    },
    "rushing_yards":{
     "propertyValue":"87",
-    "annotationID":    6875
+    "annotationID":    14276
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    6878
+    "annotationID":    14279
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -901,7 +1191,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart ripped apart the league's top run defense. Williams gained 158 yards on 23 attempts, while Stewart accumulated 87 yards and 2 touchdowns on 17 carries. Stewart's 2 scores weren't goal-line rushes, so don't be too concerned if you're a Williams owner.    Amazingly, "
   },
-  "18":{
+  "23":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-11-15",
@@ -914,7 +1204,7 @@
    "player_team_score":"28",
    "opponent_score":{
     "propertyValue":"19",
-    "annotationID":    7268
+    "annotationID":    15001
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -926,19 +1216,19 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    7272
+    "annotationID":    15005
    },
    "rushing_yards":{
     "propertyValue":"82",
-    "annotationID":    7269
+    "annotationID":    15002
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    7270
+    "annotationID":    15003
    },
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    7271
+    "annotationID":    15004
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -965,7 +1255,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart, the Falcons whiffed on numerous opportunities to bring down the Panthers. Williams rushed for 92 yards on 19 carries. Stewart managed 82 yards and 2 touchdowns on 11 attempts. Smith scored twice, catching 4 balls for 34 yards. "
   },
-  "19":{
+  "24":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-11-29",
@@ -976,7 +1266,10 @@
    "opponent":"NYJ",
    "game_won":   false,
    "player_team_score":"6",
-   "opponent_score":"17",
+   "opponent_score":{
+    "propertyValue":"17",
+    "annotationID":    16677
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -987,16 +1280,16 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    8286
+    "annotationID":    16674
    },
    "rushing_yards":{
     "propertyValue":"35",
-    "annotationID":    8287
+    "annotationID":    16675
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    8288
+    "annotationID":    16676
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -1023,7 +1316,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (9-35) could find any running room against the Jets' usually leaky rush defense.    Give credit to Matthew Berry: He was criticized by Merril Hoge for listing Steve Smith as a sit on <i> Sunday NFL Countdown</i>. Smith had just 1 catch for 5 yards against Revis. One has to wonder what purpose Hoge serves on the show's brief fantasy segment aside from annoying everyone.    "
   },
-  "20":{
+  "25":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-12-06",
@@ -1045,11 +1338,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"26",
-    "annotationID":    8518
+    "annotationID":    17096
    },
    "rushing_yards":{
     "propertyValue":"120",
-    "annotationID":    8519
+    "annotationID":    17097
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1078,7 +1371,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart to carry the load. On 26 attempts, Stewart compiled 120 yards and a touchdown.   "
   },
-  "21":{
+  "26":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-12-13",
@@ -1100,11 +1393,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    9057
+    "annotationID":    18032
    },
    "rushing_yards":{
     "propertyValue":"29",
-    "annotationID":    9058
+    "annotationID":    18033
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -1133,7 +1426,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart had just 7 attempts for 29 yards. <div class=dfpAdSlots>   "
   },
-  "22":{
+  "27":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-12-20",
@@ -1144,7 +1437,10 @@
    "opponent":"MIN",
    "game_won":   true,
    "player_team_score":"26",
-   "opponent_score":"7",
+   "opponent_score":{
+    "propertyValue":"7",
+    "annotationID":    19171
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -1155,17 +1451,20 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"25",
-    "annotationID":    9660
+    "annotationID":    19168
    },
    "rushing_yards":{
     "propertyValue":"109",
-    "annotationID":    9659
+    "annotationID":    19167
    },
    "rushing_touchdowns":   1,
-   "receiving_targets":   3,
+   "receiving_targets":{
+    "propertyValue":"3",
+    "annotationID":    19172
+   },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    9661
+    "annotationID":    19169
    },
    "receiving_yards":   14,
    "receiving_touchdowns":   1,
@@ -1191,7 +1490,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart came in and mustered 109 yards and a touchdown on 25 attempts. The Vikings haven't been able to stop the rush ever since middle linebacker E.J. Henderson suffered a season-ending injury 2 weeks ago. - "
   },
-  "23":{
+  "28":{
    "player_id":   21291,
    "year":"2009",
    "date":"2009-12-27",
@@ -1213,11 +1512,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"28",
-    "annotationID":    9869
+    "annotationID":    19489
    },
    "rushing_yards":{
     "propertyValue":"206",
-    "annotationID":    9868
+    "annotationID":    19488
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -1246,13 +1545,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart got all of the work against a sleepwalking Giants defense. Stewart compiled 206 yards and a score on 28 carries.    The Giants had a chance to establish the momentum early on. They scored a touchdown on the first possession, but it was wiped out by a holding penalty. Later on the drive, "
   },
-  "24":{
+  "29":{
    "player_id":   21291,
    "year":"2009",
    "date":"2010-01-03",
    "game_number":{
     "propertyValue":"16",
-    "annotationID":    10085
+    "annotationID":    19857
    },
    "age":"22-288",
    "team":"CAR",
@@ -1271,11 +1570,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"16",
-    "annotationID":    10086
+    "annotationID":    19858
    },
    "rushing_yards":{
     "propertyValue":"125",
-    "annotationID":    10084
+    "annotationID":    19856
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1304,13 +1603,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart started with DeAngelo Williams out again. Stewart rumbled for 125 yards on 16 carries, including a 67-yard touchdown on the first drive of the game. Unfortunately, he reaggravated his old Achillies injury and had to leave the game.    "
   },
-  "25":{
+  "30":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-09-12",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    10727
+    "annotationID":    20869
    },
    "age":"23-175",
    "team":"CAR",
@@ -1329,11 +1628,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    10726
+    "annotationID":    20868
    },
    "rushing_yards":{
     "propertyValue":"12",
-    "annotationID":    10725
+    "annotationID":    20867
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1362,7 +1661,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart carried the ball only 5 times for 12 yards. I don't understand why Stewart touched the ball only 5 times. The coaching staff should be embarrassed - especially considering how crappy Matt Moore was. Moore went 14-of-33 for 182 yards, 1 touchdown, 3 picks and 2 fumbles. His first interception was particularly ugly, as he lobbed the ball into quadruple coverage in the end zone. Moore could have easily tossed a 4.h interception, but the Giants dropped it in the second quarter. Unfortunately for Moore (and perhaps fortunately for the Panthers), Moore suffered a concussion in the 4.h quarter. "
   },
-  "26":{
+  "31":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-09-19",
@@ -1375,7 +1674,7 @@
    "player_team_score":"7",
    "opponent_score":{
     "propertyValue":"20",
-    "annotationID":    11064
+    "annotationID":    21456
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1387,14 +1686,17 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    11062
+    "annotationID":    21454
    },
    "rushing_yards":{
     "propertyValue":"43",
-    "annotationID":    11063
+    "annotationID":    21455
    },
    "rushing_touchdowns":   0,
-   "receiving_targets":   1,
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    21457
+   },
    "receiving_receptions":   0,
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
@@ -1420,11 +1722,14 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (8 carries, 43 yards), Fox has included Mike Goodson (5-20) in the mix."
   },
-  "27":{
+  "32":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-09-26",
-   "game_number":"3",
+   "game_number":{
+    "propertyValue":"3",
+    "annotationID":    22092
+   },
    "age":"23-189",
    "team":"CAR",
    "game_location":"H",
@@ -1442,11 +1747,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    11433
+    "annotationID":    22090
    },
    "rushing_yards":{
     "propertyValue":"13",
-    "annotationID":    11434
+    "annotationID":    22091
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -1475,7 +1780,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (8 carries, 13 yards) was guilty of an ugly fumble, which the Bengals recovered. Cincinnati scored a touchdown a couple of plays later to ice this contest.    As with "
   },
-  "28":{
+  "33":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-10-03",
@@ -1498,14 +1803,14 @@
    "rushing_attempts":   7,
    "rushing_yards":{
     "propertyValue":"21",
-    "annotationID":    12041
+    "annotationID":    23065
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
     "propertyValue":"55",
-    "annotationID":    12042
+    "annotationID":    23066
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1530,7 +1835,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart totaled just 21 rushing yards, but had a 55-yard touchdown reception in the second quarter.   "
   },
-  "29":{
+  "34":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-10-10",
@@ -1552,11 +1857,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    12341
+    "annotationID":    23544
    },
    "rushing_yards":{
     "propertyValue":"30",
-    "annotationID":    12342
+    "annotationID":    23545
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -1585,7 +1890,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (8-30) didn't get many opportunities later on because the Panthers were down big early.    I named Tom Collins' top receivers, so I might as well do the same for Clawful. With "
   },
-  "30":{
+  "35":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-10-24",
@@ -1607,11 +1912,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    12989
+    "annotationID":    24623
    },
    "rushing_yards":{
     "propertyValue":"29",
-    "annotationID":    12990
+    "annotationID":    24624
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -1640,7 +1945,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (14-29) had no running room with Jeff Otah out yet again.   "
   },
-  "31":{
+  "36":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-10-31",
@@ -1662,20 +1967,20 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    13271
+    "annotationID":    25107
    },
    "rushing_yards":{
     "propertyValue":"30",
-    "annotationID":    13270
+    "annotationID":    25106
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    13267
+    "annotationID":    25103
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    13268
+    "annotationID":    25104
    },
    "receiving_yards":   8,
    "receiving_touchdowns":   0,
@@ -1701,7 +2006,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart was on pace to crack 100 rushing yards if he had 400 carries; Stewart mustered just 1 yard on only 4 attempts, which makes you wonder why the Panthers had only 4 rushes in the first 30 minutes of the game. Stewart finished with 30 yards on 14 carries.   "
   },
-  "32":{
+  "37":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-11-07",
@@ -1723,11 +2028,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    13508
+    "annotationID":    25496
    },
    "rushing_yards":{
     "propertyValue":"30",
-    "annotationID":    13509
+    "annotationID":    25497
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1756,7 +2061,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (5-30) was carted off into the locker room with a head injury in the first half. Neither was particularly effective.    Stewart wasn't the only Panther who got hurt. "
   },
-  "33":{
+  "38":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-11-28",
@@ -1776,8 +2081,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   12,
-   "rushing_yards":   98,
+   "rushing_attempts":{
+    "propertyValue":"12",
+    "annotationID":    27096
+   },
+   "rushing_yards":{
+    "propertyValue":"98",
+    "annotationID":    27095
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -1805,7 +2116,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart is back! Though Mike Goodson started and received 22 touches (14 carries, 55 rush yards, 8 catches, 81 rec."
   },
-  "34":{
+  "39":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-12-05",
@@ -1827,11 +2138,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"21",
-    "annotationID":    15017
+    "annotationID":    27972
    },
    "rushing_yards":{
     "propertyValue":"92",
-    "annotationID":    15016
+    "annotationID":    27971
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1860,7 +2171,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart played well. He had 92 yards and a score on 21 carries.    Speaking of running backs posting great stats, "
   },
-  "35":{
+  "40":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-12-12",
@@ -1882,11 +2193,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    15046
+    "annotationID":    28019
    },
    "rushing_yards":{
     "propertyValue":"133",
-    "annotationID":    15045
+    "annotationID":    28018
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -1915,7 +2226,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart finished with 133 yards on 18 attempts, while Mike Goodson mustered 70 yards and a nifty touchdown on 9 attempts."
   },
-  "36":{
+  "41":{
    "player_id":   21291,
    "year":"2010",
    "date":"2010-12-19",
@@ -1964,7 +2275,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart gained 129 yards on 26 carries. Stewart ripped off double-digit gains at will at the end of the game when Arizona knew Carolina was going to keep it on the ground.    As for the other rookie quarterback, "
   },
-  "37":{
+  "42":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-09-11",
@@ -1986,11 +2297,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    16277
+    "annotationID":    30041
    },
    "rushing_yards":{
     "propertyValue":"26",
-    "annotationID":    16276
+    "annotationID":    30040
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -2019,13 +2330,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart gained 26 yards on 7 attempts. It would be nice if Stewart and Williams could both start in this league, for fantasy purposes, but Carolina's inept front office ruined that for us.    "
   },
-  "38":{
+  "43":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-09-25",
    "game_number":{
     "propertyValue":"3",
-    "annotationID":    16837
+    "annotationID":    31109
    },
    "age":"24-188",
    "team":"CAR",
@@ -2035,7 +2346,7 @@
    "player_team_score":"16",
    "opponent_score":{
     "propertyValue":"10",
-    "annotationID":    16834
+    "annotationID":    31106
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2047,21 +2358,21 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    16835
+    "annotationID":    31107
    },
    "rushing_yards":{
     "propertyValue":"59",
-    "annotationID":    16836
+    "annotationID":    31108
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    16838
+    "annotationID":    31110
    },
    "receiving_yards":{
     "propertyValue":"26",
-    "annotationID":    16839
+    "annotationID":    31111
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2086,7 +2397,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart is the better back. Stewart took his 10 attempts for 59 yards to go along with 3 catches for 26 receiving yards. He also had a 60-yard gain wiped out by a shady ruling that his elbow hit the ground.   "
   },
-  "39":{
+  "44":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-10-02",
@@ -2108,11 +2419,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    17306
+    "annotationID":    31982
    },
    "rushing_yards":{
     "propertyValue":"52",
-    "annotationID":    17307
+    "annotationID":    31983
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -2141,7 +2452,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (8-52) found some running room for the first time all year.    Some big fantasy numbers: "
   },
-  "40":{
+  "45":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-10-16",
@@ -2163,11 +2474,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    17875
+    "annotationID":    33105
    },
    "rushing_yards":{
     "propertyValue":"48",
-    "annotationID":    17876
+    "annotationID":    33106
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   3,
@@ -2196,7 +2507,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (7-48, TD).    A week ago, a sullen Newton told the media that he wasn't sure why his team kept losing. Well, it's the obviously the defense. They can't tackle whatsoever. Carolina looked pathetic trying to stop "
   },
-  "41":{
+  "46":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-10-23",
@@ -2216,8 +2527,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   14,
-   "rushing_yards":   68,
+   "rushing_attempts":{
+    "propertyValue":"14",
+    "annotationID":    33409
+   },
+   "rushing_yards":{
+    "propertyValue":"68",
+    "annotationID":    33410
+   },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -2245,7 +2562,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart receive more carries than DeAngelo Williams for a change."
   },
-  "42":{
+  "47":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-10-30",
@@ -2294,7 +2611,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart on moderate gains to put the ball at the Carolina 40. Then he got caught by safety Husain Abdullah for the third and final sack he took, and only 1 he retained possession on. A short completion and misfire later made it 4th-and-14. I thought it was over, but he threw a strike to "
   },
-  "43":{
+  "48":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-11-20",
@@ -2319,15 +2636,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"6",
-    "annotationID":    19266
+    "annotationID":    35920
    },
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    19267
+    "annotationID":    35921
    },
    "receiving_yards":{
     "propertyValue":"87",
-    "annotationID":    19268
+    "annotationID":    35922
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2352,7 +2669,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart made 6 grabs for 87 yards. "
   },
-  "44":{
+  "49":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-11-27",
@@ -2378,11 +2695,11 @@
    "receiving_targets":   4,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    19673
+    "annotationID":    36743
    },
    "receiving_yards":{
     "propertyValue":"12",
-    "annotationID":    19671
+    "annotationID":    36741
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2392,7 +2709,10 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   1,
+   "defense_tackles":{
+    "propertyValue":"1",
+    "annotationID":    36744
+   },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -2407,7 +2727,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (3-12), Jeremy Shockey (3-41) and Greg Olsen (3-24)."
   },
-  "45":{
+  "50":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-12-04",
@@ -2431,7 +2751,7 @@
    "rushing_yards":   80,
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    20029
+    "annotationID":    37514
    },
    "receiving_targets":   2,
    "receiving_receptions":   2,
@@ -2459,7 +2779,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart charged his way through the Buccaneers' defense, and Newton dived over the top of the line for a 1-yard touchdown. The next possession saw another touchdown. Newton had a good run on a 4.h-down play to extend the drive. A play later, a nifty double lateral saw Newton run for 27 yards and be stopped just short of the end zone. Stewart finished it with a short run for a touchdown. Newton then threw a bullet to "
   },
-  "46":{
+  "51":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-12-11",
@@ -2481,11 +2801,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    20361
+    "annotationID":    38209
    },
    "rushing_yards":{
     "propertyValue":"29",
-    "annotationID":    20362
+    "annotationID":    38210
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
@@ -2514,7 +2834,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (8-29).    Newton was also limited on the ground; he rushed for only 36 yards to go along with his average passing numbers (19-of-39, 276 yards, 2 TDs, 2 INTs). The rookie signal-caller was really erratic in the second half. In addition to those aforementioned picks, he had major trouble with his accuracy, mechanics and reads. He still gave the Panthers a chance to win though, but "
   },
-  "47":{
+  "52":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-12-18",
@@ -2536,11 +2856,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    20667
+    "annotationID":    38760
    },
    "rushing_yards":{
     "propertyValue":"43",
-    "annotationID":    20668
+    "annotationID":    38761
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -2569,7 +2889,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (11-43) combined to rush for about 4 yards per carry. Prior to this contest, the Texans hadn't allowed more than 100 rushing yards to an opponent since Week 6.    Newton's scores went to Steve Smith (5-82) and "
   },
-  "48":{
+  "53":{
    "player_id":   21291,
    "year":"2011",
    "date":"2011-12-24",
@@ -2589,13 +2909,28 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   7,
-   "rushing_yards":   88,
+   "rushing_attempts":{
+    "propertyValue":"7",
+    "annotationID":    39858
+   },
+   "rushing_yards":{
+    "propertyValue":"88",
+    "annotationID":    39857
+   },
    "rushing_touchdowns":   0,
-   "receiving_targets":   2,
-   "receiving_receptions":   1,
+   "receiving_targets":{
+    "propertyValue":"2",
+    "annotationID":    39852
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    39855
+   },
    "receiving_yards":   11,
-   "receiving_touchdowns":   1,
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    39856
+   },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
@@ -2618,7 +2953,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart. The Panthers then piled it on with a 49-yard touchdown run from Newton straight up the middle of the Buccaneers' defense. On the play, linebacker "
   },
-  "49":{
+  "54":{
    "player_id":   21291,
    "year":"2011",
    "date":"2012-01-01",
@@ -2640,18 +2975,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    21561
+    "annotationID":    40542
    },
    "rushing_yards":{
     "propertyValue":"79",
-    "annotationID":    21562
+    "annotationID":    40543
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
    "receiving_receptions":   2,
    "receiving_yards":{
     "propertyValue":"7",
-    "annotationID":    21563
+    "annotationID":    40544
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2676,7 +3011,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (9-79, TD) and DeAngelo Williams (7-53) had success running the ball as well."
   },
-  "50":{
+  "55":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-09-16",
@@ -2698,16 +3033,19 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    22183
+    "annotationID":    41764
    },
    "rushing_yards":{
     "propertyValue":"51",
-    "annotationID":    22184
+    "annotationID":    41765
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
-   "receiving_yards":   17,
+   "receiving_yards":{
+    "propertyValue":"17",
+    "annotationID":    41766
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2731,7 +3069,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (11-51) both gashed New Orleans. "
   },
-  "51":{
+  "56":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-09-30",
@@ -2753,11 +3091,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    23084
+    "annotationID":    43399
    },
    "rushing_yards":{
     "propertyValue":"40",
-    "annotationID":    23085
+    "annotationID":    43400
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -2786,7 +3124,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart split carries pretty evenly. They tallied 11-49-TD and 10-40, respectively. <div class=dfpAdSlots>   "
   },
-  "52":{
+  "57":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-10-07",
@@ -2799,7 +3137,7 @@
    "player_team_score":"12",
    "opponent_score":{
     "propertyValue":"16",
-    "annotationID":    23697
+    "annotationID":    44483
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2811,16 +3149,16 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"4",
-    "annotationID":    23699
+    "annotationID":    44485
    },
    "rushing_yards":{
     "propertyValue":"16",
-    "annotationID":    23698
+    "annotationID":    44484
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    23700
+    "annotationID":    44486
    },
    "receiving_receptions":   2,
    "receiving_yards":   15,
@@ -2847,13 +3185,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart, who gained 16 yards on 4 carries. Stewart also dropped a pass. "
   },
-  "53":{
+  "58":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-10-21",
    "game_number":{
     "propertyValue":"6",
-    "annotationID":    24251
+    "annotationID":    45500
    },
    "age":"25-214",
    "team":"CAR",
@@ -2862,7 +3200,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"14",
-    "annotationID":    24252
+    "annotationID":    45501
    },
    "opponent_score":"19",
    "passing_attempts":   0,
@@ -2875,20 +3213,20 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    24254
+    "annotationID":    45503
    },
    "rushing_yards":{
     "propertyValue":"35",
-    "annotationID":    24253
+    "annotationID":    45502
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"4",
-    "annotationID":    24249
+    "annotationID":    45498
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    24247
+    "annotationID":    45496
    },
    "receiving_yards":   11,
    "receiving_touchdowns":   0,
@@ -2914,7 +3252,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart in the end zone later in the period. Cowboys: Doug Free was whistled for a false start on a 3rd-and-4 in Carolina territory after halftime. Dallas consequently failed to convert in longer yardage. Panthers: Carolina did the same thing in a 3rd-and-10. Cowboys: Jay Ratliff's personal foul and Brandon Carr's defensive holding helped the Panthers score a touchdown. Dez Bryant then dropped a score of his own. Panthers: The Panthers committed a strange personal foul penalty as Dallas was running the clock out. This gave the Cowboys a first down, allowing them to run off more time. This also let them kick a field goal, which covered the spread. The FOX announcers were befuddled by this infraction, and so was I. It was almost as if the officials wanted to make sure that Dallas would win by more than a field goal.    As for the actual players, both quarterbacks performed relatively well despite getting nothing out of the running game. Romo went 24-of-34 for 227 yards and a touchdown to Austin-Jones (5-97). Newton, meanwhile, was 21-of-37 for 233 yards, 1 touchdown to Brandon LaFell (4-53) and the aforementioned pick. One thing that really bothers me is that Newton is barely running in the red zone. He did scramble 6 times for 64 yards, but none of this came deep in Dallas territory. After the game, a sullen Newton told the media that he's demanding change. I'm not sure what sort of change, but it appears as though he's defeated mentally.    Of the receivers who didn't score a touchdown, Steve Smith (7-83) was best. Jason Witten (6-44) was just OK. Dez Bryant (2-14), however, disappointed. He appeared to suffer a concussion but reentered the game and dropped a touchdown. This was a very disappointing outing, as Bryant continued to show the inconsistency that has plagued him throughout his career thus far.    As mentioned, both running games were sluggish. Felix Jones, expected to gash Carolina's poor defense, gained just 44 yards on 15 carries. Jonathan Stewart, meanwhile, ran for 35 yards on only 10 attempts. "
   },
-  "54":{
+  "59":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-10-28",
@@ -2936,11 +3274,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"17",
-    "annotationID":    24553
+    "annotationID":    46057
    },
    "rushing_yards":{
     "propertyValue":"42",
-    "annotationID":    24552
+    "annotationID":    46056
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
@@ -2969,7 +3307,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart run out of more normal formations, and they did just that. They weren't successful, however, as Stewart managed just 42 yards on 17 carries. Having said that, Carolina battled a tough Chicago defense, so maybe Stewart will have more luck next week at Washington. <div class=dfpAdSlots>   "
   },
-  "55":{
+  "60":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-11-04",
@@ -2991,11 +3329,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    25147
+    "annotationID":    47122
    },
    "rushing_yards":{
     "propertyValue":"51",
-    "annotationID":    25146
+    "annotationID":    47121
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -3024,11 +3362,69 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart handled the majority of the workload once again, finishing with 51 yards on 10 carries. <div class=dfpAdSlots>   "
   },
-  "56":{
+  "61":{
+   "player_id":   21291,
+   "year":"2012",
+   "date":"2012-11-11",
+   "game_number":"9",
+   "age":"25-235",
+   "team":"CAR",
+   "game_location":"H",
+   "opponent":"DEN",
+   "game_won":   false,
+   "player_team_score":"14",
+   "opponent_score":"36",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"8",
+    "annotationID":    47434
+   },
+   "rushing_yards":{
+    "propertyValue":"31",
+    "annotationID":    47435
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":   2,
+   "receiving_receptions":   2,
+   "receiving_yards":   23,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart (8-31) led the team in rushing, while DeAngelo Williams had 6 spectacular carries for 6 yards."
+  },
+  "62":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-11-18",
-   "game_number":"10",
+   "game_number":{
+    "propertyValue":"10",
+    "annotationID":    48035
+   },
    "age":"25-242",
    "team":"CAR",
    "game_location":"H",
@@ -3044,11 +3440,26 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   15,
-   "rushing_yards":   43,
-   "rushing_touchdowns":   1,
-   "receiving_targets":   1,
-   "receiving_receptions":   1,
+   "rushing_attempts":{
+    "propertyValue":"15",
+    "annotationID":    48036
+   },
+   "rushing_yards":{
+    "propertyValue":"43",
+    "annotationID":    48034
+   },
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    48030
+   },
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    48031
+   },
+   "receiving_receptions":{
+    "propertyValue":"1",
+    "annotationID":    48032
+   },
    "receiving_yards":   30,
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3073,7 +3484,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart and 17-yard pass to Steve Smith (5-61)."
   },
-  "57":{
+  "63":{
    "player_id":   21291,
    "year":"2012",
    "date":"2012-11-26",
@@ -3122,7 +3533,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart was out, so DeAngelo Williams took most of the carries."
   },
-  "58":{
+  "64":{
    "player_id":   21291,
    "year":"2013",
    "date":"2013-11-03",
@@ -3142,10 +3553,13 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   9,
+   "rushing_attempts":{
+    "propertyValue":"9",
+    "annotationID":    60336
+   },
    "rushing_yards":{
     "propertyValue":"43",
-    "annotationID":    31547
+    "annotationID":    60335
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -3174,7 +3588,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart made his return to the lineup off the PUP list, and he managed to outgain DeAngelo Williams, 43-43."
   },
-  "59":{
+  "65":{
    "player_id":   21291,
    "year":"2013",
    "date":"2013-11-10",
@@ -3196,11 +3610,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    32152
+    "annotationID":    61476
    },
    "rushing_yards":{
     "propertyValue":"41",
-    "annotationID":    32151
+    "annotationID":    61475
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -3229,13 +3643,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart. Williams outgained Stewart, 46-41, but had just 8 attempts compared to Stewart's 13. I'm not sure why head coach Commander Adama suddenly thinks that Stewart is the superior back; Williams has enjoyed a surprisingly solid season and deserves to be the lead back. It's also worth noting that Stewart fumbled while trying to bleed the clock out, but his team managed to recover the ball.   "
   },
-  "60":{
+  "66":{
    "player_id":   21291,
    "year":"2013",
    "date":"2013-11-18",
    "game_number":{
     "propertyValue":"10",
-    "annotationID":    32960
+    "annotationID":    62938
    },
    "age":"26-242",
    "team":"CAR",
@@ -3254,11 +3668,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"4",
-    "annotationID":    32962
+    "annotationID":    62940
    },
    "rushing_yards":{
     "propertyValue":"10",
-    "annotationID":    32961
+    "annotationID":    62939
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -3287,7 +3701,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart each had 31 rushing yards on 10 and 7 carries, respectively.    Smith, who had the aforementioned big 4.h-down conversion, led his team with 69 receiving yards on 5 catches. Curiously, shutdown cornerback "
   },
-  "61":{
+  "67":{
    "player_id":   21291,
    "year":"2013",
    "date":"2013-11-24",
@@ -3309,11 +3723,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"7",
-    "annotationID":    32964
+    "annotationID":    62942
    },
    "rushing_yards":{
     "propertyValue":"31",
-    "annotationID":    32963
+    "annotationID":    62941
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -3342,7 +3756,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart each had 31 rushing yards on 10 and 7 carries, respectively.    Smith, who had the aforementioned big 4.h-down conversion, led his team with 69 receiving yards on 5 catches. Curiously, shutdown cornerback "
   },
-  "62":{
+  "68":{
    "player_id":   21291,
    "year":"2013",
    "date":"2013-12-01",
@@ -3364,18 +3778,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    33286
+    "annotationID":    63550
    },
    "rushing_yards":{
     "propertyValue":"39",
-    "annotationID":    33283
+    "annotationID":    63547
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
    "receiving_receptions":   2,
    "receiving_yards":{
     "propertyValue":"3",
-    "annotationID":    33285
+    "annotationID":    63549
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3400,7 +3814,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart ran for 39 yards on 14 carries. Mike Tolbert was Carolina's leading back as he gained 48 yards on 9 carries with 3 receptions for 41 yards.    Glennon was 14-of-21 for 180 yards with a fumble and an interception. "
   },
-  "63":{
+  "69":{
    "player_id":   21291,
    "year":"2013",
    "date":"2013-12-08",
@@ -3422,17 +3836,17 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"1",
-    "annotationID":    34007
+    "annotationID":    64887
    },
    "rushing_yards":   16,
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    34008
+    "annotationID":    64888
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    34009
+    "annotationID":    64889
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -3458,7 +3872,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart in the second half, but the injury-prone back hurt his knee. No 1 saw that coming.   "
   },
-  "64":{
+  "70":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-09-07",
@@ -3470,7 +3884,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"20",
-    "annotationID":    35813
+    "annotationID":    68177
    },
    "opponent_score":"14",
    "passing_attempts":   0,
@@ -3483,11 +3897,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"9",
-    "annotationID":    35812
+    "annotationID":    68176
    },
    "rushing_yards":{
     "propertyValue":"20",
-    "annotationID":    35814
+    "annotationID":    68178
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -3516,7 +3930,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (9-20) was much less effective. "
   },
-  "65":{
+  "71":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-09-14",
@@ -3538,27 +3952,27 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    35948
+    "annotationID":    68513
    },
    "rushing_yards":{
     "propertyValue":"37",
-    "annotationID":    35947
+    "annotationID":    68512
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    35953
+    "annotationID":    68518
    },
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    35954
+    "annotationID":    68519
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    35955
+    "annotationID":    68520
    },
    "receiving_yards":{
     "propertyValue":"22",
-    "annotationID":    35952
+    "annotationID":    68517
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3583,7 +3997,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart started and got almost all of the workload. However, all he could muster was 37 yards on 15 carries, and most of his yardage came on just 1. powerful, 22-yard attempt. Stewart did score a touchdown to help his 5 fantasy owners out there.    As for Stafford, he went 27-of-48 for 291 yards, 1 touchdown and a pick. Without Greg Hardy out of the lineup, Stafford had a clean pocket to start the game. However, the Panthers managed to get pressure on him as the afternoon progressed, ultimately notching 4 sacks. As you can imagine, Stafford targeted Calvin Johnson more than anyone, but Megatron managed just 6 grabs for 83 yards. Bell tied his reception lead and accumulated 61 yards. "
   },
-  "66":{
+  "72":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-09-21",
@@ -3605,11 +4019,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    36904
+    "annotationID":    70363
    },
    "rushing_yards":{
     "propertyValue":"31",
-    "annotationID":    36903
+    "annotationID":    70362
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -3638,7 +4052,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart started, but didn't get much of an opportunity. He gained 31 yards on just 5 carries.   "
   },
-  "67":{
+  "73":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-10-19",
@@ -3664,7 +4078,7 @@
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    38292
+    "annotationID":    73085
    },
    "receiving_yards":   12,
    "receiving_touchdowns":   0,
@@ -3690,7 +4104,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart gained 55 yards on 14 carries, but his first-half stats (6-11) are more indicative of how poorly he ran. The line failed to open up any room for him on a third-and-1 try, as "
   },
-  "68":{
+  "74":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-10-26",
@@ -3712,11 +4126,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"16",
-    "annotationID":    38697
+    "annotationID":    73876
    },
    "rushing_yards":{
     "propertyValue":"79",
-    "annotationID":    38696
+    "annotationID":    73875
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -3745,7 +4159,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart, who hasn't enjoyed success against anyone, actually looked like a decent runner, gaining 79 yards on 16 carries.   "
   },
-  "69":{
+  "75":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-11-10",
@@ -3794,7 +4208,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart this week, outgaining his teammate, 41-24. Neither was very effective against a poor run defense. This position needs to be addressed this spring, and that's what I have happening in my .   "
   },
-  "70":{
+  "76":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-11-16",
@@ -3817,7 +4231,7 @@
    "rushing_attempts":   7,
    "rushing_yards":{
     "propertyValue":"24",
-    "annotationID":    39613
+    "annotationID":    76411
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -3846,13 +4260,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart this week, outgaining his teammate, 41-24. Neither was very effective against a poor run defense. This position needs to be addressed this spring, and that's what I have happening in my .   "
   },
-  "71":{
+  "77":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-11-30",
    "game_number":{
     "propertyValue":"12",
-    "annotationID":    40173
+    "annotationID":    78129
    },
    "age":"27-254",
    "team":"CAR",
@@ -3871,11 +4285,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"12",
-    "annotationID":    40174
+    "annotationID":    78130
    },
    "rushing_yards":{
     "propertyValue":"85",
-    "annotationID":    40172
+    "annotationID":    78128
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -3904,7 +4318,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart actually look good, as he gained 85 yards on 12 carries. He was much more effective than "
   },
-  "72":{
+  "78":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-12-07",
@@ -3926,19 +4340,19 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    40609
+    "annotationID":    78969
    },
    "rushing_yards":{
     "propertyValue":"155",
-    "annotationID":    40608
+    "annotationID":    78968
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    40610
+    "annotationID":    78970
    },
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    40611
+    "annotationID":    78971
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -3965,7 +4379,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart also had a huge outing. He gained 155 yards on 20 carries and a touchdown, though most of it - a 69-yarder - came on 1 attempt early in the third quarter. Even without that scamper, Stewart was highly effective, though it's worth noting that the horrible Saints' defense was too preoccupied trying to stop Newton to even bother concentrating on the usually disappointing running back.    Newton's 3 aerial touchdowns went to different players: "
   },
-  "73":{
+  "79":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-12-14",
@@ -3987,7 +4401,7 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"22",
-    "annotationID":    41035
+    "annotationID":    79749
    },
    "rushing_yards":   75,
    "rushing_touchdowns":   0,
@@ -4017,7 +4431,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart had a disappointing performance after his awesome display at New Orleans last week. Stewart mustered 73 yards on 22 carries, but really hurt his team - and those who bet on the Panthers - with a lost fumble inside the Tampa Bay 5-yard line.    Speaking of fumbling, "
   },
-  "74":{
+  "80":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-12-21",
@@ -4039,11 +4453,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    41432
+    "annotationID":    80574
    },
    "rushing_yards":{
     "propertyValue":"122",
-    "annotationID":    41431
+    "annotationID":    80573
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -4072,7 +4486,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart picked up where Jeremy Hill left off last week, gashing Cleveland's awful defense for 122 yards on 24 carries along with a receiving touchdown. He had to leave the game temporarily because there was blood gushing out of his skin near his eye.    As for Manziel, this was yet another disastrous start, and based on how he played, there probably won't be many more. Manziel and "
   },
-  "75":{
+  "81":{
    "player_id":   21291,
    "year":"2014",
    "date":"2014-12-28",
@@ -4094,11 +4508,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    42107
+    "annotationID":    81877
    },
    "rushing_yards":{
     "propertyValue":"49",
-    "annotationID":    42106
+    "annotationID":    81876
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -4127,7 +4541,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart has also sparked the Panthers recently with numerous 100-yard outings. Stewart managed just 49 yards in this contest, but only had 13 carries. Being way ahead the entire time, Carolina was able to rest Stewart and feed the ball to "
   },
-  "76":{
+  "82":{
    "player_id":   21291,
    "year":"2015",
    "date":"2016-01-17",
@@ -4176,7 +4590,74 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart was guilty of an early lost fumble, but he finished with 70 yards on 13 carries. <div class=dfpAdSlots>   "
   },
-  "77":{
+  "83":{
+   "player_id":   21291,
+   "year":"2015",
+   "date":"2015-09-13",
+   "game_number":{
+    "propertyValue":"1",
+    "annotationID":    82483
+   },
+   "age":"28-176",
+   "team":"CAR",
+   "game_location":"A",
+   "opponent":"JAX",
+   "game_won":   true,
+   "player_team_score":"20",
+   "opponent_score":"9",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    82478
+   },
+   "rushing_yards":{
+    "propertyValue":"56",
+    "annotationID":    82477
+   },
+   "rushing_touchdowns":   0,
+   "receiving_targets":{
+    "propertyValue":"4",
+    "annotationID":    82480
+   },
+   "receiving_receptions":{
+    "propertyValue":"4",
+    "annotationID":    82481
+   },
+   "receiving_yards":{
+    "propertyValue":"25",
+    "annotationID":    82482
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart didn't have much running room, gaining 56 yards on 18 carries, but with most of it (22 yards) coming on 1 attempt. He also caught 4 balls for 25 receiving yards.    As for the Jaguars, Bortles was anemic, going 22-of-40 for just 183 yards, 1 touchdown and 2 interceptions. The huge liability at left tackle really hurt him, but aside from a couple of impressive drives, he was woeful. His first pass was a poor overthrow, which was a sign of how the afternoon would go. One of the picks was taken back for 6. as he telegraphed the throw. The other happened because he was hit as he released the ball. He also took some bad sacks. A few weren't his fault, as Young looked like a human turnstile, but Bortles struggled to release the ball quickly enough.    Bortles' supporting cast didn't help him. I mentioned the offensive line on numerous occasions already, but the receivers let him down as well. "
+  },
+  "84":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-09-27",
@@ -4198,11 +4679,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    43734
+    "annotationID":    85824
    },
    "rushing_yards":{
     "propertyValue":"52",
-    "annotationID":    43733
+    "annotationID":    85823
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -4231,7 +4712,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart didn't do much, gaining 52 yards on 14 carries. But it may not be time to bench Stewart just yet. With the success of the passing game, things could open up for the running game in the coming weeks.    Cornerback "
   },
-  "78":{
+  "85":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-10-04",
@@ -4253,11 +4734,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    44325
+    "annotationID":    86898
    },
    "rushing_yards":{
     "propertyValue":"50",
-    "annotationID":    44324
+    "annotationID":    86897
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -4286,7 +4767,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart had a quiet day. Stewart had 50 yards on 10 carries and lost a fumble that tight end "
   },
-  "79":{
+  "86":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-10-18",
@@ -4308,15 +4789,15 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    45607
+    "annotationID":    89236
    },
    "rushing_yards":{
     "propertyValue":"78",
-    "annotationID":    45608
+    "annotationID":    89237
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    45609
+    "annotationID":    89238
    },
    "receiving_targets":   1,
    "receiving_receptions":   1,
@@ -4344,13 +4825,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart had 20 catches for 78 yards with 2 touchdowns. Stewart is worth a start in any fantasy league.    Seattle quarterback "
   },
-  "80":{
+  "87":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-10-25",
    "game_number":{
     "propertyValue":"6",
-    "annotationID":    46477
+    "annotationID":    90671
    },
    "age":"28-218",
    "team":"CAR",
@@ -4360,7 +4841,7 @@
    "player_team_score":"27",
    "opponent_score":{
     "propertyValue":"16",
-    "annotationID":    46478
+    "annotationID":    90672
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -4372,16 +4853,16 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    46481
+    "annotationID":    90675
    },
    "rushing_yards":{
     "propertyValue":"125",
-    "annotationID":    46480
+    "annotationID":    90674
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    46475
+    "annotationID":    90669
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -4408,7 +4889,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart took off on a 36-yard run with a great block from tight end Greg Olsen. Newton threw a bullet on the next play to Philly Brown at the Eagles' 1-yard line. Mike Tolbert pounded the ball into the end zone from there to give the Panthers a quick lead. Philadelphia promptly set up another score as Sam Bradford threw a pass into traffic, which was intercepted by safety Colin Jones off a deflection. However, the Eagles' defense bailed out Bradford as Nolan Carroll stripped Ted Ginn of the ball and controlled it for an interception at the Eagles' 6-yard line. In the second quarter, Philadelphia put a field goal drive together, with the big play being a 22-yard run by Ryan Mathews. Caleb Sturgis was good on the 52-yard field goal. The Panthers answered as Ted Ginn took an end around for 43 yards to the Philadelphia's 8-yard line. Olsen hit another nice block on that play. A few snaps later, Newton ran into the scrum but stretched the ball over the goal line for a touchdown. Malcolm Jenkins then made a tremendous diving interception to set up Philadelphia in Carolina territory, but the Panthers' defense broke up a few passes in the end zone to force the Eagles into a field goal. Carolina took a 14-6 lead into the half. The Panthers came out of the locker room and moved the ball down the field on the Eagles thanks to passes to Ginn and Olsen. To finish the drive, Newton threw a short touchdown pass to Tolbert. The power back went through about 5 tackles in the flat to power into the end zone. The Eagles quickly cut the Panthers lead to 21-13 as Mathews took off on a 63-yard touchdown run. He used his speed to break into the open field and pull away from a diving Luke Kuechly. Newton threw his third interception when he had an open receiver, but fired a fastball that was unnecessary. It bounced off the hands of Devin Funchess, and Byron Maxwell made a diving catch. Starting at the Carolina 18-yard line, the Panthers' defense came through by limiting Philadelphia to a field goal as Kuechly broke up a touchdown pass to Josh Huff. Once again, the Eagles drove into Carolina territory, but Sturgis missed a 50-yard field goal. Carolina started moving again with Newton taking off on a draw for 16 yards to set up an easy field goal. The Panthers' defense shut down the Eagles to clinch the win for Carolina.    Cam Newton completed 14-of-24 passes for 197 yards with a touchdown and 3 interceptions. He ran for 20 yards on 4 carries and a score. It was an ugly game for Newton, but good enough to keep his team undefeated.    Jonathan Stewart ran for 125 yards on 24 carries. He churned out a lot of tough yards for Carolina. Like last year, Stewart is getting hot off a bye.    Greg Olsen had 3 receptions for 65 yards. Tedd Ginn (5-59) and Philly Brown (3-38) chipped in for Carolina.    Sam Bradford was 26-of-46 for 205 yards with no touchdowns and an interception. Philadelphia's passing attack never got into a groove and was severely hurt by losing "
   },
-  "81":{
+  "88":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-11-02",
@@ -4457,7 +4938,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart struggle so much. Stewart, despite having a great matchup, mustered just 66 yards on 20 carries. He's been hot, so it's discouraging that he cooled down against a poor defense.    As for the Packers' offense, "
   },
-  "82":{
+  "89":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-11-08",
@@ -4479,11 +4960,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    47211
+    "annotationID":    91900
    },
    "rushing_yards":{
     "propertyValue":"66",
-    "annotationID":    47210
+    "annotationID":    91899
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -4512,7 +4993,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart struggle so much. Stewart, despite having a great matchup, mustered just 66 yards on 20 carries. He's been hot, so it's discouraging that he cooled down against a poor defense.    As for the Packers' offense, "
   },
-  "83":{
+  "90":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-11-22",
@@ -4534,11 +5015,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"21",
-    "annotationID":    47861
+    "annotationID":    93008
    },
    "rushing_yards":{
     "propertyValue":"102",
-    "annotationID":    47860
+    "annotationID":    93007
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -4567,7 +5048,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart remains a player you should consider starting in your fantasy league. Stewart finished with 102 yards on 21 carries. He didn't have a rushing touchdown, but he did score on a pass reception.    Carolina rookie receiver "
   },
-  "84":{
+  "91":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-11-26",
@@ -4589,11 +5070,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"21",
-    "annotationID":    48226
+    "annotationID":    93692
    },
    "rushing_yards":{
     "propertyValue":"68",
-    "annotationID":    48225
+    "annotationID":    93691
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -4622,7 +5103,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart had a disappointing performance from a fantasy perspective, gaining 68 yards on 21 carries. Newton vultured a rushing score in the third quarter.    Moving back to the Cowboys, I already posted Romo's horrific stat line. Romo simply couldn't connect with "
   },
-  "85":{
+  "92":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-12-06",
@@ -4644,15 +5125,15 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"21",
-    "annotationID":    49240
+    "annotationID":    95492
    },
    "rushing_yards":{
     "propertyValue":"82",
-    "annotationID":    49239
+    "annotationID":    95491
    },
    "rushing_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    49241
+    "annotationID":    95493
    },
    "receiving_targets":   3,
    "receiving_receptions":   3,
@@ -4680,7 +5161,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart ran well, as expected. He gained 82 yards and a touchdown on 21 carries. He nearly scored a second time twice. He was stuffed at the goal line on 1 occasion, and an end-zone trip of his was wiped out because of a holding penalty. However, he was guilty of a lost fumble that was returned for a score by rookie linebacker "
   },
-  "86":{
+  "93":{
    "player_id":   21291,
    "year":"2015",
    "date":"2015-12-13",
@@ -4702,11 +5183,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"10",
-    "annotationID":    49693
+    "annotationID":    96375
    },
    "rushing_yards":{
     "propertyValue":"75",
-    "annotationID":    49692
+    "annotationID":    96374
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -4735,7 +5216,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart continues to be a solid fantasy producer. Stewart rushed for 75 yards and a touchdown. Like Newton, Stewart's numbers could have been better if the game wasn't a blowout. Stewart carried only 10 times.    "
   },
-  "87":{
+  "94":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-09-18",
@@ -4757,11 +5238,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"5",
-    "annotationID":    51136
+    "annotationID":    101294
    },
    "rushing_yards":{
     "propertyValue":"9",
-    "annotationID":    51135
+    "annotationID":    101293
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -4790,7 +5271,62 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart was knocked out with a hamstring. Stewart disappointed his fantasy owners, mustering only 9 yards on 5 carries. He could miss some games, making "
   },
-  "88":{
+  "95":{
+   "player_id":   21291,
+   "year":"2016",
+   "date":"2016-10-16",
+   "game_number":"6",
+   "age":"29-209",
+   "team":"CAR",
+   "game_location":"A",
+   "opponent":"NOR",
+   "game_won":   false,
+   "player_team_score":"38",
+   "opponent_score":"41",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"19",
+    "annotationID":    106513
+   },
+   "rushing_yards":{
+    "propertyValue":"85",
+    "annotationID":    106512
+   },
+   "rushing_touchdowns":   2,
+   "receiving_targets":   1,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart returned for the Panthers, and he made his fantasy owners happy. He scored twice, dashing for 85 yards on 19 carries. I have to wonder if Stewart ever would've scored those touchdowns had Newton never sustained that concussion. The Panthers have discussed using Newton less as a runner, so Stewart's production could be a byproduct of that new decision-making.    Stewart outgained "
+  },
+  "96":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-10-30",
@@ -4812,24 +5348,24 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"25",
-    "annotationID":    54185
+    "annotationID":    108981
    },
    "rushing_yards":{
     "propertyValue":"95",
-    "annotationID":    54184
+    "annotationID":    108980
    },
    "rushing_touchdowns":{
     "propertyValue":"2",
-    "annotationID":    54182
+    "annotationID":    108978
    },
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    54183
+    "annotationID":    108979
    },
    "receiving_receptions":   1,
    "receiving_yards":{
     "propertyValue":"25",
-    "annotationID":    54186
+    "annotationID":    108982
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -4854,7 +5390,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart stole 2 touchdowns from Newton, as he rushed for 95 yards on 25 carries otherwise. One of his scores was a heoric effort, as he managed to break 4 tackles on he play.    Going back to the Cardinals, Palmer posted a completely misleading stat line. His numbers will tell you that he was great - 35-of-46, 363 yards, 3 touchdowns, an interception and a lost fumble - but most of that occurred when Arizona was already down 21-0. Palmer never had a chance; as mentioned, he was pressured relentlessly, and it didn't help him that "
   },
-  "89":{
+  "97":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-11-06",
@@ -4876,11 +5412,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    55019
+    "annotationID":    110414
    },
    "rushing_yards":{
     "propertyValue":"42",
-    "annotationID":    55018
+    "annotationID":    110413
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -4909,7 +5445,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart, who was limited to 42 yards on 15 carries. Carolina simply couldn't push around "
   },
-  "90":{
+  "98":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-11-13",
@@ -4931,16 +5467,16 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"13",
-    "annotationID":    55165
+    "annotationID":    110657
    },
    "rushing_yards":{
     "propertyValue":"39",
-    "annotationID":    55164
+    "annotationID":    110656
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    55166
+    "annotationID":    110658
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -4967,7 +5503,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart managed just 39 yards on 13 attempts. The Chiefs stacked 8 men in the box on most plays, challenging the Carolina receivers to beat 1.on-one coverage, and it didn't happen very often.    Meanwhile, the Chiefs, as mentioned, didn't perform well offensively. "
   },
-  "91":{
+  "99":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-11-17",
@@ -4987,8 +5523,14 @@
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
-   "rushing_attempts":   18,
-   "rushing_yards":   31,
+   "rushing_attempts":{
+    "propertyValue":"18",
+    "annotationID":    111749
+   },
+   "rushing_yards":{
+    "propertyValue":"31",
+    "annotationID":    111748
+   },
    "rushing_touchdowns":   1,
    "receiving_targets":   4,
    "receiving_receptions":   1,
@@ -5016,7 +5558,65 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart had a couple of nice runs early on, but was stuffed at the line of scrimmage often, as the Saints have suddenly improved against the run with Sheldon Rankins back in the lineup."
   },
-  "92":{
+  "100":{
+   "player_id":   21291,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"29-251",
+   "team":"CAR",
+   "game_location":"A",
+   "opponent":"OAK",
+   "game_won":   false,
+   "player_team_score":"32",
+   "opponent_score":"35",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":{
+    "propertyValue":"17",
+    "annotationID":    113788
+   },
+   "rushing_yards":   96,
+   "rushing_touchdowns":{
+    "propertyValue":"2",
+    "annotationID":    113790
+   },
+   "receiving_targets":{
+    "propertyValue":"1",
+    "annotationID":    113789
+   },
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Jonathan Stewart runs and a 88-yard score from Newton to Ted Ginn Jr."
+  },
+  "101":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-12-04",
@@ -5038,11 +5638,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    56805
+    "annotationID":    114965
    },
    "rushing_yards":{
     "propertyValue":"50",
-    "annotationID":    56804
+    "annotationID":    114964
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -5071,7 +5671,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart gained 50 yards on 11 carries, as he didn't have much of an opportunity to handle a workload because of the constant deficit. Most of Stewart's yardage came on a 29-yard burst when this game was no longer in question. He also lost a fumble in the first half, but it didn't end up costing the Panthers any points.   "
   },
-  "93":{
+  "102":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-12-11",
@@ -5093,11 +5693,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"24",
-    "annotationID":    56948
+    "annotationID":    115228
    },
    "rushing_yards":{
     "propertyValue":"66",
-    "annotationID":    56947
+    "annotationID":    115227
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -5126,7 +5726,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart had the play of the game when he ran for 20 yards. The play included a somersault to elude a tackle, and Stewart somehow didn't hit the ground. It was so inexplicable that Mike McCoy challenged, but the review stood correctly for once. Stewart gained 66 yards on 24 carries, and he scored a touchdown. His only blemish was a dropped pass in the red zone.   "
   },
-  "94":{
+  "103":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-12-19",
@@ -5152,7 +5752,7 @@
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    58178
+    "annotationID":    117596
    },
    "receiving_yards":   8,
    "receiving_touchdowns":   0,
@@ -5178,7 +5778,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart led Carolina with 50 yards on 11 carries. Benjamin (4-63-1) led Carolina in receiving. Olsen (6-59) became the first tight end in NFL history to record 3 straight 1,000-yard seasons.   "
   },
-  "95":{
+  "104":{
    "player_id":   21291,
    "year":"2016",
    "date":"2016-12-24",
@@ -5200,17 +5800,17 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    58180
+    "annotationID":    117598
    },
    "rushing_yards":{
     "propertyValue":"50",
-    "annotationID":    58179
+    "annotationID":    117597
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    58182
+    "annotationID":    117600
    },
    "receiving_yards":   2,
    "receiving_touchdowns":   0,
@@ -5236,7 +5836,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart led Carolina with 50 yards on 11 carries. Benjamin (4-63-1) led Carolina in receiving. Olsen (6-59) became the first tight end in NFL history to record 3 straight 1,000-yard seasons.   "
   },
-  "96":{
+  "105":{
    "player_id":   21291,
    "year":"2016",
    "date":"2017-01-01",
@@ -5258,11 +5858,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"20",
-    "annotationID":    58645
+    "annotationID":    118637
    },
    "rushing_yards":{
     "propertyValue":"65",
-    "annotationID":    58644
+    "annotationID":    118636
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -5291,13 +5891,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart struggled to find much running room for the most part; he was limited to 65 yards and a touchdown on 20 carries.   "
   },
-  "97":{
+  "106":{
    "player_id":   21291,
    "year":"2017",
    "date":"2017-09-10",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    59545
+    "annotationID":    120233
    },
    "age":"30-173",
    "team":"CAR",
@@ -5316,28 +5916,28 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    59541
+    "annotationID":    120229
    },
    "rushing_yards":{
     "propertyValue":"65",
-    "annotationID":    59540
+    "annotationID":    120228
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    59542
+    "annotationID":    120230
    },
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    59543
+    "annotationID":    120231
    },
    "receiving_yards":{
     "propertyValue":"17",
-    "annotationID":    59544
+    "annotationID":    120232
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    59546
+    "annotationID":    120234
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -5361,13 +5961,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart and McCaffrey the exact same amount of touches (20). Stewart gained 65 yards on 18 carries and also caught 2 balls for 17 yards and a touchdown. McCaffrey was predictably more involved as a receiver. His 13 carries went for 47 yards, but he hauled in 5 of his 7 targets for 38 receiving yards.    Thanks to Newton's struggles, only 1 Panther logged more than McCaffrey's 38 yards. That was "
   },
-  "98":{
+  "107":{
    "player_id":   21291,
    "year":"2017",
    "date":"2017-09-17",
    "game_number":{
     "propertyValue":"2",
-    "annotationID":    59685
+    "annotationID":    120479
    },
    "age":"30-180",
    "team":"CAR",
@@ -5386,11 +5986,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"15",
-    "annotationID":    59683
+    "annotationID":    120477
    },
    "rushing_yards":{
     "propertyValue":"40",
-    "annotationID":    59684
+    "annotationID":    120478
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -5419,13 +6019,13 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart outgained him (15-40).    The Panthers are 2-0 because of their defense, which absolutely dominated the trenches. The Bills couldn't block, as "
   },
-  "99":{
+  "108":{
    "player_id":   21291,
    "year":"2017",
    "date":"2017-10-01",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    61119
+    "annotationID":    123434
    },
    "age":"30-194",
    "team":"CAR",
@@ -5434,7 +6034,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"33",
-    "annotationID":    61120
+    "annotationID":    123435
    },
    "opponent_score":"30",
    "passing_attempts":   0,
@@ -5447,11 +6047,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    61117
+    "annotationID":    123432
    },
    "rushing_yards":{
     "propertyValue":"68",
-    "annotationID":    61118
+    "annotationID":    123433
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -5480,7 +6080,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart led the way for the Panthers. He saw 14 carries and was able to turn them into 68 yards. Stewart found holes in the defense, and his offensive line did a good job of blocking the Patriots' weak defensive line. Rookie Christian McCaffrey only got 16 yards on 6 carries. He struggled to fight through stronger defenders close to the line of scrimmage, but showed promise in the passing game (4 catches, 33 yards).    Newton's top receiver in this contest was Funchess. The former second-round pick saw a team-high 9 targets and turned them into 7 catches for 70 yards and 2 touchdowns. Funchess displayed much better route-running skills than he has demonstrated in the past and was able to make catches over the Patriots' defensive backs thanks to his size. Funchess is a player who should be added in fantasy, as he will be the team's No. 2 receiver and receive a lot of targets. He could end up being a WR3 if he continues to improve. "
   },
-  "100":{
+  "109":{
    "player_id":   21291,
    "year":"2017",
    "date":"2017-10-08",
@@ -5502,18 +6102,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"18",
-    "annotationID":    61508
+    "annotationID":    124218
    },
    "rushing_yards":{
     "propertyValue":"21",
-    "annotationID":    61509
+    "annotationID":    124219
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":   3,
    "receiving_yards":{
     "propertyValue":"23",
-    "annotationID":    61510
+    "annotationID":    124220
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -5538,7 +6138,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart (18-21) couldn't find any room on the ground either.    Moving to the Lions, Stafford ended up with a solid stat line because of his usual 4.h-quarter heroics. He finished 23-of-35 for 229 yards and a touchdown, meaning more than half of his final output came in the final frame alone. That said, he should've had better numbers earlier; he and "
   },
-  "101":{
+  "110":{
    "player_id":   21291,
    "year":"2017",
    "date":"2017-10-12",
@@ -5551,7 +6151,7 @@
    "player_team_score":"23",
    "opponent_score":{
     "propertyValue":"28",
-    "annotationID":    61805
+    "annotationID":    124782
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -5563,13 +6163,13 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"8",
-    "annotationID":    61807
+    "annotationID":    124784
    },
    "rushing_yards":   -4,
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"2",
-    "annotationID":    61804
+    "annotationID":    124781
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -5596,7 +6196,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart's hands. A third interception sailed over the head of Kelvin Benjamin when Newton was trying a desperation comeback late in the 4.h quarter.    Wentz finished 16-of-30 for 222 yards and 3 touchdowns. He had his aforementioned early struggles, but caught fire with Kuechly off the field. He did a great job of converting third-and-long situations again, including a third-and-10 connection in which he stepped up in the pocket amid pressure. This ultimately led to a touchdown. Wentz's only real error, aside from his lost fumble, was not seeing an open Nelson Agholor to convert a first down to ice the game. Luckily for him, the defense did a great job on Newton.    Ertz had a tough matchup going into this game, as Carolina is excellent against tight ends. That changed with Kuechly out, as Ertz was able to score twice. He caught 2 balls for 18 yards. The other touchdown was caught by Agholor (4-55). Alshon Jeffery, meanwhile, finally had an easy matchup. He hauled in 4 balls for 71 yards, leading the team with 10 targets.    The Eagles ran the ball well for the most part; LeGarrette Blount did a good job of moving the pile and getting yards after contact. He mustered 67 yards on 14 carries. He also found the end zone on a 2.point conversion.    As for the Panthers, Newton struggled with the 3 turnovers, as his offensive line couldn't hold up against Philadelphia's elite defensive front. Cox's return had a major impact, and Newton frequently found himself under duress even though the Eagles seldom blitzed. Newton went 28-of-52 for only 239 yards, 1 touchdown and 3 interceptions. Fortunately for his fantasy owners, Newton was able to scramble 11 times for 71 yards and a touchdown on the ground.    Christian McCaffrey was a big part of the passing offense, catching 10 passes for 56 receiving yards and Newton's sole aerial touchdown. However, he didn't do much on the ground, getting 4 carries for 8 yards. Still, he was way more effective than Jonathan Stewart, who somehow had minus-4 yards on 8 attempts on top of his drop that resulted in an interception. Stewart was hit in the backfield almost every single time he touched the ball, and it seemed like a wasted down every time the Panthers tried to involve him. Carolina needs to move away from Stewart, as he's slowing down the offense. Perhaps the coaching staff will figure that out with the extra time off this upcoming week.    Benjamin nearly hit the century mark, catching 9 balls for 99 yards. He would have gotten there had he not dropped a pass in the second half. Benjamin was the only Panther non-running back to be productive, as "
   },
-  "102":{
+  "111":{
    "player_id":   21291,
    "year":"2017",
    "date":"2017-10-22",
@@ -5618,11 +6218,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"14",
-    "annotationID":    62488
+    "annotationID":    126175
    },
    "rushing_yards":{
     "propertyValue":"48",
-    "annotationID":    62489
+    "annotationID":    126176
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -5651,7 +6251,7 @@
    "punting_blocked":   0,
    "comment":"Jonathan Stewart saw 14 carries and plodded for 48 yards. He had a couple of strong runs, but for the most part, he was mediocre. He should be phased out of the lead-back role in favor of McCaffrey, as he simply isn't the player he once was. <div class=dfpAdSlots>   "
   },
-  "103":{
+  "112":{
    "player_id":   21291,
    "year":"2017",
    "date":"2017-10-29",
@@ -5673,11 +6273,11 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
     "propertyValue":"11",
-    "annotationID":    62751
+    "annotationID":    126686
    },
    "rushing_yards":{
     "propertyValue":"34",
-    "annotationID":    62750
+    "annotationID":    126685
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
@@ -5707,5 +6307,5 @@
    "comment":"Jonathan Stewart looked as sluggish as usual, gaining 34 yards and a touchdown on 11 carries. Curiously, "
   }
  },
- "numberGames": 103
+ "numberGames": 112
 }

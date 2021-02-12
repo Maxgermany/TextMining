@@ -126,7 +126,10 @@
    "opponent":"NOR",
    "game_won":   true,
    "player_team_score":"17",
-   "opponent_score":"13",
+   "opponent_score":{
+    "propertyValue":"13",
+    "annotationID":    65685
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -153,7 +156,7 @@
    "defense_tackle_assists":   5,
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    34464
+    "annotationID":    65686
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -202,7 +205,10 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":   6,
-   "defense_tackle_assists":   2,
+   "defense_tackle_assists":{
+    "propertyValue":"2",
+    "annotationID":    71239
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -268,6 +274,55 @@
   "6":{
    "player_id":   5310,
    "year":"2016",
+   "date":"2016-09-08",
+   "game_number":"1",
+   "age":"33-170",
+   "team":"CAR",
+   "game_location":"A",
+   "opponent":"DEN",
+   "game_won":   false,
+   "player_team_score":"20",
+   "opponent_score":"21",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   4,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   1,
+   "defense_interception_yards":   4,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Thomas Davis, Kawann Short and the rest of Carolina's prolific front 7."
+  },
+  "7":{
+   "player_id":   5310,
+   "year":"2016",
    "date":"2016-10-02",
    "game_number":"4",
    "age":"33-194",
@@ -314,7 +369,7 @@
    "punting_blocked":   0,
    "comment":"Thomas Davis then made a superb play to deflect a pass from Ryan that was picked off by Kurt Coleman, who coasted into the end zone to get the Panthers back into the game."
   },
-  "7":{
+  "8":{
    "player_id":   5310,
    "year":"2016",
    "date":"2016-11-06",
@@ -349,16 +404,16 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":{
     "propertyValue":"1",
-    "annotationID":    55023
+    "annotationID":    110418
    },
    "defense_tackles":   10,
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    55024
+    "annotationID":    110419
    },
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    55025
+    "annotationID":    110420
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -372,7 +427,7 @@
    "punting_blocked":   0,
    "comment":"Thomas Davis. The ball was so underthrown, it was almost as if Keenum threw a brick. Keenum finished 27-of-46 for 296 yards, 1 touchdown and the interception. He wasn't completely to blame for the offense's ineptitude, as the team was guilty of 5 drops, including 1 where "
   },
-  "8":{
+  "9":{
    "player_id":   5310,
    "year":"2016",
    "date":"2016-12-19",
@@ -384,7 +439,7 @@
    "game_won":   true,
    "player_team_score":{
     "propertyValue":"26",
-    "annotationID":    58183
+    "annotationID":    117601
    },
    "opponent_score":"15",
    "passing_attempts":   0,
@@ -424,7 +479,7 @@
    "punting_blocked":   0,
    "comment":"Thomas Davis for a 26-yard touchdown. Carolina started moving the ball, but then rookie "
   },
-  "9":{
+  "10":{
    "player_id":   5310,
    "year":"2016",
    "date":"2016-12-24",
@@ -474,5 +529,5 @@
    "comment":"Thomas Davis for a 26-yard touchdown. Carolina started moving the ball, but then rookie "
   }
  },
- "numberGames": 9
+ "numberGames": 10
 }

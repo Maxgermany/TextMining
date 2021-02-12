@@ -119,14 +119,20 @@
    "player_id":   3896,
    "year":"2012",
    "date":"2012-09-30",
-   "game_number":"4",
+   "game_number":{
+    "propertyValue":"4",
+    "annotationID":    43493
+   },
    "age":"25-042",
    "team":"NWE",
    "game_location":"A",
    "opponent":"BUF",
    "game_won":   true,
    "player_team_score":"52",
-   "opponent_score":"28",
+   "opponent_score":{
+    "propertyValue":"28",
+    "annotationID":    43489
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -149,8 +155,14 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
-   "defense_tackles":   4,
-   "defense_tackle_assists":   2,
+   "defense_tackles":{
+    "propertyValue":"4",
+    "annotationID":    43494
+   },
+   "defense_tackle_assists":{
+    "propertyValue":"2",
+    "annotationID":    43492
+   },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

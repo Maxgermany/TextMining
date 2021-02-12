@@ -21,14 +21,23 @@
    "player_id":   16464,
    "year":"2013",
    "date":"2013-11-17",
-   "game_number":"10",
+   "game_number":{
+    "propertyValue":"10",
+    "annotationID":    61986
+   },
    "age":"24-232",
    "team":"JAX",
    "game_location":"H",
    "opponent":"ARI",
    "game_won":   false,
-   "player_team_score":"14",
-   "opponent_score":"27",
+   "player_team_score":{
+    "propertyValue":"14",
+    "annotationID":    61989
+   },
+   "opponent_score":{
+    "propertyValue":"27",
+    "annotationID":    61988
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -42,16 +51,16 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"1",
-    "annotationID":    32432
+    "annotationID":    61983
    },
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    32433
+    "annotationID":    61984
    },
    "receiving_yards":   62,
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    32434
+    "annotationID":    61985
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,

@@ -42,15 +42,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"9",
-    "annotationID":    41394
+    "annotationID":    80489
    },
    "receiving_receptions":{
     "propertyValue":"7",
-    "annotationID":    41396
+    "annotationID":    80491
    },
    "receiving_yards":{
     "propertyValue":"79",
-    "annotationID":    41397
+    "annotationID":    80492
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -101,11 +101,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    41807
+    "annotationID":    81308
    },
    "receiving_yards":{
     "propertyValue":"79",
-    "annotationID":    41808
+    "annotationID":    81309
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -136,7 +136,7 @@
    "date":"2015-10-04",
    "game_number":{
     "propertyValue":"4",
-    "annotationID":    44517
+    "annotationID":    87246
    },
    "age":"26-246",
    "team":"SDG",
@@ -159,11 +159,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    44515
+    "annotationID":    87244
    },
    "receiving_yards":{
     "propertyValue":"88",
-    "annotationID":    44516
+    "annotationID":    87245
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -192,7 +192,10 @@
    "player_id":   10639,
    "year":"2015",
    "date":"2015-10-12",
-   "game_number":"5",
+   "game_number":{
+    "propertyValue":"5",
+    "annotationID":    89367
+   },
    "age":"26-254",
    "team":"SDG",
    "game_location":"H",
@@ -260,9 +263,18 @@
    "rushing_attempts":   0,
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
-   "receiving_targets":   7,
-   "receiving_receptions":   3,
-   "receiving_yards":   18,
+   "receiving_targets":{
+    "propertyValue":"7",
+    "annotationID":    89372
+   },
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    89370
+   },
+   "receiving_yards":{
+    "propertyValue":"18",
+    "annotationID":    89371
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -298,7 +310,7 @@
    "game_won":   false,
    "player_team_score":{
     "propertyValue":"3",
-    "annotationID":    48046
+    "annotationID":    93336
    },
    "opponent_score":"33",
    "passing_attempts":   0,
@@ -314,15 +326,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"5",
-    "annotationID":    48045
+    "annotationID":    93335
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    48047
+    "annotationID":    93337
    },
    "receiving_yards":{
     "propertyValue":"51",
-    "annotationID":    48044
+    "annotationID":    93334
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -422,7 +434,7 @@
    "receiving_targets":   2,
    "receiving_receptions":{
     "propertyValue":"1",
-    "annotationID":    49188
+    "annotationID":    95405
    },
    "receiving_yards":   15,
    "receiving_touchdowns":   0,
@@ -451,6 +463,61 @@
   "9":{
    "player_id":   10639,
    "year":"2015",
+   "date":"2015-12-20",
+   "game_number":"14",
+   "age":"26-323",
+   "team":"SDG",
+   "game_location":"H",
+   "opponent":"MIA",
+   "game_won":   true,
+   "player_team_score":"30",
+   "opponent_score":"14",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   5,
+   "receiving_receptions":{
+    "propertyValue":"3",
+    "annotationID":    97697
+   },
+   "receiving_yards":{
+    "propertyValue":"78",
+    "annotationID":    97696
+   },
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Dontrelle Inman (3-78) also was a positive contributor. Floyd caught just 1 pass for 27 yards, but as mentioned, he should've scored a touchdown.    All 3 of Rivers' touchdowns were thrown to "
+  },
+  "10":{
+   "player_id":   10639,
+   "year":"2015",
    "date":"2015-12-24",
    "game_number":"15",
    "age":"26-327",
@@ -472,8 +539,14 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":   13,
-   "receiving_receptions":   8,
-   "receiving_yards":   82,
+   "receiving_receptions":{
+    "propertyValue":"8",
+    "annotationID":    97903
+   },
+   "receiving_yards":{
+    "propertyValue":"82",
+    "annotationID":    97902
+   },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -497,7 +570,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman and a banged-up Malcom Floyd. Second, stud guard "
   },
-  "10":{
+  "11":{
    "player_id":   10639,
    "year":"2016",
    "date":"2016-10-02",
@@ -522,19 +595,19 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"11",
-    "annotationID":    53237
+    "annotationID":    104975
    },
    "receiving_receptions":{
     "propertyValue":"7",
-    "annotationID":    53240
+    "annotationID":    104978
    },
    "receiving_yards":{
     "propertyValue":"120",
-    "annotationID":    53238
+    "annotationID":    104976
    },
    "receiving_touchdowns":{
     "propertyValue":"1",
-    "annotationID":    53239
+    "annotationID":    104977
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -558,7 +631,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman led the way in your fantasy league, catching 7-of-11 passes for 120 yards and a touchdown. Coming into this game, Inman had totaled 5 receptions for 45 yards on the year.    Melvin Gordon was close behind Inman, rushing 19 times for 36 yards and 2 touchdowns, plus adding 6 receptions for 43 yards. The 2 scores raised his total to 6 on the season, but his 1.9 yards-per-carry average against a bad New Orleans defense is not even close to good enough. The offensive line was hurting, but there were yards there for him. He actually looked much better in the receiving game, making a few guys miss after the catch. But in the end, his fumble that gave the ball back to the Saints in scoring position with 7 minutes left in the game was the biggest knock on him Sunday. He'll need to step his game up.    The big scorer for the Saints was none other than "
   },
-  "11":{
+  "12":{
    "player_id":   10639,
    "year":"2016",
    "date":"2016-10-30",
@@ -584,11 +657,11 @@
    "receiving_targets":   7,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    54565
+    "annotationID":    109638
    },
    "receiving_yards":{
     "propertyValue":"72",
-    "annotationID":    54566
+    "annotationID":    109639
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -613,7 +686,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman led the team with 4 grabs for 72 yards.    As for Denver's offense, it didn't have much success throughout most of the afternoon, save for a couple of possessions. The Broncos accumulated just 15 first downs (compared to 21 by San Diego) and was outgained by 45 yards. Siemian barely completed half of his throws, going 20-of-38 for 276 yards, a lost fumble and his pick-six. As mentioned, he was very fortunate to get away with some potential interceptions, including another 1 going back for a touchdown. He was very lucky that this wasn't a complete disaster for him.    Only 3 Broncos accumulated more than 35 receiving yards: "
   },
-  "12":{
+  "13":{
    "player_id":   10639,
    "year":"2016",
    "date":"2016-11-13",
@@ -639,11 +712,11 @@
    "receiving_targets":   9,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    55512
+    "annotationID":    111302
    },
    "receiving_yards":{
     "propertyValue":"43",
-    "annotationID":    55513
+    "annotationID":    111303
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -668,7 +741,65 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman (5-43) to move into Miami territory, but then he had an overthrow picked off by Byron Maxwell to deny San Diego."
   },
-  "13":{
+  "14":{
+   "player_id":   10639,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":{
+    "propertyValue":"11",
+    "annotationID":    113575
+   },
+   "age":"27-301",
+   "team":"SDG",
+   "game_location":"A",
+   "opponent":"HOU",
+   "game_won":   true,
+   "player_team_score":{
+    "propertyValue":"21",
+    "annotationID":    113574
+   },
+   "opponent_score":"13",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   6,
+   "receiving_receptions":   6,
+   "receiving_yards":   119,
+   "receiving_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    113576
+   },
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   0,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   0,
+   "defense_interception_yards":   0,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"Dontrelle Inman burned safety Quintin Demps on a double move for a 52-yard touchdown."
+  },
+  "15":{
    "player_id":   10639,
    "year":"2016",
    "date":"2016-12-04",
@@ -694,11 +825,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"2",
-    "annotationID":    56789
+    "annotationID":    114936
    },
    "receiving_yards":{
     "propertyValue":"49",
-    "annotationID":    56788
+    "annotationID":    114935
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -723,7 +854,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman (2-49) and Tyrell Williams (2-47)."
   },
-  "14":{
+  "16":{
    "player_id":   10639,
    "year":"2016",
    "date":"2016-12-11",
@@ -748,15 +879,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"7",
-    "annotationID":    56960
+    "annotationID":    115245
    },
    "receiving_receptions":{
     "propertyValue":"6",
-    "annotationID":    56959
+    "annotationID":    115244
    },
    "receiving_yards":{
     "propertyValue":"71",
-    "annotationID":    56961
+    "annotationID":    115246
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -781,7 +912,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman, who once again put together a strong performance. He caught 6 of his 7 targets for 71 yards and a touchdown. "
   },
-  "15":{
+  "17":{
    "player_id":   10639,
    "year":"2016",
    "date":"2016-12-18",
@@ -807,11 +938,11 @@
    "receiving_targets":   8,
    "receiving_receptions":{
     "propertyValue":"5",
-    "annotationID":    57868
+    "annotationID":    116933
    },
    "receiving_yards":{
     "propertyValue":"68",
-    "annotationID":    57869
+    "annotationID":    116934
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -836,7 +967,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman (5-68) and Tyrell Williams (4-20)."
   },
-  "16":{
+  "18":{
    "player_id":   10639,
    "year":"2016",
    "date":"2016-12-24",
@@ -861,15 +992,15 @@
    "rushing_touchdowns":   0,
    "receiving_targets":{
     "propertyValue":"10",
-    "annotationID":    58163
+    "annotationID":    117571
    },
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    58162
+    "annotationID":    117570
    },
    "receiving_yards":{
     "propertyValue":"44",
-    "annotationID":    58164
+    "annotationID":    117572
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -894,7 +1025,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman proved to be inefficient, hauling in 3 of his 10 targets for 44 yards. "
   },
-  "17":{
+  "19":{
    "player_id":   10639,
    "year":"2016",
    "date":"2017-01-01",
@@ -920,11 +1051,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"4",
-    "annotationID":    58841
+    "annotationID":    118949
    },
    "receiving_yards":{
     "propertyValue":"51",
-    "annotationID":    58842
+    "annotationID":    118950
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -949,7 +1080,7 @@
    "punting_blocked":   0,
    "comment":"Dontrelle Inman (4-51) were the top traditional receivers on the day. Both were solid and should be integral parts of the San Diego offense next year. "
   },
-  "18":{
+  "20":{
    "player_id":   10639,
    "year":"2017",
    "date":"2017-11-19",
@@ -975,11 +1106,11 @@
    "receiving_targets":   5,
    "receiving_receptions":{
     "propertyValue":"3",
-    "annotationID":    63981
+    "annotationID":    128988
    },
    "receiving_yards":{
     "propertyValue":"43",
-    "annotationID":    63982
+    "annotationID":    128989
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1005,5 +1136,5 @@
    "comment":"Dontrelle Inman (3-43) on the receiving list.    "
   }
  },
- "numberGames": 18
+ "numberGames": 20
 }

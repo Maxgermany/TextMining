@@ -72,7 +72,7 @@
    "date":"2014-09-07",
    "game_number":{
     "propertyValue":"1",
-    "annotationID":    35558
+    "annotationID":    67705
    },
    "age":"23-006",
    "team":"HOU",
@@ -80,7 +80,10 @@
    "opponent":"WAS",
    "game_won":   true,
    "player_team_score":"17",
-   "opponent_score":"6",
+   "opponent_score":{
+    "propertyValue":"6",
+    "annotationID":    67703
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -104,9 +107,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":{
     "propertyValue":"1",
-    "annotationID":    35559
+    "annotationID":    67706
    },
-   "defense_tackles":   6,
+   "defense_tackles":{
+    "propertyValue":"6",
+    "annotationID":    67704
+   },
    "defense_tackle_assists":   2,
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -206,11 +212,11 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"3",
-    "annotationID":    38904
+    "annotationID":    74299
    },
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    38907
+    "annotationID":    74302
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -262,11 +268,11 @@
    "defense_tackles":   2,
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    38912
+    "annotationID":    74307
    },
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    38913
+    "annotationID":    74308
    },
    "defense_interception_yards":   25,
    "defense_interception_touchdowns":   0,
@@ -281,6 +287,55 @@
    "comment":"D.J. Swearinger (3 tackles, 1 pass breakup, 1 interception) undercut a pass from Mettenberger, picked it off and returned it to midfield. That play killed 1 of the only drives where the Titans were moving the ball. Fitzpatrick threw a rope to "
   },
   "6":{
+   "player_id":   21646,
+   "year":"2016",
+   "date":"2016-11-27",
+   "game_number":"11",
+   "age":"25-087",
+   "team":"ARI",
+   "game_location":"A",
+   "opponent":"ATL",
+   "game_won":   false,
+   "player_team_score":"19",
+   "opponent_score":"38",
+   "passing_attempts":   0,
+   "passing_completions":   0,
+   "passing_yards":   0,
+   "passing_rating":   0,
+   "passing_touchdowns":   0,
+   "passing_interceptions":   0,
+   "passing_sacks":   0,
+   "passing_sacks_yards_lost":   0,
+   "rushing_attempts":   0,
+   "rushing_yards":   0,
+   "rushing_touchdowns":   0,
+   "receiving_targets":   0,
+   "receiving_receptions":   0,
+   "receiving_yards":   0,
+   "receiving_touchdowns":   0,
+   "kick_return_attempts":   0,
+   "kick_return_yards":   0,
+   "kick_return_touchdowns":   0,
+   "punt_return_attempts":   0,
+   "punt_return_yards":   0,
+   "punt_return_touchdowns":   0,
+   "defense_sacks":   0,
+   "defense_tackles":   7,
+   "defense_tackle_assists":   0,
+   "defense_interceptions":   1,
+   "defense_interception_yards":   1,
+   "defense_interception_touchdowns":   0,
+   "defense_safeties":   0,
+   "point_after_attemps":   0,
+   "point_after_makes":   0,
+   "field_goal_attempts":   0,
+   "field_goal_makes":   0,
+   "punting_attempts":   0,
+   "punting_yards":   0,
+   "punting_blocked":   0,
+   "comment":"D.J. Swearinger dropped an easy Ryan interception, giving Atlanta new life. Ryan was able to take the opportunity to pick up a first down on a third-and-10 scramble. And if all that wasn't bad enough, the Cardinals forced a punt, down 24-13 early in the 4.h quarter, but "
+  },
+  "7":{
    "player_id":   21646,
    "year":"2016",
    "date":"2016-12-04",
@@ -329,7 +384,7 @@
    "punting_blocked":   0,
    "comment":"D.J. Swearinger blitzed to force a pass off the mark, and it was picked off by Patrick Peterson to clinch the Cardinals' win."
   },
-  "7":{
+  "8":{
    "player_id":   21646,
    "year":"2016",
    "date":"2016-12-18",
@@ -378,7 +433,7 @@
    "punting_blocked":   0,
    "comment":"D.J. Swearinger to get wide open for a 65-yard touchdown pass. Just 2 minutes before the half, Cooks burned "
   },
-  "8":{
+  "9":{
    "player_id":   21646,
    "year":"2016",
    "date":"2017-01-01",
@@ -411,7 +466,10 @@
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
-   "defense_sacks":   1,
+   "defense_sacks":{
+    "propertyValue":"1",
+    "annotationID":    118870
+   },
    "defense_tackles":   6,
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -427,7 +485,7 @@
    "punting_blocked":   0,
    "comment":"D.J. Swearinger, although a questionable roughing-the-passer penalty bailed him out. "
   },
-  "9":{
+  "10":{
    "player_id":   21646,
    "year":"2017",
    "date":"2017-11-12",
@@ -477,5 +535,5 @@
    "comment":"D.J. Swearinger to undercut the route. These mistakes were emblematic of why Keenum shouldn't be counted on as an every-day starter for a Super Bowl contender. But, like "
   }
  },
- "numberGames": 9
+ "numberGames": 10
 }

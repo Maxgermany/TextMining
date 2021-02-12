@@ -21,14 +21,20 @@
    "player_id":   11489,
    "year":"2012",
    "date":"2012-12-23",
-   "game_number":"15",
+   "game_number":{
+    "propertyValue":"15",
+    "annotationID":    51930
+   },
    "age":"29-084",
    "team":"CIN",
    "game_location":"A",
    "opponent":"PIT",
    "game_won":   true,
    "player_team_score":"13",
-   "opponent_score":"10",
+   "opponent_score":{
+    "propertyValue":"10",
+    "annotationID":    51931
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -47,13 +53,16 @@
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
-   "punt_return_attempts":   3,
+   "punt_return_attempts":{
+    "propertyValue":"3",
+    "annotationID":    51932
+   },
    "punt_return_yards":   -2,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"2",
-    "annotationID":    27465
+    "annotationID":    51929
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -105,15 +114,15 @@
    "defense_sacks":   0,
    "defense_tackles":{
     "propertyValue":"3",
-    "annotationID":    51406
+    "annotationID":    101842
    },
    "defense_tackle_assists":{
     "propertyValue":"1",
-    "annotationID":    51404
+    "annotationID":    101840
    },
    "defense_interceptions":{
     "propertyValue":"1",
-    "annotationID":    51405
+    "annotationID":    101841
    },
    "defense_interception_yards":   2,
    "defense_interception_touchdowns":   0,
