@@ -38,8 +38,17 @@ var wordMap = {
     "receiving_yards" : "Receiving yards",
     "receiving_touchdowns" : "Receiving touchdowns",
 
+    "kick_return_attempts" : "Kick return attempts",
+    "kick_return_yards" : "Kick return yards",
+    "kick_return_touchdowns" : "Kick return touchdowns",
+
     "punt_return_attempts" : "Punt return attempts",
     "punt_return_yards" : "Punt return yards",
+    "punt_return_touchdowns" : "Punt return touchdowns",
+
+    "punting_attempts" : "Punting attempts",
+    "punting_yards"	: "Punting yards",
+    "punting_blocked" : "Punting blocked",
 
     "passing_attempts" : "Passing attempts",
     "passing_completions" : "Passing completions",
@@ -53,7 +62,15 @@ var wordMap = {
     "defense_tackles" : "Defense tackles",
     "defense_tackle_assists" : "Defense tackle assists",
     "defense_interceptions" : "Defense interceptions",
+    "defense_sacks" : "Defense sacks",
+    "defense_interception_yards" : "Defense interception yards",
+    "defense_interception_touchdowns" : "Defense interception touchdowns",
+    "defense_safeties" : "Defense safeties",
 
+    "point_after_attemps" : "Point after attempts",
+    "point_after_makes"	: "Point after makes",
+    "field_goal_attempts" : "Field goal attempts",
+    "field_goal_makes" : "Field goal makes",
 
     "C" : "Center",
     "RB" : "Running Back",
@@ -86,6 +103,8 @@ var wordMap = {
     "LS" : "Long Snapper",
     "P" : "Punter",
     "PR" : "Punt Runner",
+
+    "numberGames" : "Number of occurences in games",
 
 
     /**"ARZ" : "Arizona Cardnials",
