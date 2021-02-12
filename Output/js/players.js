@@ -36,9 +36,9 @@ function getPlayerName() {
 function transformName(fullName) {
 
     let nameParts = fullName.split(" ");
-    let lastName = nameParts.slice(-1) [0];
+    let lastName = nameParts.slice(-1);
 
-    return lastName + ", " + nameParts.slice(0, -1);
+    return lastName + ", " + nameParts.slice(0, -1).toString().replace(",", " ");
 
 }
 
