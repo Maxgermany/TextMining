@@ -49,6 +49,153 @@ function retransformName(fullName) {
     return nameParts[1] + " " + nameParts[0];
 }
 
+function displayPlayerStats() {
+    playerName = getPlayerName();
+
+    playerName = retransformName(playerName);
+
+    getPlayer(playerName)
+        .then(
+            data => {
+
+                window.MyLib = {};
+                MyLib.Data = data;
+
+                let mainLetterDiv = document.getElementById("allLetters");
+
+                let playerTitle = document.createElement("h2");
+
+                playerTitle.innerText = playerName;
+
+                mainLetterDiv.appendChild(playerTitle);
+
+                let table = document.createElement("table")
+
+                let thead = document.createElement("tr");
+
+                let th = document.createElement("th");
+
+                th.innerText = "Property";
+
+                thead.appendChild(th);
+
+                th = document.createElement("th");
+
+                th.innerText = "Value";
+
+                thead.appendChild(th);
+
+                table.appendChild(thead);
+
+                for (const [key, value] of Object.entries(data)) {
+
+                    if (key == "games") continue;
+
+                    if(value == "None") continue;
+
+                    let tbody = document.createElement("tr");
+
+                    let td = document.createElement("td");
+
+                    td.innerText = translate(key);
+
+                    tbody.appendChild(td);
+
+                    td = document.createElement("td");
+
+                    td.innerText = value;
+
+                    tbody.appendChild(td);
+
+                    table.appendChild(tbody);
+
+                }
+
+                mainLetterDiv.appendChild(table);
+
+                let gameTitle = document.createElement("h3");
+
+                gameTitle.innerText = "Games";
+
+                mainLetterDiv.appendChild(gameTitle);
+
+                for (const [key, value] of Object.entries(data.games)) {
+
+                    let expandibleGameButton = document.createElement("button");
+
+                    expandibleGameButton.setAttribute("type", "button");
+
+                    expandibleGameButton.setAttribute("class", "collapsible");
+
+                    expandibleGameButton.innerText = "Game " + key;
+
+                    mainLetterDiv.appendChild(expandibleGameButton);
+
+                    let table = document.createElement("table");
+
+                    table.setAttribute("class", "content");
+
+                    let tr = document.createElement("tr");
+
+                    let th = document.createElement("th");
+
+                    th.innerText = "Property";
+
+                    tr.appendChild(th);
+
+                    th = document.createElement("th");
+
+                    th.innerText = "Value";
+
+                    tr.appendChild(th);
+
+                    table.appendChild(tr);
+
+                    for (const [key1, value1] of Object.entries(value)) {
+
+                        let tr = document.createElement("tr");
+
+                        let td = document.createElement("td");
+
+                        td.innerText = translate(key1);
+
+                        tr.appendChild(td);
+
+                        td = document.createElement("td");
+
+                        td.innerText = value1;
+
+                        tr.appendChild(td);
+
+                        table.appendChild(tr);
+
+                    }
+
+                    mainLetterDiv.appendChild(table);
+
+                }
+
+                var coll = document.getElementsByClassName("collapsible");
+
+                for (let i = 0; i < coll.length; i++) {
+                    coll[i].addEventListener("click", function() {
+                        this.classList.toggle("active");
+                        var content = this.nextElementSibling;
+                        if (content.style.display === "block") {
+                            content.style.display = "none";
+                        } else {
+                            content.style.display = "block";
+                        }
+                    });
+                }
+
+            }
+        )
+        .catch(error => {
+            console.log(error);
+        });
+}
+
 if(!isPlayerParameter()) {
     getAllPlayers()
         .then(
@@ -129,31 +276,6 @@ if(!isPlayerParameter()) {
 
 } else {
 
-    playerName = getPlayerName();
-
-    playerName = retransformName(playerName);
-
-    getPlayer(playerName)
-        .then(
-            data => {
-
-                window.MyLib = {};
-                MyLib.Data = data;
-
-                str = JSON.stringify(data, null, 4);
-
-                let playerDiv = document.createElement("p");
-
-                playerDiv.innerText = str;
-
-                let mainLetterDiv = document.getElementById("allLetters");
-
-                mainLetterDiv.appendChild(playerDiv);
-
-            }
-        )
-        .catch(error => {
-            console.log(error);
-        });
+    displayPlayerStats();
 
 }

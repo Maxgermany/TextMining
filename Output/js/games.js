@@ -47,19 +47,6 @@ function isParameter() {
 
 }
 
-function translate(term) {
-
-    let returnValue = term;
-
-    Object.keys(wordMap).forEach(function(key) {
-        if (key === term) {
-            returnValue = wordMap[key];
-        }
-    });
-
-    return returnValue; //If no translation is found the original term is returned
-}
-
 async function getData() {
 
     let urlString = window.location.href;
