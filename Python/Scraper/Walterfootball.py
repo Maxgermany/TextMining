@@ -31,6 +31,10 @@ def scrapWalterfootball(year, week):
     # Extrahieren der Spiele
     games = str(mainList).split("<img ")
 
+    for x in games: # Remove pictures from the website that are not a logo
+        if ".jpg" in x and "src=" in x and "logo" not in x:
+            games.remove(x)
+
     data = '{'
 
     data += '"year": "' + year + '",'
@@ -199,7 +203,10 @@ def removeTable(soup):
 
 
 def removeBold(soup):
-    [s.extract() for s in soup('b')]
+    [s.extract() for s in soup('b')]#
+
+def removeNonLogoImages(tag):
+    return bool(tag.get("img") and tag.contains(".jpg"))
 
 
 weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18",
@@ -210,5 +217,5 @@ year = 2008
 while (year <= 2017):
     for i in weeks:
         scrapWalterfootball(str(year), i)
-        scrapWalterfootballCorpus(str(year), i)
+        #scrapWalterfootballCorpus(str(year), i)
     year += 1
