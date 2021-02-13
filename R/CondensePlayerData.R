@@ -17,7 +17,7 @@ findFirstDotAfterPlayer <- function(comment, playerIndex) {
   return(dotIndex)
 }
 
-addPlayerData <- function(playerData, comment) {
+addPlayerData <- function(playerData) {
   
   playerFile <- paste(c("..\\Data\\Output\\Player\\", playerData$`player information`$name, ".json"), collapse = "")
   
@@ -32,13 +32,11 @@ addPlayerData <- function(playerData, comment) {
     numberGamesString <- paste(c(numberGames), collapse = "")
     
     exportPlayerData$games[[numberGamesString]] <- playerData$`game information`
-    exportPlayerData$games[[numberGamesString]]$comment <- comment
     
   } else {
     
     exportPlayerData <- playerData$`player information`
     exportPlayerData$games[["1"]] <- playerData$`game information`
-    exportPlayerData$games[["1"]]$comment <- comment
     exportPlayerData$numberGames <- 1
     
   }
@@ -86,41 +84,7 @@ for (year in years) {
           
           for (player in game$players) {
             
-            playerInformation <- player$`game information`
-            
-            properties <- paste(names(playerInformation), playerInformation)
-
-            playerComment <- ""
-            
-            for (tempCurrentPlayerOccurence in str_locate_all(game$comments, player$`player information`$name)) { # If a player occurs more than once in a comment, we have to find all belonging parts
-              
-              firstOccurenceOfOtherPlayerInText <- str_length(game$comments) # Upper bound
-              
-              for (playerTemp in game$players) { # For all players in the comment
-                
-                playerOccurenceInText <- str_locate_all(game$comments, playerTemp$`player information`$name) # All occurences of the current player in the comment
-                
-                for (occurenceIndex in playerOccurenceInText) {
-                  
-                  if (firstOccurenceOfOtherPlayerInText > occurenceIndex[[1]] && occurenceIndex[[1]] > tempCurrentPlayerOccurence[[2]]) { # If the position of the temp player is between the current player and the current upper bound we change the upper bound
-                    firstOccurenceOfOtherPlayerInText <- occurenceIndex[[1]] - 1 # Char position before the temp player
-                  }
-                  
-                }
-                
-              }
-              
-              endOfPlayerSentence <- findFirstDotAfterPlayer(game$comments, tempCurrentPlayerOccurence[[2]])
-              
-              if (endOfPlayerSentence > firstOccurenceOfOtherPlayerInText) {
-                firstOccurenceOfOtherPlayerInText <- endOfPlayerSentence
-              }
-              
-              playerComment <- paste(c(playerComment, substr(game$comments, tempCurrentPlayerOccurence[[1]], firstOccurenceOfOtherPlayerInText)), collapse="") # The belonging comment part
-              
-            }
-            
-            addPlayerData(player, playerComment)
+            addPlayerData(player)
             
             if (!is.element(player$`player information`$name, allPlayers)) {
               allPlayers[[i]] <- player$`player information`$name
