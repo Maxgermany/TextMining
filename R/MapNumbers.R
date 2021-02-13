@@ -111,7 +111,7 @@ findSentenceAfterPosition <- function(comment, index) {
   
   sentence <- str_sub(comment, sentenceBeginning, sentenceEnd)
   
-  if (str_sub(sentence, 1, 1) == " ") { # Removes space as first character
+  while (str_sub(sentence, 1, 1) == " ") { # Removes space as first character
     sentence <- str_sub(sentence, 2, str_length(sentence))
   }
   
@@ -169,16 +169,8 @@ for (year in years) {
             properties <- paste(names(playerInformation), playerInformation)
             
             playerComment <- "" # All parts in the comment belonging to the player
-            
-            k <- 1 # For iteration purpose
-            
-            fullNameOccurences <- list() # Stores all occurences of the full name of the player; is needed later for searching after parts of the name
-            
+      
             for (tempCurrentPlayerOccurence in str_locate_all(game$comments, player$`player information`$name)) { # If a player occurs more than once in a comment, we have to find all belonging parts
-              
-              fullNameOccurences[[k]] <- tempCurrentPlayerOccurence
-              
-              k <- k + 1
               
               firstOccurenceOfOtherPlayerInText <- str_length(game$comments) # Upper bound
             
@@ -209,43 +201,41 @@ for (year in years) {
             lastName <- word(player$`player information`$name, -1) # Check if last name occurs later in the text
             
             for (tempCurrentPlayerOccurence in str_locate_all(game$comments, lastName)) {
-              
+
               isAlreadyOccured <- FALSE
+
+              sentence <- findSentenceAfterPosition(game$comments, tempCurrentPlayerOccurence[[1]])
               
-              for (previousOccurence in fullNameOccurences) {
-                
-                if (tempCurrentPlayerOccurence[[2]] == previousOccurence[[2]]) {
-                  isAlreadyOccured <- TRUE
-                }
-                
+              if (grepl(sentence, playerComment, fixed = TRUE)) {
+                isAlreadyOccured <- TRUE
               }
-              
+
               if (!isAlreadyOccured) {
-                
+
                 firstOccurenceOfOtherPlayerInText <- str_length(game$comments) # Upper bound
-                
+
                 for (playerTemp in game$players) { # For all players in the comment
-                  
+
                   playerOccurenceInText <- str_locate_all(game$comments, playerTemp$`player information`$name) # All occurences of the current player in the comment
-                  
+
                   for (occurenceIndex in playerOccurenceInText) {
-                    
+
                     if (firstOccurenceOfOtherPlayerInText > occurenceIndex[[1]] && occurenceIndex[[1]] > tempCurrentPlayerOccurence[[2]]) { # If the position of the temp player is between the current player and the current upper bound we change the upper bound
                       firstOccurenceOfOtherPlayerInText <- occurenceIndex[[1]] - 1 # Char position before the temp player
                     }
-                    
+
                   }
-                  
+
                 }
-                
+
                 endOfPlayerSentence <- findFirstDotAfterPlayer(game$comments, tempCurrentPlayerOccurence[[2]])
-                
+
                 if (endOfPlayerSentence > firstOccurenceOfOtherPlayerInText) {
                   firstOccurenceOfOtherPlayerInText <- endOfPlayerSentence
                 }
-                
+
                 playerComment <- paste(c(playerComment, substr(game$comments, tempCurrentPlayerOccurence[[1]], firstOccurenceOfOtherPlayerInText)), collapse="") # The belonging comment part
-              
+
               }
             }
 
@@ -277,6 +267,8 @@ for (year in years) {
             }
             
             resultWeek$games[[i]]$players[[j]]$`game information` <- playerInformation
+            
+            resultWeek$games[[i]]$players[[j]]$`game information`[["comment"]] <- playerComment 
             
             j <- j + 1
             
