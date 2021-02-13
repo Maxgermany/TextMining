@@ -69,7 +69,7 @@ function displayPlayerStats() {
 
                 mainLetterDiv.appendChild(playerTitle);
 
-                let table = document.createElement("table")
+                let table = document.createElement("table");
 
                 let thead = document.createElement("tr");
 
@@ -151,24 +151,66 @@ function displayPlayerStats() {
 
                     table.appendChild(tr);
 
-                    for (const [key1, value1] of Object.entries(value)) {
+                    th = document.createElement("th");
 
-                        let tr = document.createElement("tr");
+                    th.innerText = "Sentences";
 
-                        let td = document.createElement("td");
+                    tr.appendChild(th);
 
-                        td.innerText = translate(key1);
+                    table.appendChild(tr);
 
-                        tr.appendChild(td);
+                    for (const [gameKey, gameValue] of Object.entries(value)) {
 
-                        td = document.createElement("td");
+                        if (typeof(gameValue) == "object") {
 
-                        td.innerText = value1;
+                            let tr = document.createElement("tr");
 
-                        tr.appendChild(td);
+                                let td = document.createElement("td");
 
-                        table.appendChild(tr);
+                                td.innerText = translate(gameKey);
 
+                                tr.appendChild(td);
+
+                                td = document.createElement("td");
+
+                                td.innerText = gameValue.propertyValue;
+
+                                tr.appendChild(td);
+
+                                table.appendChild(tr);
+
+                                td = document.createElement("td");
+
+                                td.innerText = gameValue.sentence;
+
+                                tr.appendChild(td);
+
+                                table.appendChild(tr);
+
+                        } else {
+
+                            let tr = document.createElement("tr");
+
+                            let td = document.createElement("td");
+
+                            td.innerText = translate(gameKey);
+
+                            tr.appendChild(td);
+
+                            td = document.createElement("td");
+
+                            td.innerText = gameValue;
+
+                            tr.appendChild(td);
+
+                            table.appendChild(tr);
+
+                            td = document.createElement("td");
+
+                            tr.appendChild(td);
+
+                            table.appendChild(tr);
+                        }
                     }
 
                     mainLetterDiv.appendChild(table);
