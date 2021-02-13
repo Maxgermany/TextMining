@@ -9,7 +9,7 @@ numExtract <- function(string) {
   return(allNumbers)
 }
 
-#Replace all numbers (from one to ten) that occur as string as integer
+# Replace all numbers (from one to ten) that occur as string as integer
 numReplace <- function(text) {
   
   numbersList <- list(
@@ -76,6 +76,47 @@ findFirstDotAfterPlayer <- function(comment, playerIndex) {
   }
   
   return(dotIndex)
+}
+
+# Finds the sentence to a given position by the dots
+findSentenceAfterPosition <- function(comment, index) {
+  
+  sentenceBeginning <- 0 # Lower Bound
+  
+  sentenceEnd <- str_length(comment) + 1 # Upper bound
+  
+  for (dotOccurence in str_locate_all(comment, "[.]")[[1]]) {
+    
+    if (sentenceBeginning <= dotOccurence[[1]] && dotOccurence[[1]] < index) {
+      sentenceBeginning <- dotOccurence[[1]] + 1
+    } 
+    
+    if (sentenceEnd >= dotOccurence[[1]] && dotOccurence[[1]] > index) {
+      sentenceEnd <- dotOccurence[[1]]
+    }
+    
+  }
+  
+  for (dotOccurence in str_locate_all(comment, "[!]")[[1]]) {  # Some sentences start or end with a exclamation mark
+    
+    if (sentenceBeginning <= dotOccurence[[1]] && dotOccurence[[1]] < index) {
+      sentenceBeginning <- dotOccurence[[1]] + 1
+    } 
+    
+    if (sentenceEnd >= dotOccurence[[1]] && dotOccurence[[1]] > index) {
+      sentenceEnd <- dotOccurence[[1]]
+    }
+    
+  }
+  
+  sentence <- str_sub(comment, sentenceBeginning, sentenceEnd)
+  
+  if (str_sub(sentence, 1, 1) == " ") { # Removes space as first character
+    sentence <- str_sub(sentence, 2, str_length(sentence))
+  }
+  
+  return(sentence)
+  
 }
 
 weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")
@@ -165,7 +206,7 @@ for (year in years) {
               
             }
             
-            lastName <- word(player$`player information`$name, -1)
+            lastName <- word(player$`player information`$name, -1) # Check if last name occurs later in the text
             
             for (tempCurrentPlayerOccurence in str_locate_all(game$comments, lastName)) {
               
@@ -223,8 +264,8 @@ for (year in years) {
                   
                   if (number != 0) {
                     
-                    playerInformation[[propertyName]] <- list(propertyValue, id) # Add marker and unique ID for annotation, if match is found
-                    names(playerInformation[[propertyName]]) <- c("propertyValue", "annotationID") 
+                    playerInformation[[propertyName]] <- list(propertyValue, id, findSentenceAfterPosition(playerComment, str_locate(playerComment, number)[[1]])) # Add marker and unique ID for annotation, if match is found
+                    names(playerInformation[[propertyName]]) <- c("propertyValue", "annotationID", "sentence") 
                   
                     id <- id + 1
                   }
