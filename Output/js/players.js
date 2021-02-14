@@ -257,6 +257,13 @@ function displayPlayerStats() {
         )
         .catch(error => {
             console.log(error);
+            let allLetters = document.getElementById("allLetters");
+
+            let errorTitle = document.createElement("h2");
+
+            errorTitle.innerText = "Player not found";
+
+            allLetters.appendChild(errorTitle);
         });
 }
 
