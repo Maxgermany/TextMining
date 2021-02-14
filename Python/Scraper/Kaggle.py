@@ -115,12 +115,11 @@ def splitYearAfterWeek(year):
     if year != 2017:  # For year 2017 is the dataset only partly available
 
         nflWeekNumber = 18  # A season goes from year to the other, so year x has the last 4 weeks of year x-1
-        pathYear = year - 1  # Same reason as above
+        pathYear = year
 
         for week in calendarWeeks:
 
             if nflWeekNumber == 22:  # At this point the games are of the new season of the given year
-                pathYear = year
                 nflWeekNumber = 1
 
             weekGames = '['
@@ -250,6 +249,6 @@ for year in range(2008, 2018): # Splits the kaggle-data after year
     print("Scrapped year " + str(year) + ".")
 
 
-for year in range(2008, 2018): # Splits the year futher in weeks
+for year in range(2008, 2018): # Splits the year further in weeks
     splitYearAfterWeek(year)
     print("Scrapped weeks of year " + str(year) + ".")
