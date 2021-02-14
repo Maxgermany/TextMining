@@ -250,7 +250,7 @@ for (year in years) {
                 propertyName <- strsplit(property, "[[:space:]]")[[1]][1]
                 propertyValue <- strsplit(property, "[[:space:]]")[[1]][2]
                 
-                if (number == propertyValue) {
+                if (number == propertyValue && propertyName != "game_number") {
                   
                   if (number != 0) {
                     
