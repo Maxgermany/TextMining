@@ -105,6 +105,7 @@ var wordMap = {
     "PR" : "Punt Runner",
 
     "numberGames" : "Number of occurences in games",
+    "comment" : "Comment",
 
 
     /**"ARZ" : "Arizona Cardnials",

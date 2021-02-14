@@ -187,7 +187,29 @@ function displayPlayerStats() {
 
                                 table.appendChild(tr);
 
-                        } else {
+                        } else if (gameKey == "comment") {
+
+                            let tr = document.createElement("tr");
+
+                            tr.setAttribute("class", "commentRow");
+
+                            let td = document.createElement("td");
+
+                            td.innerText = translate(gameKey);
+
+                            tr.appendChild(td);
+
+                            td = document.createElement("td");
+
+                            td.innerText = gameValue;
+
+                            td.setAttribute("colspan", "2");
+
+                            tr.appendChild(td);
+
+                            table.appendChild(tr);
+
+                        } else if (gameValue != 0) {
 
                             let tr = document.createElement("tr");
 
