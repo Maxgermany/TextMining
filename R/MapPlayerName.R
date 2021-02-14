@@ -9,6 +9,8 @@ years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2
 path <- "..\\Data\\RPlayerNames"
 if (!(dir.exists(path))){
   dir.create(path)
+} else {
+  unlink(paste(c(path, "/*"), collapse = "")) # Delete all previous player files
 }
 for (year in years) {
   for (week in weeks) {
