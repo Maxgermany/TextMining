@@ -1,3 +1,5 @@
+start_time <- Sys.time()
+
 library(stringr)
 library(rjson)
 library(rlist)
@@ -108,3 +110,7 @@ allPlayers <- allPlayers[order(unlist(allPlayers))]
 allPlayers <- rjson::toJSON(allPlayers, 1)
 
 write(allPlayers, allPlayersFile)
+
+end_time <- Sys.time()
+
+print(end_time - start_time)

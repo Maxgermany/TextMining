@@ -1,3 +1,5 @@
+start_time <- Sys.time()
+
 library(stringr)
 library(rjson)
 
@@ -255,3 +257,7 @@ for (year in years) {
   }
   
 }
+
+end_time <- Sys.time()
+
+print(end_time - start_time)
