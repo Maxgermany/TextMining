@@ -64,7 +64,7 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"C.J. Beathard for the rest of the day. The decision paid off. Beathard gave life to the 49ers' offense upon coming into the contest, and he led them on a touchdown drive to end the first half that gave them a good deal of momentum. The 49ers would rally to score 17 straight to tie things up before the Redskins were able to pull away. Beathard was able to throw accurate passes and avoid mistakes for a most of the day. Considering that it was his first NFL action, Beathard looked very good. He was victimized by a handful of drops and generally had good ball placement as he targeted his receivers. He showed a penchant for good decision-making as well, and only held onto the ball for too long in a couple of instances. Late in the day, Beathard was able to find "
+   "comment":"Beathard for the rest of the day. The decision paid off. Beathard gave life to the 49ers' offense upon coming into the contest, and he led them on a touchdown drive to end the first half that gave them a good deal of momentum. The 49ers would rally to score 17 straight to tie things up before the Redskins were able to pull away. Beathard was able to throw accurate passes and avoid mistakes for a most of the day. Considering that it was his first NFL action, Beathard looked very good. He was victimized by a handful of drops and generally had good ball placement as he targeted his receivers. He showed a penchant for good decision-making as well, and only held onto the ball for too long in a couple of instances. Late in the day, Beathard was able to find "
   },
   "2":{
    "player_id":   1350,
@@ -88,7 +88,11 @@
    "passing_sacks_yards_lost":   48,
    "rushing_attempts":   5,
    "rushing_yards":   30,
-   "rushing_touchdowns":   1,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    79748,
+    "sentence":"Beathard found Marqise Goodwin (4-80) for 14 yards and then ran for 16 yards to set up Robbie Gould for a 42-yard field goal."
+   },
    "receiving_targets":   0,
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -113,7 +117,7 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"C.J. Beathard found Marqise Goodwin (4-80) for 14 yards and then ran for 16 yards to set up Robbie Gould for a 42-yard field goal."
+   "comment":"Beathard found Marqise Goodwin (4-80) for 14 yards and then ran for 16 yards to set up Robbie Gould for a 42-yard field goal. Early in the second quarter, Dallas moved down the field before Dak Prescott found Jason Witten in the end zone, with Witten making a superb 1.handed, 18-yard touchdown catch. San Francisco drove close to the end zone, thanks to Carlos Hyde's running, but then Demarcus Lawrence burned Joe Staley for a strip-sack that the Cowboys recovered to maintain their 17-point lead going into halftime. Dallas blew the game open in the third quarter when Elliott caught a screen pass and exploded down the field for a 72-yard touchdown. The Cowboys added another drive with Prescott scrambling ahead for a short touchdown run. At the end of the third quarter, Cowboys linebacker Jaylon Smith came on a blitz to strip-sack Beathard, and Dallas recovered the loose ball. Shortly later, "
   },
   "3":{
    "player_id":   1350,
@@ -127,16 +131,44 @@
    "game_won":   false,
    "player_team_score":"10",
    "opponent_score":"33",
-   "passing_attempts":   17,
-   "passing_completions":   36,
-   "passing_yards":   167,
+   "passing_attempts":{
+    "propertyValue":"17",
+    "annotationID":    80005,
+    "sentence":"Beathard finished 17-of-36 for 167 yards, 1 touchdown and 2 interceptions."
+   },
+   "passing_completions":{
+    "propertyValue":"36",
+    "annotationID":    80006,
+    "sentence":"Beathard finished 17-of-36 for 167 yards, 1 touchdown and 2 interceptions."
+   },
+   "passing_yards":{
+    "propertyValue":"167",
+    "annotationID":    80007,
+    "sentence":"Beathard finished 17-of-36 for 167 yards, 1 touchdown and 2 interceptions."
+   },
    "passing_rating":   46.9,
-   "passing_touchdowns":   1,
-   "passing_interceptions":   2,
+   "passing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    80008,
+    "sentence":"Beathard finished 17-of-36 for 167 yards, 1 touchdown and 2 interceptions."
+   },
+   "passing_interceptions":{
+    "propertyValue":"2",
+    "annotationID":    80009,
+    "sentence":"Beathard finished 17-of-36 for 167 yards, 1 touchdown and 2 interceptions."
+   },
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   23,
-   "rushing_attempts":   6,
-   "rushing_yards":   40,
+   "rushing_attempts":{
+    "propertyValue":"6",
+    "annotationID":    80010,
+    "sentence":"Beathard finished 17-of-36 for 167 yards, 1 touchdown and 2 interceptions."
+   },
+   "rushing_yards":{
+    "propertyValue":"40",
+    "annotationID":    80011,
+    "sentence":"The good news is that he was able to scramble 6 times for 40 rushing yards."
+   },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -162,7 +194,7 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"C.J. Beathard. The rookie looked shaky right away, firing behind "
+   "comment":"Beathard. The rookie looked shaky right away, firing behind Carlos Hyde on a third down during the opening drive. He then had Hyde open in the flat, but threw so poorly that Hyde had to twist his body oddly, resulting in a drop. Beathard followed that up with an interception on a deflection, and he then tossed a pick-six late in the first half on what looked like a miscommunication. Beathard finished 17-of-36 for 167 yards, 1 touchdown and 2 interceptions. The good news is that he was able to scramble 6 times for 40 rushing yards. The bad news is that Beathard looks completely overwhelmed. He does not appear as though he can be a viable NFL starter because of his atrocious accuracy, so perhaps the 49ers will be able to acquire "
   },
   "4":{
    "player_id":   1350,
@@ -174,8 +206,16 @@
    "game_location":"H",
    "opponent":"ARI",
    "game_won":   false,
-   "player_team_score":"10",
-   "opponent_score":"20",
+   "player_team_score":{
+    "propertyValue":"10",
+    "annotationID":    80716,
+    "sentence":"h quarter, Arizona got field goal on a drives led by Peterson and Fitzgerald to take a 20-10 lead."
+   },
+   "opponent_score":{
+    "propertyValue":"20",
+    "annotationID":    80715,
+    "sentence":"h quarter, Arizona got field goal on a drives led by Peterson and Fitzgerald to take a 20-10 lead."
+   },
    "passing_attempts":   24,
    "passing_completions":   51,
    "passing_yards":   294,
@@ -211,7 +251,7 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"C.J. Beathard hit wideout Kendrick Bourne (2-39) for 25 yards and Goodwin for 13 yards."
+   "comment":"Beathard hit wideout Kendrick Bourne (2-39) for 25 yards and Goodwin for 13 yards. The drive finished with Beathard, taking a short read-option run into the end zone. Twice in the 4.h quarter, Arizona got field goal on a drives led by Peterson and Fitzgerald to take a 20-10 lead. The Cardinals were in position to salt the game away midway through the 4.h quarter, but Peterson fumbled the ball away. After a hit going to the head of Beathard, a big fight erupted between the 2 teams with punches thrown. "
   },
   "5":{
    "player_id":   1350,
@@ -230,12 +270,20 @@
    "passing_yards":   288,
    "passing_rating":   123.4,
    "passing_touchdowns":   2,
-   "passing_interceptions":   1,
+   "passing_interceptions":{
+    "propertyValue":"1",
+    "annotationID":    81242,
+    "sentence":"The Giants' defense continued to struggle with tight ends and allowed a score to a tight end for the 10th-straight game."
+   },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   5,
    "rushing_yards":   15,
-   "rushing_touchdowns":   1,
+   "rushing_touchdowns":{
+    "propertyValue":"1",
+    "annotationID":    81243,
+    "sentence":"The Giants' defense continued to struggle with tight ends and allowed a score to a tight end for the 10th-straight game."
+   },
    "receiving_targets":   0,
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -260,7 +308,7 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"C.J. Beathard laid out a bomb to Marquise Godwin for an 83-yard touchdown. The Giants responded with a nice 26-yard catch by "
+   "comment":"Beathard laid out a bomb to Marquise Godwin for an 83-yard touchdown. The Giants responded with a nice 26-yard catch by Sterling Shepard. Manning then hit a few more receptions before throwing a 9.yard touchdown strike to Evan Engram. The Giants' defense continued to struggle with tight ends and allowed a score to a tight end for the 10th-straight game. Beathard hit Garrett Celek (4-67-1) on the run, and he broke a tackle from Janoris Jenkins to get into end zone for a 47-yard score."
   }
  },
  "numberGames": 5

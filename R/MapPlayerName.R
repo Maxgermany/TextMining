@@ -11,6 +11,7 @@ if (!(dir.exists(path))){
   dir.create(path)
 } else {
   unlink(paste(c(path, "/*"), collapse = "")) # Delete all previous player files
+  dir.create(path)
 }
 for (year in years) {
   for (week in weeks) {
