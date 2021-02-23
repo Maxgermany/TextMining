@@ -140,6 +140,34 @@ findSentenceAfterPosition <- function(comment, index) {
   
 }
 
+# Get confidence for a found matching via searching for typical terms in the sentence
+getConfidence <- function(sentence, property) {
+  
+  propertyTerm <- list()
+  
+  propertyTerm[["passing_attempts"]] <- list("pass", "passing", "attempt")
+  
+  propertyTerm[["rushing_yards"]] <- list("rush", "rushing", "yard")
+  
+  propertyTerm[["receiving_touchdowns"]] <- list("receive", "receiving", "touchdown")
+  
+  if (is.null(propertyTerm[[property]])) {
+    return("None")
+  }
+  
+  confidence <- "Weak"
+  
+  for (term in propertyTerm[[property]]) {
+    
+    if (length(grep(term, sentence, ignore.case = TRUE))) {
+      confidence <- "Strong"
+    }
+    
+  } 
+  
+  return(confidence)
+}
+
 weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
@@ -241,8 +269,10 @@ for (year in years) {
                     
                     sentenceWithNumber <- findSentenceAfterPosition(playerComment, number[[2]])
                     
-                    entry <- list(propertyValue, id, sentenceWithNumber) # Create the matching entry consisting of the found number, an unique annotation ID and the matched sentence
-                    names(entry) <- c("propertyValue", "annotationID", "sentence") 
+                    confidence <- getConfidence(sentenceWithNumber, propertyName)
+                    
+                    entry <- list(propertyValue, id, sentenceWithNumber, confidence) # Create the matching entry consisting of the found number, an unique annotation ID and the matched sentence
+                    names(entry) <- c("propertyValue", "annotationID", "sentence", "confidence") 
                     
                     if(typeof(playerInformation[[propertyName]]) == "list") { # Checks if for a given property-value already exists an annotation
                       
