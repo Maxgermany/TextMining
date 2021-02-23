@@ -3,12 +3,31 @@ start_time <- Sys.time()
 library(stringr)
 library(rjson)
 
-# Function extracts all numbers from given text
+# Function extracts all numbers and there position from a given text
 numExtract <- function(string) {
-  allNumbers <- regmatches(string, gregexpr("[[:digit:]]+", string))
-  allNumbers <- as.numeric(unlist(allNumbers))
-  allNumbers <- as.list(strsplit(toString(allNumbers), ", ")[[1]])
-  return(allNumbers)
+  
+  positions <- gregexpr("[[:digit:]]+", string)
+  
+  numbers <- regmatches(string, positions)
+  numbers <- numbers[[1]]
+  numbers <- as.numeric(unlist(numbers))
+  
+  positions <- positions[[1]]
+  
+  attr(positions, "match.length") <- NULL
+  attr(positions, "index.type") <- NULL
+  attr(positions, "useBytes") <- NULL
+  
+  if (length(numbers) > 0) {
+  
+    mergedNumbersAndPositions <- mapply(c, numbers, positions, SIMPLIFY = FALSE)
+    
+    return(mergedNumbersAndPositions)
+  
+  }
+  
+  return(list())
+  
 }
 
 # Replace all numbers (from one to ten) that occur as string as integer
@@ -125,6 +144,10 @@ weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
 
+weeks <- list("01")
+
+years <- list("2008")
+
 # Creating the Folders if not exists
 path <- "..\\Data\\Output"
 if (!(dir.exists(path))){
@@ -175,7 +198,7 @@ for (year in years) {
             
             playerComment <- "" # All parts in the comment belonging to the player
       
-            lastName <- word(player$`player information`$name, -1) # Check if last name occurs later in the text
+            lastName <- word(player$`player information`$name, -1) # For matching with the text the lastname of a player is better because it sometimes occurs without the firstname
             
             for (tempCurrentPlayerOccurence in str_locate_all(game$comments, lastName)) { # Iterate over all occurences of the last name of the player in the game comment
 
@@ -216,11 +239,13 @@ for (year in years) {
                 propertyName <- strsplit(property, "[[:space:]]")[[1]][1]
                 propertyValue <- strsplit(property, "[[:space:]]")[[1]][2]
                 
-                if (number == propertyValue && propertyName != "game_number") {
+                if (number[[1]] == propertyValue && propertyName != "game_number") {
                   
-                  if (number != 0) {
+                  if (number[[1]] != 0) {
                     
-                    playerInformation[[propertyName]] <- list(propertyValue, id, findSentenceAfterPosition(playerComment, str_locate(playerComment, number)[[1]])) # Add marker and unique ID for annotation, if match is found
+                    sentenceWithNumber <- findSentenceAfterPosition(playerComment, number[[2]])
+                    
+                    playerInformation[[propertyName]] <- list(propertyValue, id, sentenceWithNumber) # Add marker and unique ID for annotation, if match is found
                     names(playerInformation[[propertyName]]) <- c("propertyValue", "annotationID", "sentence") 
                   
                     id <- id + 1
