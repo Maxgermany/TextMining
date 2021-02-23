@@ -87,14 +87,26 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    34647,
-    "sentence":"James played a factor as well, gaining 49 yards on 7 attempts."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     34647,
+     "sentence":"James played a factor as well, gaining 49 yards on 7 attempts.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"49",
-    "annotationID":    34649,
-    "sentence":"James played a factor as well, gaining 49 yards on 7 attempts."
+    "1":{
+     "propertyValue":"49",
+     "annotationID":     34646,
+     "sentence":"James played a factor as well, gaining 49 yards on 7 attempts.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"49",
+     "annotationID":     34649,
+     "sentence":"If there's 1 concern with the 49ers scoring points, it's ",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -102,9 +114,12 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    34648,
-    "sentence":"If there's 1 concern with the 49ers scoring points, it's "
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     34648,
+     "sentence":"If there's 1 concern with the 49ers scoring points, it's ",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   33,
    "kick_return_touchdowns":   0,
@@ -148,14 +163,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    37785,
-    "sentence":"James (4-31) also had success finding running lanes."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     37785,
+     "sentence":"James (4-31) also had success finding running lanes.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"31",
-    "annotationID":    37786,
-    "sentence":"James (4-31) also had success finding running lanes."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     37786,
+     "sentence":"James (4-31) also had success finding running lanes.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,

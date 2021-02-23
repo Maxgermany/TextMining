@@ -127,9 +127,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    58526,
-    "sentence":"With the game tied at 20, former Cowboy Dwayne Harris brought the kickoff back 100 yards for the game-winning touchdown."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     58526,
+     "sentence":"With the game tied at 20, former Cowboy Dwayne Harris brought the kickoff back 100 yards for the game-winning touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -180,9 +183,18 @@
    "game_won":   true,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    68267,
-    "sentence":"Though Keenum began 9-of-10 for 91 yards and a touchdown, he melted down as the morning progressed."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     68266,
+     "sentence":"Though Keenum began 9-of-10 for 91 yards and a touchdown, he melted down as the morning progressed.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     68267,
+     "sentence":"Keenum then effectively lost the game with a miserable interception; the game was tied at 10, but he fired an inaccurate ball to Austin, which was tipped by Keenan Robinson and caught by Collins again.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -232,9 +244,18 @@
    "opponent":"CIN",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    70929,
-    "sentence":"Manning completed 21-of-36 for 227 yards and 2 scores with zero interceptions."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     70927,
+     "sentence":"Manning completed 21-of-36 for 227 yards and 2 scores with zero interceptions.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"21",
+     "annotationID":     70929,
+     "sentence":"Rashad Jennings ran for 85 yards on 21 carries with a score.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"20",
    "passing_attempts":   0,
@@ -260,15 +281,33 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"5",
-    "annotationID":    70928,
-    "sentence":"Beckham saw tons of double coverage and totaled 46 yards on 5 catches."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     70928,
+     "sentence":"Beckham saw tons of double coverage and totaled 46 yards on 5 catches.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    70932,
-    "sentence":"Manning completed 21-of-36 for 227 yards and 2 scores with zero interceptions."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     70930,
+     "sentence":"He completed 17-of-30 for 252 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     70931,
+     "sentence":"He completed 17-of-30 for 252 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     70932,
+     "sentence":"Meanwhile, Zach Miller (3-61-1) led the Bears in receiving even though he only played half the game.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
@@ -317,20 +356,41 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"6",
-    "annotationID":    70937,
-    "sentence":"Manning completed 21-of-36 for 227 yards and 2 scores with zero interceptions."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     70937,
+     "sentence":"Defensively, Landon Collins continued his breakout year with 6 tackles and an interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    70936,
-    "sentence":"Manning completed 21-of-36 for 227 yards and 2 scores with zero interceptions."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     70933,
+     "sentence":"He completed 17-of-30 for 252 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     70934,
+     "sentence":"He completed 17-of-30 for 252 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     70936,
+     "sentence":"Meanwhile, Zach Miller (3-61-1) led the Bears in receiving even though he only played half the game.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":{
-    "propertyValue":"3",
-    "annotationID":    70935,
-    "sentence":"Manning completed 21-of-36 for 227 yards and 2 scores with zero interceptions."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     70935,
+     "sentence":"Meanwhile, Zach Miller (3-61-1) led the Bears in receiving even though he only played half the game.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -377,9 +437,12 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    75446,
-    "sentence":"h-and-1 try from his own 42-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     75446,
+     "sentence":"h-and-1 try from his own 42-yard line.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   6,
    "defense_tackle_assists":   3,
@@ -529,9 +592,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    81244,
-    "sentence":"Beathard completed 19-of-25 passes for 288 yards with 2 touchdowns and 1 interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     81244,
+     "sentence":"Beathard completed 19-of-25 passes for 288 yards with 2 touchdowns and 1 interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   5,
    "defense_interceptions":   0,
@@ -559,9 +625,18 @@
    "game_won":   true,
    "player_team_score":"12",
    "opponent_score":{
-    "propertyValue":"9",
-    "annotationID":    81692,
-    "sentence":"New York hit a 26-yard field goal to go up 9-6 with 1:38 left."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     81690,
+     "sentence":"New York hit a 26-yard field goal to go up 9-6 with 1:38 left.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"9",
+     "annotationID":     81692,
+     "sentence":"Smith threw some short passes and ran for a first down to get inside the 15, but shots at the end zone went incomplete, so Kansas City tied the game at 9 to force overtime.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -588,9 +663,12 @@
    "defense_tackles":   10,
    "defense_tackle_assists":   4,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    81691,
-    "sentence":"New York hit a 26-yard field goal to go up 9-6 with 1:38 left."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     81691,
+     "sentence":"New York hit a 26-yard field goal to go up 9-6 with 1:38 left.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

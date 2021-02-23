@@ -91,9 +91,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    11025,
-    "sentence":"Up 7 in the second quarter, New England eschewed a field goal to go for it on 4th-and-1."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     11025,
+     "sentence":"Up 7 in the second quarter, New England eschewed a field goal to go for it on 4th-and-1.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   90,
    "receiving_touchdowns":   0,
@@ -144,19 +147,40 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    11029,
-    "sentence":"Aiken for an 81-yard score, but the throw should have been picked off; Aiken simply came away with a great reception over a Miami defensive back."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     11027,
+     "sentence":"Brady later tossed 2 interceptions, 1 of which was horribly thrown in the end zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     11029,
+     "sentence":"Up 7 in the second quarter, New England eschewed a field goal to go for it on 4th-and-1.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"81",
-    "annotationID":    11026,
-    "sentence":"Aiken for an 81-yard score, but the throw should have been picked off; Aiken simply came away with a great reception over a Miami defensive back."
+    "1":{
+     "propertyValue":"81",
+     "annotationID":     11026,
+     "sentence":"Aiken for an 81-yard score, but the throw should have been picked off; Aiken simply came away with a great reception over a Miami defensive back.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    11030,
-    "sentence":"Aiken for an 81-yard score, but the throw should have been picked off; Aiken simply came away with a great reception over a Miami defensive back."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     11028,
+     "sentence":"Brady later tossed 2 interceptions, 1 of which was horribly thrown in the end zone.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     11030,
+     "sentence":"Up 7 in the second quarter, New England eschewed a field goal to go for it on 4th-and-1.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,

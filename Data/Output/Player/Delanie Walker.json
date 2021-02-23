@@ -42,9 +42,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    7839,
-    "sentence":"Why was Singletary out of timeouts? He had to burn his last 1 because "
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     7839,
+     "sentence":"Why was Singletary out of timeouts? He had to burn his last 1 because ",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   39,
    "receiving_touchdowns":   0,
@@ -82,9 +85,12 @@
    "game_won":   true,
    "player_team_score":"24",
    "opponent_score":{
-    "propertyValue":"9",
-    "annotationID":    11938,
-    "sentence":"The Eagles took over and went 94 yards for a touchdown, giving them a sizable lead that they would never relinquish."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     11938,
+     "sentence":"LeSean McCoy rushed the ball just 9 times, but gained 48 yards and a score.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -98,30 +104,69 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    11939,
-    "sentence":"Walker, meanwhile, fumbled in the red zone when the score was just 7-3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     11934,
+     "sentence":"Walker, meanwhile, fumbled in the red zone when the score was just 7-3.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     11936,
+     "sentence":"He hit 3 plays of 39 yards or more.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     11939,
+     "sentence":"Strangely, neither Vernon Davis (3-43) nor Michael Crabtree (4-26) led the 49ers in receiving.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    11942,
-    "sentence":"Though he tossed 2 interceptions, Donovan McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     11942,
+     "sentence":"Time was running out, so they needed to clock it for 1 last attempt to get the ball into the end zone.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"2",
-    "annotationID":    11935,
-    "sentence":"Though he tossed 2 interceptions, Donovan McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     11935,
+     "sentence":"Though he tossed 2 interceptions, Donovan McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    11943,
-    "sentence":"Though he tossed 2 interceptions, Donovan McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     11943,
+     "sentence":"Time was running out, so they needed to clock it for 1 last attempt to get the ball into the end zone.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":{
-    "propertyValue":"4",
-    "annotationID":    11941,
-    "sentence":"The Eagles took over and went 94 yards for a touchdown, giving them a sizable lead that they would never relinquish."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     11937,
+     "sentence":"The other was to Brent Celek (43), who notched 4 catches for 73 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     11940,
+     "sentence":"Strangely, neither Vernon Davis (3-43) nor Michael Crabtree (4-26) led the 49ers in receiving.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     11941,
+     "sentence":"On 4th-and-inches in the first quarter, Reid decided to go for it on his own 29!",
+     "confidence":"None"
+    }
    },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
@@ -167,14 +212,44 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    11949,
-    "sentence":"The Eagles took over and went 94 yards for a touchdown, giving them a sizable lead that they would never relinquish."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     11946,
+     "sentence":"The other was to Brent Celek (43), who notched 4 catches for 73 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     11948,
+     "sentence":"Strangely, neither Vernon Davis (3-43) nor Michael Crabtree (4-26) led the 49ers in receiving.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     11949,
+     "sentence":"On 4th-and-inches in the first quarter, Reid decided to go for it on his own 29!",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    11947,
-    "sentence":"Walker, meanwhile, fumbled in the red zone when the score was just 7-3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     11944,
+     "sentence":"Walker, meanwhile, fumbled in the red zone when the score was just 7-3.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     11945,
+     "sentence":"He hit 3 plays of 39 yards or more.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     11947,
+     "sentence":"Strangely, neither Vernon Davis (3-43) nor Michael Crabtree (4-26) led the 49ers in receiving.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   28,
    "receiving_touchdowns":   0,
@@ -226,9 +301,12 @@
    "receiving_targets":   5,
    "receiving_receptions":   4,
    "receiving_yards":{
-    "propertyValue":"80",
-    "annotationID":    16783,
-    "sentence":"Walker (80 yards), Vernon Davis (79) and Michael Crabtree (61, TD)."
+    "1":{
+     "propertyValue":"80",
+     "annotationID":     16783,
+     "sentence":"Walker (80 yards), Vernon Davis (79) and Michael Crabtree (61, TD).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -314,9 +392,12 @@
    "game_won":   true,
    "player_team_score":"48",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    20900,
-    "sentence":"Walker was in the middle of 3 Tampa Bay players and went up to make a nice catch for the first score of the game."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     20900,
+     "sentence":"Walker was in the middle of 3 Tampa Bay players and went up to make a nice catch for the first score of the game.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -330,9 +411,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    20901,
-    "sentence":"Walker was in the middle of 3 Tampa Bay players and went up to make a nice catch for the first score of the game."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     20901,
+     "sentence":"Walker was in the middle of 3 Tampa Bay players and went up to make a nice catch for the first score of the game.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   2,
    "receiving_yards":   37,
@@ -370,14 +454,26 @@
    "opponent":"DET",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"25",
-    "annotationID":    21110,
-    "sentence":"Another Akers field goal made it 25-19."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     21110,
+     "sentence":"Another Akers field goal made it 25-19.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"19",
-    "annotationID":    21111,
-    "sentence":"Walker did the rest, barely stretching for the end zone and a 22-19 lead."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     21106,
+     "sentence":"Walker did the rest, barely stretching for the end zone and a 22-19 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"19",
+     "annotationID":     21111,
+     "sentence":"Another Akers field goal made it 25-19.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -391,16 +487,22 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    21109,
-    "sentence":"Does that really matter though given his physical ability? San Francisco ran Gore 3 times for 6 yards forcing Detroit to run through their timeouts."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     21109,
+     "sentence":"Does that really matter though given his physical ability? San Francisco ran Gore 3 times for 6 yards forcing Detroit to run through their timeouts.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   2,
    "receiving_yards":   11,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    21107,
-    "sentence":"Walker did the rest, barely stretching for the end zone and a 22-19 lead."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     21107,
+     "sentence":"At this point, I fully expected Stafford to find a groove with 1:51 to play and San Francisco playing soft.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -410,9 +512,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    21108,
-    "sentence":"Walker did the rest, barely stretching for the end zone and a 22-19 lead."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     21108,
+     "sentence":"At this point, I fully expected Stafford to find a groove with 1:51 to play and San Francisco playing soft.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -501,9 +606,12 @@
    "rushing_yards":   14,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    24272,
-    "sentence":"Walker) for 2 quick first downs."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     24272,
+     "sentence":"Walker) for 2 quick first downs.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -604,21 +712,30 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    34217,
-    "sentence":"Walker (4-54, TD) and Randy Moss (3-44)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     34217,
+     "sentence":"Walker (4-54, TD) and Randy Moss (3-44).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"54",
-    "annotationID":    34219,
-    "sentence":"Walker (4-54, TD) and Randy Moss (3-44)."
+    "1":{
+     "propertyValue":"54",
+     "annotationID":     34219,
+     "sentence":"Walker (4-54, TD) and Randy Moss (3-44).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   1,
    "kick_return_yards":{
-    "propertyValue":"4",
-    "annotationID":    34218,
-    "sentence":"Walker (4-54, TD) and Randy Moss (3-44)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     34218,
+     "sentence":"Walker (4-54, TD) and Randy Moss (3-44).",
+     "confidence":"None"
+    }
    },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
@@ -665,9 +782,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    34629,
-    "sentence":"Though he had 2 potential interceptions dropped early by "
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     34629,
+     "sentence":"Though he had 2 potential interceptions dropped early by ",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   50,
    "receiving_touchdowns":   0,
@@ -718,14 +838,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    35395,
-    "sentence":"Walker (3-40) and Kendall Wright (2-11) also had multiple catches, while Kenny Britt (1-15) barely did anything."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     35395,
+     "sentence":"Walker (3-40) and Kendall Wright (2-11) also had multiple catches, while Kenny Britt (1-15) barely did anything.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"40",
-    "annotationID":    35396,
-    "sentence":"Walker (3-40) and Kendall Wright (2-11) also had multiple catches, while Kenny Britt (1-15) barely did anything."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     35396,
+     "sentence":"Walker (3-40) and Kendall Wright (2-11) also had multiple catches, while Kenny Britt (1-15) barely did anything.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -776,9 +902,12 @@
    "receiving_targets":   2,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"10",
-    "annotationID":    35768,
-    "sentence":"Walker for a 10-yard touchdown."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     35768,
+     "sentence":"Walker for a 10-yard touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -814,9 +943,12 @@
    "opponent":"SDG",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    36445,
-    "sentence":"He went 20-of-24 for 184 yards and a touchdown."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     36445,
+     "sentence":"He went 20-of-24 for 184 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":   0,
@@ -881,14 +1013,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    38725,
-    "sentence":"Walker (3-52)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     38725,
+     "sentence":"Walker (3-52).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"52",
-    "annotationID":    38726,
-    "sentence":"Walker (3-52)."
+    "1":{
+     "propertyValue":"52",
+     "annotationID":     38726,
+     "sentence":"Walker (3-52).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -937,19 +1075,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"10",
-    "annotationID":    40434,
-    "sentence":"Walker (10-91, TD) and Kendall Wright (9-80)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     40434,
+     "sentence":"Walker (10-91, TD) and Kendall Wright (9-80).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"10",
-    "annotationID":    40435,
-    "sentence":"Walker (10-91, TD) and Kendall Wright (9-80)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     40435,
+     "sentence":"Walker (10-91, TD) and Kendall Wright (9-80).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"91",
-    "annotationID":    40436,
-    "sentence":"Walker (10-91, TD) and Kendall Wright (9-80)."
+    "1":{
+     "propertyValue":"91",
+     "annotationID":     40436,
+     "sentence":"Walker (10-91, TD) and Kendall Wright (9-80).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -999,14 +1146,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    41334,
-    "sentence":"Walker (5-46) had 1."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     41334,
+     "sentence":"Walker (5-46) had 1.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"46",
-    "annotationID":    41335,
-    "sentence":"Walker (5-46) had 1."
+    "1":{
+     "propertyValue":"46",
+     "annotationID":     41335,
+     "sentence":"Walker (5-46) had 1.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1105,14 +1258,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    42953,
-    "sentence":"Walker (8-53)."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     42953,
+     "sentence":"Walker (8-53).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"53",
-    "annotationID":    42954,
-    "sentence":"Walker (8-53)."
+    "1":{
+     "propertyValue":"53",
+     "annotationID":     42954,
+     "sentence":"Walker (8-53).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1162,14 +1321,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    43210,
-    "sentence":"Walker (4-35) and Kendall Wright (4-22)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     43208,
+     "sentence":"Walker (4-35) and Kendall Wright (4-22).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     43210,
+     "sentence":"Walker (4-35) and Kendall Wright (4-22).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"35",
-    "annotationID":    43209,
-    "sentence":"Walker (4-35) and Kendall Wright (4-22)."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     43209,
+     "sentence":"Walker (4-35) and Kendall Wright (4-22).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1219,19 +1390,28 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    44866,
-    "sentence":"Walker (3-37)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     44866,
+     "sentence":"Walker (3-37).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    44867,
-    "sentence":"Walker (3-37)."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     44867,
+     "sentence":"Walker (3-37).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    44868,
-    "sentence":"With 30 seconds left before halftime, Andy Reid made a horrible play call as he had Smith throw a deep ball from the Chiefs' own 1-yard line, and "
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     44868,
+     "sentence":"With 30 seconds left before halftime, Andy Reid made a horrible play call as he had Smith throw a deep ball from the Chiefs' own 1-yard line, and ",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1266,9 +1446,12 @@
    "opponent":"DAL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    45529,
-    "sentence":"Like Bryant, he snagged 10 receptions for 142 yards and a touchdown."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     45529,
+     "sentence":"Like Bryant, he snagged 10 receptions for 142 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"26",
    "passing_attempts":   0,
@@ -1284,14 +1467,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   14,
    "receiving_receptions":{
-    "propertyValue":"10",
-    "annotationID":    45530,
-    "sentence":"Like Bryant, he snagged 10 receptions for 142 yards and a touchdown."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     45530,
+     "sentence":"Like Bryant, he snagged 10 receptions for 142 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"142",
-    "annotationID":    45531,
-    "sentence":"Like Bryant, he snagged 10 receptions for 142 yards and a touchdown."
+    "1":{
+     "propertyValue":"142",
+     "annotationID":     45531,
+     "sentence":"Like Bryant, he snagged 10 receptions for 142 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1327,9 +1516,12 @@
    "opponent":"CIN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    45834,
-    "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     45834,
+     "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"33",
    "passing_attempts":   0,
@@ -1344,19 +1536,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"7",
-    "annotationID":    45835,
-    "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     45835,
+     "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    45832,
-    "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     45832,
+     "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"54",
-    "annotationID":    45833,
-    "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"54",
+     "annotationID":     45833,
+     "sentence":"Walker (4-54) and Justin Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1406,14 +1607,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    46587,
-    "sentence":"Walker (5-84, TD) and Wright (5-55)."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     46585,
+     "sentence":"Walker (5-84, TD) and Wright (5-55).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     46587,
+     "sentence":"Walker (5-84, TD) and Wright (5-55).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"84",
-    "annotationID":    46586,
-    "sentence":"Walker (5-84, TD) and Wright (5-55)."
+    "1":{
+     "propertyValue":"84",
+     "annotationID":     46586,
+     "sentence":"Walker (5-84, TD) and Wright (5-55).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1463,14 +1676,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    48893,
-    "sentence":"Walker (4-37)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     48893,
+     "sentence":"Walker (4-37).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    48894,
-    "sentence":"Walker (4-37)."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     48894,
+     "sentence":"Walker (4-37).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1506,9 +1725,12 @@
    "opponent":"BAL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    49668,
-    "sentence":"Mettenberger finished 16-of-27 for 179 yards, 1 touchdown and an interception in desperation time."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     49668,
+     "sentence":"That was Kendall Wright, who converted 4 of 7 targets thrown to him.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"21",
    "passing_attempts":   0,
@@ -1523,19 +1745,46 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    49673,
-    "sentence":"He took 5 sacks as a consequence."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     49667,
+     "sentence":"He took 5 sacks as a consequence.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     49673,
+     "sentence":"Greene (3-5) was not seen following his fumble.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    49672,
-    "sentence":"Mettenberger's leading receiver had just 53 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     49669,
+     "sentence":"Walker was next (3-37) even though he missed a complete half of action.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     49671,
+     "sentence":"He tallied 58 yards on 17 carries, and he also caught 3 balls for 19 receiving yards.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     49672,
+     "sentence":"Greene (3-5) was not seen following his fumble.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    49670,
-    "sentence":"Walker was next (3-37) even though he missed a complete half of action."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     49670,
+     "sentence":"Walker was next (3-37) even though he missed a complete half of action.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1546,9 +1795,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    49666,
-    "sentence":"Mettenberger finished 16-of-27 for 179 yards, 1 touchdown and an interception in desperation time."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49666,
+     "sentence":"Mettenberger finished 16-of-27 for 179 yards, 1 touchdown and an interception in desperation time.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1588,19 +1840,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"9",
-    "annotationID":    50760,
-    "sentence":"Walker hauled in 5 of his 9 targets for 155 yards."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     50760,
+     "sentence":"Walker hauled in 5 of his 9 targets for 155 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    50759,
-    "sentence":"Walker hauled in 5 of his 9 targets for 155 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     50759,
+     "sentence":"Walker hauled in 5 of his 9 targets for 155 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"155",
-    "annotationID":    50761,
-    "sentence":"Walker hauled in 5 of his 9 targets for 155 yards."
+    "1":{
+     "propertyValue":"155",
+     "annotationID":     50761,
+     "sentence":"Walker hauled in 5 of his 9 targets for 155 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1637,9 +1898,12 @@
    "game_won":   false,
    "player_team_score":"11",
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    52574,
-    "sentence":"Smith completed 16-of-28 for 179 yards for the Jets."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     52574,
+     "sentence":"Smith completed 16-of-28 for 179 yards for the Jets.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1654,14 +1918,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    52572,
-    "sentence":"Walker had 4 receptions for 93 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     52572,
+     "sentence":"Walker had 4 receptions for 93 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"93",
-    "annotationID":    52573,
-    "sentence":"Walker had 4 receptions for 93 yards."
+    "1":{
+     "propertyValue":"93",
+     "annotationID":     52573,
+     "sentence":"Walker had 4 receptions for 93 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1697,9 +1967,12 @@
    "opponent":"JAX",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    52799,
-    "sentence":"Bortles finished 13-of-26 for 115 yards and a touchdown."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     52799,
+     "sentence":"Bortles finished 13-of-26 for 115 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"21",
    "passing_attempts":   0,
@@ -1714,19 +1987,76 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    52804,
-    "sentence":"With the Titans up 10-0 and outgaining Jacksonville by a wide margin (179-16), the Jaguars were able to put together a solid drive, thanks to some tough running by Toby Gerhart."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     52802,
+     "sentence":"Marcedes Lewis hauled in Bortles' sole touchdown, though he had just 2 catches for 6 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     52803,
+     "sentence":"It appeared as though he was going to ruin Tennessee's chances of landing either Marcus Mariota or Jameis Winston, as he opened the game with a 6-of-6, 71-yard, touchdown-drive.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"6",
+     "annotationID":     52804,
+     "sentence":"It appeared as though he was going to ruin Tennessee's chances of landing either Marcus Mariota or Jameis Winston, as he opened the game with a 6-of-6, 71-yard, touchdown-drive.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    52808,
-    "sentence":"They established a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     52798,
+     "sentence":"They established a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     52800,
+     "sentence":"He was outgained by Jordan Todman (5-71, TD), though almost all of that came on a 62-yard burst in the 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     52801,
+     "sentence":"Marqise Lee (4-65) was that player.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     52805,
+     "sentence":"Simple mistakes disrupted drives all evening, though Whitehurst was responsible for throwing short on a crucial 4.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"4",
+     "annotationID":     52806,
+     "sentence":"Kendall Wright (4-73) paced the team in receiving yardage, but got banged up on a 39-yard reception in the 4.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"4",
+     "annotationID":     52807,
+     "sentence":"Kendall Wright (4-73) paced the team in receiving yardage, but got banged up on a 39-yard reception in the 4.",
+     "confidence":"None"
+    },
+    "7":{
+     "propertyValue":"4",
+     "annotationID":     52808,
+     "sentence":"Walker (4-54) disappointed his fantasy owners.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"54",
-    "annotationID":    52809,
-    "sentence":"Walker (4-54) disappointed his fantasy owners."
+    "1":{
+     "propertyValue":"54",
+     "annotationID":     52809,
+     "sentence":"Walker (4-54) disappointed his fantasy owners.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1776,14 +2106,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    53708,
-    "sentence":"He caught 7 passes."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     53708,
+     "sentence":"He caught 7 passes.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"43",
-    "annotationID":    53707,
-    "sentence":"Walker was Tennessee's leading in receiving yardage with 43."
+    "1":{
+     "propertyValue":"43",
+     "annotationID":     53707,
+     "sentence":"Walker was Tennessee's leading in receiving yardage with 43.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1832,24 +2168,48 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    54864,
-    "sentence":"A nifty play by Mariota resulted in an 18-yard pass to Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     54861,
+     "sentence":"A nifty play by Mariota resulted in an 18-yard pass to Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     54864,
+     "sentence":"Mariota's game ended after 3 quarters, and ",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    54865,
-    "sentence":"A nifty play by Mariota resulted in an 18-yard pass to Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     54862,
+     "sentence":"A nifty play by Mariota resulted in an 18-yard pass to Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     54865,
+     "sentence":"Mariota's game ended after 3 quarters, and ",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"43",
-    "annotationID":    54863,
-    "sentence":"A nifty play by Mariota resulted in an 18-yard pass to Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4."
+    "1":{
+     "propertyValue":"43",
+     "annotationID":     54863,
+     "sentence":"A nifty play by Mariota resulted in an 18-yard pass to Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    54860,
-    "sentence":"Mariota drove down the field again on his next possession and capped it with a rollout pass to Sankey that he ran in for a 12-yard touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54860,
+     "sentence":"A nifty play by Mariota resulted in an 18-yard pass to Anthony Fasano (1-18) to the 2-yard line, and Mariota hit Walker (3-43) on third-and-goal for his 4.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1898,14 +2258,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    55896,
-    "sentence":"Speaking of Wright, he logged 7 receptions for 95 yards and a touchdown."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     55895,
+     "sentence":"Speaking of Wright, he logged 7 receptions for 95 yards and a touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"7",
+     "annotationID":     55896,
+     "sentence":"Walker was responsible for Mariota's pick-six, but he played well otherwise, hauling in 7 balls for 68 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"68",
-    "annotationID":    55897,
-    "sentence":"Walker was responsible for Mariota's pick-six, but he played well otherwise, hauling in 7 balls for 68 yards."
+    "1":{
+     "propertyValue":"68",
+     "annotationID":     55897,
+     "sentence":"Walker was responsible for Mariota's pick-six, but he played well otherwise, hauling in 7 balls for 68 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1941,14 +2313,26 @@
    "opponent":"BUF",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    57261,
-    "sentence":"That led to the Titans to expand their lead to 13-7 midway through 4."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     57258,
+     "sentence":"That led to the Titans to expand their lead to 13-7 midway through 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"13",
+     "annotationID":     57261,
+     "sentence":"On third-and-goal, Taylor went back to Hogan on a sprint out for a touchdown and a 14-13 lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"14",
-    "annotationID":    57260,
-    "sentence":"On third-and-goal, Taylor went back to Hogan on a sprint out for a touchdown and a 14-13 lead."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     57260,
+     "sentence":"On third-and-goal, Taylor went back to Hogan on a sprint out for a touchdown and a 14-13 lead.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1963,14 +2347,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    57262,
-    "sentence":"That led to the Titans to expand their lead to 13-7 midway through 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     57259,
+     "sentence":"That led to the Titans to expand their lead to 13-7 midway through 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     57262,
+     "sentence":"Mariota spread the ball around to Kendall Wright (3-29), Justin Hunter (3-38), Delanie Walker (4-36) and Harry Douglas (2-17), but all were limited by the Bills.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"36",
-    "annotationID":    57263,
-    "sentence":"Mariota spread the ball around to Kendall Wright (3-29), Justin Hunter (3-38), Delanie Walker (4-36) and Harry Douglas (2-17), but all were limited by the Bills."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     57263,
+     "sentence":"Mariota spread the ball around to Kendall Wright (3-29), Justin Hunter (3-38), Delanie Walker (4-36) and Harry Douglas (2-17), but all were limited by the Bills.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2020,14 +2416,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    57875,
-    "sentence":"Walker, who had 8 catches for 97 yards."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     57875,
+     "sentence":"Walker, who had 8 catches for 97 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"97",
-    "annotationID":    57876,
-    "sentence":"Walker, who had 8 catches for 97 yards."
+    "1":{
+     "propertyValue":"97",
+     "annotationID":     57876,
+     "sentence":"Walker, who had 8 catches for 97 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2063,9 +2465,12 @@
    "opponent":"ATL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    58370,
-    "sentence":"Walker had 7 catches for 55 yards, and McCluster tallied 6 catches for 48 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     58370,
+     "sentence":"Walker had 7 catches for 55 yards, and McCluster tallied 6 catches for 48 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"10",
    "passing_attempts":   0,
@@ -2081,14 +2486,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    58371,
-    "sentence":"Walker had 7 catches for 55 yards, and McCluster tallied 6 catches for 48 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     58371,
+     "sentence":"Walker had 7 catches for 55 yards, and McCluster tallied 6 catches for 48 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"55",
-    "annotationID":    58372,
-    "sentence":"Walker had 7 catches for 55 yards, and McCluster tallied 6 catches for 48 yards."
+    "1":{
+     "propertyValue":"55",
+     "annotationID":     58372,
+     "sentence":"Walker had 7 catches for 55 yards, and McCluster tallied 6 catches for 48 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2124,9 +2535,12 @@
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    58964,
-    "sentence":"Walker led Tennessee with 62 yards on 6 receptions."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     58964,
+     "sentence":"Walker led Tennessee with 62 yards on 6 receptions.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"20",
    "passing_attempts":   0,
@@ -2141,19 +2555,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    58965,
-    "sentence":"Walker led Tennessee with 62 yards on 6 receptions."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     58965,
+     "sentence":"Walker led Tennessee with 62 yards on 6 receptions.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    58966,
-    "sentence":"Walker led Tennessee with 62 yards on 6 receptions."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     58966,
+     "sentence":"Walker led Tennessee with 62 yards on 6 receptions.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"62",
-    "annotationID":    58963,
-    "sentence":"Walker led Tennessee with 62 yards on 6 receptions."
+    "1":{
+     "propertyValue":"62",
+     "annotationID":     58963,
+     "sentence":"Walker led Tennessee with 62 yards on 6 receptions.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2203,19 +2626,28 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    59356,
-    "sentence":"He finished with 7 receptions for 95 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     59356,
+     "sentence":"He finished with 7 receptions for 95 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"95",
-    "annotationID":    59357,
-    "sentence":"He finished with 7 receptions for 95 yards."
+    "1":{
+     "propertyValue":"95",
+     "annotationID":     59357,
+     "sentence":"He finished with 7 receptions for 95 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    59355,
-    "sentence":"Walker had 2 touchdown catches."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     59355,
+     "sentence":"Walker had 2 touchdown catches.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2263,19 +2695,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"10",
-    "annotationID":    59585,
-    "sentence":"He had more than double the receiving yardage compared to any other Titan, catching 8 balls for 109 yards."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     59585,
+     "sentence":"<i> Me (thinking during his 10-second pause): Please don't say the generic win football games.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    59583,
-    "sentence":"Antonio Andrews gained 78 yards on 15 carries, but most of that came on a 26-yard burst."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     59583,
+     "sentence":"He had more than double the receiving yardage compared to any other Titan, catching 8 balls for 109 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"109",
-    "annotationID":    59584,
-    "sentence":"He had more than double the receiving yardage compared to any other Titan, catching 8 balls for 109 yards."
+    "1":{
+     "propertyValue":"109",
+     "annotationID":     59584,
+     "sentence":"He had more than double the receiving yardage compared to any other Titan, catching 8 balls for 109 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2325,14 +2766,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    60435,
-    "sentence":"Walker, who made 6 grabs for 91 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     60435,
+     "sentence":"Walker, who made 6 grabs for 91 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"91",
-    "annotationID":    60436,
-    "sentence":"Walker, who made 6 grabs for 91 yards."
+    "1":{
+     "propertyValue":"91",
+     "annotationID":     60436,
+     "sentence":"Walker, who made 6 grabs for 91 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2382,14 +2829,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   12,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    60910,
-    "sentence":"Walker snatched 8 balls for 92 yards and a touchdown."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     60910,
+     "sentence":"Walker snatched 8 balls for 92 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"92",
-    "annotationID":    60911,
-    "sentence":"Walker snatched 8 balls for 92 yards and a touchdown."
+    "1":{
+     "propertyValue":"92",
+     "annotationID":     60911,
+     "sentence":"Walker snatched 8 balls for 92 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2439,14 +2892,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   13,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    61683,
-    "sentence":"Walker led Tennessee in receiving with 71 yards on 7 receptions."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     61683,
+     "sentence":"Walker led Tennessee in receiving with 71 yards on 7 receptions.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"71",
-    "annotationID":    61682,
-    "sentence":"Walker led Tennessee in receiving with 71 yards on 7 receptions."
+    "1":{
+     "propertyValue":"71",
+     "annotationID":     61682,
+     "sentence":"Walker led Tennessee in receiving with 71 yards on 7 receptions.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2496,19 +2955,40 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    62265,
-    "sentence":"Walker (2-64) caught the 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     62262,
+     "sentence":"Walker (2-64) caught the 2 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     62265,
+     "sentence":"Walker (2-64) caught the 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"64",
-    "annotationID":    62264,
-    "sentence":"Walker (2-64) caught the 2 touchdowns."
+    "1":{
+     "propertyValue":"64",
+     "annotationID":     62264,
+     "sentence":"Walker (2-64) caught the 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    62266,
-    "sentence":"Walker (2-64) caught the 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     62263,
+     "sentence":"Walker (2-64) caught the 2 touchdowns.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     62266,
+     "sentence":"Walker (2-64) caught the 2 touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2543,9 +3023,12 @@
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    63012,
-    "sentence":"Harry Douglas led Tennessee's receivers with 6 catches for 79 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     63012,
+     "sentence":"Harry Douglas led Tennessee's receivers with 6 catches for 79 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"34",
    "passing_attempts":   0,
@@ -2561,14 +3044,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   15,
    "receiving_receptions":{
-    "propertyValue":"9",
-    "annotationID":    63010,
-    "sentence":"Walker had 9 receptions for 59 yards."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     63010,
+     "sentence":"Walker had 9 receptions for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"59",
-    "annotationID":    63011,
-    "sentence":"Walker had 9 receptions for 59 yards."
+    "1":{
+     "propertyValue":"59",
+     "annotationID":     63011,
+     "sentence":"Walker had 9 receptions for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2615,25 +3104,37 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"36",
-    "annotationID":    63410,
-    "sentence":"Walker executed for a 36-yard carry."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     63410,
+     "sentence":"Walker executed for a 36-yard carry.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"14",
-    "annotationID":    63412,
-    "sentence":"Walker still had a big game though, catching 9 of his 14 targets for 94 yards."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     63412,
+     "sentence":"Walker still had a big game though, catching 9 of his 14 targets for 94 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"9",
-    "annotationID":    63411,
-    "sentence":"Walker still had a big game though, catching 9 of his 14 targets for 94 yards."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     63411,
+     "sentence":"Walker still had a big game though, catching 9 of his 14 targets for 94 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"94",
-    "annotationID":    63413,
-    "sentence":"Walker still had a big game though, catching 9 of his 14 targets for 94 yards."
+    "1":{
+     "propertyValue":"94",
+     "annotationID":     63413,
+     "sentence":"Walker still had a big game though, catching 9 of his 14 targets for 94 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2682,19 +3183,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    65052,
-    "sentence":"Walker was the more impactful player to catch a Mariota touchdown, snatching 6 balls for 83 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     65052,
+     "sentence":"Walker was the more impactful player to catch a Mariota touchdown, snatching 6 balls for 83 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    65053,
-    "sentence":"Walker was the more impactful player to catch a Mariota touchdown, snatching 6 balls for 83 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     65053,
+     "sentence":"Walker was the more impactful player to catch a Mariota touchdown, snatching 6 balls for 83 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"83",
-    "annotationID":    65054,
-    "sentence":"Walker was the more impactful player to catch a Mariota touchdown, snatching 6 balls for 83 yards."
+    "1":{
+     "propertyValue":"83",
+     "annotationID":     65054,
+     "sentence":"Walker was the more impactful player to catch a Mariota touchdown, snatching 6 balls for 83 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2743,19 +3253,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"8",
-    "annotationID":    66506,
-    "sentence":"Walker made just 2 grabs for 34 yards despite being targeted on 8 occasions."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     66506,
+     "sentence":"Walker made just 2 grabs for 34 yards despite being targeted on 8 occasions.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    66504,
-    "sentence":"Walker made just 2 grabs for 34 yards despite being targeted on 8 occasions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66504,
+     "sentence":"Walker made just 2 grabs for 34 yards despite being targeted on 8 occasions.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"34",
-    "annotationID":    66505,
-    "sentence":"Walker made just 2 grabs for 34 yards despite being targeted on 8 occasions."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     66505,
+     "sentence":"Walker made just 2 grabs for 34 yards despite being targeted on 8 occasions.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2804,24 +3323,36 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"8",
-    "annotationID":    67263,
-    "sentence":"He ripped off numerous 8-to-9-yard chunks plays, and that allowed the team to move the ball efficiently."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     67263,
+     "sentence":"He ripped off numerous 8-to-9-yard chunks plays, and that allowed the team to move the ball efficiently.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    67265,
-    "sentence":"They totaled a whopping 225 yards on the day, while the Dolphins only recorded 51 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     67265,
+     "sentence":"Walker led the team in targets, catches and yards, finishing the day with 5 catches for 66 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"66",
-    "annotationID":    67266,
-    "sentence":"Walker led the team in targets, catches and yards, finishing the day with 5 catches for 66 yards and a touchdown."
+    "1":{
+     "propertyValue":"66",
+     "annotationID":     67266,
+     "sentence":"Walker led the team in targets, catches and yards, finishing the day with 5 catches for 66 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    67264,
-    "sentence":"They totaled a whopping 225 yards on the day, while the Dolphins only recorded 51 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67264,
+     "sentence":"He had 1 particularly nice burst where he scampered for 22 yards and moved the Titans toward the red zone.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2870,14 +3401,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    67608,
-    "sentence":"Walker was limited to just 1 catch (21 yards)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67608,
+     "sentence":"Walker was limited to just 1 catch (21 yards).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"21",
-    "annotationID":    67609,
-    "sentence":"Walker was limited to just 1 catch (21 yards)."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     67609,
+     "sentence":"Walker was limited to just 1 catch (21 yards).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2927,14 +3464,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    68311,
-    "sentence":"Walker caught it, snatching 7 passes for 84 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     68311,
+     "sentence":"Walker caught it, snatching 7 passes for 84 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"84",
-    "annotationID":    68312,
-    "sentence":"Walker caught it, snatching 7 passes for 84 yards."
+    "1":{
+     "propertyValue":"84",
+     "annotationID":     68312,
+     "sentence":"Walker caught it, snatching 7 passes for 84 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2984,14 +3527,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    68835,
-    "sentence":"Walker (4-75) and Rishard Matthews (4-38)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     68833,
+     "sentence":"Walker (4-75) and Rishard Matthews (4-38).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     68835,
+     "sentence":"Walker (4-75) and Rishard Matthews (4-38).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"75",
-    "annotationID":    68834,
-    "sentence":"Walker (4-75) and Rishard Matthews (4-38)."
+    "1":{
+     "propertyValue":"75",
+     "annotationID":     68834,
+     "sentence":"Walker (4-75) and Rishard Matthews (4-38).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3041,14 +3596,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    69842,
-    "sentence":"Walker (5-42) scored the other Mariota touchdown."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     69842,
+     "sentence":"Walker (5-42) scored the other Mariota touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"42",
-    "annotationID":    69843,
-    "sentence":"Walker (5-42) scored the other Mariota touchdown."
+    "1":{
+     "propertyValue":"42",
+     "annotationID":     69843,
+     "sentence":"Walker (5-42) scored the other Mariota touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -3098,15 +3659,21 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
    "receiving_receptions":{
-    "propertyValue":"9",
-    "annotationID":    70215,
-    "sentence":"500 after 9 games since 2008 when Aaron Rodgers was in his first year as a starter."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     70215,
+     "sentence":"500 after 9 games since 2008 when Aaron Rodgers was in his first year as a starter.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   124,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    70216,
-    "sentence":"Mariota converted a third-and-14 to Tajae Sharpe (3-68-1) and then hit Delanie Walker for 41 yards after he beat Kentrell Brice to get open and shed the tackle."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     70216,
+     "sentence":"Mariota converted a third-and-14 to Tajae Sharpe (3-68-1) and then hit Delanie Walker for 41 yards after he beat Kentrell Brice to get open and shed the tackle.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -3155,14 +3722,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    70682,
-    "sentence":"He caught 4 passes for 36 yards despite the fact that many tight ends have abused Indianapolis' defense throughout the year."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     70682,
+     "sentence":"He caught 4 passes for 36 yards despite the fact that many tight ends have abused Indianapolis' defense throughout the year.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"36",
-    "annotationID":    70683,
-    "sentence":"He caught 4 passes for 36 yards despite the fact that many tight ends have abused Indianapolis' defense throughout the year."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     70683,
+     "sentence":"He caught 4 passes for 36 yards despite the fact that many tight ends have abused Indianapolis' defense throughout the year.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3212,14 +3785,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    71613,
-    "sentence":"Walker (3-50)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     71613,
+     "sentence":"Walker (3-50).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"50",
-    "annotationID":    71614,
-    "sentence":"Walker (3-50)."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     71614,
+     "sentence":"Walker (3-50).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -3265,22 +3844,31 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    72626,
-    "sentence":"Matthews, blanketed by the elite Denver corners, had just 1 grab for 26 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     72626,
+     "sentence":"Matthews, blanketed by the elite Denver corners, had just 1 grab for 26 yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   8,
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    72625,
-    "sentence":"Speaking of Walker, he actually led the team in receiving yardage with 30 on 2 catches."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     72625,
+     "sentence":"Speaking of Walker, he actually led the team in receiving yardage with 30 on 2 catches.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"30",
-    "annotationID":    72624,
-    "sentence":"Speaking of Walker, he actually led the team in receiving yardage with 30 on 2 catches."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     72624,
+     "sentence":"Speaking of Walker, he actually led the team in receiving yardage with 30 on 2 catches.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3316,9 +3904,12 @@
    "opponent":"KAN",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"19",
-    "annotationID":    73403,
-    "sentence":"Walker (6-55), Murray, Kendall Wright (2-19) and Tajae Sharpe (2-10)."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     73403,
+     "sentence":"Walker (6-55), Murray, Kendall Wright (2-19) and Tajae Sharpe (2-10).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":   0,
@@ -3334,14 +3925,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    73401,
-    "sentence":"Walker (6-55), Murray, Kendall Wright (2-19) and Tajae Sharpe (2-10)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     73401,
+     "sentence":"Walker (6-55), Murray, Kendall Wright (2-19) and Tajae Sharpe (2-10).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"55",
-    "annotationID":    73402,
-    "sentence":"Walker (6-55), Murray, Kendall Wright (2-19) and Tajae Sharpe (2-10)."
+    "1":{
+     "propertyValue":"55",
+     "annotationID":     73402,
+     "sentence":"Walker (6-55), Murray, Kendall Wright (2-19) and Tajae Sharpe (2-10).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3391,14 +3988,38 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    74068,
-    "sentence":"The Titans couldn't move the chains because the tough Jacksonville run defense prevented DeMarco Murray (14-42) and Derrick Henry (4-13) from doing anything."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     74065,
+     "sentence":"Mariota didn't scramble much either, running just twice for 3 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     74066,
+     "sentence":"Harry Douglas (5-48) and Tajae Sharpe (3-48) led the way, while Matthews (3-31) and Walker (3-23) caught touchdowns.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     74067,
+     "sentence":"Harry Douglas (5-48) and Tajae Sharpe (3-48) led the way, while Matthews (3-31) and Walker (3-23) caught touchdowns.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"3",
+     "annotationID":     74068,
+     "sentence":"Harry Douglas (5-48) and Tajae Sharpe (3-48) led the way, while Matthews (3-31) and Walker (3-23) caught touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"23",
-    "annotationID":    74069,
-    "sentence":"Harry Douglas (5-48) and Tajae Sharpe (3-48) led the way, while Matthews (3-31) and Walker (3-23) caught touchdowns."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     74069,
+     "sentence":"Harry Douglas (5-48) and Tajae Sharpe (3-48) led the way, while Matthews (3-31) and Walker (3-23) caught touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -3497,14 +4118,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    75951,
-    "sentence":"He caught a team-high 7 balls for 76 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     75951,
+     "sentence":"He caught a team-high 7 balls for 76 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"76",
-    "annotationID":    75952,
-    "sentence":"He caught a team-high 7 balls for 76 yards."
+    "1":{
+     "propertyValue":"76",
+     "annotationID":     75952,
+     "sentence":"He caught a team-high 7 balls for 76 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3553,19 +4180,28 @@
    "rushing_yards":   1,
    "rushing_touchdowns":   1,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    76461,
-    "sentence":"Walker led the Titans in receiving, catching all 4 of his targets for 61 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     76461,
+     "sentence":"Walker led the Titans in receiving, catching all 4 of his targets for 61 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    76462,
-    "sentence":"Walker led the Titans in receiving, catching all 4 of his targets for 61 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     76462,
+     "sentence":"Walker led the Titans in receiving, catching all 4 of his targets for 61 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"61",
-    "annotationID":    76463,
-    "sentence":"Walker led the Titans in receiving, catching all 4 of his targets for 61 yards."
+    "1":{
+     "propertyValue":"61",
+     "annotationID":     76463,
+     "sentence":"Walker led the Titans in receiving, catching all 4 of his targets for 61 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3615,14 +4251,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    77464,
-    "sentence":"Walker (4-31) had a decent day."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     77462,
+     "sentence":"Walker (4-31) had a decent day.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     77464,
+     "sentence":"Wilson ended up going 29-of-49 for 373 yards and a whopping 4 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"31",
-    "annotationID":    77463,
-    "sentence":"Walker (4-31) had a decent day."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     77463,
+     "sentence":"Walker (4-31) had a decent day.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3658,9 +4306,12 @@
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"14",
-    "annotationID":    77992,
-    "sentence":"Watson threw a frozen rope to Hopkins a couple plays later for a short touchdown run and a 14-0 lead."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     77992,
+     "sentence":"Watson threw a frozen rope to Hopkins a couple plays later for a short touchdown run and a 14-0 lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"57",
    "passing_attempts":   0,
@@ -3676,9 +4327,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    77991,
-    "sentence":"Watson then threaded a rope to Bruce Ellington (3-44) for 35 yards to the Titans' 5-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     77991,
+     "sentence":"Watson then threaded a rope to Bruce Ellington (3-44) for 35 yards to the Titans' 5-yard line.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   51,
    "receiving_touchdowns":   0,
@@ -3729,14 +4383,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    78399,
-    "sentence":"Walker, as a result, had a dismal fantasy day, catching only 3 balls for 25 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     78399,
+     "sentence":"Walker, as a result, had a dismal fantasy day, catching only 3 balls for 25 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"25",
-    "annotationID":    78400,
-    "sentence":"Walker, as a result, had a dismal fantasy day, catching only 3 balls for 25 yards."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     78400,
+     "sentence":"Walker, as a result, had a dismal fantasy day, catching only 3 balls for 25 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3786,9 +4446,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    79577,
-    "sentence":"The Titans then passed up a crucial field goal, opting to go for it on a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     79577,
+     "sentence":"The Titans then passed up a crucial field goal, opting to go for it on a 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   17,
    "receiving_touchdowns":   0,
@@ -3924,9 +4587,12 @@
    "game_won":   true,
    "player_team_score":"24",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    80955,
-    "sentence":"The Jaguars out-clocked them by about 20 minutes last week, and Tennessee had the same advantage in this contest."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     80955,
+     "sentence":"The Jaguars out-clocked them by about 20 minutes last week, and Tennessee had the same advantage in this contest.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -3941,14 +4607,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    80953,
-    "sentence":"Walker (6-63) was the only player ahead of Matthews on the stat sheet."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     80953,
+     "sentence":"Walker (6-63) was the only player ahead of Matthews on the stat sheet.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"63",
-    "annotationID":    80954,
-    "sentence":"Walker (6-63) was the only player ahead of Matthews on the stat sheet."
+    "1":{
+     "propertyValue":"63",
+     "annotationID":     80954,
+     "sentence":"Walker (6-63) was the only player ahead of Matthews on the stat sheet.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3985,9 +4657,12 @@
    "game_won":   false,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"40",
-    "annotationID":    81360,
-    "sentence":"Two Titans had more than 40 receiving yards."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     81360,
+     "sentence":"Two Titans had more than 40 receiving yards.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -4002,14 +4677,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    81361,
-    "sentence":"Mariota finished 22-of-33 for 306 yards, 1 touchdown and 4 interceptions."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     81361,
+     "sentence":"Meanwhile, Walker (6-92) had a solid outing except for his dropped score.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"92",
-    "annotationID":    81362,
-    "sentence":"Meanwhile, Walker (6-92) had a solid outing except for his dropped score."
+    "1":{
+     "propertyValue":"92",
+     "annotationID":     81362,
+     "sentence":"Meanwhile, Walker (6-92) had a solid outing except for his dropped score.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

@@ -192,9 +192,18 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"4",
-    "annotationID":    34898,
-    "sentence":"Schaub finished 34-of-51 for 343 yards, 2 touchdowns and a pick, but don't be fooled by those stats because they were padded in 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     34895,
+     "sentence":"Schaub finished 34-of-51 for 343 yards, 2 touchdowns and a pick, but don't be fooled by those stats because they were padded in 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     34898,
+     "sentence":"Schaub's touchdowns went to DeVier Posey (3-47), who suffered an injury in the 4.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   216,
    "kick_return_touchdowns":   0,
@@ -203,14 +212,44 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    34899,
-    "sentence":"However, they settled for 3 instead of 7."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     34893,
+     "sentence":"However, they settled for 3 instead of 7.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     34896,
+     "sentence":"Schaub's touchdowns went to DeVier Posey (3-47), who suffered an injury in the 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     34899,
+     "sentence":"Manning had 2 big kickoff returns, so Jacoby Jones, who has 3 special-teams touchdowns this season, has to be licking his chops.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"3",
-    "annotationID":    34900,
-    "sentence":"However, they settled for 3 instead of 7."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     34894,
+     "sentence":"However, they settled for 3 instead of 7.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     34897,
+     "sentence":"Schaub's touchdowns went to DeVier Posey (3-47), who suffered an injury in the 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     34900,
+     "sentence":"Manning had 2 big kickoff returns, so Jacoby Jones, who has 3 special-teams touchdowns this season, has to be licking his chops.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

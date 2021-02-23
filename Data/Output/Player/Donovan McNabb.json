@@ -28,44 +28,107 @@
    "opponent":"STL",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"38",
-    "annotationID":    57,
-    "sentence":"They lost 38-3, falling short of my 34-7 prediction!"
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     53,
+     "sentence":"They lost 38-3, falling short of my 34-7 prediction!",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"38",
+     "annotationID":     57,
+     "sentence":"38-3!",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    64,
-    "sentence":"They lost 38-3, falling short of my 34-7 prediction!"
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     54,
+     "sentence":"They lost 38-3, falling short of my 34-7 prediction!",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     58,
+     "sentence":"38-3!",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     64,
+     "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    61,
-    "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     61,
+     "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"33",
-    "annotationID":    62,
-    "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"33",
+     "annotationID":     62,
+     "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"361",
-    "annotationID":    63,
-    "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"361",
+     "annotationID":     63,
+     "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   131,
    "passing_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    65,
-    "sentence":"They lost 38-3, falling short of my 34-7 prediction!"
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     55,
+     "sentence":"They lost 38-3, falling short of my 34-7 prediction!",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     59,
+     "sentence":"38-3!",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     65,
+     "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"3",
-    "annotationID":    66,
-    "sentence":"They lost 38-3, falling short of my 34-7 prediction!"
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     56,
+     "sentence":"They lost 38-3, falling short of my 34-7 prediction!",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     60,
+     "sentence":"38-3!",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     66,
+     "sentence":"Despite not having Reggie Brown and Kevin Curtis, Donovan McNabb took multiple shots downfield and finished 21-of-33 for 361 yards and 3 touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -105,25 +168,37 @@
    "opponent":"WAS",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    1357,
-    "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     1357,
+     "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"23",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    1358,
-    "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     1358,
+     "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"29",
-    "annotationID":    1359,
-    "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards."
+    "1":{
+     "propertyValue":"29",
+     "annotationID":     1359,
+     "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"196",
-    "annotationID":    1360,
-    "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards."
+    "1":{
+     "propertyValue":"196",
+     "annotationID":     1360,
+     "sentence":"Speaking of McNabb, the Eagles' signal-caller finished 17-of-29, 196 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   79.1,
    "passing_touchdowns":   0,
@@ -221,19 +296,28 @@
    "player_team_score":"27",
    "opponent_score":"14",
    "passing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    2285,
-    "sentence":"McNabb settled down and finished 19-of-34 for 253 yards."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     2285,
+     "sentence":"McNabb settled down and finished 19-of-34 for 253 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"34",
-    "annotationID":    2286,
-    "sentence":"McNabb settled down and finished 19-of-34 for 253 yards."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     2286,
+     "sentence":"McNabb settled down and finished 19-of-34 for 253 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"253",
-    "annotationID":    2287,
-    "sentence":"McNabb settled down and finished 19-of-34 for 253 yards."
+    "1":{
+     "propertyValue":"253",
+     "annotationID":     2287,
+     "sentence":"McNabb settled down and finished 19-of-34 for 253 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   79.7,
    "passing_touchdowns":   0,
@@ -333,36 +417,108 @@
    "passing_attempts":   28,
    "passing_completions":   58,
    "passing_yards":{
-    "propertyValue":"339",
-    "annotationID":    3444,
-    "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown."
+    "1":{
+     "propertyValue":"339",
+     "annotationID":     3444,
+     "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   50.9,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    3456,
-    "sentence":"McNabb began the game 1-of-5 for zero yards, as the Eagles mustered just a single yard in the first quarter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     3442,
+     "sentence":"McNabb began the game 1-of-5 for zero yards, as the Eagles mustered just a single yard in the first quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     3449,
+     "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     3452,
+     "sentence":"He nearly launched 3 other picks, including 1 in his own territory in overtime, which would have given the Bengals a sure-fire field goal for the victory.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     3454,
+     "sentence":"Reid, meanwhile, is extremely clueless and overwhelmed in close games, which would explain why he's just 1-8-1 in contests decided by 4 points or less dating back to the 2006 playoffs.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     3456,
+     "sentence":"Reid, meanwhile, is extremely clueless and overwhelmed in close games, which would explain why he's just 1-8-1 in contests decided by 4 points or less dating back to the 2006 playoffs.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"3",
-    "annotationID":    3451,
-    "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     3445,
+     "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     3451,
+     "sentence":"He nearly launched 3 other picks, including 1 in his own territory in overtime, which would have given the Bengals a sure-fire field goal for the victory.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    3446,
-    "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     3446,
+     "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   16,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    3457,
-    "sentence":"McNabb began the game 1-of-5 for zero yards, as the Eagles mustered just a single yard in the first quarter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     3443,
+     "sentence":"McNabb began the game 1-of-5 for zero yards, as the Eagles mustered just a single yard in the first quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     3450,
+     "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     3453,
+     "sentence":"He nearly launched 3 other picks, including 1 in his own territory in overtime, which would have given the Bengals a sure-fire field goal for the victory.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     3455,
+     "sentence":"Reid, meanwhile, is extremely clueless and overwhelmed in close games, which would explain why he's just 1-8-1 in contests decided by 4 points or less dating back to the 2006 playoffs.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     3457,
+     "sentence":"Reid, meanwhile, is extremely clueless and overwhelmed in close games, which would explain why he's just 1-8-1 in contests decided by 4 points or less dating back to the 2006 playoffs.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    3447,
-    "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     3447,
+     "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -377,9 +533,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    3448,
-    "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     3448,
+     "sentence":"McNabb finished with 339 yards and a score, but tossed 3 interceptions, including 2 in the red zone at the end of the first half, 1 of which led to a Bengals touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -408,31 +567,46 @@
    "player_team_score":"7",
    "opponent_score":"36",
    "passing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    3795,
-    "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     3795,
+     "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"18",
-    "annotationID":    3796,
-    "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     3796,
+     "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"59",
-    "annotationID":    3797,
-    "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks."
+    "1":{
+     "propertyValue":"59",
+     "annotationID":     3797,
+     "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   13.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    3798,
-    "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     3798,
+     "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    3799,
-    "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     3799,
+     "sentence":"If that's true, McNabb continued to snort Chunky Soup, going 8-of-18 for 59 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   12,
    "rushing_attempts":   1,
@@ -477,42 +651,87 @@
    "player_team_score":"48",
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"27",
-    "annotationID":    4063,
-    "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     4063,
+     "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"39",
-    "annotationID":    4064,
-    "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     4064,
+     "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"260",
-    "annotationID":    4065,
-    "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns."
+    "1":{
+     "propertyValue":"260",
+     "annotationID":     4065,
+     "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   121.7,
    "passing_touchdowns":{
-    "propertyValue":"4",
-    "annotationID":    4066,
-    "sentence":"It's nice and everything, but it's meaningless if the Eagles don't win their next 4 to give themselves a shot at the postseason."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     4058,
+     "sentence":"It's nice and everything, but it's meaningless if the Eagles don't win their next 4 to give themselves a shot at the postseason.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     4060,
+     "sentence":"The stats don't show it (4 carries, 24 yards) but he helped the offense out by picking up multiple first downs on the ground.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     4066,
+     "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    4057,
-    "sentence":"That said, this is just 1 win."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     4057,
+     "sentence":"That said, this is just 1 win.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   8,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    4067,
-    "sentence":"It's nice and everything, but it's meaningless if the Eagles don't win their next 4 to give themselves a shot at the postseason."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     4059,
+     "sentence":"It's nice and everything, but it's meaningless if the Eagles don't win their next 4 to give themselves a shot at the postseason.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     4061,
+     "sentence":"The stats don't show it (4 carries, 24 yards) but he helped the offense out by picking up multiple first downs on the ground.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     4067,
+     "sentence":"From a passing standpoint, McNabb was prolific, going 27-of-39 for 260 yards and 4 touchdowns.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"24",
-    "annotationID":    4062,
-    "sentence":"The stats don't show it (4 carries, 24 yards) but he helped the offense out by picking up multiple first downs on the ground."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     4062,
+     "sentence":"The stats don't show it (4 carries, 24 yards) but he helped the offense out by picking up multiple first downs on the ground.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -552,25 +771,37 @@
    "opponent":"NYG",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    4411,
-    "sentence":"He also ran 5 times for 20 yards."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     4411,
+     "sentence":"He also ran 5 times for 20 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"14",
    "passing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    4408,
-    "sentence":"McNabb was 19-of-30 for 191 yards and a touchdown."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     4408,
+     "sentence":"McNabb was 19-of-30 for 191 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"30",
-    "annotationID":    4409,
-    "sentence":"McNabb was 19-of-30 for 191 yards and a touchdown."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     4409,
+     "sentence":"McNabb was 19-of-30 for 191 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"191",
-    "annotationID":    4410,
-    "sentence":"McNabb was 19-of-30 for 191 yards and a touchdown."
+    "1":{
+     "propertyValue":"191",
+     "annotationID":     4410,
+     "sentence":"McNabb was 19-of-30 for 191 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   92.5,
    "passing_touchdowns":   1,
@@ -619,17 +850,23 @@
    "player_team_score":"20",
    "opponent_score":"14",
    "passing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    4555,
-    "sentence":"Garrard piled on some meaningless yardage in junk time, finishing 19-of-38 for 178 yards, 1 touchdown and the aforementioned pick."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     4555,
+     "sentence":"Garrard piled on some meaningless yardage in junk time, finishing 19-of-38 for 178 yards, 1 touchdown and the aforementioned pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   30,
    "passing_yards":   191,
    "passing_rating":   92.5,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    4556,
-    "sentence":"Besides, at halftime, Garrard was 4-of-12 for 33 yards and an interception that led to Chicago's opening touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     4556,
+     "sentence":"Garrard piled on some meaningless yardage in junk time, finishing 19-of-38 for 178 yards, 1 touchdown and the aforementioned pick.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
@@ -680,15 +917,21 @@
    "passing_yards":   290,
    "passing_rating":   105.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    5170,
-    "sentence":"McNabb, once in a Week 2 battle."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5170,
+     "sentence":"McNabb, once in a Week 2 battle.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    5171,
-    "sentence":"McNabb, once in a Week 2 battle."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5171,
+     "sentence":"McNabb, once in a Week 2 battle.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   6,
    "rushing_attempts":   0,
@@ -739,15 +982,21 @@
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    5172,
-    "sentence":"McNabb, once in a Week 2 battle."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5172,
+     "sentence":"McNabb, once in a Week 2 battle.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   17,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    5173,
-    "sentence":"McNabb, once in a Week 2 battle."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5173,
+     "sentence":"McNabb, once in a Week 2 battle.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   8,
    "rushing_touchdowns":   0,
@@ -790,9 +1039,12 @@
    "player_team_score":"30",
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"26",
-    "annotationID":    5499,
-    "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     5499,
+     "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   35,
    "passing_yards":   290,
@@ -843,19 +1095,28 @@
    "player_team_score":"3",
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"26",
-    "annotationID":    5500,
-    "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     5500,
+     "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"46",
-    "annotationID":    5501,
-    "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5."
+    "1":{
+     "propertyValue":"46",
+     "annotationID":     5501,
+     "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"230",
-    "annotationID":    5502,
-    "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5."
+    "1":{
+     "propertyValue":"230",
+     "annotationID":     5502,
+     "sentence":"McNabb was 26-of-46 for 230 yards, giving him a depressing YPA of 5.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   70,
    "passing_touchdowns":   0,
@@ -904,25 +1165,37 @@
    "player_team_score":"44",
    "opponent_score":"6",
    "passing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    5798,
-    "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     5798,
+     "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"21",
-    "annotationID":    5799,
-    "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     5799,
+     "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"175",
-    "annotationID":    5800,
-    "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries."
+    "1":{
+     "propertyValue":"175",
+     "annotationID":     5800,
+     "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   116.2,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    5801,
-    "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5801,
+     "sentence":"McNabb was just 12-of-21 for 175 yards and 2 touchdowns, but he didn't really have to throw often because Correll Buckhalter and Brian Westbrook combined for 113 rushing yards on 23 carries.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
@@ -969,30 +1242,45 @@
    "player_team_score":"26",
    "opponent_score":"14",
    "passing_attempts":{
-    "propertyValue":"23",
-    "annotationID":    5974,
-    "sentence":"McNabb's performance (23-of-34, 300 yards, TD, INT), Reid was understandably scared to go for it on 4."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     5974,
+     "sentence":"McNabb's performance (23-of-34, 300 yards, TD, INT), Reid was understandably scared to go for it on 4.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"34",
-    "annotationID":    5975,
-    "sentence":"McNabb's performance (23-of-34, 300 yards, TD, INT), Reid was understandably scared to go for it on 4."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     5975,
+     "sentence":"McNabb's performance (23-of-34, 300 yards, TD, INT), Reid was understandably scared to go for it on 4.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"300",
-    "annotationID":    5976,
-    "sentence":"McNabb's performance (23-of-34, 300 yards, TD, INT), Reid was understandably scared to go for it on 4."
+    "1":{
+     "propertyValue":"300",
+     "annotationID":     5976,
+     "sentence":"McNabb's performance (23-of-34, 300 yards, TD, INT), Reid was understandably scared to go for it on 4.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   92.8,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    5977,
-    "sentence":"On 1 instance, Reid punted it away near midfield."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     5977,
+     "sentence":"On 1 instance, Reid punted it away near midfield.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    5978,
-    "sentence":"On 1 instance, Reid punted it away near midfield."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     5978,
+     "sentence":"On 1 instance, Reid punted it away near midfield.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   17,
@@ -1038,39 +1326,75 @@
    "player_team_score":"23",
    "opponent_score":"11",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    6048,
-    "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     6048,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"40",
-    "annotationID":    6049,
-    "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     6049,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"217",
-    "annotationID":    6050,
-    "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks."
+    "1":{
+     "propertyValue":"217",
+     "annotationID":     6050,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   58,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    6054,
-    "sentence":"In the other 14 contests this season, they accumulated 42 sacks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     6052,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     6054,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    6056,
-    "sentence":"In the other 14 contests this season, they accumulated 42 sacks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     6051,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     6056,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   5,
    "rushing_yards":   16,
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    6055,
-    "sentence":"In the other 14 contests this season, they accumulated 42 sacks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     6053,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     6055,
+     "sentence":"McNabb was 22-of-40 for 217 yards, 2 touchdowns (1 rushing, 1 passing) and 2 picks.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -1113,15 +1437,21 @@
    "passing_attempts":   28,
    "passing_completions":   47,
    "passing_yards":{
-    "propertyValue":"375",
-    "annotationID":    6095,
-    "sentence":"McNabb finished with 375 yards, 3 touchdowns and a pick, he didn't play well."
+    "1":{
+     "propertyValue":"375",
+     "annotationID":     6095,
+     "sentence":"McNabb finished with 375 yards, 3 touchdowns and a pick, he didn't play well.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   97.4,
    "passing_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    6096,
-    "sentence":"McNabb finished with 375 yards, 3 touchdowns and a pick, he didn't play well."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     6096,
+     "sentence":"McNabb finished with 375 yards, 3 touchdowns and a pick, he didn't play well.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":   2,
@@ -1167,14 +1497,20 @@
    "game_won":   true,
    "player_team_score":"38",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    6239,
-    "sentence":"He'll likely be out next week, and you have to wonder why he was scrambling for a score up 31-10 in the second half."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     6239,
+     "sentence":"He'll likely be out next week, and you have to wonder why he was scrambling for a score up 31-10 in the second half.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    6240,
-    "sentence":"He'll likely be out next week, and you have to wonder why he was scrambling for a score up 31-10 in the second half."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     6240,
+     "sentence":"He'll likely be out next week, and you have to wonder why he was scrambling for a score up 31-10 in the second half.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   18,
    "passing_yards":   79,
@@ -1274,33 +1610,48 @@
    "player_team_score":"9",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    8221,
-    "sentence":"McNabb (22-of-46, 269 yards)."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     8221,
+     "sentence":"McNabb (22-of-46, 269 yards).",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"46",
-    "annotationID":    8222,
-    "sentence":"McNabb (22-of-46, 269 yards)."
+    "1":{
+     "propertyValue":"46",
+     "annotationID":     8222,
+     "sentence":"McNabb (22-of-46, 269 yards).",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"269",
-    "annotationID":    8223,
-    "sentence":"McNabb (22-of-46, 269 yards)."
+    "1":{
+     "propertyValue":"269",
+     "annotationID":     8223,
+     "sentence":"McNabb (22-of-46, 269 yards).",
+     "confidence":"None"
+    }
    },
    "passing_rating":   66.3,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"6",
-    "annotationID":    8224,
-    "sentence":"McNabb (22-of-46, 269 yards)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     8224,
+     "sentence":"The Raiders managed 6 sacks, but that doesn't even tell the whole story.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   53,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    8225,
-    "sentence":"McNabb (22-of-46, 269 yards)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     8225,
+     "sentence":"2.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   8,
    "rushing_touchdowns":   0,
@@ -1342,9 +1693,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    8877,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     8877,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   15,
    "passing_completions":   25,
@@ -1353,9 +1707,12 @@
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"3",
-    "annotationID":    8878,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     8878,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   21,
    "rushing_attempts":   5,
@@ -1399,36 +1756,54 @@
    "game_won":   true,
    "player_team_score":"40",
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    8880,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     8880,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    8881,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     8881,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"23",
-    "annotationID":    8882,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     8882,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"240",
-    "annotationID":    8883,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"240",
+     "annotationID":     8883,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   146.7,
    "passing_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    8884,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     8884,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    8879,
-    "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     8879,
+     "sentence":"McNabb lost 2 fumbles, but was otherwise flawless, going 17-of-23 for 240 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   29,
    "rushing_attempts":   1,
@@ -1473,31 +1848,64 @@
    "player_team_score":"23",
    "opponent_score":"31",
    "passing_attempts":{
-    "propertyValue":"35",
-    "annotationID":    9851,
-    "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     9846,
+     "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"35",
+     "annotationID":     9851,
+     "sentence":"McNabb nearly led a comeback from down 28-9, but came up about 35 yards too short (though the Eagles probably would have missed the 2-point conversion anyway).",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"55",
-    "annotationID":    9847,
-    "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone."
+    "1":{
+     "propertyValue":"55",
+     "annotationID":     9847,
+     "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"450",
-    "annotationID":    9848,
-    "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone."
+    "1":{
+     "propertyValue":"450",
+     "annotationID":     9848,
+     "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   93.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    9852,
-    "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     9849,
+     "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     9852,
+     "sentence":"McNabb nearly led a comeback from down 28-9, but came up about 35 yards too short (though the Eagles probably would have missed the 2-point conversion anyway).",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    9853,
-    "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     9850,
+     "sentence":"McNabb was 35-of-55 for a whopping 450 yards, 2 touchdowns and a pick, however he was just 4-of-12 for 22 yards in the red zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     9853,
+     "sentence":"McNabb nearly led a comeback from down 28-9, but came up about 35 yards too short (though the Eagles probably would have missed the 2-point conversion anyway).",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   17,
    "rushing_attempts":   0,
@@ -1542,45 +1950,69 @@
    "player_team_score":"27",
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    10473,
-    "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     10473,
+     "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    10474,
-    "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     10474,
+     "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"260",
-    "annotationID":    10475,
-    "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall."
+    "1":{
+     "propertyValue":"260",
+     "annotationID":     10475,
+     "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   80.7,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    10476,
-    "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     10476,
+     "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    10477,
-    "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     10477,
+     "sentence":"McNabb was 21-of-35 for 260 yards, 1 touchdown and an interception overall.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    10470,
-    "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     10470,
+     "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"2",
-    "annotationID":    10471,
-    "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     10471,
+     "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    10472,
-    "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     10472,
+     "sentence":"McNabb was 5-of-7 for 115 yards on those 2 possessions, perhaps silencing a few critics who cite that he struggles in the clutch.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -2,
    "rushing_touchdowns":   0,
@@ -1623,33 +2055,60 @@
    "player_team_score":"34",
    "opponent_score":"7",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    10779,
-    "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     10779,
+     "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"25",
-    "annotationID":    10780,
-    "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     10780,
+     "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"238",
-    "annotationID":    10781,
-    "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown."
+    "1":{
+     "propertyValue":"238",
+     "annotationID":     10781,
+     "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   101.7,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    10784,
-    "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     10782,
+     "sentence":"Without DeSean Jackson, McNabb spread the ball around to Jeremy Maclin (4 catches, 83 yards), Reggie Brown (2-64), Jason Avant (3-36) and Brent Celek (2-16, TD).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     10784,
+     "sentence":"Without DeSean Jackson, McNabb spread the ball around to Jeremy Maclin (4 catches, 83 yards), Reggie Brown (2-64), Jason Avant (3-36) and Brent Celek (2-16, TD).",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    10785,
-    "sentence":"McNabb went 14-of-25 for 238 yards and a touchdown."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     10783,
+     "sentence":"Without DeSean Jackson, McNabb spread the ball around to Jeremy Maclin (4 catches, 83 yards), Reggie Brown (2-64), Jason Avant (3-36) and Brent Celek (2-16, TD).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     10785,
+     "sentence":"Without DeSean Jackson, McNabb spread the ball around to Jeremy Maclin (4 catches, 83 yards), Reggie Brown (2-64), Jason Avant (3-36) and Brent Celek (2-16, TD).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   17,
    "rushing_touchdowns":   0,
@@ -1692,38 +2151,56 @@
    "player_team_score":"45",
    "opponent_score":"38",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    11614,
-    "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     11614,
+     "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"26",
-    "annotationID":    11615,
-    "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     11615,
+     "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"275",
-    "annotationID":    11616,
-    "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"275",
+     "annotationID":     11616,
+     "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   110.3,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    11617,
-    "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     11617,
+     "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   10,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    11618,
-    "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     11618,
+     "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"5",
-    "annotationID":    11619,
-    "sentence":"McNabb was 17-of-26 for 275 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     11619,
+     "sentence":"Instead, McNabb's other touchdown went to Brent Celek, who had 5 grabs for 64 yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1765,19 +2242,28 @@
    "player_team_score":"27",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    11982,
-    "sentence":"McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     11982,
+     "sentence":"McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"36",
-    "annotationID":    11983,
-    "sentence":"McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     11983,
+     "sentence":"McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"306",
-    "annotationID":    11984,
-    "sentence":"McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown."
+    "1":{
+     "propertyValue":"306",
+     "annotationID":     11984,
+     "sentence":"McNabb otherwise played pretty well, going 21-of-36 for 306 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   72.2,
    "passing_touchdowns":   1,
@@ -1825,36 +2311,60 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    12478,
-    "sentence":"McNabb also had a 27-yard scramble on third-and-long in the 4."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     12476,
+     "sentence":"McNabb also had a 27-yard scramble on third-and-long in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"27",
+     "annotationID":     12478,
+     "sentence":"McNabb looked pretty gimpy afterward, but managed to complete a 27-yard pass to ",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    12472,
-    "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     12472,
+     "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    12473,
-    "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     12473,
+     "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"322",
-    "annotationID":    12474,
-    "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"322",
+     "annotationID":     12474,
+     "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   104.7,
    "passing_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    12475,
-    "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     12475,
+     "sentence":"McNabb made a few sloppy throws and fumbled thrice, but was otherwise brilliant, going 20-of-35 for 322 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    12477,
-    "sentence":"McNabb also had a 27-yard scramble on third-and-long in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     12477,
+     "sentence":"McNabb also had a 27-yard scramble on third-and-long in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   33,
    "rushing_attempts":   5,
@@ -1899,27 +2409,45 @@
    "player_team_score":"0",
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    12743,
-    "sentence":"He went 20-of-36 for 223 yards."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     12743,
+     "sentence":"He went 20-of-36 for 223 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"36",
-    "annotationID":    12746,
-    "sentence":"He went 20-of-36 for 223 yards."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     12744,
+     "sentence":"He went 20-of-36 for 223 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"36",
+     "annotationID":     12746,
+     "sentence":"While McNabb threw 36 times, Philly running backs carried the ball on just 7 occasions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"223",
-    "annotationID":    12745,
-    "sentence":"He went 20-of-36 for 223 yards."
+    "1":{
+     "propertyValue":"223",
+     "annotationID":     12745,
+     "sentence":"He went 20-of-36 for 223 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   74.2,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    12741,
-    "sentence":"McNabb was pressured throughout the evening, taking 4 sacks and fumbling twice, 1 of which was the result of a botched Nick Cole snap."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     12741,
+     "sentence":"McNabb was pressured throughout the evening, taking 4 sacks and fumbling twice, 1 of which was the result of a botched Nick Cole snap.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   32,
    "rushing_attempts":   2,
@@ -1937,9 +2465,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    12742,
-    "sentence":"McNabb was pressured throughout the evening, taking 4 sacks and fumbling twice, 1 of which was the result of a botched Nick Cole snap."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     12742,
+     "sentence":"McNabb was pressured throughout the evening, taking 4 sacks and fumbling twice, 1 of which was the result of a botched Nick Cole snap.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1968,41 +2499,62 @@
    "player_team_score":"14",
    "opponent_score":"34",
    "passing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    12944,
-    "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     12944,
+     "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"37",
-    "annotationID":    12945,
-    "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     12945,
+     "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"230",
-    "annotationID":    12946,
-    "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket."
+    "1":{
+     "propertyValue":"230",
+     "annotationID":     12946,
+     "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   68.5,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    12947,
-    "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     12947,
+     "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    12948,
-    "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     12948,
+     "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    12950,
-    "sentence":"McNabb was constantly running for his life and ended up taking 4 sacks."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     12950,
+     "sentence":"McNabb was constantly running for his life and ended up taking 4 sacks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   22,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    12949,
-    "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     12949,
+     "sentence":"McNabb (19-37, 230 yards, 1 TD, 2 INTs) had no time in the pocket.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   13,
    "rushing_touchdowns":   0,
@@ -2045,19 +2597,28 @@
    "player_team_score":"13",
    "opponent_score":"7",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    13519,
-    "sentence":"He went 15-of-32 for 171 yards."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     13519,
+     "sentence":"He went 15-of-32 for 171 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"32",
-    "annotationID":    13520,
-    "sentence":"He went 15-of-32 for 171 yards."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     13520,
+     "sentence":"He went 15-of-32 for 171 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"171",
-    "annotationID":    13521,
-    "sentence":"He went 15-of-32 for 171 yards."
+    "1":{
+     "propertyValue":"171",
+     "annotationID":     13521,
+     "sentence":"He went 15-of-32 for 171 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   63.4,
    "passing_touchdowns":   0,
@@ -2066,9 +2627,12 @@
    "passing_sacks_yards_lost":   10,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"17",
-    "annotationID":    13522,
-    "sentence":"He went 15-of-32 for 171 yards."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     13522,
+     "sentence":"He made some nice throws, saw 4 passes dropped and scampered for a 17-yard gain, but also had some bad misfires.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -2110,27 +2674,39 @@
    "player_team_score":"27",
    "opponent_score":"30",
    "passing_attempts":{
-    "propertyValue":"28",
-    "annotationID":    13894,
-    "sentence":"McNabb was really incredible, going 28-of-38 for 426 yards and a touchdown."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     13894,
+     "sentence":"McNabb was really incredible, going 28-of-38 for 426 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"38",
-    "annotationID":    13895,
-    "sentence":"McNabb was really incredible, going 28-of-38 for 426 yards and a touchdown."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     13895,
+     "sentence":"McNabb was really incredible, going 28-of-38 for 426 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"426",
-    "annotationID":    13896,
-    "sentence":"McNabb was really incredible, going 28-of-38 for 426 yards and a touchdown."
+    "1":{
+     "propertyValue":"426",
+     "annotationID":     13896,
+     "sentence":"McNabb was really incredible, going 28-of-38 for 426 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   119,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"3",
-    "annotationID":    13897,
-    "sentence":"McNabb was really incredible, going 28-of-38 for 426 yards and a touchdown."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     13897,
+     "sentence":"McNabb's score went to Chris Cooley, who had 3 grabs for 64 yards.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   23,
    "rushing_attempts":   0,
@@ -2174,9 +2750,12 @@
    "game_won":   false,
    "player_team_score":"16",
    "opponent_score":{
-    "propertyValue":"30",
-    "annotationID":    14237,
-    "sentence":"Romo finished 23-of-30 for 284 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     14237,
+     "sentence":"Romo finished 23-of-30 for 284 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   19,
    "passing_completions":   32,
@@ -2187,9 +2766,12 @@
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   3,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    14238,
-    "sentence":"Romo finished 23-of-30 for 284 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     14238,
+     "sentence":"Romo finished 23-of-30 for 284 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   25,
    "rushing_touchdowns":   0,
@@ -2230,9 +2812,12 @@
    "opponent":"STL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"16",
-    "annotationID":    14331,
-    "sentence":"They converted 7-of-16 third downs."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     14331,
+     "sentence":"They converted 7-of-16 third downs.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"30",
    "passing_attempts":   19,
@@ -2332,60 +2917,93 @@
    "opponent":"PHI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    14782,
-    "sentence":"The end result was an ugly 17-12 snooze fest."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     14782,
+     "sentence":"The end result was an ugly 17-12 snooze fest.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"12",
-    "annotationID":    14783,
-    "sentence":"The end result was an ugly 17-12 snooze fest."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     14783,
+     "sentence":"The end result was an ugly 17-12 snooze fest.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    14784,
-    "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     14784,
+     "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"19",
-    "annotationID":    14785,
-    "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     14785,
+     "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"125",
-    "annotationID":    14786,
-    "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"125",
+     "annotationID":     14786,
+     "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   60.2,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    14787,
-    "sentence":"The end result was an ugly 17-12 snooze fest."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14787,
+     "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    14788,
-    "sentence":"The end result was an ugly 17-12 snooze fest."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14788,
+     "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    14789,
-    "sentence":"The end result was an ugly 17-12 snooze fest."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14789,
+     "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"1",
-    "annotationID":    14790,
-    "sentence":"The end result was an ugly 17-12 snooze fest."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14790,
+     "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    14792,
-    "sentence":"McNabb went 8-of-19 for 125 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     14792,
+     "sentence":"What McNabb did well was scramble for multiple first downs, finishing with 39 rushing yards on 5 runs.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"39",
-    "annotationID":    14791,
-    "sentence":"What McNabb did well was scramble for multiple first downs, finishing with 39 rushing yards on 5 runs."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     14791,
+     "sentence":"What McNabb did well was scramble for multiple first downs, finishing with 39 rushing yards on 5 runs.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -2427,30 +3045,45 @@
    "player_team_score":"16",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"26",
-    "annotationID":    14936,
-    "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     14936,
+     "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"49",
-    "annotationID":    14937,
-    "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"49",
+     "annotationID":     14937,
+     "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"357",
-    "annotationID":    14938,
-    "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"357",
+     "annotationID":     14938,
+     "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   75,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    14939,
-    "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14939,
+     "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    14940,
-    "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14940,
+     "sentence":"McNabb went 26-of-49 for 357 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   5,
    "passing_sacks_yards_lost":   35,
@@ -2496,34 +3129,49 @@
    "player_team_score":"24",
    "opponent_score":"27",
    "passing_attempts":{
-    "propertyValue":"29",
-    "annotationID":    15510,
-    "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks."
+    "1":{
+     "propertyValue":"29",
+     "annotationID":     15510,
+     "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"45",
-    "annotationID":    15511,
-    "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks."
+    "1":{
+     "propertyValue":"45",
+     "annotationID":     15511,
+     "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"246",
-    "annotationID":    15512,
-    "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks."
+    "1":{
+     "propertyValue":"246",
+     "annotationID":     15512,
+     "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   67.5,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    15513,
-    "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     15513,
+     "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   2,
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":   2,
    "rushing_yards":{
-    "propertyValue":"1",
-    "annotationID":    15514,
-    "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     15514,
+     "sentence":"McNabb, who finished 29-of-45 for 246 yards, 1 touchdown and a pair of picks.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -2563,31 +3211,46 @@
    "opponent":"CHI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    15632,
-    "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     15632,
+     "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"14",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    15633,
-    "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     15633,
+     "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"32",
-    "annotationID":    15634,
-    "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     15634,
+     "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"200",
-    "annotationID":    15635,
-    "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions."
+    "1":{
+     "propertyValue":"200",
+     "annotationID":     15635,
+     "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   56.8,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    15636,
-    "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     15636,
+     "sentence":"McNabb went 17-of-32 for 200 yards, 1 touchdown and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   2,
    "passing_sacks":   2,
@@ -2634,41 +3297,80 @@
    "player_team_score":"25",
    "opponent_score":"37",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    15925,
-    "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     15925,
+     "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"30",
-    "annotationID":    15926,
-    "sentence":"A Jason Hanson field goal later, the Redskins had the ball on their own 30 with 1:50 left on the clock."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     15922,
+     "sentence":"A Jason Hanson field goal later, the Redskins had the ball on their own 30 with 1:50 left on the clock.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"30",
+     "annotationID":     15926,
+     "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"210",
-    "annotationID":    15927,
-    "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4."
+    "1":{
+     "propertyValue":"210",
+     "annotationID":     15927,
+     "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   75.7,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    15928,
-    "sentence":"A Jason Hanson field goal later, the Redskins had the ball on their own 30 with 1:50 left on the clock."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     15923,
+     "sentence":"A Jason Hanson field goal later, the Redskins had the ball on their own 30 with 1:50 left on the clock.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     15928,
+     "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    15929,
-    "sentence":"A Jason Hanson field goal later, the Redskins had the ball on their own 30 with 1:50 left on the clock."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     15924,
+     "sentence":"A Jason Hanson field goal later, the Redskins had the ball on their own 30 with 1:50 left on the clock.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     15929,
+     "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"6",
-    "annotationID":    15931,
-    "sentence":"McNabb and Grossman were sacked 6 times."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     15931,
+     "sentence":"McNabb and Grossman were sacked 6 times.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   46,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    15930,
-    "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     15930,
+     "sentence":"He went 17-of-30 for 210 yards, 1 touchdown and a really stupid interception that he tossed with the lead late in the 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   45,
    "rushing_touchdowns":   0,
@@ -2719,9 +3421,12 @@
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   25,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    17051,
-    "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17051,
+     "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
@@ -2764,37 +3469,55 @@
    "player_team_score":"19",
    "opponent_score":"16",
    "passing_attempts":{
-    "propertyValue":"30",
-    "annotationID":    17052,
-    "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     17052,
+     "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"50",
-    "annotationID":    17053,
-    "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     17053,
+     "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"376",
-    "annotationID":    17054,
-    "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"376",
+     "annotationID":     17054,
+     "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   81.7,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    17055,
-    "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17055,
+     "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    17056,
-    "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17056,
+     "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    17057,
-    "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17057,
+     "sentence":"McNabb went 30-of-50 for 376 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   4,
    "rushing_touchdowns":   0,
@@ -2835,36 +3558,66 @@
    "opponent":"MIN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    17369,
-    "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT)."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     17369,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    17370,
-    "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT)."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     17370,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    17371,
-    "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT)."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     17371,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"211",
-    "annotationID":    17372,
-    "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT)."
+    "1":{
+     "propertyValue":"211",
+     "annotationID":     17372,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"None"
+    }
    },
    "passing_rating":   74.8,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    17375,
-    "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17373,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     17375,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    17376,
-    "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17374,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     17376,
+     "sentence":"However, he was just 13-of-27 for 127 yards and a pick afterward, finishing with pedestrian numbers (21-35, 211, 1 TD, 1 INT).",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   24,
@@ -2908,43 +3661,88 @@
    "opponent":"NYG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    17714,
-    "sentence":"The Redskins looked completely helpless to stop New York's ground attack; Brandon Jacobs (8-103, 2 TDs) and Ahmad Bradshaw (25-97, 2 TDs) both had monstrous performances."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     17714,
+     "sentence":"Derek Hagan was his top receiver (7-65).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"31",
    "passing_attempts":{
-    "propertyValue":"26",
-    "annotationID":    17715,
-    "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     17715,
+     "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"44",
-    "annotationID":    17716,
-    "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"44",
+     "annotationID":     17716,
+     "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"296",
-    "annotationID":    17717,
-    "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"296",
+     "annotationID":     17717,
+     "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   68,
    "passing_touchdowns":   1,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    17718,
-    "sentence":"This Washington squad looks more like the miserable 4-12 team that completely humiliated itself on national TV on a couple of occasions late last year."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     17710,
+     "sentence":"The Redskins looked completely helpless to stop New York's ground attack; Brandon Jacobs (8-103, 2 TDs) and Ahmad Bradshaw (25-97, 2 TDs) both had monstrous performances.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     17712,
+     "sentence":"The Redskins looked completely helpless to stop New York's ground attack; Brandon Jacobs (8-103, 2 TDs) and Ahmad Bradshaw (25-97, 2 TDs) both had monstrous performances.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     17718,
+     "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    17709,
-    "sentence":"This Washington squad looks more like the miserable 4-12 team that completely humiliated itself on national TV on a couple of occasions late last year."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     17709,
+     "sentence":"This Washington squad looks more like the miserable 4-12 team that completely humiliated itself on national TV on a couple of occasions late last year.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   32,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    17719,
-    "sentence":"This Washington squad looks more like the miserable 4-12 team that completely humiliated itself on national TV on a couple of occasions late last year."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     17711,
+     "sentence":"The Redskins looked completely helpless to stop New York's ground attack; Brandon Jacobs (8-103, 2 TDs) and Ahmad Bradshaw (25-97, 2 TDs) both had monstrous performances.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     17713,
+     "sentence":"The Redskins looked completely helpless to stop New York's ground attack; Brandon Jacobs (8-103, 2 TDs) and Ahmad Bradshaw (25-97, 2 TDs) both had monstrous performances.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     17719,
+     "sentence":"He went 26-of-44 for 296 yards, a late touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   5,
    "rushing_touchdowns":   0,
@@ -2987,31 +3785,46 @@
    "player_team_score":"16",
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    17998,
-    "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     17998,
+     "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    17999,
-    "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     17999,
+     "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"228",
-    "annotationID":    18000,
-    "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling."
+    "1":{
+     "propertyValue":"228",
+     "annotationID":     18000,
+     "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   100.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    18001,
-    "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     18001,
+     "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    18002,
-    "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     18002,
+     "sentence":"McNabb (22-35, 228 yards, 2 TDs) made horrible throws and Mike Shanahan was responsible for awful game management and play-calling.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   17,
    "rushing_attempts":   0,
@@ -3056,42 +3869,63 @@
    "player_team_score":"17",
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    19321,
-    "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     19321,
+     "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"15",
-    "annotationID":    19322,
-    "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     19322,
+     "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"39",
-    "annotationID":    19323,
-    "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     19323,
+     "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   47.9,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    19324,
-    "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19324,
+     "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    19325,
-    "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19325,
+     "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   11,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    19328,
-    "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     19328,
+     "sentence":"Only 3 Vikings caught passes: ",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"32",
-    "annotationID":    19327,
-    "sentence":"He was constantly on the run, scrambling for 32 yards."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     19327,
+     "sentence":"He was constantly on the run, scrambling for 32 yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -3106,9 +3940,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    19326,
-    "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19326,
+     "sentence":"McNabb went 7-of-15 for 39 yards, 1 touchdown and an interception that was tipped and impressively caught by Shaun Phillips.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -3143,19 +3980,46 @@
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    19559,
-    "sentence":"In the first half Peterson ran for 83 yards on 15 carries with 2 short touchdown runs."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     19555,
+     "sentence":"In the first half Peterson ran for 83 yards on 15 carries with 2 short touchdown runs.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     19556,
+     "sentence":"Gerhart had 36 yards on 2 carries with 1 reception for 42 yards.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     19559,
+     "sentence":"Peterson ran for 120 yards on 25 carries with 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"16",
-    "annotationID":    19560,
-    "sentence":"McNabb completed 16-of-27 passes for 193 yards with zero touchdowns and zero interceptions."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     19560,
+     "sentence":"McNabb completed 16-of-27 passes for 193 yards with zero touchdowns and zero interceptions.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    19558,
-    "sentence":"Gerhart had 36 yards on 2 carries with 1 reception for 42 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     19557,
+     "sentence":"Peterson had only 9 yards rushing on 4 carries in the third quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     19558,
+     "sentence":"In the 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   12,
    "rushing_touchdowns":   0,
@@ -3198,28 +4062,40 @@
    "player_team_score":"23",
    "opponent_score":"26",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    19975,
-    "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     19975,
+     "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"36",
-    "annotationID":    19977,
-    "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     19977,
+     "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"211",
-    "annotationID":    19978,
-    "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score."
+    "1":{
+     "propertyValue":"211",
+     "annotationID":     19978,
+     "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   86.7,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":   4,
    "passing_sacks_yards_lost":{
-    "propertyValue":"22",
-    "annotationID":    19976,
-    "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     19976,
+     "sentence":"McNabb, meanwhile, was a mediocre 22-of-36 for 211 yards and a score.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   2,
    "rushing_yards":   11,
@@ -3263,31 +4139,46 @@
    "player_team_score":"17",
    "opponent_score":"22",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    20406,
-    "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     20406,
+     "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"30",
-    "annotationID":    20407,
-    "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     20407,
+     "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"202",
-    "annotationID":    20408,
-    "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"202",
+     "annotationID":     20408,
+     "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   88.5,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    20409,
-    "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     20409,
+     "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    20410,
-    "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     20410,
+     "sentence":"McNabb went 18-of-30 for 202 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   12,
    "rushing_attempts":   1,
@@ -3332,19 +4223,28 @@
    "player_team_score":"10",
    "opponent_score":"39",
    "passing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    21316,
-    "sentence":"He went 19-of-24 for 177 yards, with 2 of the incompletions being the aforementioned drops."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     21316,
+     "sentence":"He went 19-of-24 for 177 yards, with 2 of the incompletions being the aforementioned drops.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    21317,
-    "sentence":"He went 19-of-24 for 177 yards, with 2 of the incompletions being the aforementioned drops."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     21317,
+     "sentence":"He went 19-of-24 for 177 yards, with 2 of the incompletions being the aforementioned drops.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"177",
-    "annotationID":    21318,
-    "sentence":"He went 19-of-24 for 177 yards, with 2 of the incompletions being the aforementioned drops."
+    "1":{
+     "propertyValue":"177",
+     "annotationID":     21318,
+     "sentence":"He went 19-of-24 for 177 yards, with 2 of the incompletions being the aforementioned drops.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   97.4,
    "passing_touchdowns":   0,

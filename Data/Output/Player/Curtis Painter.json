@@ -30,37 +30,55 @@
    "player_team_score":"15",
    "opponent_score":"29",
    "passing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    12502,
-    "sentence":"In a quarter and a half, the Painter-led Colts mustered a laughable 34 total net yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     12502,
+     "sentence":"Painter finished 4-of-11 for 44 yards, an interception and a fumble.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"11",
-    "annotationID":    12503,
-    "sentence":"Painter finished 4-of-11 for 44 yards, an interception and a fumble."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     12503,
+     "sentence":"Painter finished 4-of-11 for 44 yards, an interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"44",
-    "annotationID":    12504,
-    "sentence":"Painter finished 4-of-11 for 44 yards, an interception and a fumble."
+    "1":{
+     "propertyValue":"44",
+     "annotationID":     12504,
+     "sentence":"Painter finished 4-of-11 for 44 yards, an interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   11.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    12506,
-    "sentence":"Painter finished 4-of-11 for 44 yards, an interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     12506,
+     "sentence":"1-ranked defense did a great job.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":{
-    "propertyValue":"14",
-    "annotationID":    12505,
-    "sentence":"Manning was obviously better, though it's worth noting that he didn't set the world on fire either (14-21, 192 yards)."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     12505,
+     "sentence":"Manning was obviously better, though it's worth noting that he didn't set the world on fire either (14-21, 192 yards).",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    12507,
-    "sentence":"Painter finished 4-of-11 for 44 yards, an interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     12507,
+     "sentence":"1-ranked defense did a great job.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   3,
    "rushing_touchdowns":   0,
@@ -101,9 +119,12 @@
    "opponent":"TAM",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    20630,
-    "sentence":"Painter, meanwhile, was awesome in the first half (12-17, 237 yards, 2 Tds), but was just 3-of-10 for 40 yards after the break."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     20630,
+     "sentence":"Painter, meanwhile, was awesome in the first half (12-17, 237 yards, 2 Tds), but was just 3-of-10 for 40 yards after the break.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"24",
    "passing_attempts":   13,
@@ -111,9 +132,18 @@
    "passing_yards":   281,
    "passing_rating":   99.4,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    20632,
-    "sentence":"Painter, meanwhile, was awesome in the first half (12-17, 237 yards, 2 Tds), but was just 3-of-10 for 40 yards after the break."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     20631,
+     "sentence":"Painter, meanwhile, was awesome in the first half (12-17, 237 yards, 2 Tds), but was just 3-of-10 for 40 yards after the break.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     20632,
+     "sentence":"He finished 15-of-27 for 277 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   4,
@@ -160,25 +190,43 @@
    "player_team_score":"24",
    "opponent_score":"28",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    20634,
-    "sentence":"He finished 15-of-27 for 277 yards and 2 scores."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     20634,
+     "sentence":"He finished 15-of-27 for 277 yards and 2 scores.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"27",
-    "annotationID":    20635,
-    "sentence":"He finished 15-of-27 for 277 yards and 2 scores."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     20635,
+     "sentence":"He finished 15-of-27 for 277 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"277",
-    "annotationID":    20636,
-    "sentence":"He finished 15-of-27 for 277 yards and 2 scores."
+    "1":{
+     "propertyValue":"277",
+     "annotationID":     20636,
+     "sentence":"He finished 15-of-27 for 277 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   115.8,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    20637,
-    "sentence":"Painter, meanwhile, was awesome in the first half (12-17, 237 yards, 2 Tds), but was just 3-of-10 for 40 yards after the break."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     20633,
+     "sentence":"Painter, meanwhile, was awesome in the first half (12-17, 237 yards, 2 Tds), but was just 3-of-10 for 40 yards after the break.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     20637,
+     "sentence":"He finished 15-of-27 for 277 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
@@ -225,46 +273,88 @@
    "player_team_score":"17",
    "opponent_score":"27",
    "passing_attempts":{
-    "propertyValue":"23",
-    "annotationID":    21187,
-    "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     21187,
+     "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"34",
-    "annotationID":    21188,
-    "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     21188,
+     "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"188",
-    "annotationID":    21189,
-    "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode."
+    "1":{
+     "propertyValue":"188",
+     "annotationID":     21189,
+     "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   79,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    21190,
-    "sentence":"Had he just gone down, it would have been a 2nd-and-5 at his own 38 with about 2:10 remaining."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     21182,
+     "sentence":"On the bright side, Clark redeemed himself with an impressive, 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     21190,
+     "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    21191,
-    "sentence":"Had he just gone down, it would have been a 2nd-and-5 at his own 38 with about 2:10 remaining."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     21183,
+     "sentence":"On the bright side, Clark redeemed himself with an impressive, 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     21191,
+     "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    21192,
-    "sentence":"Had he just gone down, it would have been a 2nd-and-5 at his own 38 with about 2:10 remaining."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     21184,
+     "sentence":"On the bright side, Clark redeemed himself with an impressive, 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     21192,
+     "sentence":"He went 23-of-34 for 188 yards, 1 touchdown and a late interception that came in desperation mode.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    21185,
-    "sentence":"handed touchdown in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     21185,
+     "sentence":"handed touchdown in the 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"14",
-    "annotationID":    21186,
-    "sentence":"Considering that he had no ground attack to speak of (Delone Carter had 45 yards on 14 carries), Curtis Painter played pretty decently."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     21186,
+     "sentence":"Considering that he had no ground attack to speak of (Delone Carter had 45 yards on 14 carries), Curtis Painter played pretty decently.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -355,33 +445,48 @@
    "player_team_score":"3",
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    22497,
-    "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     22497,
+     "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"19",
-    "annotationID":    22498,
-    "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     22498,
+     "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"94",
-    "annotationID":    22499,
-    "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks."
+    "1":{
+     "propertyValue":"94",
+     "annotationID":     22499,
+     "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   40.1,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    22500,
-    "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     22500,
+     "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    22501,
-    "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     22501,
+     "sentence":"Painter finished 13-of-19 for 94 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -424,40 +529,79 @@
    "player_team_score":"19",
    "opponent_score":"27",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    23629,
-    "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     23629,
+     "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"29",
-    "annotationID":    23630,
-    "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"29",
+     "annotationID":     23630,
+     "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"226",
-    "annotationID":    23631,
-    "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"226",
+     "annotationID":     23631,
+     "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   60.4,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    23632,
-    "sentence":"Indianapolis had a 2nd-and-1 on the Panther 33-yard line with a few minutes remaining."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     23627,
+     "sentence":"Indianapolis had a 2nd-and-1 on the Panther 33-yard line with a few minutes remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     23632,
+     "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    23633,
-    "sentence":"Indianapolis had a 2nd-and-1 on the Panther 33-yard line with a few minutes remaining."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23625,
+     "sentence":"Indianapolis had a 2nd-and-1 on the Panther 33-yard line with a few minutes remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     23633,
+     "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    23634,
-    "sentence":"Indianapolis had a 2nd-and-1 on the Panther 33-yard line with a few minutes remaining."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23626,
+     "sentence":"Indianapolis had a 2nd-and-1 on the Panther 33-yard line with a few minutes remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     23634,
+     "sentence":"He finished 15-of-29 for 226 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"8",
-    "annotationID":    23628,
-    "sentence":"For instance, he had a miserable throw on 3rd-and-8 on the opening drive."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     23628,
+     "sentence":"For instance, he had a miserable throw on 3rd-and-8 on the opening drive.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -499,29 +643,56 @@
    "opponent":"WAS",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    43779,
-    "sentence":"He accomplished this in 2001."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     43779,
+     "sentence":"If the stats and score don't indicate that enough, there were a whopping 8 punts in the first 20 minutes.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    43777,
-    "sentence":"He caught 6 balls for 90 yards and a touchdown, and he also scored on a 49-yard rush."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     43776,
+     "sentence":"He caught 6 balls for 90 yards and a touchdown, and he also scored on a 49-yard rush.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     43777,
+     "sentence":"- Pierre Garcon (6-56) became the third receiver in NFL history to log 5 or more receptions in every single game this year.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    43773,
-    "sentence":"He was just 2-of-8 for 11 yards and an interception thrown in the end zone."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     43773,
+     "sentence":"He was just 2-of-8 for 11 yards and an interception thrown in the end zone.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"8",
-    "annotationID":    43778,
-    "sentence":"He was just 2-of-8 for 11 yards and an interception thrown in the end zone."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     43774,
+     "sentence":"He was just 2-of-8 for 11 yards and an interception thrown in the end zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"8",
+     "annotationID":     43778,
+     "sentence":"If the stats and score don't indicate that enough, there were a whopping 8 punts in the first 20 minutes.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"11",
-    "annotationID":    43775,
-    "sentence":"He was just 2-of-8 for 11 yards and an interception thrown in the end zone."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     43775,
+     "sentence":"He was just 2-of-8 for 11 yards and an interception thrown in the end zone.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   0,
    "passing_touchdowns":   0,

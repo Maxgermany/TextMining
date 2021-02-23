@@ -127,9 +127,12 @@
    "game_won":   true,
    "player_team_score":"52",
    "opponent_score":{
-    "propertyValue":"28",
-    "annotationID":    28339,
-    "sentence":"Brady followed that by throwing a strike to Ron Gronkowski for a 28-yard score."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     28339,
+     "sentence":"Brady followed that by throwing a strike to Ron Gronkowski for a 28-yard score.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -154,14 +157,26 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    28342,
-    "sentence":"New England ran in short touchdowns with Stevan Ridley and Brandon Bolden to route the Bills with 31 points in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     28340,
+     "sentence":"New England ran in short touchdowns with Stevan Ridley and Brandon Bolden to route the Bills with 31 points in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     28342,
+     "sentence":"A play after Gronkowksi's fumble, Fitzpatrick lofted in a touchdown pass to Chandler (4-62) over Chung.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    28341,
-    "sentence":"Brady followed that by throwing a strike to Ron Gronkowski for a 28-yard score."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     28341,
+     "sentence":"New England missed 2 field goals; Welker fumbled the ball away; Gronkowski also coughed the ball up and let go of a potential touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

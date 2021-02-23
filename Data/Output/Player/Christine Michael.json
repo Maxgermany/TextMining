@@ -29,9 +29,12 @@
    "game_won":   true,
    "player_team_score":"38",
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    50083,
-    "sentence":"He went 10-of-17 for 172 yards and 2 interceptions, and he also was pressured quite frequently."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     50083,
+     "sentence":"He went 10-of-17 for 172 yards and 2 interceptions, and he also was pressured quite frequently.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -42,14 +45,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    50082,
-    "sentence":"Michael gained 71 yards on just 4 carries."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     50082,
+     "sentence":"Michael gained 71 yards on just 4 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"71",
-    "annotationID":    50081,
-    "sentence":"Michael gained 71 yards on just 4 carries."
+    "1":{
+     "propertyValue":"71",
+     "annotationID":     50081,
+     "sentence":"Michael gained 71 yards on just 4 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -89,14 +98,26 @@
    "opponent":"ARI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"35",
-    "annotationID":    53464,
-    "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     53464,
+     "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    53463,
-    "sentence":"Michael (6-26) were able to split the workload."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     53462,
+     "sentence":"Michael (6-26) were able to split the workload.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     53463,
+     "sentence":"They did keep this game close for a while - it was 14-6 entering the 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -146,9 +167,12 @@
    "opponent":"NYG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    58522,
-    "sentence":"Michael, who was told that he'd get a larger workload, had just 6 touches for 20 total yards."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     58522,
+     "sentence":"Michael, who was told that he'd get a larger workload, had just 6 touches for 20 total yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -209,14 +233,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    59086,
-    "sentence":"Michael, battling his former team, mustered 20 yards on 5 carries, but was also guilty of a drop."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     59086,
+     "sentence":"Michael, battling his former team, mustered 20 yards on 5 carries, but was also guilty of a drop.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"20",
-    "annotationID":    59085,
-    "sentence":"Michael, battling his former team, mustered 20 yards on 5 carries, but was also guilty of a drop."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     59085,
+     "sentence":"Michael, battling his former team, mustered 20 yards on 5 carries, but was also guilty of a drop.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -315,25 +345,61 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    63243,
-    "sentence":"Wilson actually led Seattle in rushing, picking up 39 yards on 6 scrambles."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     63239,
+     "sentence":"Wilson actually led Seattle in rushing, picking up 39 yards on 6 scrambles.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     63241,
+     "sentence":"The Seahawks struggled to run the ball, as neither Bryce Brown (7-9) nor Christine Michael (6-6) found much room versus St.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"6",
+     "annotationID":     63243,
+     "sentence":"The Seahawks struggled to run the ball, as neither Bryce Brown (7-9) nor Christine Michael (6-6) found much room versus St.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"6",
-    "annotationID":    63244,
-    "sentence":"Wilson actually led Seattle in rushing, picking up 39 yards on 6 scrambles."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     63240,
+     "sentence":"Wilson actually led Seattle in rushing, picking up 39 yards on 6 scrambles.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     63242,
+     "sentence":"The Seahawks struggled to run the ball, as neither Bryce Brown (7-9) nor Christine Michael (6-6) found much room versus St.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"6",
+     "annotationID":     63244,
+     "sentence":"The Seahawks struggled to run the ball, as neither Bryce Brown (7-9) nor Christine Michael (6-6) found much room versus St.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    63237,
-    "sentence":"Wilson finished 25-of-41 for 289 yards, 2 touchdowns, an interception and a lost fumble."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     63237,
+     "sentence":"Wilson finished 25-of-41 for 289 yards, 2 touchdowns, an interception and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    63238,
-    "sentence":"Wilson finished 25-of-41 for 289 yards, 2 touchdowns, an interception and a lost fumble."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     63238,
+     "sentence":"Wilson finished 25-of-41 for 289 yards, 2 touchdowns, an interception and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   14,
    "receiving_touchdowns":   0,
@@ -381,9 +447,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   17,
    "rushing_yards":{
-    "propertyValue":"102",
-    "annotationID":    63636,
-    "sentence":"Michael, who looked strong on Sunday, rushing for 102 yards against Arizona's good run defense, and of course, Wilson's ability to run heaped on top of his his aerial attack of late, and you have yourself a Super Bowl contender raging against the dying of the light, just at the right time."
+    "1":{
+     "propertyValue":"102",
+     "annotationID":     63636,
+     "sentence":"Michael, who looked strong on Sunday, rushing for 102 yards against Arizona's good run defense, and of course, Wilson's ability to run heaped on top of his his aerial attack of late, and you have yourself a Super Bowl contender raging against the dying of the light, just at the right time.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -433,25 +502,37 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    63898,
-    "sentence":"Michael looked pretty solid, as he gained 70 yards on 21 carries."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     63898,
+     "sentence":"Michael looked pretty solid, as he gained 70 yards on 21 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"70",
-    "annotationID":    63897,
-    "sentence":"Michael looked pretty solid, as he gained 70 yards on 21 carries."
+    "1":{
+     "propertyValue":"70",
+     "annotationID":     63897,
+     "sentence":"Michael looked pretty solid, as he gained 70 yards on 21 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    63899,
-    "sentence":"Michael looked pretty solid, as he gained 70 yards on 21 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     63899,
+     "sentence":"Coleman is 1 of the most incompetent, corrupt refs in the NFL, so whoever made the decision to assign him to this game should be fired immediately.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    63900,
-    "sentence":"Michael looked pretty solid, as he gained 70 yards on 21 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     63900,
+     "sentence":"Coleman is 1 of the most incompetent, corrupt refs in the NFL, so whoever made the decision to assign him to this game should be fired immediately.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   14,
    "receiving_touchdowns":   0,
@@ -488,9 +569,12 @@
    "opponent":"MIA",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"12",
-    "annotationID":    64764,
-    "sentence":"Rawls had just 32 yards on 12 tries, but he also caught 3 balls for 17 receiving yards."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     64764,
+     "sentence":"Rawls had just 32 yards on 12 tries, but he also caught 3 balls for 17 receiving yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"10",
    "passing_attempts":   0,
@@ -502,14 +586,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    64763,
-    "sentence":"Michael had 66 yards on 15 carries, as some of his tough runs featured broken tackles."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     64763,
+     "sentence":"Michael had 66 yards on 15 carries, as some of his tough runs featured broken tackles.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"66",
-    "annotationID":    64762,
-    "sentence":"Michael had 66 yards on 15 carries, as some of his tough runs featured broken tackles."
+    "1":{
+     "propertyValue":"66",
+     "annotationID":     64762,
+     "sentence":"Michael had 66 yards on 15 carries, as some of his tough runs featured broken tackles.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -559,14 +649,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    65373,
-    "sentence":"Michael handled most of the workload afterward, and he gained 60 yards on 10 carries."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     65373,
+     "sentence":"Michael handled most of the workload afterward, and he gained 60 yards on 10 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"60",
-    "annotationID":    65372,
-    "sentence":"Michael handled most of the workload afterward, and he gained 60 yards on 10 carries."
+    "1":{
+     "propertyValue":"60",
+     "annotationID":     65372,
+     "sentence":"Michael handled most of the workload afterward, and he gained 60 yards on 10 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -616,25 +712,37 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    66105,
-    "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     66105,
+     "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"106",
-    "annotationID":    66102,
-    "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries."
+    "1":{
+     "propertyValue":"106",
+     "annotationID":     66102,
+     "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    66103,
-    "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66103,
+     "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    66104,
-    "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66104,
+     "sentence":"Michael had a huge performance with Thomas Rawls out of the lineup, tallying 106 yards and 2 touchdowns on just 20 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   5,
    "receiving_touchdowns":   0,
@@ -681,26 +789,38 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    66343,
-    "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     66343,
+     "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"58",
-    "annotationID":    66344,
-    "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown."
+    "1":{
+     "propertyValue":"58",
+     "annotationID":     66344,
+     "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    66345,
-    "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     66345,
+     "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"32",
-    "annotationID":    66346,
-    "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     66346,
+     "sentence":"Michael didn't do much on the ground - 18 carries, 58 yards - but he managed to catch 5 passes for 32 receiving yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -746,19 +866,28 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    68052,
-    "sentence":"Though the back only got 64 yards on 18 carries, he did total 2 touchdowns and ran with a physical nature."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     68052,
+     "sentence":"Though the back only got 64 yards on 18 carries, he did total 2 touchdowns and ran with a physical nature.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"64",
-    "annotationID":    68051,
-    "sentence":"Though the back only got 64 yards on 18 carries, he did total 2 touchdowns and ran with a physical nature."
+    "1":{
+     "propertyValue":"64",
+     "annotationID":     68051,
+     "sentence":"Though the back only got 64 yards on 18 carries, he did total 2 touchdowns and ran with a physical nature.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    68053,
-    "sentence":"Though the back only got 64 yards on 18 carries, he did total 2 touchdowns and ran with a physical nature."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     68053,
+     "sentence":"Though the back only got 64 yards on 18 carries, he did total 2 touchdowns and ran with a physical nature.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   3,
    "receiving_receptions":   3,
@@ -807,14 +936,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"16",
-    "annotationID":    68786,
-    "sentence":"Michael had a nice run in overtime, but he was limited to 52 yards overall on 16 carries."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     68786,
+     "sentence":"Michael had a nice run in overtime, but he was limited to 52 yards overall on 16 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"52",
-    "annotationID":    68785,
-    "sentence":"Michael had a nice run in overtime, but he was limited to 52 yards overall on 16 carries."
+    "1":{
+     "propertyValue":"52",
+     "annotationID":     68785,
+     "sentence":"Michael had a nice run in overtime, but he was limited to 52 yards overall on 16 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -903,14 +1038,20 @@
    "opponent":"BUF",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"31",
-    "annotationID":    70533,
-    "sentence":"Following a touchdown, the Seahawks were up 31-24, with an extra point pending."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     70533,
+     "sentence":"Following a touchdown, the Seahawks were up 31-24, with an extra point pending.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"25",
-    "annotationID":    70534,
-    "sentence":"Brady made up for it later by completing a third-and-25 pass to "
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     70534,
+     "sentence":"Brady made up for it later by completing a third-and-25 pass to ",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -921,9 +1062,12 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    70532,
-    "sentence":"Michael (5-22) and was robbed of a touchdown in the 4."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     70532,
+     "sentence":"Michael (5-22) and was robbed of a touchdown in the 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   1,
    "rushing_touchdowns":   1,
@@ -964,14 +1108,20 @@
    "opponent":"NWE",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"31",
-    "annotationID":    70538,
-    "sentence":"Following a touchdown, the Seahawks were up 31-24, with an extra point pending."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     70538,
+     "sentence":"Following a touchdown, the Seahawks were up 31-24, with an extra point pending.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    70539,
-    "sentence":"Following a touchdown, the Seahawks were up 31-24, with an extra point pending."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     70539,
+     "sentence":"Following a touchdown, the Seahawks were up 31-24, with an extra point pending.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -982,22 +1132,31 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    70535,
-    "sentence":"Michael (5-22) and was robbed of a touchdown in the 4."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     70535,
+     "sentence":"Michael (5-22) and was robbed of a touchdown in the 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"22",
-    "annotationID":    70536,
-    "sentence":"Michael (5-22) and was robbed of a touchdown in the 4."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     70536,
+     "sentence":"Michael (5-22) and was robbed of a touchdown in the 4.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"4",
-    "annotationID":    70537,
-    "sentence":"Michael (5-22) and was robbed of a touchdown in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     70537,
+     "sentence":"Michael (5-22) and was robbed of a touchdown in the 4.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1044,9 +1203,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"4",
-    "annotationID":    72129,
-    "sentence":"which he turned into just 19 yards, though he did pick up a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     72129,
+     "sentence":"which he turned into just 19 yards, though he did pick up a 4.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1096,14 +1258,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    72130,
-    "sentence":"Michael led the team in carries with 9."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     72130,
+     "sentence":"Michael led the team in carries with 9.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"19",
-    "annotationID":    72131,
-    "sentence":"which he turned into just 19 yards, though he did pick up a 4."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     72131,
+     "sentence":"which he turned into just 19 yards, though he did pick up a 4.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1144,9 +1312,12 @@
    "game_won":   true,
    "player_team_score":"38",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    73145,
-    "sentence":"Michael (10-36) handled most of the workload following intermission in a revenge game for him."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     73145,
+     "sentence":"Michael (10-36) handled most of the workload following intermission in a revenge game for him.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1157,14 +1328,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    73146,
-    "sentence":"Michael (10-36) handled most of the workload following intermission in a revenge game for him."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     73146,
+     "sentence":"Michael (10-36) handled most of the workload following intermission in a revenge game for him.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"36",
-    "annotationID":    73147,
-    "sentence":"Michael (10-36) handled most of the workload following intermission in a revenge game for him."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     73147,
+     "sentence":"Michael (10-36) handled most of the workload following intermission in a revenge game for him.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1205,9 +1382,12 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    73554,
-    "sentence":"Down 27-10, the Bears got back into the game, as Barkley started connecting with "
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     73554,
+     "sentence":"Down 27-10, the Bears got back into the game, as Barkley started connecting with ",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1218,19 +1398,28 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    73551,
-    "sentence":"Michael (4-45-1) broke down the field for a 42-yard touchdown run."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     73551,
+     "sentence":"Michael (4-45-1) broke down the field for a 42-yard touchdown run.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"45",
-    "annotationID":    73552,
-    "sentence":"Michael (4-45-1) broke down the field for a 42-yard touchdown run."
+    "1":{
+     "propertyValue":"45",
+     "annotationID":     73552,
+     "sentence":"Michael (4-45-1) broke down the field for a 42-yard touchdown run.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    73553,
-    "sentence":"Michael (4-45-1) broke down the field for a 42-yard touchdown run."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     73553,
+     "sentence":"Michael (4-45-1) broke down the field for a 42-yard touchdown run.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -1279,36 +1468,96 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    74372,
-    "sentence":"Larry Fitzgerald (4-31) was also a major disappointment, though he dealt with Richard Sherman for a majority of the day."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     74362,
+     "sentence":"Larry Fitzgerald (4-31) was also a major disappointment, though he dealt with Richard Sherman for a majority of the day.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     74367,
+     "sentence":"He also reeled in 4 passes for 41 yards.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     74369,
+     "sentence":"He had an impressive burst in the 4.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     74372,
+     "sentence":"Wilson went 29-of-45 for 350 yards and 4 touchdowns.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"4",
-    "annotationID":    74373,
-    "sentence":"Larry Fitzgerald (4-31) was also a major disappointment, though he dealt with Richard Sherman for a majority of the day."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     74363,
+     "sentence":"Larry Fitzgerald (4-31) was also a major disappointment, though he dealt with Richard Sherman for a majority of the day.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     74368,
+     "sentence":"He also reeled in 4 passes for 41 yards.",
+     "confidence":"Strong"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     74370,
+     "sentence":"He had an impressive burst in the 4.",
+     "confidence":"Weak"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     74373,
+     "sentence":"Wilson went 29-of-45 for 350 yards and 4 touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    74364,
-    "sentence":"He finished the day with 3 catches for 132 yards and appears to have taken over John Brown's role."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74364,
+     "sentence":"Despite being stopped behind the line a number of times and committing a horrendous fumble, the second-year back continues to be 1 of the best dual-threat players in the league.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    74365,
-    "sentence":"He finished the day with 3 catches for 132 yards and appears to have taken over John Brown's role."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74365,
+     "sentence":"Despite being stopped behind the line a number of times and committing a horrendous fumble, the second-year back continues to be 1 of the best dual-threat players in the league.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"1",
-    "annotationID":    74366,
-    "sentence":"He finished the day with 3 catches for 132 yards and appears to have taken over John Brown's role."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74366,
+     "sentence":"Despite being stopped behind the line a number of times and committing a horrendous fumble, the second-year back continues to be 1 of the best dual-threat players in the league.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    74371,
-    "sentence":"He finished the day with 3 catches for 132 yards and appears to have taken over John Brown's role."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     74361,
+     "sentence":"He finished the day with 3 catches for 132 yards and appears to have taken over John Brown's role.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     74371,
+     "sentence":"Overall, Johnson was able to score 3 touchdowns on Saturday.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   64,
    "kick_return_touchdowns":   0,
@@ -1352,14 +1601,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    75425,
-    "sentence":"Michael (10-47) performing better, just seemed pretty foolish."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     75425,
+     "sentence":"Michael (10-47) performing better, just seemed pretty foolish.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"47",
-    "annotationID":    75426,
-    "sentence":"Michael (10-47) performing better, just seemed pretty foolish."
+    "1":{
+     "propertyValue":"47",
+     "annotationID":     75426,
+     "sentence":"Michael (10-47) performing better, just seemed pretty foolish.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1367,9 +1622,12 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    75427,
-    "sentence":"Michael (10-47) performing better, just seemed pretty foolish."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     75427,
+     "sentence":"1 seed Cowboys.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   31,
    "kick_return_touchdowns":   0,
@@ -1413,22 +1671,37 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    75662,
-    "sentence":"Michael (6-11) and Ripkowski (3-11)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     75662,
+     "sentence":"Michael (6-11) and Ripkowski (3-11).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"11",
-    "annotationID":    75665,
-    "sentence":"Michael (6-11) and Ripkowski (3-11)."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     75663,
+     "sentence":"Michael (6-11) and Ripkowski (3-11).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"11",
+     "annotationID":     75665,
+     "sentence":"Michael (6-11) and Ripkowski (3-11).",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"3",
-    "annotationID":    75664,
-    "sentence":"Michael (6-11) and Ripkowski (3-11)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     75664,
+     "sentence":"Michael (6-11) and Ripkowski (3-11).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

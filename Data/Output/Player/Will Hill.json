@@ -101,9 +101,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    42049,
-    "sentence":"Following an incompletion, referee Jeff Triplette told everyone that it was indeed 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     42049,
+     "sentence":"Following an incompletion, referee Jeff Triplette told everyone that it was indeed 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   3,
    "defense_interceptions":   0,
@@ -251,14 +254,32 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    56180,
-    "sentence":"Ravens answered with a drive that was led by a Flacco hooking up for a 19-yard pass to tight end Crockett Gilmore."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     56180,
+     "sentence":"h-and-1 that needed a half yard.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    56182,
-    "sentence":"Dalton to Green completed passes of 17, 31 and 14 yards at the expense of Baltimore cornerback Jimmy Smith."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     56179,
+     "sentence":"After the 2-minute warning, the Bengals were set up for a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     56181,
+     "sentence":"On a 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     56182,
+     "sentence":"The Ravens took the lead midway through the 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

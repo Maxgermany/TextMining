@@ -176,9 +176,18 @@
    "game_won":   true,
    "player_team_score":"25",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    51502,
-    "sentence":"Down 24-22, Bortles put together the game-winning drive."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     51501,
+     "sentence":"Down 24-22, Bortles put together the game-winning drive.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"24",
+     "annotationID":     51502,
+     "sentence":"Manning was 24-of-34 for 247 yards with a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -277,14 +286,32 @@
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    53803,
-    "sentence":"Even without having to defend Foster (5-23), the Jaguars' defense continued to get gashed, as Houston moved the ball down the field before Alfred Blue (17-39) scored a short touchdown."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     53801,
+     "sentence":"Even without having to defend Foster (5-23), the Jaguars' defense continued to get gashed, as Houston moved the ball down the field before Alfred Blue (17-39) scored a short touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"17",
+     "annotationID":     53803,
+     "sentence":"The drive finished with Johnson beating Gratz for an 8-yard touchdown to give Houston a 21-17 lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"23",
-    "annotationID":    53802,
-    "sentence":"Even without having to defend Foster (5-23), the Jaguars' defense continued to get gashed, as Houston moved the ball down the field before Alfred Blue (17-39) scored a short touchdown."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     53800,
+     "sentence":"Even without having to defend Foster (5-23), the Jaguars' defense continued to get gashed, as Houston moved the ball down the field before Alfred Blue (17-39) scored a short touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"23",
+     "annotationID":     53802,
+     "sentence":"The Jaguars went to a trick play on the next snap as Cecil Shorts (5-47) took a lateral and threw to a wide-open Todman for a 23-yard touchdown after Brian Cushing blew the coverage.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,

@@ -200,9 +200,12 @@
    "defense_sacks":   0,
    "defense_tackles":   10,
    "defense_tackle_assists":{
-    "propertyValue":"3",
-    "annotationID":    49440,
-    "sentence":"Wright (13 tackles, 1 pass batted), Cliff Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     49440,
+     "sentence":"Wright (13 tackles, 1 pass batted), Cliff Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles).",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -327,9 +330,12 @@
    "game_won":   true,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    58070,
-    "sentence":"The comment that sparked this bullet point, however, was when Simms stated that the 49ers, down 17 with 3:15 remaining, should punt on a 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     58070,
+     "sentence":"The comment that sparked this bullet point, however, was when Simms stated that the 49ers, down 17 with 3:15 remaining, should punt on a 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -354,14 +360,38 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    58071,
-    "sentence":"The comment that sparked this bullet point, however, was when Simms stated that the 49ers, down 17 with 3:15 remaining, should punt on a 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     58071,
+     "sentence":"The comment that sparked this bullet point, however, was when Simms stated that the 49ers, down 17 with 3:15 remaining, should punt on a 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    58073,
-    "sentence":"I called for Phil Simms' firing a couple of weeks ago, and I'm once again going to repeat that he's 1 of the worst NFL announcers."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58068,
+     "sentence":"I called for Phil Simms' firing a couple of weeks ago, and I'm once again going to repeat that he's 1 of the worst NFL announcers.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     58069,
+     "sentence":"Simms, at 1 point, told Jim Nantz he can't afford massages.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     58072,
+     "sentence":"Simms, who also said that the Seahawks were the defending Super Bowl champions at 1 point, needs to be fired.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     58073,
+     "sentence":"And if I have to hear him say, You know, Jim, 1 more time, I might just have a seizure.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

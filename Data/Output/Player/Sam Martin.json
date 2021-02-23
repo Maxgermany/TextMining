@@ -28,14 +28,26 @@
    "opponent":"GNB",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"40",
-    "annotationID":    41512,
-    "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     41512,
+     "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    41513,
-    "sentence":"At that point in the game, the Packers were up 10-3 despite not doing anything on offense."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     41511,
+     "sentence":"At that point in the game, the Packers were up 10-3 despite not doing anything on offense.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     41513,
+     "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -70,9 +82,12 @@
    "field_goal_attempts":   0,
    "field_goal_makes":   0,
    "punting_attempts":{
-    "propertyValue":"1",
-    "annotationID":    41514,
-    "sentence":"Martin booted the ball out of bounds on a kickoff, setting up a Mason Crosby 54-yard field goal after James Jones made a brilliant 16-yard reception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     41514,
+     "sentence":"Speaking of Megatron, he caught 6 balls for 101 yards and 1 of Stafford's 3 scores.",
+     "confidence":"None"
+    }
    },
    "punting_yards":   33,
    "punting_blocked":   0,

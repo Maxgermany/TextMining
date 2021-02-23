@@ -91,14 +91,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    18417,
-    "sentence":"Obomanu (1-7) at his disposal, yet he played as if he drank 5 of Derek Anderson's magical flasks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     18417,
+     "sentence":"Obomanu (1-7) at his disposal, yet he played as if he drank 5 of Derek Anderson's magical flasks.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"7",
-    "annotationID":    18418,
-    "sentence":"Obomanu (1-7) at his disposal, yet he played as if he drank 5 of Derek Anderson's magical flasks."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     18418,
+     "sentence":"Obomanu (1-7) at his disposal, yet he played as if he drank 5 of Derek Anderson's magical flasks.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -147,9 +153,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"8",
-    "annotationID":    18938,
-    "sentence":"Make it 8 drops if you count "
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     18938,
+     "sentence":"Make it 8 drops if you count ",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   4,
    "receiving_yards":   68,
@@ -236,9 +245,12 @@
    "opponent":"CLE",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"3",
-    "annotationID":    21338,
-    "sentence":"What also helped was that the Seahawks were offside on a 4th-and-3, giving Cleveland a free first down."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     21338,
+     "sentence":"What also helped was that the Seahawks were offside on a 4th-and-3, giving Cleveland a free first down.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"6",
    "passing_attempts":   0,
@@ -289,9 +301,18 @@
    "opponent":"SFO",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    25929,
-    "sentence":"The first possession went 74 yards on 8 plays, highlighted by a 27-yard pass to Michael Crabtree (5-85) on the first play of the half and a 17-yard pickup to Vernon Davis (4-54)."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     25926,
+     "sentence":"The first possession went 74 yards on 8 plays, highlighted by a 27-yard pass to Michael Crabtree (5-85) on the first play of the half and a 17-yard pickup to Vernon Davis (4-54).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"17",
+     "annotationID":     25929,
+     "sentence":"It looked like a bad decision when the punt went out of the end zone and Smith hit Davis for 17 yards on the first play of the drive.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"19",
    "passing_attempts":   0,
@@ -306,14 +327,56 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    25927,
-    "sentence":"Lynch went up the middle for 2 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     25920,
+     "sentence":"Lynch went up the middle for 2 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     25922,
+     "sentence":"San Francisco tried to answer in the 2-minute drill thanks to a 24-yard run from Hunter putting them close to midfield, but 2 incompletions and a pass short of the sticks forced 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     25924,
+     "sentence":"San Francisco tried to answer in the 2-minute drill thanks to a 24-yard run from Hunter putting them close to midfield, but 2 incompletions and a pass short of the sticks forced 4.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     25927,
+     "sentence":"The next 2 drives were like watching instant replay.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    25928,
-    "sentence":"Lynch went up the middle for 2 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     25921,
+     "sentence":"Lynch went up the middle for 2 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     25923,
+     "sentence":"San Francisco tried to answer in the 2-minute drill thanks to a 24-yard run from Hunter putting them close to midfield, but 2 incompletions and a pass short of the sticks forced 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     25925,
+     "sentence":"San Francisco tried to answer in the 2-minute drill thanks to a 24-yard run from Hunter putting them close to midfield, but 2 incompletions and a pass short of the sticks forced 4.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     25928,
+     "sentence":"The next 2 drives were like watching instant replay.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   20,
    "receiving_touchdowns":   0,

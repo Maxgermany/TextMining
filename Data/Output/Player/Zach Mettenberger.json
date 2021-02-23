@@ -126,9 +126,12 @@
    "opponent":"BAL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    49679,
-    "sentence":"In the first quarter alone, Mettenberger had conversions of 17, 17, 17 15, and 15, and Tennessee would've maintained a lead greater than 7-0 had Shonn Greene not fumbled at the goal line."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     49679,
+     "sentence":"In the first quarter alone, Mettenberger had conversions of 17, 17, 17 15, and 15, and Tennessee would've maintained a lead greater than 7-0 had Shonn Greene not fumbled at the goal line.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"21",
    "passing_attempts":   16,
@@ -185,14 +188,26 @@
    "passing_yards":   263,
    "passing_rating":   110.2,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    50777,
-    "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50777,
+     "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    50778,
-    "sentence":"h-round rookie is 1 of the worst starting quarterbacks in the NFL."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50776,
+     "sentence":"h-round rookie is 1 of the worst starting quarterbacks in the NFL.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50778,
+     "sentence":"The 1 good sign for the Eagles is that ",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
@@ -238,37 +253,61 @@
    "player_team_score":"24",
    "opponent_score":"43",
    "passing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    50783,
-    "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     50783,
+     "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"39",
-    "annotationID":    50784,
-    "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     50784,
+     "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"345",
-    "annotationID":    50780,
-    "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception."
+    "1":{
+     "propertyValue":"345",
+     "annotationID":     50780,
+     "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   88.1,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    50781,
-    "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50781,
+     "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    50785,
-    "sentence":"h-round rookie is 1 of the worst starting quarterbacks in the NFL."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50779,
+     "sentence":"h-round rookie is 1 of the worst starting quarterbacks in the NFL.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50785,
+     "sentence":"The 1 good sign for the Eagles is that ",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   5,
    "passing_sacks_yards_lost":   46,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    50782,
-    "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50782,
+     "sentence":"We saw what Philadelphia's secondary looked like against Aaron Rodgers last week, but it has to be disconcerting that Mettenberger was able to throw for 345 yards and 2 touchdowns (on 20-of-39 passing) and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -2,
    "rushing_touchdowns":   0,
@@ -311,19 +350,34 @@
    "player_team_score":"7",
    "opponent_score":"36",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    51922,
-    "sentence":"Mettenberger went 14-of-24 for 125 yards an interception and a lost fumble returned for a touchdown, and even those numbers were inflated because he was just 10-of-14 for only 63 yards by the time this game was 30-0."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     51919,
+     "sentence":"Mettenberger went 14-of-24 for 125 yards an interception and a lost fumble returned for a touchdown, and even those numbers were inflated because he was just 10-of-14 for only 63 yards by the time this game was 30-0.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"14",
+     "annotationID":     51922,
+     "sentence":"Mettenberger went 14-of-24 for 125 yards an interception and a lost fumble returned for a touchdown, and even those numbers were inflated because he was just 10-of-14 for only 63 yards by the time this game was 30-0.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    51920,
-    "sentence":"Mettenberger went 14-of-24 for 125 yards an interception and a lost fumble returned for a touchdown, and even those numbers were inflated because he was just 10-of-14 for only 63 yards by the time this game was 30-0."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     51920,
+     "sentence":"Mettenberger went 14-of-24 for 125 yards an interception and a lost fumble returned for a touchdown, and even those numbers were inflated because he was just 10-of-14 for only 63 yards by the time this game was 30-0.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"125",
-    "annotationID":    51921,
-    "sentence":"Mettenberger went 14-of-24 for 125 yards an interception and a lost fumble returned for a touchdown, and even those numbers were inflated because he was just 10-of-14 for only 63 yards by the time this game was 30-0."
+    "1":{
+     "propertyValue":"125",
+     "annotationID":     51921,
+     "sentence":"Mettenberger went 14-of-24 for 125 yards an interception and a lost fumble returned for a touchdown, and even those numbers were inflated because he was just 10-of-14 for only 63 yards by the time this game was 30-0.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   55,
    "passing_touchdowns":   0,
@@ -421,41 +475,62 @@
    "player_team_score":"7",
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    58397,
-    "sentence":"Mettenberger to 187 yards on 22-of-35 attempts."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     58397,
+     "sentence":"Mettenberger to 187 yards on 22-of-35 attempts.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    58398,
-    "sentence":"Mettenberger to 187 yards on 22-of-35 attempts."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     58398,
+     "sentence":"Mettenberger to 187 yards on 22-of-35 attempts.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"187",
-    "annotationID":    58396,
-    "sentence":"Mettenberger to 187 yards on 22-of-35 attempts."
+    "1":{
+     "propertyValue":"187",
+     "annotationID":     58396,
+     "sentence":"Mettenberger to 187 yards on 22-of-35 attempts.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   62.4,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    58399,
-    "sentence":"Mettenberger to 187 yards on 22-of-35 attempts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58399,
+     "sentence":"Mettenberger had 1 touchdown and 2 interceptions and never really got the Tennessee offense moving.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    58402,
-    "sentence":"Mettenberger to 187 yards on 22-of-35 attempts."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     58402,
+     "sentence":"Mettenberger had 1 touchdown and 2 interceptions and never really got the Tennessee offense moving.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    58400,
-    "sentence":"Mettenberger to 187 yards on 22-of-35 attempts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58400,
+     "sentence":"Mettenberger had 1 touchdown and 2 interceptions and never really got the Tennessee offense moving.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   8,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    58401,
-    "sentence":"Mettenberger to 187 yards on 22-of-35 attempts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58401,
+     "sentence":"Mettenberger had 1 touchdown and 2 interceptions and never really got the Tennessee offense moving.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
@@ -503,9 +578,12 @@
    "passing_rating":   70.8,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    58988,
-    "sentence":"There's really no comparison, as the Titans had no chance with Mettenberger, even against 1 of the worst teams in football."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58988,
+     "sentence":"There's really no comparison, as the Titans had no chance with Mettenberger, even against 1 of the worst teams in football.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   7,
    "passing_sacks_yards_lost":   46,
@@ -551,41 +629,62 @@
    "player_team_score":"16",
    "opponent_score":"33",
    "passing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    62291,
-    "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     62291,
+     "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    62292,
-    "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     62292,
+     "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"242",
-    "annotationID":    62293,
-    "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"242",
+     "annotationID":     62293,
+     "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   91.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    62294,
-    "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     62294,
+     "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    62295,
-    "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     62295,
+     "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    62296,
-    "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     62296,
+     "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   19,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    62297,
-    "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     62297,
+     "sentence":"He went 20-of-28 for 242 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   5,
    "rushing_touchdowns":   0,
@@ -635,9 +734,12 @@
    "passing_interceptions":   1,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
-    "propertyValue":"7",
-    "annotationID":    63056,
-    "sentence":"The Texans hope that Brian Hoyer will return to the field in Week 17."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     63056,
+     "sentence":"A few plays later, Weeden ran the ball into end zone from 7 yards out on a third-and-goal.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -681,19 +783,28 @@
    "player_team_score":"24",
    "opponent_score":"30",
    "passing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    63435,
-    "sentence":"He went 5-of-13 for 38 yards and a pick-six, which occurred when his pass was tipped as he was pressured."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     63435,
+     "sentence":"He went 5-of-13 for 38 yards and a pick-six, which occurred when his pass was tipped as he was pressured.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"13",
-    "annotationID":    63436,
-    "sentence":"He went 5-of-13 for 38 yards and a pick-six, which occurred when his pass was tipped as he was pressured."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     63436,
+     "sentence":"He went 5-of-13 for 38 yards and a pick-six, which occurred when his pass was tipped as he was pressured.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"38",
-    "annotationID":    63437,
-    "sentence":"He went 5-of-13 for 38 yards and a pick-six, which occurred when his pass was tipped as he was pressured."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     63437,
+     "sentence":"He went 5-of-13 for 38 yards and a pick-six, which occurred when his pass was tipped as he was pressured.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   14.6,
    "passing_touchdowns":   0,

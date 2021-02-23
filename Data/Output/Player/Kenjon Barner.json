@@ -176,9 +176,12 @@
    "game_won":   true,
    "player_team_score":"34",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    78390,
-    "sentence":"Wentz's 4 scores went to Nelson Agholor (4-93), Smith (3-70), Zach Ertz (6-61) and Trey Burton (2-16)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     78390,
+     "sentence":"Corey Clement (7-17) and Barner (5-23) were also involved.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -189,14 +192,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    78391,
-    "sentence":"On Philadelphia's next possession, Torrey Smith finally didn't drop a deep pass, hauling in a 59-yard touchdown."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     78391,
+     "sentence":"Corey Clement (7-17) and Barner (5-23) were also involved.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"23",
-    "annotationID":    78392,
-    "sentence":"Corey Clement (7-17) and Barner (5-23) were also involved."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     78392,
+     "sentence":"Corey Clement (7-17) and Barner (5-23) were also involved.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -207,9 +216,18 @@
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    78389,
-    "sentence":"The Eagles sputtered a bit after that through the end of the opening half, but they put the clamps on Arizona following intermission, outscoring them 13-0 in the second half."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     78388,
+     "sentence":"Wentz's 4 scores went to Nelson Agholor (4-93), Smith (3-70), Zach Ertz (6-61) and Trey Burton (2-16).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     78389,
+     "sentence":"He caught 3 balls for 31 yards, as Patrick Peterson dominated the matchup.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   110,
    "punt_return_touchdowns":   0,

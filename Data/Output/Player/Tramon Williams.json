@@ -176,9 +176,12 @@
    "game_won":   false,
    "player_team_score":"34",
    "opponent_score":{
-    "propertyValue":"37",
-    "annotationID":    34516,
-    "sentence":"Jenkins (3-37, TD) was 1 of a trio of Vikings to register a team-high 3 receptions."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     34516,
+     "sentence":"Jenkins (3-37, TD) was 1 of a trio of Vikings to register a team-high 3 receptions.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -252,14 +255,26 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    40084,
-    "sentence":"However, Foles didn't fire a single incompletion after intermission, hitting on all 6 passes for 103 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40082,
+     "sentence":"However, Foles didn't fire a single incompletion after intermission, hitting on all 6 passes for 103 yards and 2 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     40084,
+     "sentence":"The first was underthrown into double coverage, but the 2 Packer defenders collided, allowing ",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"3",
-    "annotationID":    40083,
-    "sentence":"However, Foles didn't fire a single incompletion after intermission, hitting on all 6 passes for 103 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     40083,
+     "sentence":"Foles was 12-of-18 for 228 yards and 3 scores overall.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -309,9 +324,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0.5,
    "defense_tackles":{
-    "propertyValue":"6",
-    "annotationID":    40085,
-    "sentence":"However, Foles didn't fire a single incompletion after intermission, hitting on all 6 passes for 103 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     40085,
+     "sentence":"However, Foles didn't fire a single incompletion after intermission, hitting on all 6 passes for 103 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,
@@ -338,9 +356,12 @@
    "opponent":"DET",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    41493,
-    "sentence":"At that point in the game, the Packers were up 10-3 despite not doing anything on offense."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     41493,
+     "sentence":"At that point in the game, the Packers were up 10-3 despite not doing anything on offense.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"40",
    "passing_attempts":   0,
@@ -391,9 +412,12 @@
    "opponent":"DAL",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"37",
-    "annotationID":    42997,
-    "sentence":"Romo hit a slant and go to Bryant for 37 yards."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     42997,
+     "sentence":"Romo hit a slant and go to Bryant for 37 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"36",
    "passing_attempts":   0,

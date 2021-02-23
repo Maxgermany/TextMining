@@ -39,9 +39,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    19905,
-    "sentence":"Then he got sacked and threw 2 incompletions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     19905,
+     "sentence":"Then he got sacked and threw 2 incompletions.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -96,9 +99,12 @@
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"30",
-    "annotationID":    22170,
-    "sentence":"Miller down the sideline for a 30-yard touchdown for a 13-0 lead."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     22170,
+     "sentence":"Miller down the sideline for a 30-yard touchdown for a 13-0 lead.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -194,21 +200,54 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   2,
    "rushing_yards":{
-    "propertyValue":"4",
-    "annotationID":    52737,
-    "sentence":"Miller, who caught 4 balls for 56 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     52732,
+     "sentence":"Miller, who caught 4 balls for 56 yards.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     52735,
+     "sentence":"He was stuffed on a 4.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     52737,
+     "sentence":"h-and-1 on the Seattle 38 in the middle of the 4.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    52738,
-    "sentence":"Miller, who caught 4 balls for 56 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     52733,
+     "sentence":"Miller, who caught 4 balls for 56 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     52736,
+     "sentence":"He was stuffed on a 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     52738,
+     "sentence":"h-and-1 on the Seattle 38 in the middle of the 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"56",
-    "annotationID":    52734,
-    "sentence":"Miller, who caught 4 balls for 56 yards."
+    "1":{
+     "propertyValue":"56",
+     "annotationID":     52734,
+     "sentence":"Miller, who caught 4 balls for 56 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -254,18 +293,24 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    52921,
-    "sentence":"Only 1 San Francisco player had more than 22 receiving yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     52921,
+     "sentence":"Only 1 San Francisco player had more than 22 receiving yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
    "receiving_receptions":   2,
    "receiving_yards":{
-    "propertyValue":"22",
-    "annotationID":    52922,
-    "sentence":"Only 1 San Francisco player had more than 22 receiving yards."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     52922,
+     "sentence":"Only 1 San Francisco player had more than 22 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -317,9 +362,12 @@
    "receiving_receptions":   3,
    "receiving_yards":   17,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    54000,
-    "sentence":"Boldin snatched just 2 of his 9 targets for 81 yards, as Kaepernick just struggled to connect with him."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54000,
+     "sentence":"One of Boldin's receptions was an awesome, 1.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,

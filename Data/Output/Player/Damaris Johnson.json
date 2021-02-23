@@ -42,14 +42,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    28054,
-    "sentence":"Johnson started in his place and caught 5 balls for 84 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     28054,
+     "sentence":"Johnson started in his place and caught 5 balls for 84 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"84",
-    "annotationID":    28055,
-    "sentence":"Johnson started in his place and caught 5 balls for 84 yards."
+    "1":{
+     "propertyValue":"84",
+     "annotationID":     28055,
+     "sentence":"Johnson started in his place and caught 5 balls for 84 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -196,9 +202,24 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    46919,
-    "sentence":"However, Fitzpatrick was actually near-perfect in the second half; in fact, he didn't throw a post-halftime incompletion until there was 2:30 remaining in regulation."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     46917,
+     "sentence":"However, Fitzpatrick was actually near-perfect in the second half; in fact, he didn't throw a post-halftime incompletion until there was 2:30 remaining in regulation.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     46918,
+     "sentence":"He gained 157 yards and 2 touchdowns on 23 carries.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     46919,
+     "sentence":"Excluding Foster, they were the only players to see more than 2 targets.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,

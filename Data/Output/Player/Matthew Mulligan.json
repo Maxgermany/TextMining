@@ -44,9 +44,18 @@
    "receiving_receptions":   2,
    "receiving_yards":   14,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    27650,
-    "sentence":"Mulligan (yes, yes, he didn't need 1)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     27649,
+     "sentence":"Mulligan (yes, yes, he didn't need 1).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     27650,
+     "sentence":"The Redskins simply couldn't contain him, save for 1 play early in the first quarter when he was strip-sixed.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -130,9 +139,18 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    75343,
-    "sentence":"Ebron (2-23) was somehow even worse, converting only a couple of his 6 targets."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     75342,
+     "sentence":"Ebron (2-23) was somehow even worse, converting only a couple of his 6 targets.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     75343,
+     "sentence":"The team's leader in receptions (6) was actually ",
+     "confidence":"None"
+    }
    },
    "opponent_score":"26",
    "passing_attempts":   0,

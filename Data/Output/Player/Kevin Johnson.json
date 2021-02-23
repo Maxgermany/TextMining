@@ -77,9 +77,12 @@
    "opponent":"CIN",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    59767,
-    "sentence":"Johnson to tie the game at 10."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     59767,
+     "sentence":"Johnson to tie the game at 10.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"6",
    "passing_attempts":   0,
@@ -105,9 +108,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    59768,
-    "sentence":"Yates answered with 2 receptions to "
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     59768,
+     "sentence":"Yates answered with 2 receptions to ",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,
@@ -281,14 +287,38 @@
    "opponent":"IND",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"16",
-    "annotationID":    62353,
-    "sentence":"That set up a short field goal for Novak to give the Texans a 16-10 lead."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     62353,
+     "sentence":"That set up a short field goal for Novak to give the Texans a 16-10 lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    62354,
-    "sentence":"That produced a chip-shot field goal for the Colts and a 10-0 lead."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     62349,
+     "sentence":"That produced a chip-shot field goal for the Colts and a 10-0 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     62350,
+     "sentence":"The Colts took a 10-3 lead into the locker room.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"10",
+     "annotationID":     62352,
+     "sentence":"To end the drive, Weeden hit Jaelen Strong on the run for an 8-yard touchdown and a 13-10 Houston lead.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"10",
+     "annotationID":     62354,
+     "sentence":"That set up a short field goal for Novak to give the Texans a 16-10 lead.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -313,9 +343,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    62351,
-    "sentence":"Houston's offense finally did something positive with a 41-yard run from Blue, but Bill O'Brien made a very questionable decision to have Nick Novak attempt a 57-yard field goal that wasn't even close."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     62351,
+     "sentence":"Houston converted a 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -415,14 +448,26 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    63829,
-    "sentence":"Being too mediocre to spread the ball around, Smith was able to connect with only 3 players on multiple occasions: Maclin, Travis Kelce (8-128) and Wilson (2-9)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     63829,
+     "sentence":"Being too mediocre to spread the ball around, Smith was able to connect with only 3 players on multiple occasions: Maclin, Travis Kelce (8-128) and Wilson (2-9).",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    63830,
-    "sentence":"1 receiver."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     63828,
+     "sentence":"1 receiver.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     63830,
+     "sentence":"They tried to have various defenders cover him, yet no 1 had any sort of success.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

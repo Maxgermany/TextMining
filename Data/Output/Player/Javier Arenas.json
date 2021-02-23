@@ -88,9 +88,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"7",
-    "annotationID":    21494,
-    "sentence":"Arenas capped the march with a 7-yard touchdown run."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     21493,
+     "sentence":"Arenas capped the march with a 7-yard touchdown run.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"7",
+     "annotationID":     21494,
+     "sentence":"Boller finished 7-for-14 passing with 61 yards and the 3 interceptions.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
@@ -203,9 +212,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    25471,
-    "sentence":"Starting at the 2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     25471,
+     "sentence":"Starting at the 2.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,

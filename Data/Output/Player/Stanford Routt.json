@@ -224,14 +224,20 @@
    "opponent":"DET",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    25197,
-    "sentence":"After an incompletion, Stafford hit Johnson for the score and 28-27 lead, the Lions' first of the game."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     25197,
+     "sentence":"After an incompletion, Stafford hit Johnson for the score and 28-27 lead, the Lions' first of the game.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"28",
-    "annotationID":    25196,
-    "sentence":"After an incompletion, Stafford hit Johnson for the score and 28-27 lead, the Lions' first of the game."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     25196,
+     "sentence":"After an incompletion, Stafford hit Johnson for the score and 28-27 lead, the Lions' first of the game.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -282,9 +288,12 @@
    "game_won":   true,
    "player_team_score":"16",
    "opponent_score":{
-    "propertyValue":"13",
-    "annotationID":    25414,
-    "sentence":"Oakland took advantage of the short field, marching 30 yards to cash in an easy field goal for a 13-6 advantage."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     25414,
+     "sentence":"Oakland took advantage of the short field, marching 30 yards to cash in an easy field goal for a 13-6 advantage.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -309,15 +318,33 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    25415,
-    "sentence":"Even though the Raiders did nothing on offense, their stud punter Lechler changed field position, putting Kansas City on its own 10-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25412,
+     "sentence":"This was crucial because on the next drive Crennel rolled the dice trying to convert a 4th-and-1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     25415,
+     "sentence":"Early in the second quarter, Coach Jackson passed on trying to convert a 4th-and-1, electing instead to punt and play field position.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    25416,
-    "sentence":"Even though the Raiders did nothing on offense, their stud punter Lechler changed field position, putting Kansas City on its own 10-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25413,
+     "sentence":"This was crucial because on the next drive Crennel rolled the dice trying to convert a 4th-and-1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     25416,
+     "sentence":"Early in the second quarter, Coach Jackson passed on trying to convert a 4th-and-1, electing instead to punt and play field position.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   3,
    "defense_interception_touchdowns":   0,
@@ -366,9 +393,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    29389,
-    "sentence":"Williams (4-113) also caused a holding penalty on Flowers on a go route."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     29389,
+     "sentence":"Freeman was 15-of-26 for 328 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

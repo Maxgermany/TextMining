@@ -77,9 +77,12 @@
    "opponent":"SFO",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    41911,
-    "sentence":"He had an illegal block that negated a 13-yard "
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     41911,
+     "sentence":"He had an illegal block that negated a 13-yard ",
+     "confidence":"None"
+    }
    },
    "opponent_score":"23",
    "passing_attempts":   0,
@@ -153,14 +156,32 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    43288,
-    "sentence":"McDonald (6 tackles, 1 sack), Ogletree (8 tackles, ."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     43286,
+     "sentence":"McDonald (6 tackles, 1 sack), Ogletree (8 tackles, .",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     43288,
+     "sentence":"5 sacks, 2 forced fumbles), Laurinaitis (6 tackles, 1.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"6",
-    "annotationID":    43287,
-    "sentence":"McDonald (6 tackles, 1 sack), Ogletree (8 tackles, ."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     43285,
+     "sentence":"McDonald (6 tackles, 1 sack), Ogletree (8 tackles, .",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     43287,
+     "sentence":"5 sacks, 2 forced fumbles), Laurinaitis (6 tackles, 1.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -187,9 +208,12 @@
    "opponent":"NYG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    53288,
-    "sentence":"The Rams answered with Kenny Britt (9-103) making a super leaping catch for 27 yards."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     53288,
+     "sentence":"The Rams answered with Kenny Britt (9-103) making a super leaping catch for 27 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"37",
    "passing_attempts":   0,
@@ -214,19 +238,58 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    53293,
-    "sentence":"McDonald sack helped produce a punt, Tavon Austin (1-15 receiving, 3-25 rushing) ripped off a 41-yard return."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     53286,
+     "sentence":"McDonald sack helped produce a punt, Tavon Austin (1-15 receiving, 3-25 rushing) ripped off a 41-yard return.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     53291,
+     "sentence":"With 4 minutes remaining, Shaun Hill found Chris Givens (1-47) wide open in busted coverage for a 47-yard touchdown.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     53293,
+     "sentence":"Surprisingly, New York only allowed 1 sack, and that was to safety T.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"9",
-    "annotationID":    53287,
-    "sentence":"The Rams answered with Kenny Britt (9-103) making a super leaping catch for 27 yards."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     53287,
+     "sentence":"The Rams answered with Kenny Britt (9-103) making a super leaping catch for 27 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    53294,
-    "sentence":"McDonald sack helped produce a punt, Tavon Austin (1-15 receiving, 3-25 rushing) ripped off a 41-yard return."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     53289,
+     "sentence":"On the Giants' next possession, Alec Ogletree hit Beckham late out of bounds after a screen pass, which caused a huge fight to break out between the 2 teams.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     53290,
+     "sentence":"The Rams answered with a scoring drive that ended with a 23-yard scoring pass to Lance Kendricks (2-35).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     53292,
+     "sentence":"Beckham made 8 receptions for 148 yards and 2 scores, while Randle hauled in 6 passes for 132 yards and a score.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     53294,
+     "sentence":"Hill had a solid performance, completing 24-of-32 for 290 yards with 2 touchdowns and an interception that wasn't completely his fault.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

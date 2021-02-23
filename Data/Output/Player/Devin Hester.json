@@ -48,9 +48,12 @@
    "kick_return_yards":   65,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    360,
-    "sentence":"The Bottom Line: The Panthers are 2-0 without Smith's services."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     360,
+     "sentence":"The Bottom Line: The Panthers are 2-0 without Smith's services.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   9,
    "punt_return_touchdowns":   0,
@@ -95,14 +98,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    1239,
-    "sentence":"Hester caught 5 balls for 66 yards and a score."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     1239,
+     "sentence":"Hester caught 5 balls for 66 yards and a score.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"66",
-    "annotationID":    1240,
-    "sentence":"Hester caught 5 balls for 66 yards and a score."
+    "1":{
+     "propertyValue":"66",
+     "annotationID":     1240,
+     "sentence":"Hester caught 5 balls for 66 yards and a score.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   2,
@@ -152,14 +161,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    1506,
-    "sentence":"Hester somehow led the team in receiving, catching 6 balls for 87 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     1506,
+     "sentence":"Hester somehow led the team in receiving, catching 6 balls for 87 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"87",
-    "annotationID":    1507,
-    "sentence":"Hester somehow led the team in receiving, catching 6 balls for 87 yards."
+    "1":{
+     "propertyValue":"87",
+     "annotationID":     1507,
+     "sentence":"Hester somehow led the team in receiving, catching 6 balls for 87 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   3,
@@ -209,14 +224,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    3752,
-    "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     3752,
+     "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"57",
-    "annotationID":    3753,
-    "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively."
+    "1":{
+     "propertyValue":"57",
+     "annotationID":     3753,
+     "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -266,14 +287,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    3781,
-    "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     3781,
+     "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"57",
-    "annotationID":    3782,
-    "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively."
+    "1":{
+     "propertyValue":"57",
+     "annotationID":     3782,
+     "sentence":"Hester and Desmond Clark led everyone with 5 receptions, gaining 57 and 40 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -310,9 +337,18 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    4738,
-    "sentence":"Orton was also horrific, going 24-of-40 for 172 yards, including a telegraphed pass to New Orleans linebacker Scott Fujita."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     4735,
+     "sentence":"Orton was also horrific, going 24-of-40 for 172 yards, including a telegraphed pass to New Orleans linebacker Scott Fujita.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"24",
+     "annotationID":     4738,
+     "sentence":"He was 24-of-43 for 232 yards, 2 touchdowns and a pair of picks.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -327,23 +363,38 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    4740,
-    "sentence":"Orton was also horrific, going 24-of-40 for 172 yards, including a telegraphed pass to New Orleans linebacker Scott Fujita."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     4736,
+     "sentence":"I mentioned Hester and Olsen; they had 4 catches for 46 yards and 8 grabs for 45 yards, respectively.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     4740,
+     "sentence":"That's a stark contrast compared to his home figures (19 TDs, 4 INTs).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"46",
-    "annotationID":    4737,
-    "sentence":"I mentioned Hester and Olsen; they had 4 catches for 46 yards and 8 grabs for 45 yards, respectively."
+    "1":{
+     "propertyValue":"46",
+     "annotationID":     4737,
+     "sentence":"I mentioned Hester and Olsen; they had 4 catches for 46 yards and 8 grabs for 45 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    4739,
-    "sentence":"Orton was also horrific, going 24-of-40 for 172 yards, including a telegraphed pass to New Orleans linebacker Scott Fujita."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     4739,
+     "sentence":"He was 24-of-43 for 232 yards, 2 touchdowns and a pair of picks.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   -2,
    "punt_return_touchdowns":   0,
@@ -437,14 +488,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    5767,
-    "sentence":"Hester 6 times for 85 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     5767,
+     "sentence":"Hester 6 times for 85 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"85",
-    "annotationID":    5768,
-    "sentence":"Hester 6 times for 85 yards."
+    "1":{
+     "propertyValue":"85",
+     "annotationID":     5768,
+     "sentence":"Hester 6 times for 85 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -494,14 +551,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    6854,
-    "sentence":"Hester (4-21)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     6854,
+     "sentence":"Hester (4-21).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"21",
-    "annotationID":    6855,
-    "sentence":"Hester (4-21)."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     6855,
+     "sentence":"Hester (4-21).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -551,14 +614,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    7180,
-    "sentence":"Hester (5-76, TD) and Greg Olsen (5-44) all had solid games."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     7178,
+     "sentence":"Hester (5-76, TD) and Greg Olsen (5-44) all had solid games.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     7180,
+     "sentence":"Hester (5-76, TD) and Greg Olsen (5-44) all had solid games.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"76",
-    "annotationID":    7179,
-    "sentence":"Hester (5-76, TD) and Greg Olsen (5-44) all had solid games."
+    "1":{
+     "propertyValue":"76",
+     "annotationID":     7179,
+     "sentence":"Hester (5-76, TD) and Greg Olsen (5-44) all had solid games.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -608,14 +683,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    8593,
-    "sentence":"Hester finished with 8 grabs for 101 yards."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     8593,
+     "sentence":"Hester finished with 8 grabs for 101 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"101",
-    "annotationID":    8594,
-    "sentence":"Hester finished with 8 grabs for 101 yards."
+    "1":{
+     "propertyValue":"101",
+     "annotationID":     8594,
+     "sentence":"Hester finished with 8 grabs for 101 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -665,14 +746,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    8756,
-    "sentence":"Hester, who had 7 grabs for 81 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     8756,
+     "sentence":"Hester, who had 7 grabs for 81 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"81",
-    "annotationID":    8757,
-    "sentence":"Hester, who had 7 grabs for 81 yards."
+    "1":{
+     "propertyValue":"81",
+     "annotationID":     8757,
+     "sentence":"Hester, who had 7 grabs for 81 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -722,14 +809,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   12,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    9058,
-    "sentence":"Hester had 6 legitimate catches for 94 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     9058,
+     "sentence":"Hester had 6 legitimate catches for 94 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"94",
-    "annotationID":    9059,
-    "sentence":"Hester had 6 legitimate catches for 94 yards."
+    "1":{
+     "propertyValue":"94",
+     "annotationID":     9059,
+     "sentence":"Hester had 6 legitimate catches for 94 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -779,14 +872,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    10731,
-    "sentence":"Hester had only 1 reception for 20 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     10731,
+     "sentence":"Hester had only 1 reception for 20 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"20",
-    "annotationID":    10732,
-    "sentence":"Hester had only 1 reception for 20 yards."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     10732,
+     "sentence":"Hester had only 1 reception for 20 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -837,9 +936,12 @@
    "receiving_targets":   3,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"48",
-    "annotationID":    10862,
-    "sentence":"Hester (48) and Earl Bennett (71)."
+    "1":{
+     "propertyValue":"48",
+     "annotationID":     10862,
+     "sentence":"Hester (48) and Earl Bennett (71).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -889,14 +991,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    12727,
-    "sentence":"Hester, coming off injury, hauled in 3 balls for 75 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     12727,
+     "sentence":"Hester, coming off injury, hauled in 3 balls for 75 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"75",
-    "annotationID":    12728,
-    "sentence":"Hester, coming off injury, hauled in 3 balls for 75 yards."
+    "1":{
+     "propertyValue":"75",
+     "annotationID":     12728,
+     "sentence":"Hester, coming off injury, hauled in 3 balls for 75 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   6,
@@ -946,27 +1054,39 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    13616,
-    "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     13616,
+     "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"77",
-    "annotationID":    13617,
-    "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37)."
+    "1":{
+     "propertyValue":"77",
+     "annotationID":     13617,
+     "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    13618,
-    "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     13618,
+     "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37).",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    13619,
-    "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     13619,
+     "sentence":"Hester (4-77), Greg Olsen (1-39) and Matt Forte (5-37).",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   -5,
    "punt_return_touchdowns":   0,
@@ -1011,14 +1131,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    16503,
-    "sentence":"In addition to catching 4 balls for 38 yards and a touchdown, he had multiple huge returns on special teams, constantly setting Cutler up in Minnesota territory."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     16503,
+     "sentence":"In addition to catching 4 balls for 38 yards and a touchdown, he had multiple huge returns on special teams, constantly setting Cutler up in Minnesota territory.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"38",
-    "annotationID":    16504,
-    "sentence":"In addition to catching 4 balls for 38 yards and a touchdown, he had multiple huge returns on special teams, constantly setting Cutler up in Minnesota territory."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     16504,
+     "sentence":"In addition to catching 4 balls for 38 yards and a touchdown, he had multiple huge returns on special teams, constantly setting Cutler up in Minnesota territory.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   2,
@@ -1064,35 +1190,62 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    17500,
-    "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17498,
+     "sentence":"QB Dog Killer (29-44, 333 yards, 2 TDs, 1 INT) had a tipped pass interception inside the red zone when trailing by 1 point just before halftime.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     17500,
+     "sentence":"QB Dog Killer (29-44, 333 yards, 2 TDs, 1 INT) had a tipped pass interception inside the red zone when trailing by 1 point just before halftime.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    17495,
-    "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     17495,
+     "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"86",
-    "annotationID":    17497,
-    "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards."
+    "1":{
+     "propertyValue":"86",
+     "annotationID":     17497,
+     "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    17496,
-    "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     17496,
+     "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   78,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    17501,
-    "sentence":"Forte rushed for 117 yards on just 14 carries, while Hester had 3 receptions for 86 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17499,
+     "sentence":"QB Dog Killer (29-44, 333 yards, 2 TDs, 1 INT) had a tipped pass interception inside the red zone when trailing by 1 point just before halftime.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     17501,
+     "sentence":"QB Dog Killer (29-44, 333 yards, 2 TDs, 1 INT) had a tipped pass interception inside the red zone when trailing by 1 point just before halftime.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   9,
    "punt_return_touchdowns":   0,
@@ -1141,9 +1294,12 @@
    "receiving_touchdowns":   0,
    "kick_return_attempts":   2,
    "kick_return_yards":{
-    "propertyValue":"73",
-    "annotationID":    20444,
-    "sentence":"Hester to return a kickoff 73 yards, which set up a short field for Chicago and a subsequent Matt Forte touchdown."
+    "1":{
+     "propertyValue":"73",
+     "annotationID":     20444,
+     "sentence":"Hester to return a kickoff 73 yards, which set up a short field for Chicago and a subsequent Matt Forte touchdown.",
+     "confidence":"None"
+    }
    },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   1,
@@ -1190,9 +1346,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    21324,
-    "sentence":"Hester (5-91, TD) was Cutler's top receiver, while Roy Williams (3-50) had his best game as a Bear thus far."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     21324,
+     "sentence":"Hester (5-91, TD) was Cutler's top receiver, while Roy Williams (3-50) had his best game as a Bear thus far.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   32,
    "receiving_touchdowns":   0,
@@ -1243,14 +1402,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    21325,
-    "sentence":"Hester (5-91, TD) was Cutler's top receiver, while Roy Williams (3-50) had his best game as a Bear thus far."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     21325,
+     "sentence":"Hester (5-91, TD) was Cutler's top receiver, while Roy Williams (3-50) had his best game as a Bear thus far.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"91",
-    "annotationID":    21326,
-    "sentence":"Hester (5-91, TD) was Cutler's top receiver, while Roy Williams (3-50) had his best game as a Bear thus far."
+    "1":{
+     "propertyValue":"91",
+     "annotationID":     21326,
+     "sentence":"Hester (5-91, TD) was Cutler's top receiver, while Roy Williams (3-50) had his best game as a Bear thus far.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   2,
@@ -1300,9 +1465,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    22759,
-    "sentence":"This happened when Matthew Stafford tossed 1 of his 4 picks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     22759,
+     "sentence":"This happened when Matthew Stafford tossed 1 of his 4 picks.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   12,
    "receiving_touchdowns":   0,
@@ -1310,9 +1478,12 @@
    "kick_return_yards":   30,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    22760,
-    "sentence":"This happened when Matthew Stafford tossed 1 of his 4 picks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     22760,
+     "sentence":"This happened when Matthew Stafford tossed 1 of his 4 picks.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   19,
    "punt_return_touchdowns":   0,
@@ -1365,9 +1536,12 @@
    "punt_return_attempts":   3,
    "punt_return_yards":   122,
    "punt_return_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    22761,
-    "sentence":"This happened when Matthew Stafford tossed 1 of his 4 picks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     22761,
+     "sentence":"This happened when Matthew Stafford tossed 1 of his 4 picks.",
+     "confidence":"None"
+    }
    },
    "defense_sacks":   0,
    "defense_tackles":   0,
@@ -1396,9 +1570,12 @@
    "opponent":"SDG",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"31",
-    "annotationID":    23365,
-    "sentence":"Rivers went 21-of-31 for 280 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     23365,
+     "sentence":"Rivers went 21-of-31 for 280 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"20",
    "passing_attempts":   0,
@@ -1420,9 +1597,12 @@
    "kick_return_yards":   48,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    23366,
-    "sentence":"Rivers went 21-of-31 for 280 yards, 2 touchdowns and a pair of interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23366,
+     "sentence":"Rivers went 21-of-31 for 280 yards, 2 touchdowns and a pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   59,
    "punt_return_touchdowns":   0,
@@ -1470,21 +1650,84 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    23785,
-    "sentence":"They tried to get Michael Bush (24-69) going in the running game, but he was held in check all afternoon."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23776,
+     "sentence":"Hanie (18-for-36 254 yards, 2 TDs, 3 INTs) did more damage on the run (5-50), picking up 24 to convert a 3rd-and-18.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     23780,
+     "sentence":"A squib kick was returned 56 yards by Knox and at the 2.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     23785,
+     "sentence":"A 21-yard run by Barber and series of positive plays set up the Bears with a 4th-and-2 at the Raiders' 32.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   39,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    23786,
-    "sentence":"They tried to get Michael Bush (24-69) going in the running game, but he was held in check all afternoon."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23777,
+     "sentence":"Hanie (18-for-36 254 yards, 2 TDs, 3 INTs) did more damage on the run (5-50), picking up 24 to convert a 3rd-and-18.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     23781,
+     "sentence":"A squib kick was returned 56 yards by Knox and at the 2.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     23786,
+     "sentence":"A 21-yard run by Barber and series of positive plays set up the Bears with a 4th-and-2 at the Raiders' 32.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":{
-    "propertyValue":"7",
-    "annotationID":    23787,
-    "sentence":"Despite being outplayed, the visitors were up 7-6."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     23778,
+     "sentence":"Despite being outplayed, the visitors were up 7-6.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"7",
+     "annotationID":     23779,
+     "sentence":"That was all they did, but it was enough for another Janikowski boot and a 9-7 lead.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"7",
+     "annotationID":     23782,
+     "sentence":"Perhaps Hue Jackson is reeling himself in because, faced with third-and-goal from the 1, with 5 seconds left in the half, he wisely took the points for a 12-7 halftime lead.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"7",
+     "annotationID":     23783,
+     "sentence":"A 29-yard pass to Reece and a 17-yarder to Chaz Schilens keyed the change of field position, and Janikowski did the rest for a 15-7 advantage.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"7",
+     "annotationID":     23784,
+     "sentence":"A long, scrappy drive just about closed out the third quarter and resulted in yet another Janikowski field goal for the 18-7 lead.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"7",
+     "annotationID":     23787,
+     "sentence":"Hanie scrambled for 7 yards and Gould connected from 53 yards out to trim the lead to 18-13.",
+     "confidence":"None"
+    }
    },
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
@@ -1524,9 +1767,12 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    27779,
-    "sentence":"Chicago's 1 offensive touchdown came on the ground with Michael Bush, who took advantage of Matt Forte's injury by rushing for 55 yards on 18 attempts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     27779,
+     "sentence":"Chicago's 1 offensive touchdown came on the ground with Michael Bush, who took advantage of Matt Forte's injury by rushing for 55 yards on 18 attempts.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   8,
    "rushing_touchdowns":   0,
@@ -1583,21 +1829,30 @@
    "receiving_receptions":   3,
    "receiving_yards":   38,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    29001,
-    "sentence":"Hester (2-49) made an awesome, 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     29001,
+     "sentence":"Hester (2-49) made an awesome, 1.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    29000,
-    "sentence":"Hester (2-49) made an awesome, 1."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     29000,
+     "sentence":"Hester (2-49) made an awesome, 1.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   50,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    29002,
-    "sentence":"Hester (2-49) made an awesome, 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     29002,
+     "sentence":"Hester (2-49) made an awesome, 1.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   8,
    "punt_return_touchdowns":   0,
@@ -1642,20 +1897,29 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    29003,
-    "sentence":"Hester (2-49) made an awesome, 1."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     29003,
+     "sentence":"Hester (2-49) made an awesome, 1.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"49",
-    "annotationID":    29004,
-    "sentence":"Hester (2-49) made an awesome, 1."
+    "1":{
+     "propertyValue":"49",
+     "annotationID":     29004,
+     "sentence":"Hester (2-49) made an awesome, 1.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    29005,
-    "sentence":"Hester (2-49) made an awesome, 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     29005,
+     "sentence":"Hester (2-49) made an awesome, 1.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   28,
    "kick_return_touchdowns":   0,
@@ -1690,9 +1954,12 @@
    "game_won":   true,
    "player_team_score":"51",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    30662,
-    "sentence":"Hasselbeck finished 20-of-35 for 194 yards, 1 score (to "
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     30662,
+     "sentence":"Hasselbeck finished 20-of-35 for 194 yards, 1 score (to ",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1706,36 +1973,102 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    30658,
-    "sentence":"It's amazing that the Bears didn't even really need to run a single offensive play to get out to a 26-point lead."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     30651,
+     "sentence":"Jared Cook also fumbled in the second half; his 2 catches for 6 yards makes you wonder why no team wanted to acquire him at the trade deadline.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     30656,
+     "sentence":"Only 1 other Bear caught more than 2 passes (Earl Bennett: 4-22).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     30658,
+     "sentence":"He otherwise would have mustered 61 yards on 15 tries, most notably getting stuffed twice on 2nd-and-1 and 3rd-and-1 on the second drive.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    30659,
-    "sentence":"It's amazing that the Bears didn't even really need to run a single offensive play to get out to a 26-point lead."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     30652,
+     "sentence":"Jared Cook also fumbled in the second half; his 2 catches for 6 yards makes you wonder why no team wanted to acquire him at the trade deadline.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     30657,
+     "sentence":"Only 1 other Bear caught more than 2 passes (Earl Bennett: 4-22).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     30659,
+     "sentence":"He otherwise would have mustered 61 yards on 15 tries, most notably getting stuffed twice on 2nd-and-1 and 3rd-and-1 on the second drive.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"19",
-    "annotationID":    30653,
-    "sentence":"He went 19-of-26 for 229 yards and 3 touchdowns, though it's worth noting that most of his production came when his team was well ahead and several of the Titans seemed to quit."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     30653,
+     "sentence":"He went 19-of-26 for 229 yards and 3 touchdowns, though it's worth noting that most of his production came when his team was well ahead and several of the Titans seemed to quit.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    30663,
-    "sentence":"Hester return to the 10-yard line, a Brian Urlacher pick-six of Matt Hasselbeck and a Chris Conte fumble recovery of Chris Johnson."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     30655,
+     "sentence":"Only 1 other Bear caught more than 2 passes (Earl Bennett: 4-22).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     30660,
+     "sentence":"He otherwise would have mustered 61 yards on 15 tries, most notably getting stuffed twice on 2nd-and-1 and 3rd-and-1 on the second drive.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     30661,
+     "sentence":"He otherwise would have mustered 61 yards on 15 tries, most notably getting stuffed twice on 2nd-and-1 and 3rd-and-1 on the second drive.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     30663,
+     "sentence":"Hasselbeck finished 20-of-35 for 194 yards, 1 score (to ",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":{
-    "propertyValue":"26",
-    "annotationID":    30654,
-    "sentence":"It's amazing that the Bears didn't even really need to run a single offensive play to get out to a 26-point lead."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     30649,
+     "sentence":"It's amazing that the Bears didn't even really need to run a single offensive play to get out to a 26-point lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"26",
+     "annotationID":     30654,
+     "sentence":"He went 19-of-26 for 229 yards and 3 touchdowns, though it's worth noting that most of his production came when his team was well ahead and several of the Titans seemed to quit.",
+     "confidence":"None"
+    }
    },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"5",
-    "annotationID":    30650,
-    "sentence":"The Titans were guilty of 5 turnovers in the first half."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     30650,
+     "sentence":"The Titans were guilty of 5 turnovers in the first half.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   69,
    "punt_return_touchdowns":   0,
@@ -1780,16 +2113,22 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    31258,
-    "sentence":"He finished 7-of-14 for 40 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     31258,
+     "sentence":"He finished 7-of-14 for 40 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   4,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    31259,
-    "sentence":"He finished 7-of-14 for 40 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     31259,
+     "sentence":"He finished 7-of-14 for 40 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   38,
    "kick_return_touchdowns":   0,
@@ -1934,9 +2273,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    33308,
-    "sentence":"Hester ran the wrong route on 1 play, which resulted in Cutler's lone pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     33308,
+     "sentence":"Hester ran the wrong route on 1 play, which resulted in Cutler's lone pick.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -1991,9 +2333,18 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    38711,
-    "sentence":"Robert Griffin went 18-of-29 for 298 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     38710,
+     "sentence":"Robert Griffin went 18-of-29 for 298 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     38711,
+     "sentence":"Griffin's 2 scores went to ",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   40,
    "kick_return_touchdowns":   0,
@@ -2236,14 +2587,20 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    45391,
-    "sentence":"Hester, who posted an impressive stat line last week, had just 1 reception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     45391,
+     "sentence":"Hester, who posted an impressive stat line last week, had just 1 reception.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    45392,
-    "sentence":"Hester, who posted an impressive stat line last week, had just 1 reception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     45392,
+     "sentence":"Hester, who posted an impressive stat line last week, had just 1 reception.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   2,
    "receiving_touchdowns":   0,
@@ -2251,9 +2608,12 @@
    "kick_return_yards":   118,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    45393,
-    "sentence":"Hester, who posted an impressive stat line last week, had just 1 reception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     45393,
+     "sentence":"Hester, who posted an impressive stat line last week, had just 1 reception.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   7,
    "punt_return_touchdowns":   0,
@@ -2295,9 +2655,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"20",
-    "annotationID":    45813,
-    "sentence":"Hester ran a 20-yard reverse into the end zone on the very next play to make it 28-0 on the first snap of the second quarter."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     45813,
+     "sentence":"Hester ran a 20-yard reverse into the end zone on the very next play to make it 28-0 on the first snap of the second quarter.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -2329,9 +2692,12 @@
   "42":{
    "player_id":   9732,
    "year":{
-    "propertyValue":"2014",
-    "annotationID":    46786,
-    "sentence":"However, 1 of the few reasons Bridgewater fell in the 2014 NFL Draft was because some teams were worried about his durability."
+    "1":{
+     "propertyValue":"2014",
+     "annotationID":     46786,
+     "sentence":"However, 1 of the few reasons Bridgewater fell in the 2014 NFL Draft was because some teams were worried about his durability.",
+     "confidence":"None"
+    }
    },
    "date":"2014-09-28",
    "game_number":"4",
@@ -2342,9 +2708,12 @@
    "game_won":   false,
    "player_team_score":"28",
    "opponent_score":{
-    "propertyValue":"41",
-    "annotationID":    46787,
-    "sentence":"Ryan finished 25-of-41 for 298 yards, 3 touchdowns and the 2 meaningless picks."
+    "1":{
+     "propertyValue":"41",
+     "annotationID":     46787,
+     "sentence":"Ryan finished 25-of-41 for 298 yards, 3 touchdowns and the 2 meaningless picks.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2359,31 +2728,64 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    46790,
-    "sentence":"He gained 135 yards on 18 carries, including a 55-yard burst."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     46790,
+     "sentence":"The Vikings didn't seem to have an answer for any of the 3 primary receivers, as Julio Jones (6-82), Roddy White (4-73, TD) and Hester (5-70, TD) all had big outings.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"70",
-    "annotationID":    46791,
-    "sentence":"The Vikings didn't seem to have an answer for any of the 3 primary receivers, as Julio Jones (6-82), Roddy White (4-73, TD) and Hester (5-70, TD) all had big outings."
+    "1":{
+     "propertyValue":"70",
+     "annotationID":     46791,
+     "sentence":"The Vikings didn't seem to have an answer for any of the 3 primary receivers, as Julio Jones (6-82), Roddy White (4-73, TD) and Hester (5-70, TD) all had big outings.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    46784,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     46782,
+     "sentence":"Bridgewater made some great plays, including 1 where he juked to avoid a sack and rushed upfield to move the chains.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     46784,
+     "sentence":"However, 1 of the few reasons Bridgewater fell in the 2014 NFL Draft was because some teams were worried about his durability.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    46789,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     46788,
+     "sentence":"Ryan finished 25-of-41 for 298 yards, 3 touchdowns and the 2 meaningless picks.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     46789,
+     "sentence":"The Vikings didn't seem to have an answer for any of the 3 primary receivers, as Julio Jones (6-82), Roddy White (4-73, TD) and Hester (5-70, TD) all had big outings.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   62,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    46785,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     46783,
+     "sentence":"Bridgewater made some great plays, including 1 where he juked to avoid a sack and rushed upfield to move the chains.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     46785,
+     "sentence":"However, 1 of the few reasons Bridgewater fell in the 2014 NFL Draft was because some teams were worried about his durability.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   16,
    "punt_return_touchdowns":   0,
@@ -2571,16 +2973,22 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    52306,
-    "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     52306,
+     "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    52305,
-    "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     52305,
+     "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -2632,32 +3040,47 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    52307,
-    "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     52307,
+     "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"85",
-    "annotationID":    52308,
-    "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line."
+    "1":{
+     "propertyValue":"85",
+     "annotationID":     52308,
+     "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    52309,
-    "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     52309,
+     "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   3,
    "kick_return_yards":   81,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    52310,
-    "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     52310,
+     "sentence":"They were the 2 leading receivers, with Douglas snagging 10 balls for 131 yards, while Hester posted a 5-85-1 line.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":{
-    "propertyValue":"7",
-    "annotationID":    52311,
-    "sentence":"Roddy White (7-58) also found the end zone."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     52311,
+     "sentence":"Roddy White (7-58) also found the end zone.",
+     "confidence":"None"
+    }
    },
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
@@ -2708,9 +3131,12 @@
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   2,
    "punt_return_yards":{
-    "propertyValue":"1",
-    "annotationID":    64659,
-    "sentence":"He ran backward 8 yards on a punt return before being tackled at 1 point."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     64659,
+     "sentence":"He ran backward 8 yards on a punt return before being tackled at 1 point.",
+     "confidence":"None"
+    }
    },
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
@@ -2740,9 +3166,12 @@
    "opponent":"ATL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    75500,
-    "sentence":"Hester sprinted for a long punt return, taking the ball back inside Atlanta's 20-yard line."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     75500,
+     "sentence":"Hester sprinted for a long punt return, taking the ball back inside Atlanta's 20-yard line.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"36",
    "passing_attempts":   0,
@@ -2761,16 +3190,40 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"5",
-    "annotationID":    75501,
-    "sentence":"As a result of the hold, the Seahawks were pinned inside their own 5-yard line."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     75501,
+     "sentence":"As a result of the hold, the Seahawks were pinned inside their own 5-yard line.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   194,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    75505,
-    "sentence":"Seattle was going to have a great chance to take a 17-7 lead, but a holding penalty was called on Kevin Pierre-Louis on the return."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     75502,
+     "sentence":"The Seahawks' decision to punt on 1 occasion on a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     75503,
+     "sentence":"h-and-1 from around their own 40-yard line also hurt.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     75504,
+     "sentence":"They pinned the Falcons down at the 1-yard line, but Ryan put together a 99-yard touchdown drive.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     75505,
+     "sentence":"Wilson went 17-of-30 for 225 yards, 2 touchdowns and a couple of interceptions in garbage time, 1 of which should've been called a reception down by contact.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,

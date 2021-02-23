@@ -20,9 +20,12 @@
   "1":{
    "player_id":   22024,
    "year":{
-    "propertyValue":"2011",
-    "annotationID":    19742,
-    "sentence":"Bush was not injured but the coaches decided to give Thomas an extended look after reportedly being down on him in the early going of 2011."
+    "1":{
+     "propertyValue":"2011",
+     "annotationID":     19742,
+     "sentence":"Bush was not injured but the coaches decided to give Thomas an extended look after reportedly being down on him in the early going of 2011.",
+     "confidence":"None"
+    }
    },
    "date":"2011-09-18",
    "game_number":"2",
@@ -45,19 +48,28 @@
    "rushing_yards":   107,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    19744,
-    "sentence":"Bush was not injured but the coaches decided to give Thomas an extended look after reportedly being down on him in the early going of 2011."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19744,
+     "sentence":"Henne was 6-of-15 for 94 yards with 1 interception.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    19745,
-    "sentence":"Bush was not injured but the coaches decided to give Thomas an extended look after reportedly being down on him in the early going of 2011."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19745,
+     "sentence":"Henne was 6-of-15 for 94 yards with 1 interception.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"10",
-    "annotationID":    19743,
-    "sentence":"Thomas ran for 51 yards on 10 carries in the first half."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     19743,
+     "sentence":"Thomas ran for 51 yards on 10 carries in the first half.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -106,20 +118,47 @@
    "rushing_yards":   95,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    19933,
-    "sentence":"Wilson made an easy pick to set the Dolphins up at the Browns 43-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     19931,
+     "sentence":"He totaled 67 yards on 14 carries with 3 receptions for 19 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     19933,
+     "sentence":"Cribbs had 3 catches for 49 yards with a score.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    19934,
-    "sentence":"Wilson made an easy pick to set the Dolphins up at the Browns 43-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     19932,
+     "sentence":"He totaled 67 yards on 14 carries with 3 receptions for 19 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     19934,
+     "sentence":"Cribbs had 3 catches for 49 yards with a score.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   27,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    19929,
-    "sentence":"He completed 9-of-13 passes on the drive."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19927,
+     "sentence":"The score put Cleveland up by 1 with a minute remaining.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     19929,
+     "sentence":"For the game, McCoy was 19-of-39 for 210 yards with 2 touchdowns and 1 interception.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -129,9 +168,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    19930,
-    "sentence":"He completed 9-of-13 passes on the drive."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19928,
+     "sentence":"The score put Cleveland up by 1 with a minute remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     19930,
+     "sentence":"For the game, McCoy was 19-of-39 for 210 yards with 2 touchdowns and 1 interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -159,9 +207,12 @@
    "game_won":   true,
    "player_team_score":"31",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    22119,
-    "sentence":"Thomas was able to play with an injury, Bush had nearly twice as many carries, rushing for 92 yards and a touchdown on 13 attempts."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     22119,
+     "sentence":"He also caught 3 balls for 50 receiving yards.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -221,14 +272,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    22587,
-    "sentence":"Thomas actually led the Dolphins in carries, but his 17 attempts went for only 42 yards."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     22587,
+     "sentence":"Thomas actually led the Dolphins in carries, but his 17 attempts went for only 42 yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"42",
-    "annotationID":    22588,
-    "sentence":"Thomas actually led the Dolphins in carries, but his 17 attempts went for only 42 yards."
+    "1":{
+     "propertyValue":"42",
+     "annotationID":     22588,
+     "sentence":"Thomas actually led the Dolphins in carries, but his 17 attempts went for only 42 yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -278,20 +335,29 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    22871,
-    "sentence":"Thomas each had 15 carries, with the latter outgaining the former, 50-32."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     22871,
+     "sentence":"Thomas each had 15 carries, with the latter outgaining the former, 50-32.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"50",
-    "annotationID":    22872,
-    "sentence":"Thomas each had 15 carries, with the latter outgaining the former, 50-32."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     22872,
+     "sentence":"Thomas each had 15 carries, with the latter outgaining the former, 50-32.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    22873,
-    "sentence":"Thomas each had 15 carries, with the latter outgaining the former, 50-32."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     22873,
+     "sentence":"Epic gambling moment: The Dolphins took a safety toward the end of the game after taking over on downs at their own 1-yard line.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -486,14 +552,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    27878,
-    "sentence":"He managed to tally 69 rushing yards (19 carries) and a touchdown, but lost a fumble in his own territory."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     27878,
+     "sentence":"He managed to tally 69 rushing yards (19 carries) and a touchdown, but lost a fumble in his own territory.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"69",
-    "annotationID":    27877,
-    "sentence":"He managed to tally 69 rushing yards (19 carries) and a touchdown, but lost a fumble in his own territory."
+    "1":{
+     "propertyValue":"69",
+     "annotationID":     27877,
+     "sentence":"He managed to tally 69 rushing yards (19 carries) and a touchdown, but lost a fumble in his own territory.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -543,14 +615,32 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    28521,
-    "sentence":"Thomas (4-4), lost a goal-line carry to Jorvorskie Lane, who converted."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     28519,
+     "sentence":"Thomas (4-4), lost a goal-line carry to Jorvorskie Lane, who converted.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     28521,
+     "sentence":"Thomas (4-4), lost a goal-line carry to Jorvorskie Lane, who converted.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"4",
-    "annotationID":    28522,
-    "sentence":"Thomas (4-4), lost a goal-line carry to Jorvorskie Lane, who converted."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     28520,
+     "sentence":"Thomas (4-4), lost a goal-line carry to Jorvorskie Lane, who converted.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     28522,
+     "sentence":"Thomas (4-4), lost a goal-line carry to Jorvorskie Lane, who converted.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -600,14 +690,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    28782,
-    "sentence":"Thomas (10-29) touchdown."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     28782,
+     "sentence":"Thomas (10-29) touchdown.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"29",
-    "annotationID":    28783,
-    "sentence":"Thomas (10-29) touchdown."
+    "1":{
+     "propertyValue":"29",
+     "annotationID":     28783,
+     "sentence":"Thomas (10-29) touchdown.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -657,14 +753,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    30088,
-    "sentence":"Thomas (15-42) touchdown plunge."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     30088,
+     "sentence":"Thomas (15-42) touchdown plunge.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"42",
-    "annotationID":    30089,
-    "sentence":"Thomas (15-42) touchdown plunge."
+    "1":{
+     "propertyValue":"42",
+     "annotationID":     30089,
+     "sentence":"Thomas (15-42) touchdown plunge.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -714,17 +816,35 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    30981,
-    "sentence":"Thomas had the same amount of yardage on 5 attempts."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     30979,
+     "sentence":"Thomas had the same amount of yardage on 5 attempts.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     30981,
+     "sentence":"There's no excuse for giving him just 5 touches.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   21,
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    30982,
-    "sentence":"Thomas had the same amount of yardage on 5 attempts."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     30980,
+     "sentence":"Thomas had the same amount of yardage on 5 attempts.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     30982,
+     "sentence":"There's no excuse for giving him just 5 touches.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   34,
    "receiving_touchdowns":   0,
@@ -771,14 +891,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    32001,
-    "sentence":"Tannehill's top targets were Davone Bess (7-129) and Charles Clay (6-84, TD)."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     32001,
+     "sentence":"Reggie Bush and Daniel Thomas (9-60) both scored.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"60",
-    "annotationID":    32002,
-    "sentence":"Reggie Bush and Daniel Thomas (9-60) both scored."
+    "1":{
+     "propertyValue":"60",
+     "annotationID":     32002,
+     "sentence":"Reggie Bush and Daniel Thomas (9-60) both scored.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -828,14 +954,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    35094,
-    "sentence":"Thomas (8-14)."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     35094,
+     "sentence":"Thomas (8-14).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"14",
-    "annotationID":    35095,
-    "sentence":"Thomas (8-14)."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     35095,
+     "sentence":"Thomas (8-14).",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -885,25 +1017,37 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    35826,
-    "sentence":"Thomas (8-30)."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     35826,
+     "sentence":"Thomas (8-30).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"30",
-    "annotationID":    35827,
-    "sentence":"Thomas (8-30)."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     35827,
+     "sentence":"Thomas (8-30).",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    35828,
-    "sentence":"Luck went 25-of-43 for 321 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     35828,
+     "sentence":"Luck went 25-of-43 for 321 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    35829,
-    "sentence":"Luck went 25-of-43 for 321 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     35829,
+     "sentence":"Luck went 25-of-43 for 321 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   10,
    "receiving_touchdowns":   0,
@@ -951,24 +1095,36 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   5,
    "rushing_yards":{
-    "propertyValue":"21",
-    "annotationID":    36503,
-    "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     36503,
+     "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    36504,
-    "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     36504,
+     "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    36505,
-    "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     36505,
+     "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    36506,
-    "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     36506,
+     "sentence":"The much more talented Miller outgained his teammate, 62-21, but Thomas was the 1 who found the end zone.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -1015,14 +1171,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    38561,
-    "sentence":"Thomas had 60 yards on 12 carries, while Miller gained 43 yards on 9 tries."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     38561,
+     "sentence":"Thomas had 60 yards on 12 carries, while Miller gained 43 yards on 9 tries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"60",
-    "annotationID":    38560,
-    "sentence":"Thomas had 60 yards on 12 carries, while Miller gained 43 yards on 9 tries."
+    "1":{
+     "propertyValue":"60",
+     "annotationID":     38560,
+     "sentence":"Thomas had 60 yards on 12 carries, while Miller gained 43 yards on 9 tries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -1062,9 +1224,12 @@
    "opponent":"NWE",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    39054,
-    "sentence":"yard line, Tannehill threw a bullet to Thomas for a touchdown and a 17-3 halftime lead."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     39054,
+     "sentence":"yard line, Tannehill threw a bullet to Thomas for a touchdown and a 17-3 halftime lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -1076,22 +1241,31 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    39051,
-    "sentence":"Thomas (9-47)."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     39051,
+     "sentence":"Thomas (9-47).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"47",
-    "annotationID":    39052,
-    "sentence":"Thomas (9-47)."
+    "1":{
+     "propertyValue":"47",
+     "annotationID":     39052,
+     "sentence":"Thomas (9-47).",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"5",
-    "annotationID":    39053,
-    "sentence":"On third-and-3 at the 5."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     39053,
+     "sentence":"On third-and-3 at the 5.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1137,20 +1311,29 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    39396,
-    "sentence":"Thomas (12-38) - though he did fumble after a 41-yard inside the Cincinnati 10-yard line - yet the latter eats into way too many of Miller's carries."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     39396,
+     "sentence":"Thomas (12-38) - though he did fumble after a 41-yard inside the Cincinnati 10-yard line - yet the latter eats into way too many of Miller's carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"38",
-    "annotationID":    39397,
-    "sentence":"Thomas (12-38) - though he did fumble after a 41-yard inside the Cincinnati 10-yard line - yet the latter eats into way too many of Miller's carries."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     39397,
+     "sentence":"Thomas (12-38) - though he did fumble after a 41-yard inside the Cincinnati 10-yard line - yet the latter eats into way too many of Miller's carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    39398,
-    "sentence":"Thomas (12-38) - though he did fumble after a 41-yard inside the Cincinnati 10-yard line - yet the latter eats into way too many of Miller's carries."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39398,
+     "sentence":"Thomas was stuffed on 2 third-and-short situations in this contest.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   1,
    "receiving_yards":   4,
@@ -1198,9 +1381,12 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    40770,
-    "sentence":"Thomas did play well for a change, gaining 57 yards and a touchdown on 10 carries, but Miller (4-17) has more game-breaking ability and probably could have done more than Thomas if he received a greater workload."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     40770,
+     "sentence":"Thomas did play well for a change, gaining 57 yards and a touchdown on 10 carries, but Miller (4-17) has more game-breaking ability and probably could have done more than Thomas if he received a greater workload.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -2,
    "rushing_touchdowns":   0,
@@ -1251,14 +1437,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    40772,
-    "sentence":"Thomas did play well for a change, gaining 57 yards and a touchdown on 10 carries, but Miller (4-17) has more game-breaking ability and probably could have done more than Thomas if he received a greater workload."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     40772,
+     "sentence":"Thomas did play well for a change, gaining 57 yards and a touchdown on 10 carries, but Miller (4-17) has more game-breaking ability and probably could have done more than Thomas if he received a greater workload.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"57",
-    "annotationID":    40771,
-    "sentence":"Thomas did play well for a change, gaining 57 yards and a touchdown on 10 carries, but Miller (4-17) has more game-breaking ability and probably could have done more than Thomas if he received a greater workload."
+    "1":{
+     "propertyValue":"57",
+     "annotationID":     40771,
+     "sentence":"Thomas did play well for a change, gaining 57 yards and a touchdown on 10 carries, but Miller (4-17) has more game-breaking ability and probably could have done more than Thomas if he received a greater workload.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1308,14 +1500,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    41215,
-    "sentence":"Thomas (3-8) combined for half of that total."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     41215,
+     "sentence":"Thomas (3-8) combined for half of that total.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"8",
-    "annotationID":    41216,
-    "sentence":"Thomas (3-8) combined for half of that total."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     41216,
+     "sentence":"Thomas (3-8) combined for half of that total.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -1365,14 +1563,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"16",
-    "annotationID":    42321,
-    "sentence":"Thomas did all of the damage, generating 105 yards and a score on 16 attempts."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     42321,
+     "sentence":"Thomas did all of the damage, generating 105 yards and a score on 16 attempts.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"105",
-    "annotationID":    42320,
-    "sentence":"Thomas did all of the damage, generating 105 yards and a score on 16 attempts."
+    "1":{
+     "propertyValue":"105",
+     "annotationID":     42320,
+     "sentence":"Thomas did all of the damage, generating 105 yards and a score on 16 attempts.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -1471,14 +1675,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    43084,
-    "sentence":"Thomas received most of the workload, but mustered just 6 yards on 9 carries."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     43084,
+     "sentence":"Thomas received most of the workload, but mustered just 6 yards on 9 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"6",
-    "annotationID":    43083,
-    "sentence":"Thomas received most of the workload, but mustered just 6 yards on 9 carries."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     43083,
+     "sentence":"Thomas received most of the workload, but mustered just 6 yards on 9 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,

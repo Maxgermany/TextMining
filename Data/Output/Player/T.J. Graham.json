@@ -28,9 +28,12 @@
    "opponent":"CLE",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"24",
-    "annotationID":    27792,
-    "sentence":"Graham (3-24) and Johnson (7-61)."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     27792,
+     "sentence":"Graham (3-24) and Johnson (7-61).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"14",
    "passing_attempts":   0,
@@ -46,14 +49,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    27791,
-    "sentence":"Graham (3-24) and Johnson (7-61)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     27791,
+     "sentence":"Graham (3-24) and Johnson (7-61).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"24",
-    "annotationID":    27793,
-    "sentence":"Graham (3-24) and Johnson (7-61)."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     27793,
+     "sentence":"Graham (3-24) and Johnson (7-61).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -201,14 +210,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    37945,
-    "sentence":"Graham for 47 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     37944,
+     "sentence":"Cincinnati even had a 98-yard touchdown drive after the Bills failed to find the end zone on 4 tries from the 1-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     37945,
+     "sentence":"Graham (4-74), Marquise Goodwin (2-51, TD) and Scott Chandler (2-47).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"74",
-    "annotationID":    37946,
-    "sentence":"Graham (4-74), Marquise Goodwin (2-51, TD) and Scott Chandler (2-47)."
+    "1":{
+     "propertyValue":"74",
+     "annotationID":     37946,
+     "sentence":"Graham (4-74), Marquise Goodwin (2-51, TD) and Scott Chandler (2-47).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -244,9 +265,12 @@
    "opponent":"KAN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    39452,
-    "sentence":"Graham fumble returned for a touchdown by Tamba Hali when the game was tied at 13."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     39452,
+     "sentence":"Graham fumble returned for a touchdown by Tamba Hali when the game was tied at 13.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"23",
    "passing_attempts":   0,
@@ -311,9 +335,18 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    40474,
-    "sentence":"He snagged the reception for a 38-yard score, which turned out to be the first of 2 E."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40473,
+     "sentence":"He snagged the reception for a 38-yard score, which turned out to be the first of 2 E.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     40474,
+     "sentence":"He let only 8 passes hit the ground, going 20-of-28 for 245 yards and 2 touchdowns despite missing both of his starting receivers.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   74,
    "receiving_touchdowns":   1,
@@ -364,19 +397,82 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    43888,
-    "sentence":"This was just 1 of 3 instances in which Buffalo failed to convert on 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     43878,
+     "sentence":"This was just 1 of 3 instances in which Buffalo failed to convert on 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     43882,
+     "sentence":"The score was thrown to Vereen (3-42), who was just 1 of 2 New England players to record more than 1 reception.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     43886,
+     "sentence":"Manuel's aerial score went to Graham (3-62).",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"3",
+     "annotationID":     43888,
+     "sentence":"Jackson secured Buffalo's other touchdown (14-60); he was a factor in the passing game (3 catches, 53 receiving yards), though he was outgained on the ground by ",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"62",
-    "annotationID":    43887,
-    "sentence":"And if that wasn't enough, he inexplicably had kickoff returns of 83 and 62 yards in the second half."
+    "1":{
+     "propertyValue":"62",
+     "annotationID":     43880,
+     "sentence":"And if that wasn't enough, he inexplicably had kickoff returns of 83 and 62 yards in the second half.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"62",
+     "annotationID":     43887,
+     "sentence":"Manuel's aerial score went to Graham (3-62).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    43885,
-    "sentence":"This was just 1 of 3 instances in which Buffalo failed to convert on 4."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     43877,
+     "sentence":"This was just 1 of 3 instances in which Buffalo failed to convert on 4.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     43879,
+     "sentence":"h-and-1 field goal attempt allowed the Patriots to score a touchdown.",
+     "confidence":"Strong"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     43881,
+     "sentence":"He went 14-of-24 for 122 yards, 1 touchdown and the aforementioned interception.",
+     "confidence":"Strong"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     43883,
+     "sentence":"The score was thrown to Vereen (3-42), who was just 1 of 2 New England players to record more than 1 reception.",
+     "confidence":"Weak"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     43884,
+     "sentence":"The score was thrown to Vereen (3-42), who was just 1 of 2 New England players to record more than 1 reception.",
+     "confidence":"Weak"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     43885,
+     "sentence":"Considering all of the drops and the horrible weather, his 16-of-29, 247-yard and 1.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -424,24 +520,90 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    49876,
-    "sentence":"They went up 10-0 and never looked back."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49864,
+     "sentence":"On 1 instance, he stood in the pocket for what seemed like an eternity.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     49868,
+     "sentence":"Shaun Suisham whiffed on a field goal, while LeGarrette Blount inexplicably ran backward for a loss of 7 yards on second-and-goal at the 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     49872,
+     "sentence":"Roethlisberger finished 30-of-43 for 343 yards, 1 touchdown and the 2 picks.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     49876,
+     "sentence":"Excluding Graham, who had just 1 catch - his 67-yard touchdown - the Jets' leading receiver was Eric Decker, who caught 3 balls for just 24 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    49877,
-    "sentence":"They went up 10-0 and never looked back."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49865,
+     "sentence":"On 1 instance, he stood in the pocket for what seemed like an eternity.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     49869,
+     "sentence":"Shaun Suisham whiffed on a field goal, while LeGarrette Blount inexplicably ran backward for a loss of 7 yards on second-and-goal at the 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     49873,
+     "sentence":"Roethlisberger finished 30-of-43 for 343 yards, 1 touchdown and the 2 picks.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     49877,
+     "sentence":"Excluding Graham, who had just 1 catch - his 67-yard touchdown - the Jets' leading receiver was Eric Decker, who caught 3 balls for just 24 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"67",
-    "annotationID":    49880,
-    "sentence":"Excluding Graham, who had just 1 catch - his 67-yard touchdown - the Jets' leading receiver was Eric Decker, who caught 3 balls for just 24 yards."
+    "1":{
+     "propertyValue":"67",
+     "annotationID":     49880,
+     "sentence":"Excluding Graham, who had just 1 catch - his 67-yard touchdown - the Jets' leading receiver was Eric Decker, who caught 3 balls for just 24 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    49878,
-    "sentence":"They went up 10-0 and never looked back."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49866,
+     "sentence":"On 1 instance, he stood in the pocket for what seemed like an eternity.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     49870,
+     "sentence":"Shaun Suisham whiffed on a field goal, while LeGarrette Blount inexplicably ran backward for a loss of 7 yards on second-and-goal at the 1-yard line.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     49874,
+     "sentence":"Roethlisberger finished 30-of-43 for 343 yards, 1 touchdown and the 2 picks.",
+     "confidence":"Strong"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     49878,
+     "sentence":"Excluding Graham, who had just 1 catch - his 67-yard touchdown - the Jets' leading receiver was Eric Decker, who caught 3 balls for just 24 yards.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -451,9 +613,30 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    49879,
-    "sentence":"They went up 10-0 and never looked back."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49867,
+     "sentence":"On 1 instance, he stood in the pocket for what seemed like an eternity.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     49871,
+     "sentence":"Shaun Suisham whiffed on a field goal, while LeGarrette Blount inexplicably ran backward for a loss of 7 yards on second-and-goal at the 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     49875,
+     "sentence":"Roethlisberger finished 30-of-43 for 343 yards, 1 touchdown and the 2 picks.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     49879,
+     "sentence":"Excluding Graham, who had just 1 catch - his 67-yard touchdown - the Jets' leading receiver was Eric Decker, who caught 3 balls for just 24 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

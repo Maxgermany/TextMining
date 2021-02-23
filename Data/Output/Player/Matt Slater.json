@@ -28,9 +28,12 @@
    "opponent":"PIT",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    4289,
-    "sentence":"PIT 20, NE 10."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     4289,
+     "sentence":"PIT 20, NE 10.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"33",
    "passing_attempts":   0,
@@ -49,9 +52,18 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    4290,
-    "sentence":"Pittsburgh recovered at New England's 8-yard line, and scored 2 plays later."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     4288,
+     "sentence":"Pittsburgh recovered at New England's 8-yard line, and scored 2 plays later.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     4290,
+     "sentence":"2.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   14,
    "kick_return_touchdowns":   0,

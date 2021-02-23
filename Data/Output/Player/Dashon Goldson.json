@@ -176,9 +176,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"19",
-    "annotationID":    27752,
-    "sentence":"Stafford finished 19-of-32 for 230 yards and a touchdown to "
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     27752,
+     "sentence":"Stafford finished 19-of-32 for 230 yards and a touchdown to ",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -474,9 +477,12 @@
    "game_won":   false,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"31",
-    "annotationID":    38179,
-    "sentence":"Foles completed 22-of-31 passes for 296 yards with 3 touchdowns and a running score."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     38179,
+     "sentence":"Foles completed 22-of-31 passes for 296 yards with 3 touchdowns and a running score.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -502,9 +508,18 @@
    "defense_sacks":   0,
    "defense_tackles":   8,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    38180,
-    "sentence":"The running of McCoy (25-116 rushing, 2-55 receiving) set up a field goal to ice the win for the Eagles."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     38178,
+     "sentence":"The running of McCoy (25-116 rushing, 2-55 receiving) set up a field goal to ice the win for the Eagles.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     38180,
+     "sentence":"He completed 26-of-43 passes for 273 yards with 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -580,9 +595,12 @@
    "game_won":   true,
    "player_team_score":"22",
    "opponent_score":{
-    "propertyValue":"19",
-    "annotationID":    40765,
-    "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     40765,
+     "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -608,9 +626,18 @@
    "defense_sacks":   0,
    "defense_tackles":   6,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    40767,
-    "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40766,
+     "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     40767,
+     "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -660,9 +687,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    40769,
-    "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40768,
+     "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     40769,
+     "sentence":"Ryan was 19-of-36 for 254 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,

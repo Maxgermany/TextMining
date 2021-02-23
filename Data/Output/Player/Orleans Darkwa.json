@@ -38,14 +38,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    53277,
-    "sentence":"Darkwa (4-21) darting into the end zone with a 12-yard score."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     53277,
+     "sentence":"Darkwa (4-21) darting into the end zone with a 12-yard score.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"21",
-    "annotationID":    53278,
-    "sentence":"Darkwa (4-21) darting into the end zone with a 12-yard score."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     53278,
+     "sentence":"Darkwa (4-21) darting into the end zone with a 12-yard score.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
@@ -86,9 +92,12 @@
    "game_won":   false,
    "player_team_score":"7",
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    58442,
-    "sentence":"Dallas responded with a field goal drive that was led by a 27-yard pass to Terrance Williams, but a questionable offensive pass interference penalty negated a 31-yard touchdown pass to Darren McFadden."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     58442,
+     "sentence":"Dallas responded with a field goal drive that was led by a 27-yard pass to Terrance Williams, but a questionable offensive pass interference penalty negated a 31-yard touchdown pass to Darren McFadden.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -138,14 +147,26 @@
    "opponent":"DAL",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    58443,
-    "sentence":"Dallas responded with a field goal drive that was led by a 27-yard pass to Terrance Williams, but a questionable offensive pass interference penalty negated a 31-yard touchdown pass to Darren McFadden."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     58443,
+     "sentence":"Dallas responded with a field goal drive that was led by a 27-yard pass to Terrance Williams, but a questionable offensive pass interference penalty negated a 31-yard touchdown pass to Darren McFadden.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    58451,
-    "sentence":"Dallas stopped the drive, but Josh Brown hit a 34-yard field goal to give New York a 20-13 lead."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     58450,
+     "sentence":"Dallas stopped the drive, but Josh Brown hit a 34-yard field goal to give New York a 20-13 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"20",
+     "annotationID":     58451,
+     "sentence":"With the game tied at 20, former Cowboy Dwayne Harris brought the kickoff back 100 yards for the game-winning touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -156,24 +177,72 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    58452,
-    "sentence":"The big play was a 38-yard slant to Dwayne Harris."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     58452,
+     "sentence":"Shane Vereen (4-56), Orleans Darkwa (8-48-1), Rashad Jennings (5-19) and Andre Williams (4-13) split up the carries for New York.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"48",
-    "annotationID":    58453,
-    "sentence":"Shane Vereen (4-56), Orleans Darkwa (8-48-1), Rashad Jennings (5-19) and Andre Williams (4-13) split up the carries for New York."
+    "1":{
+     "propertyValue":"48",
+     "annotationID":     58453,
+     "sentence":"Shane Vereen (4-56), Orleans Darkwa (8-48-1), Rashad Jennings (5-19) and Andre Williams (4-13) split up the carries for New York.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    58454,
-    "sentence":"Darkwa started rolling over the Dallas defense as he had carries of 9 and 10 yards before a 15-yard touchdown to cap the drive."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58444,
+     "sentence":"For 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     58446,
+     "sentence":"On the next drive, Dallas went into New York territory before Cassel threw a floater deep down the field and Brandon Meriweather ran under it for an interception at the Giants' 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     58448,
+     "sentence":"Randle made an amazing 1.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     58454,
+     "sentence":"Shane Vereen (4-56), Orleans Darkwa (8-48-1), Rashad Jennings (5-19) and Andre Williams (4-13) split up the carries for New York.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    58455,
-    "sentence":"Darkwa started rolling over the Dallas defense as he had carries of 9 and 10 yards before a 15-yard touchdown to cap the drive."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58445,
+     "sentence":"For 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     58447,
+     "sentence":"On the next drive, Dallas went into New York territory before Cassel threw a floater deep down the field and Brandon Meriweather ran under it for an interception at the Giants' 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     58449,
+     "sentence":"Randle made an amazing 1.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     58455,
+     "sentence":"Shane Vereen (4-56), Orleans Darkwa (8-48-1), Rashad Jennings (5-19) and Andre Williams (4-13) split up the carries for New York.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -212,9 +281,12 @@
    "game_won":   false,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"23",
-    "annotationID":    61057,
-    "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     61057,
+     "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -225,21 +297,30 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    61059,
-    "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     61059,
+     "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"23",
-    "annotationID":    61058,
-    "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     61058,
+     "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    61060,
-    "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     61060,
+     "sentence":"Darkwa led the way with 23 yards on 8 carries, while Andre Williams (6-22) was given too many attempts; he was stuffed on 1 short-yardage try.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   10,
    "receiving_touchdowns":   0,
@@ -335,14 +416,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    65659,
-    "sentence":"Both ran well, with Vereen gaining 67 yards and a touchdown on 11 carries, while Darkwa managed 53 yards and a score on 10 tries."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     65659,
+     "sentence":"Both ran well, with Vereen gaining 67 yards and a touchdown on 11 carries, while Darkwa managed 53 yards and a score on 10 tries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"53",
-    "annotationID":    65658,
-    "sentence":"Both ran well, with Vereen gaining 67 yards and a touchdown on 11 carries, while Darkwa managed 53 yards and a score on 10 tries."
+    "1":{
+     "propertyValue":"53",
+     "annotationID":     65658,
+     "sentence":"Both ran well, with Vereen gaining 67 yards and a touchdown on 11 carries, while Darkwa managed 53 yards and a score on 10 tries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -441,14 +528,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    67464,
-    "sentence":"Darkwa had the most carries (7-11), while Rainey gained 22 yards on 5 tries, though most of that came on a 14-yard burst late in the game."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     67464,
+     "sentence":"Darkwa had the most carries (7-11), while Rainey gained 22 yards on 5 tries, though most of that came on a 14-yard burst late in the game.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"11",
-    "annotationID":    67465,
-    "sentence":"Darkwa had the most carries (7-11), while Rainey gained 22 yards on 5 tries, though most of that came on a 14-yard burst late in the game."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     67465,
+     "sentence":"Darkwa had the most carries (7-11), while Rainey gained 22 yards on 5 tries, though most of that came on a 14-yard burst late in the game.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -547,14 +640,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    77267,
-    "sentence":"Darkwa led the team with 22 yards on 7 carries."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     77267,
+     "sentence":"Darkwa led the team with 22 yards on 7 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"22",
-    "annotationID":    77266,
-    "sentence":"Darkwa led the team with 22 yards on 7 carries."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     77266,
+     "sentence":"Darkwa led the team with 22 yards on 7 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -594,14 +693,44 @@
    "opponent":"LAC",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"22",
-    "annotationID":    78559,
-    "sentence":"The Chargers got moving with a 22-yard pass to Tyrell Williams (1-22), aided by a 15-yard penalty on B."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     78548,
+     "sentence":"The Chargers got moving with a 22-yard pass to Tyrell Williams (1-22), aided by a 15-yard penalty on B.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"22",
+     "annotationID":     78551,
+     "sentence":"The Chargers got moving with a 22-yard pass to Tyrell Williams (1-22), aided by a 15-yard penalty on B.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"22",
+     "annotationID":     78556,
+     "sentence":"point attempt failed, so New York had a 22-17 lead.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"22",
+     "annotationID":     78557,
+     "sentence":"Los Angeles cut the lead to 22-20 with just under 5 minutes remaining.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"22",
+     "annotationID":     78559,
+     "sentence":"A few plays later, Rivers hit Gordon in the flat, and Gordon darted into the end zone to give the Chargers a 27-22 lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    78558,
-    "sentence":"A few plays later, Rivers hit Gordon in the flat, and Gordon darted into the end zone to give the Chargers a 27-22 lead."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     78558,
+     "sentence":"A few plays later, Rivers hit Gordon in the flat, and Gordon darted into the end zone to give the Chargers a 27-22 lead.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -612,34 +741,124 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    78544,
-    "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     78544,
+     "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"69",
-    "annotationID":    78545,
-    "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter."
+    "1":{
+     "propertyValue":"69",
+     "annotationID":     78545,
+     "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    78565,
-    "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     78546,
+     "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     78549,
+     "sentence":"The Chargers got moving with a 22-yard pass to Tyrell Williams (1-22), aided by a 15-yard penalty on B.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     78553,
+     "sentence":"Once again, the Giants were burned by a tight end as Rivers made a tremendous throw off his back foot to lead Hunter Henry (3-42-1) past 2 safeties for a 25-yard touchdown pass.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     78560,
+     "sentence":"Manning had 1 more chance, but after getting to midfield, a tipped pass was picked off by Tre Boston to clinch the victory for Los Angeles.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     78562,
+     "sentence":"Manning completed 21-of-36 for 225 yards with 2 touchdowns and 1 interception.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     78565,
+     "sentence":"Rivers completed 21-of-44 passes for 258 yards with 3 touchdowns and 1 interception.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    78567,
-    "sentence":"Once again, the Giants were burned by a tight end as Rivers made a tremendous throw off his back foot to lead Hunter Henry (3-42-1) past 2 safeties for a 25-yard touchdown pass."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78555,
+     "sentence":"That gave the Chargers a 17-16 lead entering the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78567,
+     "sentence":"Allen led the Chargers in receiving with 4 reception for 67 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    78566,
-    "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     78547,
+     "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     78550,
+     "sentence":"The Chargers got moving with a 22-yard pass to Tyrell Williams (1-22), aided by a 15-yard penalty on B.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     78554,
+     "sentence":"Once again, the Giants were burned by a tight end as Rivers made a tremendous throw off his back foot to lead Hunter Henry (3-42-1) past 2 safeties for a 25-yard touchdown pass.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     78561,
+     "sentence":"Manning had 1 more chance, but after getting to midfield, a tipped pass was picked off by Tre Boston to clinch the victory for Los Angeles.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     78563,
+     "sentence":"Manning completed 21-of-36 for 225 yards with 2 touchdowns and 1 interception.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     78566,
+     "sentence":"Rivers completed 21-of-44 passes for 258 yards with 3 touchdowns and 1 interception.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"3",
-    "annotationID":    78564,
-    "sentence":"Darkwa (8-69-1) was bursting through some huge holes, including a 23-yard touchdown run that put up New York 9-0 at the end of the first quarter."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     78552,
+     "sentence":"Once again, the Giants were burned by a tight end as Rivers made a tremendous throw off his back foot to lead Hunter Henry (3-42-1) past 2 safeties for a 25-yard touchdown pass.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     78564,
+     "sentence":"Rivers completed 21-of-44 passes for 258 yards with 3 touchdowns and 1 interception.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -685,25 +904,37 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    79352,
-    "sentence":"1 ground defense for 117 yards on 21 carries."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     79352,
+     "sentence":"1 ground defense for 117 yards on 21 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"117",
-    "annotationID":    79351,
-    "sentence":"1 ground defense for 117 yards on 21 carries."
+    "1":{
+     "propertyValue":"117",
+     "annotationID":     79351,
+     "sentence":"1 ground defense for 117 yards on 21 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    79349,
-    "sentence":"1 ground defense for 117 yards on 21 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79349,
+     "sentence":"1 ground defense for 117 yards on 21 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    79350,
-    "sentence":"1 ground defense for 117 yards on 21 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79350,
+     "sentence":"1 ground defense for 117 yards on 21 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   13,
    "receiving_touchdowns":   0,
@@ -750,14 +981,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    79781,
-    "sentence":"Darkwa led the way with 9 carries and got 35 yards against the tough Seattle defense."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     79781,
+     "sentence":"Darkwa led the way with 9 carries and got 35 yards against the tough Seattle defense.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"35",
-    "annotationID":    79782,
-    "sentence":"Darkwa led the way with 9 carries and got 35 yards against the tough Seattle defense."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     79782,
+     "sentence":"Darkwa led the way with 9 carries and got 35 yards against the tough Seattle defense.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -807,14 +1044,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"16",
-    "annotationID":    80612,
-    "sentence":"Darkwa could've eclipsed the century mark with a full workload, but had 71 yards on just 16 carries."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     80612,
+     "sentence":"Darkwa could've eclipsed the century mark with a full workload, but had 71 yards on just 16 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"71",
-    "annotationID":    80611,
-    "sentence":"Darkwa could've eclipsed the century mark with a full workload, but had 71 yards on just 16 carries."
+    "1":{
+     "propertyValue":"71",
+     "annotationID":     80611,
+     "sentence":"Darkwa could've eclipsed the century mark with a full workload, but had 71 yards on just 16 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -864,14 +1107,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    81215,
-    "sentence":"Darkwa ran for 70 yards on 14 carries."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     81215,
+     "sentence":"Darkwa ran for 70 yards on 14 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"70",
-    "annotationID":    81214,
-    "sentence":"Darkwa ran for 70 yards on 14 carries."
+    "1":{
+     "propertyValue":"70",
+     "annotationID":     81214,
+     "sentence":"Darkwa ran for 70 yards on 14 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -912,9 +1161,18 @@
    "game_won":   true,
    "player_team_score":"12",
    "opponent_score":{
-    "propertyValue":"9",
-    "annotationID":    81644,
-    "sentence":"New York hit a 26-yard field goal to go up 9-6 with 1:38 left."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     81642,
+     "sentence":"New York hit a 26-yard field goal to go up 9-6 with 1:38 left.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"9",
+     "annotationID":     81644,
+     "sentence":"Smith threw some short passes and ran for a first down to get inside the 15, but shots at the end zone went incomplete, so Kansas City tied the game at 9 to force overtime.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -925,29 +1183,74 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    81650,
-    "sentence":"Eli Manning was 19-of-35 for 205 yards with zero touchdowns and zero interceptions."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     81650,
+     "sentence":"Darkwa had 74 yards on 20 carries with a touchdown.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"74",
-    "annotationID":    81649,
-    "sentence":"Darkwa had 74 yards on 20 carries with a touchdown."
+    "1":{
+     "propertyValue":"74",
+     "annotationID":     81649,
+     "sentence":"Darkwa had 74 yards on 20 carries with a touchdown.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    81643,
-    "sentence":"Smith then hit Kelce for 21 yards to get inside the 15, but the drive stalled."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     81643,
+     "sentence":"New York hit a 26-yard field goal to go up 9-6 with 1:38 left.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    81646,
-    "sentence":"The Chiefs drove across midfield, and Alex Smith converted a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     81639,
+     "sentence":"The Chiefs drove across midfield, and Alex Smith converted a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     81640,
+     "sentence":"Midway through the 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     81646,
+     "sentence":"With less than 2 minutes remaining in the extra period, Roger Lewis (3-55) made an incredible catch on 4.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    81648,
-    "sentence":"Smith then hit Kelce for 21 yards to get inside the 15, but the drive stalled."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     81641,
+     "sentence":"Jenkins then returned the pick to the Chiefs' 23-yard line with just over 2 minutes remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     81645,
+     "sentence":"With less than 2 minutes remaining in the extra period, Roger Lewis (3-55) made an incredible catch on 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     81647,
+     "sentence":"That got the Giants to the Kansas City 2-yard line, and soon Aldrick Rosas drilled the 23-yard field goal for the win.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     81648,
+     "sentence":"Smith was 27-of-40 for 230 yards with 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,

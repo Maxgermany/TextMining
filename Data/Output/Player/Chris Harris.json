@@ -29,9 +29,18 @@
    "game_won":   true,
    "player_team_score":"38",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    22265,
-    "sentence":"Oakland was stunned as the third quarter ended with a 24-24 tie."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     22264,
+     "sentence":"Oakland was stunned as the third quarter ended with a 24-24 tie.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"24",
+     "annotationID":     22265,
+     "sentence":"Oakland was stunned as the third quarter ended with a 24-24 tie.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -154,9 +163,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    24758,
-    "sentence":"Hanie went 12-of-19 for 115 yards, but took 4 sacks because Mike Martz had him take too many 7."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     24757,
+     "sentence":"Hanie went 12-of-19 for 115 yards, but took 4 sacks because Mike Martz had him take too many 7.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     24758,
+     "sentence":"Only 4 Bears caught passes: ",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,
@@ -526,14 +544,20 @@
    "opponent":"PIT",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    62538,
-    "sentence":"Roethlisberger pelted him with targets, and after a third-quarter touchdown to get the Steelers within 7 points, Brown finished the scoring with a beautiful pass from Roethlisberger for the receiver's second touchdown of the game, to make it 34-27."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     62538,
+     "sentence":"Roethlisberger pelted him with targets, and after a third-quarter touchdown to get the Steelers within 7 points, Brown finished the scoring with a beautiful pass from Roethlisberger for the receiver's second touchdown of the game, to make it 34-27.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"34",
-    "annotationID":    62537,
-    "sentence":"Roethlisberger pelted him with targets, and after a third-quarter touchdown to get the Steelers within 7 points, Brown finished the scoring with a beautiful pass from Roethlisberger for the receiver's second touchdown of the game, to make it 34-27."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     62537,
+     "sentence":"Roethlisberger pelted him with targets, and after a third-quarter touchdown to get the Steelers within 7 points, Brown finished the scoring with a beautiful pass from Roethlisberger for the receiver's second touchdown of the game, to make it 34-27.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -559,9 +583,24 @@
    "defense_sacks":   0,
    "defense_tackles":   3,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    62539,
-    "sentence":"Coming into this game, the Broncos had allowed 115 completions on 204 wide receiver targets for 1,316 yards and 2 touchdowns to wide receivers."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     62535,
+     "sentence":"Coming into this game, the Broncos had allowed 115 completions on 204 wide receiver targets for 1,316 yards and 2 touchdowns to wide receivers.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     62536,
+     "sentence":"That's in 13 games, so entire opposing wide receiver groups had averaged barely over 100 yards receiving, and you can barely see the number that happens after you divide 2 by 13.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     62539,
+     "sentence":"He threw 1 interception, but had 2 others bounce off Steelers defensive backs' hands.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -611,9 +650,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    64332,
-    "sentence":"Given how horribly Carolina's 2-minute offense was at the end of the game - the team took its time and wasted a timeout - it wouldn't shock me at all if Newton were truly concussed at the very end."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     64332,
+     "sentence":"Given how horribly Carolina's 2-minute offense was at the end of the game - the team took its time and wasted a timeout - it wouldn't shock me at all if Newton were truly concussed at the very end.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,

@@ -126,9 +126,12 @@
    "opponent":"PHI",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    24615,
-    "sentence":"Losman (6-of-10, 60 yards) because of a concussion."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     24615,
+     "sentence":"Losman (6-of-10, 60 yards) because of a concussion.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"26",
    "passing_attempts":   0,
@@ -153,14 +156,32 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    24616,
-    "sentence":"Taylor; the Eagles had a blocked punt go against them; and Matt Moore threw a beautiful touch pass to Brandon Marshall (4-27, TD) to give the Dolphins a 7-0 lead."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     24613,
+     "sentence":"However, McCoy had just 38 yards (though with 2 touchdowns).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     24616,
+     "sentence":"His 2 sacks moved him ahead of Richard Dent for 6.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    24617,
-    "sentence":"Taylor; the Eagles had a blocked punt go against them; and Matt Moore threw a beautiful touch pass to Brandon Marshall (4-27, TD) to give the Dolphins a 7-0 lead."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     24614,
+     "sentence":"However, McCoy had just 38 yards (though with 2 touchdowns).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     24617,
+     "sentence":"His 2 sacks moved him ahead of Richard Dent for 6.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

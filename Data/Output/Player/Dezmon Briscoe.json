@@ -141,9 +141,12 @@
    "receiving_targets":   2,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"46",
-    "annotationID":    22043,
-    "sentence":"Briscoe for a 46-yard gain."
+    "1":{
+     "propertyValue":"46",
+     "annotationID":     22043,
+     "sentence":"Briscoe for a 46-yard gain.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -196,9 +199,12 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    22557,
-    "sentence":"At halftime, Houston had a 16-3 lead."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     22557,
+     "sentence":"The Buccaneers had 1 drive killed by sacks from ",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   12,
    "kick_return_touchdowns":   0,
@@ -232,9 +238,12 @@
    "opponent":"GNB",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"26",
-    "annotationID":    23134,
-    "sentence":"Tampa Bay trailed 28-26 with 4 and half minutes left."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     23134,
+     "sentence":"Tampa Bay trailed 28-26 with 4 and half minutes left.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"35",
    "passing_attempts":   0,
@@ -249,14 +258,32 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    23137,
-    "sentence":"Freeman was 28-of-38 for 342 yards with 2 touchdowns and 2 interceptions."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     23137,
+     "sentence":"Rodgers was 23-of-34 for 299 yards with 3 scores and an interception.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    23138,
-    "sentence":"Tampa Bay trailed 28-26 with 4 and half minutes left."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23135,
+     "sentence":"Freeman was 28-of-38 for 342 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     23136,
+     "sentence":"Freeman was 28-of-38 for 342 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     23138,
+     "sentence":"Nelson led Green Bay with 6 receptions for 123 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   7,
    "receiving_touchdowns":   1,
@@ -343,9 +370,12 @@
    "game_won":   false,
    "player_team_score":"24",
    "opponent_score":{
-    "propertyValue":"45",
-    "annotationID":    26414,
-    "sentence":"The Buccaneers got the ball back for less than a minute since Falcons linebacker Curtis Lofton intercepted Freeman (31-of-45, 274 yards, 2 TDs, 3 INTs) on the drive's third play, returning the pick 26-yards for a touchdown."
+    "1":{
+     "propertyValue":"45",
+     "annotationID":     26414,
+     "sentence":"The Buccaneers got the ball back for less than a minute since Falcons linebacker Curtis Lofton intercepted Freeman (31-of-45, 274 yards, 2 TDs, 3 INTs) on the drive's third play, returning the pick 26-yards for a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -362,9 +392,24 @@
    "receiving_receptions":   8,
    "receiving_yards":   53,
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    26419,
-    "sentence":"h-and-goal to put Atlanta up 28-0."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     26415,
+     "sentence":"The Buccaneers got the ball back for less than a minute since Falcons linebacker Curtis Lofton intercepted Freeman (31-of-45, 274 yards, 2 TDs, 3 INTs) on the drive's third play, returning the pick 26-yards for a touchdown.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     26417,
+     "sentence":"Ryan was 6-of-9 for 106 yards and 2 touchdowns.",
+     "confidence":"Strong"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     26419,
+     "sentence":"Turner ran for 172 yards and 2 touchdowns on 17 carries.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -374,9 +419,24 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    26420,
-    "sentence":"h-and-goal to put Atlanta up 28-0."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     26416,
+     "sentence":"The Buccaneers got the ball back for less than a minute since Falcons linebacker Curtis Lofton intercepted Freeman (31-of-45, 274 yards, 2 TDs, 3 INTs) on the drive's third play, returning the pick 26-yards for a touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     26418,
+     "sentence":"Ryan was 6-of-9 for 106 yards and 2 touchdowns.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     26420,
+     "sentence":"Turner ran for 172 yards and 2 touchdowns on 17 carries.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

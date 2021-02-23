@@ -52,19 +52,34 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0.5,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    59267,
-    "sentence":"Williams to set up the Jets at the 32-yard line."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     59267,
+     "sentence":"A screen to Ivory went for 16 yards to the Jaguars' 1-yard line, and he plunged into the end zone 2 plays later.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    59266,
-    "sentence":"h-and-3 was converted by Fitzpatrick to Decker, and Chris Ivory scored on a third-and-1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     59265,
+     "sentence":"h-and-3 was converted by Fitzpatrick to Decker, and Chris Ivory scored on a third-and-1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     59266,
+     "sentence":"A screen to Ivory went for 16 yards to the Jaguars' 1-yard line, and he plunged into the end zone 2 plays later.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    59268,
-    "sentence":"Williams to set up the Jets at the 32-yard line."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     59268,
+     "sentence":"A screen to Ivory went for 16 yards to the Jaguars' 1-yard line, and he plunged into the end zone 2 plays later.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   8,
    "defense_interception_touchdowns":   0,
@@ -138,14 +153,26 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"38",
-    "annotationID":    80345,
-    "sentence":"In the final seconds, Sherman picked off Watson on a desperation throw to clinch the 41-38 win for Seattle."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     80345,
+     "sentence":"In the final seconds, Sherman picked off Watson on a desperation throw to clinch the 41-38 win for Seattle.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"41",
-    "annotationID":    80346,
-    "sentence":"In the final seconds, Sherman picked off Watson on a desperation throw to clinch the 41-38 win for Seattle."
+    "1":{
+     "propertyValue":"41",
+     "annotationID":     80344,
+     "sentence":"In the final seconds, Sherman picked off Watson on a desperation throw to clinch the 41-38 win for Seattle.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"41",
+     "annotationID":     80346,
+     "sentence":"Wilson completed 26-of-41 passes for 452 yards with 4 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -170,20 +197,71 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    80351,
-    "sentence":"Wilson promptly connected with Richardson for 47 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     80347,
+     "sentence":"Wilson completed 26-of-41 passes for 452 yards with 4 touchdowns and an interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     80349,
+     "sentence":"Lockett (6-121), Richardson (6-105-2) and Graham (4-39-2) all made clutch receptions and beat up on Houston's secondary.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     80351,
+     "sentence":"Watson was 19-of-30 for 402 yards with 4 touchdowns and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    80354,
-    "sentence":"They were at their 20-yard line with 1:39 left."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     80343,
+     "sentence":"They were at their 20-yard line with 1:39 left.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     80353,
+     "sentence":"Fuller (5-125-2) and Miller (21-54-1, 3-19-1) also played well.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     80354,
+     "sentence":"Fuller (5-125-2) and Miller (21-54-1, 3-19-1) also played well.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":{
-    "propertyValue":"2",
-    "annotationID":    80355,
-    "sentence":"They were at their 20-yard line with 1:39 left."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     80348,
+     "sentence":"Lockett (6-121), Richardson (6-105-2) and Graham (4-39-2) all made clutch receptions and beat up on Houston's secondary.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     80350,
+     "sentence":"Lockett (6-121), Richardson (6-105-2) and Graham (4-39-2) all made clutch receptions and beat up on Houston's secondary.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     80352,
+     "sentence":"Fuller (5-125-2) and Miller (21-54-1, 3-19-1) also played well.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     80355,
+     "sentence":"Sherman had 2 interceptions, but he and Shaq Griffin were torched by the Texans' receivers.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -207,9 +285,12 @@
    "opponent":"CHI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    80360,
-    "sentence":"They were at their 20-yard line with 1:39 left."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     80360,
+     "sentence":"They were at their 20-yard line with 1:39 left.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"12",
    "passing_attempts":   0,
@@ -235,9 +316,24 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    80363,
-    "sentence":"Wilson promptly connected with Richardson for 47 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     80361,
+     "sentence":"Wilson completed 26-of-41 passes for 452 yards with 4 touchdowns and an interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     80362,
+     "sentence":"Lockett (6-121), Richardson (6-105-2) and Graham (4-39-2) all made clutch receptions and beat up on Houston's secondary.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     80363,
+     "sentence":"Watson was 19-of-30 for 402 yards with 4 touchdowns and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

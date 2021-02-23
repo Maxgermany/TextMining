@@ -126,14 +126,20 @@
    "opponent":"SDG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"24",
-    "annotationID":    44094,
-    "sentence":"The Chargers at least ran the ball well, as Ryan Mathews rushed for 144 yards on 24 carries."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     44094,
+     "sentence":"The Chargers at least ran the ball well, as Ryan Mathews rushed for 144 yards on 24 carries.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    44101,
-    "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     44101,
+     "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -144,34 +150,88 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"27",
-    "annotationID":    44102,
-    "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     44102,
+     "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"81",
-    "annotationID":    44100,
-    "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries."
+    "1":{
+     "propertyValue":"81",
+     "annotationID":     44100,
+     "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    44098,
-    "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44089,
+     "sentence":"Rivers, however, got his act together in the final 2 frames, ultimately finishing 22-of-33 for 229 yards, 3 touchdowns and the aforementioned interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     44098,
+     "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    44096,
-    "sentence":"Another poor call came on a Ryan Succop missed 41-yard field goal at the end of regulation."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     44092,
+     "sentence":"Steeler fans have to be pissed,    Rivers' 3 scores went to Antonio Gates (4-31), Ladarius Green and Eddie Royal (3-34), who had a big drop.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     44096,
+     "sentence":"Some Kansas City notes/stats: - Daniel had a chance to lead the team to victory or at least tie the game in overtime, but pulled a Greg McElroy when he fired a 4.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    44099,
-    "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44090,
+     "sentence":"Rivers, however, got his act together in the final 2 frames, ultimately finishing 22-of-33 for 229 yards, 3 touchdowns and the aforementioned interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     44099,
+     "sentence":"- Knile Davis, who had an ugly fumble last week, redeemed himself with 2 touchdowns on the ground while gashing San Diego's porous defense for 81 yards on 27 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"5",
-    "annotationID":    44097,
-    "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     44091,
+     "sentence":"The Chargers were actually lined up illegally and should have been whistled for a 5.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     44093,
+     "sentence":"Keenan Allen led the team in receiving with 5 grabs for 89 yards.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"5",
+     "annotationID":     44095,
+     "sentence":"Danny Woodhead didn't get nearly as much work on the ground (5-18), but he chipped in with 7 catches for 42 receiving yards.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"5",
+     "annotationID":     44097,
+     "sentence":"h-down pass 5 yards beyond the line of scrimmage.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
@@ -266,30 +326,45 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    45657,
-    "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     45657,
+     "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"79",
-    "annotationID":    45655,
-    "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards."
+    "1":{
+     "propertyValue":"79",
+     "annotationID":     45655,
+     "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    45656,
-    "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     45656,
+     "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    45658,
-    "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     45658,
+     "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"26",
-    "annotationID":    45659,
-    "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     45659,
+     "sentence":"Charles' injury was devastating, but Davis filled in admirably, rushing for 79 yards and 2 touchdowns on 22 carries and catching 6 balls for 26 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -386,28 +461,40 @@
    "rushing_attempts":   16,
    "rushing_yards":   49,
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    48702,
-    "sentence":"Perhaps it'll be a blessing in disguise, as it'll help the Rams land either Marcus Mariota or James Winston in the 2015 NFL Draft (go here for my )."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48702,
+     "sentence":"He finished 15-of-25 for 160 yards, 1 touchdown and an interception that he heaved into double coverage early on.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    48703,
-    "sentence":"Perhaps it'll be a blessing in disguise, as it'll help the Rams land either Marcus Mariota or James Winston in the 2015 NFL Draft (go here for my )."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48703,
+     "sentence":"He finished 15-of-25 for 160 yards, 1 touchdown and an interception that he heaved into double coverage early on.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    48704,
-    "sentence":"Perhaps it'll be a blessing in disguise, as it'll help the Rams land either Marcus Mariota or James Winston in the 2015 NFL Draft (go here for my )."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48704,
+     "sentence":"He finished 15-of-25 for 160 yards, 1 touchdown and an interception that he heaved into double coverage early on.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   99,
    "kick_return_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    48705,
-    "sentence":"Perhaps it'll be a blessing in disguise, as it'll help the Rams land either Marcus Mariota or James Winston in the 2015 NFL Draft (go here for my )."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48705,
+     "sentence":"He finished 15-of-25 for 160 yards, 1 touchdown and an interception that he heaved into double coverage early on.",
+     "confidence":"None"
+    }
    },
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
@@ -449,14 +536,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    50277,
-    "sentence":"Davis (5-10) vultured a touchdown following a long Charles gain."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     50277,
+     "sentence":"Davis (5-10) vultured a touchdown following a long Charles gain.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"10",
-    "annotationID":    50278,
-    "sentence":"Davis (5-10) vultured a touchdown following a long Charles gain."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     50278,
+     "sentence":"Davis (5-10) vultured a touchdown following a long Charles gain.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -509,15 +602,21 @@
    "rushing_yards":   11,
    "rushing_touchdowns":   1,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    52453,
-    "sentence":"He finished 18-of-30 for 297 yards and 2 touchdowns, but 70 of those yards came on a short toss to Davis, who zoomed past the gassed Raiders and went the distance."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     52453,
+     "sentence":"He finished 18-of-30 for 297 yards and 2 touchdowns, but 70 of those yards came on a short toss to Davis, who zoomed past the gassed Raiders and went the distance.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"70",
-    "annotationID":    52454,
-    "sentence":"He finished 18-of-30 for 297 yards and 2 touchdowns, but 70 of those yards came on a short toss to Davis, who zoomed past the gassed Raiders and went the distance."
+    "1":{
+     "propertyValue":"70",
+     "annotationID":     52454,
+     "sentence":"He finished 18-of-30 for 297 yards and 2 touchdowns, but 70 of those yards came on a short toss to Davis, who zoomed past the gassed Raiders and went the distance.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   1,
@@ -554,9 +653,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    54814,
-    "sentence":"On the next drive, Maclin got open for a 20-yard catch to set up another Kansas City field goal."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     54814,
+     "sentence":"On the next drive, Maclin got open for a 20-yard catch to set up another Kansas City field goal.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -567,14 +669,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    54812,
-    "sentence":"Davis (6-16)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     54812,
+     "sentence":"Davis (6-16).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"16",
-    "annotationID":    54813,
-    "sentence":"Davis (6-16)."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     54813,
+     "sentence":"Davis (6-16).",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -614,9 +722,12 @@
    "opponent":"DEN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"24",
-    "annotationID":    55076,
-    "sentence":"Davis touchdown, and at 24-17, it appeared as though Kansas City would pull through."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     55076,
+     "sentence":"Davis touchdown, and at 24-17, it appeared as though Kansas City would pull through.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"31",
    "passing_attempts":   0,
@@ -677,32 +788,47 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    57737,
-    "sentence":"Davis, meanwhile, wasn't much better, gaining just 13 yards on 5 tries."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     57737,
+     "sentence":"Davis, meanwhile, wasn't much better, gaining just 13 yards on 5 tries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"13",
-    "annotationID":    57736,
-    "sentence":"Davis, meanwhile, wasn't much better, gaining just 13 yards on 5 tries."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     57736,
+     "sentence":"Davis, meanwhile, wasn't much better, gaining just 13 yards on 5 tries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    57733,
-    "sentence":"He had the majority of the workload in the second half, but managed only 33 yards on 9 carries with just 1 catch for 6 receiving yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57733,
+     "sentence":"He had the majority of the workload in the second half, but managed only 33 yards on 9 carries with just 1 catch for 6 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    57734,
-    "sentence":"He had the majority of the workload in the second half, but managed only 33 yards on 9 carries with just 1 catch for 6 receiving yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57734,
+     "sentence":"He had the majority of the workload in the second half, but managed only 33 yards on 9 carries with just 1 catch for 6 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   12,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    57735,
-    "sentence":"He had the majority of the workload in the second half, but managed only 33 yards on 9 carries with just 1 catch for 6 receiving yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57735,
+     "sentence":"He had the majority of the workload in the second half, but managed only 33 yards on 9 carries with just 1 catch for 6 receiving yards.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   19,
    "kick_return_touchdowns":   0,
@@ -746,14 +872,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    58644,
-    "sentence":"Davis (4-9) was barely a factor, while De'Anthony Thomas scored on a trick play."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     58644,
+     "sentence":"Davis (4-9) was barely a factor, while De'Anthony Thomas scored on a trick play.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"9",
-    "annotationID":    58645,
-    "sentence":"Davis (4-9) was barely a factor, while De'Anthony Thomas scored on a trick play."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     58645,
+     "sentence":"Davis (4-9) was barely a factor, while De'Anthony Thomas scored on a trick play.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -852,28 +984,46 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    64030,
-    "sentence":"Davis (6-30) shared the workload with West, but was guilty of a key fumble when the score was 14-6 in the third quarter."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     64028,
+     "sentence":"Davis (6-30) shared the workload with West, but was guilty of a key fumble when the score was 14-6 in the third quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     64030,
+     "sentence":"Davis (6-30) shared the workload with West, but was guilty of a key fumble when the score was 14-6 in the third quarter.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"30",
-    "annotationID":    64029,
-    "sentence":"Davis (6-30) shared the workload with West, but was guilty of a key fumble when the score was 14-6 in the third quarter."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     64029,
+     "sentence":"Davis (6-30) shared the workload with West, but was guilty of a key fumble when the score was 14-6 in the third quarter.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    64031,
-    "sentence":"Davis (6-30) shared the workload with West, but was guilty of a key fumble when the score was 14-6 in the third quarter."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     64031,
+     "sentence":"He made some sharp throws, even converting some third-and-long situations, including 1 play in which he dodged 3 potential sacks to find ",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   2,
    "receiving_yards":   13,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    64032,
-    "sentence":"Davis (6-30) shared the workload with West, but was guilty of a key fumble when the score was 14-6 in the third quarter."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     64032,
+     "sentence":"He made some sharp throws, even converting some third-and-long situations, including 1 play in which he dodged 3 potential sacks to find ",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   90,
    "kick_return_touchdowns":   0,

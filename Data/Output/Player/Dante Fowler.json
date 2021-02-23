@@ -29,9 +29,12 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    66312,
-    "sentence":"Luck finished 27-of-42 for 234 yards, 2 touchdowns and an interception, but those numbers are very deceiving."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     66312,
+     "sentence":"Luck finished 27-of-42 for 234 yards, 2 touchdowns and an interception, but those numbers are very deceiving.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -56,9 +59,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    66314,
-    "sentence":"Luck finished 27-of-42 for 234 yards, 2 touchdowns and an interception, but those numbers are very deceiving."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66313,
+     "sentence":"Luck finished 27-of-42 for 234 yards, 2 touchdowns and an interception, but those numbers are very deceiving.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     66314,
+     "sentence":"Most of Luck's yardage, as well as his 2 scores, came when his team was down double digits, so most of his production came in garbage time.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

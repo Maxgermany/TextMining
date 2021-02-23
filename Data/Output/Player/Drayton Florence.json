@@ -104,9 +104,12 @@
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,
    "defense_interception_yards":{
-    "propertyValue":"7",
-    "annotationID":    23523,
-    "sentence":"The Bills took advantage of the great field position at the New York 20 needing just 3 plays for Johnson to beat Revis again on a 5-yard touchdown for the 14-7 lead."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     23523,
+     "sentence":"The Bills took advantage of the great field position at the New York 20 needing just 3 plays for Johnson to beat Revis again on a 5-yard touchdown for the 14-7 lead.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -155,9 +158,12 @@
    "defense_sacks":   0,
    "defense_tackles":   4,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    25046,
-    "sentence":"The reception put Marshall over 1,000 yards on the season for the fifth straight year."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25046,
+     "sentence":"The reception put Marshall over 1,000 yards on the season for the fifth straight year.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -207,9 +213,24 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    41647,
-    "sentence":"Newton hit Olsen (5-85) on the run for 28 yards and dropped in a beautiful 36-yard touchdown to Ted Ginn (2-47), who burned Revis for the score."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     41645,
+     "sentence":"Newton hit Olsen (5-85) on the run for 28 yards and dropped in a beautiful 36-yard touchdown to Ted Ginn (2-47), who burned Revis for the score.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     41646,
+     "sentence":"Newton finished 18-of-29 for 263 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     41647,
+     "sentence":"Newton finished 18-of-29 for 263 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

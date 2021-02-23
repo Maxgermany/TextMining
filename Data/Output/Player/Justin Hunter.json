@@ -28,9 +28,12 @@
    "opponent":"SDG",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    36470,
-    "sentence":"He went 20-of-24 for 184 yards and a touchdown."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     36470,
+     "sentence":"He went 20-of-24 for 184 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":   0,
@@ -45,24 +48,42 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    36471,
-    "sentence":"For instance, Eddie Royal (2-34) scored a touchdown, but it was wiped out by offensive pass interference (Keenan Allen picked a defender)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     36468,
+     "sentence":"For instance, Eddie Royal (2-34) scored a touchdown, but it was wiped out by offensive pass interference (Keenan Allen picked a defender).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     36471,
+     "sentence":"Rivers couldn't really look downfield in the second half because 2 of his starting linemen - ",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    36466,
-    "sentence":"Locker remarkably went 94 yards in just 1:50 despite not having any timeouts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     36466,
+     "sentence":"Locker remarkably went 94 yards in just 1:50 despite not having any timeouts.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"34",
-    "annotationID":    36469,
-    "sentence":"For instance, Eddie Royal (2-34) scored a touchdown, but it was wiped out by offensive pass interference (Keenan Allen picked a defender)."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     36469,
+     "sentence":"For instance, Eddie Royal (2-34) scored a touchdown, but it was wiped out by offensive pass interference (Keenan Allen picked a defender).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    36467,
-    "sentence":"Locker remarkably went 94 yards in just 1:50 despite not having any timeouts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     36467,
+     "sentence":"Locker remarkably went 94 yards in just 1:50 despite not having any timeouts.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -112,9 +133,12 @@
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"16",
-    "annotationID":    37046,
-    "sentence":"Hunter for a 16-yard touchdown."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     37046,
+     "sentence":"Hunter for a 16-yard touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -164,14 +188,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    40267,
-    "sentence":"Hunter, meanwhile, made a great leaping grab, finishing with 2 catches for 51 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40265,
+     "sentence":"Hunter, meanwhile, made a great leaping grab, finishing with 2 catches for 51 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     40267,
+     "sentence":"Louis, but came back to muster 30 yards on 12 carries along with his 2 fumbles (1 was credited to Locker).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"51",
-    "annotationID":    40266,
-    "sentence":"Hunter, meanwhile, made a great leaping grab, finishing with 2 catches for 51 yards."
+    "1":{
+     "propertyValue":"51",
+     "annotationID":     40266,
+     "sentence":"Hunter, meanwhile, made a great leaping grab, finishing with 2 catches for 51 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -220,24 +256,48 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    41381,
-    "sentence":"Hunter (6-109) and Kendall Wright (6-103)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     41378,
+     "sentence":"Hunter (6-109) and Kendall Wright (6-103).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     41381,
+     "sentence":"Hunter (6-109) and Kendall Wright (6-103).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    41382,
-    "sentence":"Hunter (6-109) and Kendall Wright (6-103)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     41379,
+     "sentence":"Hunter (6-109) and Kendall Wright (6-103).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     41382,
+     "sentence":"Hunter (6-109) and Kendall Wright (6-103).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"109",
-    "annotationID":    41380,
-    "sentence":"Hunter (6-109) and Kendall Wright (6-103)."
+    "1":{
+     "propertyValue":"109",
+     "annotationID":     41380,
+     "sentence":"Hunter (6-109) and Kendall Wright (6-103).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    41383,
-    "sentence":"Hunter (6-109) and Kendall Wright (6-103)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     41383,
+     "sentence":"It was nice to see Hunter break out, as the second-round rookie hadn't logged more than 2 receptions in any game before this 1.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -286,14 +346,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    42454,
-    "sentence":"Hunter (4-114)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     42454,
+     "sentence":"Hunter (4-114).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"114",
-    "annotationID":    42455,
-    "sentence":"Hunter (4-114)."
+    "1":{
+     "propertyValue":"114",
+     "annotationID":     42455,
+     "sentence":"Hunter (4-114).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -343,14 +409,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    44886,
-    "sentence":"Hunter (3-63) for 39 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     44886,
+     "sentence":"Hunter (3-63) for 39 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"63",
-    "annotationID":    44887,
-    "sentence":"Hunter (3-63) for 39 yards."
+    "1":{
+     "propertyValue":"63",
+     "annotationID":     44887,
+     "sentence":"Hunter (3-63) for 39 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -387,9 +459,12 @@
    "game_won":   false,
    "player_team_score":"10",
    "opponent_score":{
-    "propertyValue":"26",
-    "annotationID":    45553,
-    "sentence":"Hunter (2-26) didn't do much, but he saw more targets than any other receiver, including 1 in the end zone."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     45553,
+     "sentence":"Hunter (2-26) didn't do much, but he saw more targets than any other receiver, including 1 in the end zone.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -404,14 +479,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    45552,
-    "sentence":"Hunter (2-26) didn't do much, but he saw more targets than any other receiver, including 1 in the end zone."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     45552,
+     "sentence":"Hunter (2-26) didn't do much, but he saw more targets than any other receiver, including 1 in the end zone.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"26",
-    "annotationID":    45554,
-    "sentence":"Hunter (2-26) didn't do much, but he saw more targets than any other receiver, including 1 in the end zone."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     45554,
+     "sentence":"Hunter (2-26) didn't do much, but he saw more targets than any other receiver, including 1 in the end zone.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -447,9 +528,12 @@
    "opponent":"CIN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    45869,
-    "sentence":"Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     45869,
+     "sentence":"Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"33",
    "passing_attempts":   0,
@@ -464,19 +548,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"7",
-    "annotationID":    45870,
-    "sentence":"Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     45870,
+     "sentence":"Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    45867,
-    "sentence":"Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     45867,
+     "sentence":"Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    45868,
-    "sentence":"Hunter (3-37) were next with 7 targets each."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     45868,
+     "sentence":"Hunter (3-37) were next with 7 targets each.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -525,19 +618,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    46608,
-    "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     46608,
+     "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    46609,
-    "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     46609,
+     "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"12",
-    "annotationID":    46611,
-    "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     46611,
+     "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -548,9 +650,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    46610,
-    "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     46610,
+     "sentence":"Hunter saw 5 targets, but continued to be inefficient, reeling in just 1 of them for 12 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -591,14 +696,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    47199,
-    "sentence":"Hunter (3-99, TD) paced the team in receiving."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     47199,
+     "sentence":"Hunter (3-99, TD) paced the team in receiving.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"99",
-    "annotationID":    47200,
-    "sentence":"Hunter (3-99, TD) paced the team in receiving."
+    "1":{
+     "propertyValue":"99",
+     "annotationID":     47200,
+     "sentence":"Hunter (3-99, TD) paced the team in receiving.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -648,14 +759,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    47671,
-    "sentence":"Hunter paced the Titans with 77 receiving yards on 3 catches."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     47671,
+     "sentence":"Hunter paced the Titans with 77 receiving yards on 3 catches.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"77",
-    "annotationID":    47670,
-    "sentence":"Hunter paced the Titans with 77 receiving yards on 3 catches."
+    "1":{
+     "propertyValue":"77",
+     "annotationID":     47670,
+     "sentence":"Hunter paced the Titans with 77 receiving yards on 3 catches.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -704,19 +821,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    48254,
-    "sentence":"Hunter was strangely invisible, reeling in just 1 of 2 targets for 6 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     48254,
+     "sentence":"Hunter was strangely invisible, reeling in just 1 of 2 targets for 6 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    48253,
-    "sentence":"Hunter was strangely invisible, reeling in just 1 of 2 targets for 6 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48253,
+     "sentence":"Hunter was strangely invisible, reeling in just 1 of 2 targets for 6 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"6",
-    "annotationID":    48255,
-    "sentence":"Hunter was strangely invisible, reeling in just 1 of 2 targets for 6 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     48255,
+     "sentence":"Hunter was strangely invisible, reeling in just 1 of 2 targets for 6 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -766,14 +892,32 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    48911,
-    "sentence":"Hunter (4-31), but it was too little, too late."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     48908,
+     "sentence":"Hunter (4-31), but it was too little, too late.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     48910,
+     "sentence":"Foster did the heavy lifting, totaling 151 rushing yards on 20 carries with 2 scores while catching 4 passes for 22 receiving yards and another score.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     48911,
+     "sentence":"He looked better in the 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"31",
-    "annotationID":    48909,
-    "sentence":"Hunter (4-31), but it was too little, too late."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     48909,
+     "sentence":"Hunter (4-31), but it was too little, too late.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -822,9 +966,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    50797,
-    "sentence":"Hunter (4-64) and Dexter McCluster reeled in Mettenberger's touchdowns."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     50797,
+     "sentence":"Hunter (4-64) and Dexter McCluster reeled in Mettenberger's touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   2,
    "receiving_yards":   48,
@@ -876,14 +1023,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    50798,
-    "sentence":"Hunter (4-64) and Dexter McCluster reeled in Mettenberger's touchdowns."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     50798,
+     "sentence":"Hunter (4-64) and Dexter McCluster reeled in Mettenberger's touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"64",
-    "annotationID":    50799,
-    "sentence":"Hunter (4-64) and Dexter McCluster reeled in Mettenberger's touchdowns."
+    "1":{
+     "propertyValue":"64",
+     "annotationID":     50799,
+     "sentence":"Hunter (4-64) and Dexter McCluster reeled in Mettenberger's touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -968,9 +1121,12 @@
    "opponent":"BUF",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    57315,
-    "sentence":"That led to the Titans to expand their lead to 13-7 midway through 4."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     57315,
+     "sentence":"That led to the Titans to expand their lead to 13-7 midway through 4.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"14",
    "passing_attempts":   0,
@@ -986,9 +1142,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    57316,
-    "sentence":"In the third quarter, Denarius Moore was stripped on a punt return by Jalston Fowler, and the Titans recovered around the Bills' 40-yard line."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     57316,
+     "sentence":"That led to the Titans to expand their lead to 13-7 midway through 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   38,
    "receiving_touchdowns":   0,
@@ -1039,14 +1198,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    58997,
-    "sentence":"Hunter (2-17) and Dorial Green-Beckham (1-12) couldn't do much with Mettenberger and the offensive line struggling."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     58997,
+     "sentence":"Hunter (2-17) and Dorial Green-Beckham (1-12) couldn't do much with Mettenberger and the offensive line struggling.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"17",
-    "annotationID":    58998,
-    "sentence":"Hunter (2-17) and Dorial Green-Beckham (1-12) couldn't do much with Mettenberger and the offensive line struggling."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     58998,
+     "sentence":"Hunter (2-17) and Dorial Green-Beckham (1-12) couldn't do much with Mettenberger and the offensive line struggling.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1095,24 +1260,36 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    67389,
-    "sentence":"Hunter (1-4)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67389,
+     "sentence":"Hunter (1-4).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    67390,
-    "sentence":"Hunter (1-4)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67390,
+     "sentence":"Hunter (1-4).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"4",
-    "annotationID":    67392,
-    "sentence":"Hunter (1-4)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     67392,
+     "sentence":"Hunter (1-4).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    67391,
-    "sentence":"Hunter (1-4)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67391,
+     "sentence":"Hunter (1-4).",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1147,9 +1324,12 @@
    "opponent":"MIA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"25",
-    "annotationID":    68581,
-    "sentence":"Hunter (2-25) were the other favorites of Taylor on the day."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     68581,
+     "sentence":"Hunter (2-25) were the other favorites of Taylor on the day.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"28",
    "passing_attempts":   0,
@@ -1164,19 +1344,34 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    68584,
-    "sentence":"In fact, before the Bills' final drive, the Dolphins had outgained the Bills 178-6 in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     68584,
+     "sentence":"In fact, before the Bills' final drive, the Dolphins had outgained the Bills 178-6 in the 4.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    68583,
-    "sentence":"Hunter (2-25) were the other favorites of Taylor on the day."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     68580,
+     "sentence":"Hunter (2-25) were the other favorites of Taylor on the day.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     68583,
+     "sentence":"The offensive unit performed pretty well considering that it was missing its top 2 receivers, Sammy Watkins and Robert Woods, during the game.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"25",
-    "annotationID":    68582,
-    "sentence":"Hunter (2-25) were the other favorites of Taylor on the day."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     68582,
+     "sentence":"Hunter (2-25) were the other favorites of Taylor on the day.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1225,24 +1420,36 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    71785,
-    "sentence":"The 16-yard grab was the only 1 for the receiver on the day."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71785,
+     "sentence":"The 16-yard grab was the only 1 for the receiver on the day.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    71786,
-    "sentence":"The 16-yard grab was the only 1 for the receiver on the day."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71786,
+     "sentence":"The 16-yard grab was the only 1 for the receiver on the day.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"16",
-    "annotationID":    71784,
-    "sentence":"The 16-yard grab was the only 1 for the receiver on the day."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     71784,
+     "sentence":"The 16-yard grab was the only 1 for the receiver on the day.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    71787,
-    "sentence":"The 16-yard grab was the only 1 for the receiver on the day."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71787,
+     "sentence":"The 16-yard grab was the only 1 for the receiver on the day.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1292,9 +1499,12 @@
    "receiving_targets":   2,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"64",
-    "annotationID":    74985,
-    "sentence":"Hunter for a huge 64-yard gain."
+    "1":{
+     "propertyValue":"64",
+     "annotationID":     74985,
+     "sentence":"Hunter for a huge 64-yard gain.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

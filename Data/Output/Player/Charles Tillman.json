@@ -493,9 +493,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    40069,
-    "sentence":"Tillman - to move the ball to the 4-yard line."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     40068,
+     "sentence":"Tillman - to move the ball to the 4-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     40069,
+     "sentence":"Early in the 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,

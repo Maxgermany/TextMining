@@ -52,9 +52,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   1,
    "defense_tackles":{
-    "propertyValue":"8",
-    "annotationID":    48876,
-    "sentence":"Casey, Griffin (8 tackles) and Williamson (10 tackles) played really well for the Titans."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     48876,
+     "sentence":"Casey, Griffin (8 tackles) and Williamson (10 tackles) played really well for the Titans.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   2,
    "defense_interceptions":   0,
@@ -81,14 +84,20 @@
    "opponent":"OAK",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    65799,
-    "sentence":"Amari Cooper had 4 receptions for 62 yards, while Michael Crabtree had 8 catches for 102 yards."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     65799,
+     "sentence":"Derrick Henry (10-45) ran well, too.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    65797,
-    "sentence":"Mariota completed 17-of-33 passes for 214 yards with zero touchdowns and 2 interceptions."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     65797,
+     "sentence":"Mariota completed 17-of-33 passes for 214 yards with zero touchdowns and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -113,19 +122,52 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    65796,
-    "sentence":"He then hit Tajae Sharpe (3-48) for gains of 23 and 19 yards to get inside Oakland's 5."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     65793,
+     "sentence":"On 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     65796,
+     "sentence":"Amari Cooper had 4 receptions for 62 yards, while Michael Crabtree had 8 catches for 102 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"5",
-    "annotationID":    65798,
-    "sentence":"With less than 2 minutes remaining, Mariota made a great throw to Harry Douglas (2-20) for 25 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     65792,
+     "sentence":"He then hit Tajae Sharpe (3-48) for gains of 23 and 19 yards to get inside Oakland's 5.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     65798,
+     "sentence":"He also had 5 receptions for 41 yards.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    65800,
-    "sentence":"He then hit Tajae Sharpe (3-48) for gains of 23 and 19 yards to get inside Oakland's 5."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     65794,
+     "sentence":"Derek Carr completed 21-of-35 passes for 249 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     65795,
+     "sentence":"Derek Carr completed 21-of-35 passes for 249 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     65800,
+     "sentence":"The Titans front 7 got good games from Avery Williamson (9 tackles, 1 interception), Brian Orakpo and Jurrell Casey.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

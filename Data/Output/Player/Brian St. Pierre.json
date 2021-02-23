@@ -30,19 +30,34 @@
    "player_team_score":"7",
    "opponent_score":"33",
    "passing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    12874,
-    "sentence":"Pierre (2-4, 12 yds, TD, INT)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     12870,
+     "sentence":"Pierre (2-4, 12 yds, TD, INT).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     12874,
+     "sentence":"The big news for the Cardinals is that 2 of their players suffered injuries.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"4",
-    "annotationID":    12872,
-    "sentence":"Pierre (2-4, 12 yds, TD, INT)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     12872,
+     "sentence":"Pierre (2-4, 12 yds, TD, INT).",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"12",
-    "annotationID":    12873,
-    "sentence":"Pierre (2-4, 12 yds, TD, INT)."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     12873,
+     "sentence":"Pierre (2-4, 12 yds, TD, INT).",
+     "confidence":"None"
+    }
    },
    "passing_rating":   56.2,
    "passing_touchdowns":   1,
@@ -51,9 +66,18 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    12875,
-    "sentence":"Pierre (2-4, 12 yds, TD, INT)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     12871,
+     "sentence":"Pierre (2-4, 12 yds, TD, INT).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     12875,
+     "sentence":"The big news for the Cardinals is that 2 of their players suffered injuries.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -93,31 +117,58 @@
    "opponent":"BAL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    16832,
-    "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     16832,
+     "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"37",
    "passing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    16833,
-    "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     16833,
+     "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    16834,
-    "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     16834,
+     "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"173",
-    "annotationID":    16835,
-    "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes."
+    "1":{
+     "propertyValue":"173",
+     "annotationID":     16835,
+     "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   48.7,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    16838,
-    "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     16836,
+     "sentence":"Pierre, who was a stay-at-home dad last week, went 13-of-28 for 173 yards, 1 touchdown and the aforementioned pick-sixes.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     16837,
+     "sentence":"He also should have thrown several more interceptions (Terrell Suggs missed an easy 1.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     16838,
+     "sentence":"Pierre's yardage came on 1 88-yard touchdown to David Gettis.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   2,
    "passing_sacks":   3,

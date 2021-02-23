@@ -199,9 +199,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"12",
-    "annotationID":    38157,
-    "sentence":"Ryans (12 tackles)."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     38157,
+     "sentence":"Ryans (12 tackles).",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -302,14 +305,26 @@
    "defense_sacks":   0,
    "defense_tackles":   8,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    44256,
-    "sentence":"Brees led the Saints to just 6 points in the opening half, going 10-of-18 for just 98 yards and the 2 picks prior to the break."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44255,
+     "sentence":"Brees led the Saints to just 6 points in the opening half, going 10-of-18 for just 98 yards and the 2 picks prior to the break.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     44256,
+     "sentence":"He caught fire after intermission, however, misfiring on just 2 of 12 attempted passes.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    44257,
-    "sentence":"Brees led the Saints to just 6 points in the opening half, going 10-of-18 for just 98 yards and the 2 picks prior to the break."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     44257,
+     "sentence":"He finished 20-of-30 for 250 yards, 1 touchdown and the pair of interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   23,
    "defense_interception_touchdowns":   0,
@@ -359,14 +374,32 @@
    "defense_sacks":   0,
    "defense_tackles":   5,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    49224,
-    "sentence":"He was 10-of-13 for 124 yards and had a touchdown, but he threw a pick-six because of a poor decision and took some bad sacks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49222,
+     "sentence":"He threw 2 interceptions, although 1 wasn't his fault because it went right off Josh Huff's hands.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     49224,
+     "sentence":"Both Foles and Sanchez threw 1 score each to Maclin, who once again put together a huge outing.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    49225,
-    "sentence":"He was 10-of-13 for 124 yards and had a touchdown, but he threw a pick-six because of a poor decision and took some bad sacks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49223,
+     "sentence":"He threw 2 interceptions, although 1 wasn't his fault because it went right off Josh Huff's hands.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     49225,
+     "sentence":"Both Foles and Sanchez threw 1 score each to Maclin, who once again put together a huge outing.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

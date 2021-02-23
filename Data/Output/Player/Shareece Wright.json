@@ -78,9 +78,18 @@
    "game_won":   false,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"25",
-    "annotationID":    57942,
-    "sentence":"San Francisco took advantage again of the Ravens' weak secondary as Kaepernick laid out a pretty 51-yard bomb that Boldin made a superb catch to Baltimore's 25-yard line."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     57941,
+     "sentence":"San Francisco took advantage again of the Ravens' weak secondary as Kaepernick laid out a pretty 51-yard bomb that Boldin made a superb catch to Baltimore's 25-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"25",
+     "annotationID":     57942,
+     "sentence":"point attempt had the 49ers' lead at 25-13.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -105,9 +114,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    57940,
-    "sentence":"With the 49ers up 13-3, Flacco was picked off by forcing a pass to a covered receiver."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     57940,
+     "sentence":"With the 49ers up 13-3, Flacco was picked off by forcing a pass to a covered receiver.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,

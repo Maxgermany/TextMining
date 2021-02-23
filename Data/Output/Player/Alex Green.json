@@ -38,14 +38,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    29569,
-    "sentence":"He couldn't gain 3 yards per carry (22 rushes, 65 yards), but he still ran well."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     29569,
+     "sentence":"He couldn't gain 3 yards per carry (22 rushes, 65 yards), but he still ran well.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"65",
-    "annotationID":    29570,
-    "sentence":"He couldn't gain 3 yards per carry (22 rushes, 65 yards), but he still ran well."
+    "1":{
+     "propertyValue":"65",
+     "annotationID":     29570,
+     "sentence":"He couldn't gain 3 yards per carry (22 rushes, 65 yards), but he still ran well.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -99,9 +105,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    29775,
-    "sentence":"James Starks was nowhere to be seen again, as Alex Green received all but 4 carries (3 to John Kuhn; 1 to Cobb)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     29775,
+     "sentence":"James Starks was nowhere to be seen again, as Alex Green received all but 4 carries (3 to John Kuhn; 1 to Cobb).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   29,
    "receiving_touchdowns":   0,
@@ -138,9 +147,12 @@
    "opponent":"JAX",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"24",
-    "annotationID":    30071,
-    "sentence":"James Jones (7-78) was the team's leading receiver, while Jermichael Finley (2-24) once again did nothing."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     30071,
+     "sentence":"James Jones (7-78) was the team's leading receiver, while Jermichael Finley (2-24) once again did nothing.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"15",
    "passing_attempts":   0,
@@ -152,30 +164,51 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    30073,
-    "sentence":"Aaron Rodgers went 22-of-35 for 186 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     30069,
+     "sentence":"Aaron Rodgers went 22-of-35 for 186 yards and 2 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"22",
+     "annotationID":     30073,
+     "sentence":"He gained 54 yards on 22 attempts.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"54",
-    "annotationID":    30072,
-    "sentence":"He gained 54 yards on 22 attempts."
+    "1":{
+     "propertyValue":"54",
+     "annotationID":     30072,
+     "sentence":"He gained 54 yards on 22 attempts.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    30068,
-    "sentence":"The leading receiver, meanwhile, was Cecil Shorts, who had a great outing, catching 8 balls for 116 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     30068,
+     "sentence":"He rushed for 59 yards on 17 carries, but was more effective in the passing game, catching 6 balls for 56 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    30067,
-    "sentence":"Gabbert was sharp for 1 of the few occasions in his disappointing NFL career, going 27-of-49 for 303 yards and a touchdown."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     30067,
+     "sentence":"Justin Blackmon was decent statistically (4-67) but made some mental mistakes on the field in terms of route running and such.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"28",
-    "annotationID":    30070,
-    "sentence":"Rodgers' scores went to Randall Cobb (5-28) and Donald Driver (2-10)."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     30070,
+     "sentence":"Rodgers' scores went to Randall Cobb (5-28) and Donald Driver (2-10).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -221,14 +254,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"11",
-    "annotationID":    30498,
-    "sentence":"Green (11-53), who saw 1 of his yardage come on a 21-yard scamper, has been supplanted."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     30498,
+     "sentence":"Green (11-53), who saw 1 of his yardage come on a 21-yard scamper, has been supplanted.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"53",
-    "annotationID":    30499,
-    "sentence":"Green (11-53), who saw 1 of his yardage come on a 21-yard scamper, has been supplanted."
+    "1":{
+     "propertyValue":"53",
+     "annotationID":     30499,
+     "sentence":"Green (11-53), who saw 1 of his yardage come on a 21-yard scamper, has been supplanted.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
@@ -268,9 +307,18 @@
    "opponent":"NYG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    32218,
-    "sentence":"Green Bay's front, blasting open huge holes for Andre Brown (13-64, TD) and Ahmad Bradshaw (10-58, TD)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     32215,
+     "sentence":"Green Bay's front, blasting open huge holes for Andre Brown (13-64, TD) and Ahmad Bradshaw (10-58, TD).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     32218,
+     "sentence":"James Starks (8-35) was the leading rusher, while Alex Green gained 30 yards on 10 attempts.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"38",
    "passing_attempts":   0,
@@ -282,21 +330,36 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    32219,
-    "sentence":"Green Bay's front, blasting open huge holes for Andre Brown (13-64, TD) and Ahmad Bradshaw (10-58, TD)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     32216,
+     "sentence":"Green Bay's front, blasting open huge holes for Andre Brown (13-64, TD) and Ahmad Bradshaw (10-58, TD).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     32219,
+     "sentence":"James Starks (8-35) was the leading rusher, while Alex Green gained 30 yards on 10 attempts.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"30",
-    "annotationID":    32217,
-    "sentence":"James Starks (8-35) was the leading rusher, while Alex Green gained 30 yards on 10 attempts."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     32217,
+     "sentence":"James Starks (8-35) was the leading rusher, while Alex Green gained 30 yards on 10 attempts.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    32220,
-    "sentence":"Green Bay's front, blasting open huge holes for Andre Brown (13-64, TD) and Ahmad Bradshaw (10-58, TD)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     32220,
+     "sentence":"Only 3 Packer non-running backs made receptions: Nelson, ",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   20,
    "receiving_touchdowns":   0,
@@ -343,30 +406,57 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    32342,
-    "sentence":"James Starks (15-66) scored a touchdown, while Alex Green (12-58) had the better YPC average."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     32342,
+     "sentence":"James Starks (15-66) scored a touchdown, while Alex Green (12-58) had the better YPC average.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"58",
-    "annotationID":    32344,
-    "sentence":"James Starks (15-66) scored a touchdown, while Alex Green (12-58) had the better YPC average."
+    "1":{
+     "propertyValue":"58",
+     "annotationID":     32344,
+     "sentence":"James Starks (15-66) scored a touchdown, while Alex Green (12-58) had the better YPC average.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    32340,
-    "sentence":"He now has 11 interceptions to just 10 touchdowns since Week 5."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     32338,
+     "sentence":"He had just 1 catch for 10 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     32340,
+     "sentence":"Despite a depleted receiving corps and a shaky offensive line, Aaron Rodgers went 27-of-35 for 286 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    32341,
-    "sentence":"He now has 11 interceptions to just 10 touchdowns since Week 5."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     32339,
+     "sentence":"He had just 1 catch for 10 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     32341,
+     "sentence":"Despite a depleted receiving corps and a shaky offensive line, Aaron Rodgers went 27-of-35 for 286 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"12",
-    "annotationID":    32343,
-    "sentence":"James Starks (15-66) scored a touchdown, while Alex Green (12-58) had the better YPC average."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     32343,
+     "sentence":"James Starks (15-66) scored a touchdown, while Alex Green (12-58) had the better YPC average.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -451,9 +541,12 @@
    "opponent":"CHI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    33274,
-    "sentence":"Cutler went just 12-of-21 for 135 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     33274,
+     "sentence":"Cutler went just 12-of-21 for 135 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"13",
    "passing_attempts":   0,
@@ -469,14 +562,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    33277,
-    "sentence":"Cutler went just 12-of-21 for 135 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     33277,
+     "sentence":"There are 2 issues with Chicago's offense, 1 of which is the offensive line.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"6",
-    "annotationID":    33276,
-    "sentence":"6 and a YPA of 6."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     33275,
+     "sentence":"6 and a YPA of 6.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     33276,
+     "sentence":"6 and a YPA of 6.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

@@ -87,14 +87,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    14631,
-    "sentence":"Kuhn and Brandon Jackson each had 9 carries for 39 and 33 yards, respectively."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     14631,
+     "sentence":"Kuhn and Brandon Jackson each had 9 carries for 39 and 33 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"39",
-    "annotationID":    14632,
-    "sentence":"Kuhn and Brandon Jackson each had 9 carries for 39 and 33 yards, respectively."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     14632,
+     "sentence":"Kuhn and Brandon Jackson each had 9 carries for 39 and 33 yards, respectively.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -144,14 +150,26 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    16450,
-    "sentence":"Kuhn (13-50) and Brandon Jackson (13-42, TD) kept Dallas' defense honest enough to open things up for Rodgers."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     16448,
+     "sentence":"Kuhn (13-50) and Brandon Jackson (13-42, TD) kept Dallas' defense honest enough to open things up for Rodgers.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"13",
+     "annotationID":     16450,
+     "sentence":"Kuhn (13-50) and Brandon Jackson (13-42, TD) kept Dallas' defense honest enough to open things up for Rodgers.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"50",
-    "annotationID":    16449,
-    "sentence":"Kuhn (13-50) and Brandon Jackson (13-42, TD) kept Dallas' defense honest enough to open things up for Rodgers."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     16449,
+     "sentence":"Kuhn (13-50) and Brandon Jackson (13-42, TD) kept Dallas' defense honest enough to open things up for Rodgers.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -253,14 +271,20 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    23131,
-    "sentence":"Kuhn dove into the end zone from 2 yards out."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23131,
+     "sentence":"Kuhn dove into the end zone from 2 yards out.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    23132,
-    "sentence":"Kuhn dove into the end zone from 2 yards out."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23132,
+     "sentence":"Kuhn dove into the end zone from 2 yards out.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   9,
    "receiving_touchdowns":   1,
@@ -308,9 +332,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    23133,
-    "sentence":"Kuhn dove into the end zone from 2 yards out."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23133,
+     "sentence":"Kuhn dove into the end zone from 2 yards out.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -400,9 +427,18 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    29813,
-    "sentence":"Green had 20 rushes, but managed only 35 yards."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     29810,
+     "sentence":"Green had 20 rushes, but managed only 35 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"20",
+     "annotationID":     29813,
+     "sentence":"To make matters worse, if you take away 1 fluky long run, he was only able to churn out 20 yards on 19 attempts.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -416,14 +452,32 @@
    "rushing_yards":   16,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    29811,
-    "sentence":"Kuhn; 1 to Cobb)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     29808,
+     "sentence":"Kuhn; 1 to Cobb).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     29811,
+     "sentence":"To make matters worse, if you take away 1 fluky long run, he was only able to churn out 20 yards on 19 attempts.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    29812,
-    "sentence":"Kuhn; 1 to Cobb)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     29809,
+     "sentence":"Kuhn; 1 to Cobb).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     29812,
+     "sentence":"To make matters worse, if you take away 1 fluky long run, he was only able to churn out 20 yards on 19 attempts.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -470,29 +524,50 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    44360,
-    "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44360,
+     "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    44361,
-    "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44361,
+     "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    44365,
-    "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     44364,
+     "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     44365,
+     "sentence":"The Packers had a chance to score a touchdown, but had to settle for a field goal instead because they ran out of time despite being able to stop the clock with 1 remaining timeout.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    44362,
-    "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44362,
+     "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    44363,
-    "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44363,
+     "sentence":"The 49ers uncharacteristically wasted 2 timeouts in the third quarter, 1 of which was on the first play from scrimmage following intermission.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   16,
    "receiving_touchdowns":   0,
@@ -591,14 +666,20 @@
    "rushing_yards":   3,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    54450,
-    "sentence":"Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54450,
+     "sentence":"Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    54451,
-    "sentence":"Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54451,
+     "sentence":"Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   3,
    "receiving_touchdowns":   0,
@@ -685,9 +766,12 @@
    "game_won":   true,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    56856,
-    "sentence":"Kuhn vultured the touchdown away from Eddie Lacy and Rodgers, but Green Bay went up 14-3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     56856,
+     "sentence":"Kuhn vultured the touchdown away from Eddie Lacy and Rodgers, but Green Bay went up 14-3.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -747,16 +831,22 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    57132,
-    "sentence":"He managed only 27 yards on 13 tries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57132,
+     "sentence":"1 YPC on the year.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   3,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    57133,
-    "sentence":"He managed only 27 yards on 13 tries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57133,
+     "sentence":"1 YPC on the year.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -855,19 +945,28 @@
    "rushing_attempts":   3,
    "rushing_yards":   5,
    "rushing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    66820,
-    "sentence":"Kuhn, who rushed for 2 touchdowns and caught another on 4 total touches."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66820,
+     "sentence":"Kuhn, who rushed for 2 touchdowns and caught another on 4 total touches.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    66821,
-    "sentence":"Kuhn, who rushed for 2 touchdowns and caught another on 4 total touches."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66821,
+     "sentence":"Kuhn, who rushed for 2 touchdowns and caught another on 4 total touches.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    66822,
-    "sentence":"Kuhn, who rushed for 2 touchdowns and caught another on 4 total touches."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66822,
+     "sentence":"Kuhn, who rushed for 2 touchdowns and caught another on 4 total touches.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   7,
    "receiving_touchdowns":   1,

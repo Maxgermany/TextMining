@@ -42,14 +42,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    11109,
-    "sentence":"Moore caught 6 balls for 80 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     11109,
+     "sentence":"Moore caught 6 balls for 80 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"80",
-    "annotationID":    11110,
-    "sentence":"Moore caught 6 balls for 80 yards."
+    "1":{
+     "propertyValue":"80",
+     "annotationID":     11110,
+     "sentence":"Moore caught 6 balls for 80 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -99,14 +105,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    13129,
-    "sentence":"Moore led the Browns in receiving yardage with 87 off 3 catches."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     13129,
+     "sentence":"Moore led the Browns in receiving yardage with 87 off 3 catches.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"87",
-    "annotationID":    13128,
-    "sentence":"Moore led the Browns in receiving yardage with 87 off 3 catches."
+    "1":{
+     "propertyValue":"87",
+     "annotationID":     13128,
+     "sentence":"Moore led the Browns in receiving yardage with 87 off 3 catches.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -142,9 +154,12 @@
    "opponent":"IND",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    19466,
-    "sentence":"Hillis did have a good game though, rushing for 94 yards and 2 touchdowns on 27 carries."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     19466,
+     "sentence":"Hillis did have a good game though, rushing for 94 yards and 2 touchdowns on 27 carries.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"19",
    "passing_attempts":   0,
@@ -161,9 +176,18 @@
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"16",
-    "annotationID":    19465,
-    "sentence":"Moore for a 16-yard score."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     19464,
+     "sentence":"Moore for a 16-yard score.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"16",
+     "annotationID":     19465,
+     "sentence":"McCoy did a great job moving the chains all afternoon, converting 8-of-16 third downs.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,

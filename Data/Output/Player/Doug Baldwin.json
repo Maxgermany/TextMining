@@ -20,9 +20,12 @@
   "1":{
    "player_id":   941,
    "year":{
-    "propertyValue":"2011",
-    "annotationID":    19339,
-    "sentence":"Ladies and gentlemen, Seattle's 2011 offense!"
+    "1":{
+     "propertyValue":"2011",
+     "annotationID":     19339,
+     "sentence":"Ladies and gentlemen, Seattle's 2011 offense!",
+     "confidence":"None"
+    }
    },
    "date":"2011-09-11",
    "game_number":"1",
@@ -33,9 +36,12 @@
    "game_won":   false,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"33",
-    "annotationID":    19340,
-    "sentence":"Lynch finished with 33 yards on 13 attempts, by the way."
+    "1":{
+     "propertyValue":"33",
+     "annotationID":     19340,
+     "sentence":"Lynch finished with 33 yards on 13 attempts, by the way.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -49,19 +55,34 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    19338,
-    "sentence":"At that time, Lynch had just 6 yards on 7 carries."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     19338,
+     "sentence":"At that time, Lynch had just 6 yards on 7 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    19337,
-    "sentence":"Speaking of Baldwin, the undrafted rookie hauled in 4 grabs for 83 yards and a touchdown, though most of his yardage came on a somewhat fluky 55-yard, 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     19335,
+     "sentence":"Speaking of Baldwin, the undrafted rookie hauled in 4 grabs for 83 yards and a touchdown, though most of his yardage came on a somewhat fluky 55-yard, 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     19337,
+     "sentence":"Speaking of Baldwin, the undrafted rookie hauled in 4 grabs for 83 yards and a touchdown, though most of his yardage came on a somewhat fluky 55-yard, 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"83",
-    "annotationID":    19336,
-    "sentence":"Speaking of Baldwin, the undrafted rookie hauled in 4 grabs for 83 yards and a touchdown, though most of his yardage came on a somewhat fluky 55-yard, 4."
+    "1":{
+     "propertyValue":"83",
+     "annotationID":     19336,
+     "sentence":"Speaking of Baldwin, the undrafted rookie hauled in 4 grabs for 83 yards and a touchdown, though most of his yardage came on a somewhat fluky 55-yard, 4.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -111,14 +132,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    20876,
-    "sentence":"Baldwin had 8 grabs for 136 yards and a score, but he's not a recommended fantasy pick-up."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     20876,
+     "sentence":"Baldwin had 8 grabs for 136 yards and a score, but he's not a recommended fantasy pick-up.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"136",
-    "annotationID":    20877,
-    "sentence":"Baldwin had 8 grabs for 136 yards and a score, but he's not a recommended fantasy pick-up."
+    "1":{
+     "propertyValue":"136",
+     "annotationID":     20877,
+     "sentence":"Baldwin had 8 grabs for 136 yards and a score, but he's not a recommended fantasy pick-up.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -204,9 +231,12 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":{
-    "propertyValue":"13",
-    "annotationID":    25014,
-    "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     25014,
+     "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -223,14 +253,44 @@
    "receiving_receptions":   7,
    "receiving_yards":   93,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    25017,
-    "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25012,
+     "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     25015,
+     "sentence":"As for Hanie, well, it's safe to say that no 1 in the NFL lost more money than him in the past 4 weeks.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     25017,
+     "sentence":"Hanie was brutal yet again, going 10-of-23 for 111 yards, 1 touchdown and 3 interceptions.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    25018,
-    "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25013,
+     "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     25016,
+     "sentence":"As for Hanie, well, it's safe to say that no 1 in the NFL lost more money than him in the past 4 weeks.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     25018,
+     "sentence":"Hanie was brutal yet again, going 10-of-23 for 111 yards, 1 touchdown and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   37,
    "kick_return_touchdowns":   0,
@@ -277,19 +337,40 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    25023,
-    "sentence":"Hanie was brutal yet again, going 10-of-23 for 111 yards, 1 touchdown and 3 interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     25023,
+     "sentence":"All of his picks were horrible (2 were taken back for scores), and most of his yardage came via dump-off passes to his running backs.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    25022,
-    "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25019,
+     "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     25021,
+     "sentence":"As for Hanie, well, it's safe to say that no 1 in the NFL lost more money than him in the past 4 weeks.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     25022,
+     "sentence":"Hanie was brutal yet again, going 10-of-23 for 111 yards, 1 touchdown and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"13",
-    "annotationID":    25020,
-    "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     25020,
+     "sentence":"Baldwin, who had a huge outing Monday night, caught just 1 ball for 13 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -325,9 +406,12 @@
    "opponent":"SFO",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    25944,
-    "sentence":"The first possession went 74 yards on 8 plays, highlighted by a 27-yard pass to Michael Crabtree (5-85) on the first play of the half and a 17-yard pickup to "
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     25944,
+     "sentence":"The first possession went 74 yards on 8 plays, highlighted by a 27-yard pass to Michael Crabtree (5-85) on the first play of the half and a 17-yard pickup to ",
+     "confidence":"None"
+    }
    },
    "opponent_score":"19",
    "passing_attempts":   0,
@@ -342,19 +426,64 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"7",
-    "annotationID":    25940,
-    "sentence":"Baldwin for an early 7-0 lead."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     25936,
+     "sentence":"Baldwin for an early 7-0 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"7",
+     "annotationID":     25938,
+     "sentence":"Just 2 plays went for more than 4 yards, a 7-yard scramble to open the drive by Alex Smith and a 12-yard pass to Michael Crabtree, but the 49ers worked to field goal range.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"7",
+     "annotationID":     25940,
+     "sentence":"A 13-yard pass to Gore put the 49ers in scoring position and even a sack from Leroy Hill on third down couldn't push them out of it because David Akers hit from 53 yards out to make it 7-3 as the second quarter started.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    25943,
-    "sentence":"Unfortunately, Jackson (15-of-28, 163 yards, TD) would throw for just 89 yards the rest of the afternoon, completing fewer than half his throws."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     25937,
+     "sentence":"Just 2 plays went for more than 4 yards, a 7-yard scramble to open the drive by Alex Smith and a 12-yard pass to Michael Crabtree, but the 49ers worked to field goal range.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     25939,
+     "sentence":"He ran for 23 yards on the next 2 plays to put Seattle in plus territory and move the chains.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     25941,
+     "sentence":"Lynch went up the middle for 2 yards.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     25942,
+     "sentence":"San Francisco tried to answer in the 2-minute drill thanks to a 24-yard run from Hunter putting them close to midfield, but 2 incompletions and a pass short of the sticks forced 4.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"2",
+     "annotationID":     25943,
+     "sentence":"San Francisco tried to answer in the 2-minute drill thanks to a 24-yard run from Hunter putting them close to midfield, but 2 incompletions and a pass short of the sticks forced 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"17",
-    "annotationID":    25945,
-    "sentence":"The first possession went 74 yards on 8 plays, highlighted by a 27-yard pass to Michael Crabtree (5-85) on the first play of the half and a 17-yard pickup to "
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     25945,
+     "sentence":"The first possession went 74 yards on 8 plays, highlighted by a 27-yard pass to Michael Crabtree (5-85) on the first play of the half and a 17-yard pickup to ",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -453,14 +582,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    29470,
-    "sentence":"Baldwin (2-74)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     29470,
+     "sentence":"Baldwin (2-74).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"74",
-    "annotationID":    29471,
-    "sentence":"Baldwin (2-74)."
+    "1":{
+     "propertyValue":"74",
+     "annotationID":     29471,
+     "sentence":"Baldwin (2-74).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -509,9 +644,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    33491,
-    "sentence":"He compiled 92 yards and a whopping 3 scores on the ground, running circles around a befuddled Buffalo defense that seemed like it wasn't aware that Wilson is an elite scrambler."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     33491,
+     "sentence":"He compiled 92 yards and a whopping 3 scores on the ground, running circles around a befuddled Buffalo defense that seemed like it wasn't aware that Wilson is an elite scrambler.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   1,
    "receiving_yards":   8,
@@ -563,19 +701,34 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    34223,
-    "sentence":"Baldwin (4-53, 2 TDs), Golden Tate (2-27) and Sidney Rice (1-14)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     34223,
+     "sentence":"Baldwin (4-53, 2 TDs), Golden Tate (2-27) and Sidney Rice (1-14).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"53",
-    "annotationID":    34224,
-    "sentence":"Baldwin (4-53, 2 TDs), Golden Tate (2-27) and Sidney Rice (1-14)."
+    "1":{
+     "propertyValue":"53",
+     "annotationID":     34224,
+     "sentence":"Baldwin (4-53, 2 TDs), Golden Tate (2-27) and Sidney Rice (1-14).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    34226,
-    "sentence":"Baldwin (4-53, 2 TDs), Golden Tate (2-27) and Sidney Rice (1-14)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     34225,
+     "sentence":"Baldwin (4-53, 2 TDs), Golden Tate (2-27) and Sidney Rice (1-14).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     34226,
+     "sentence":"Baldwin (4-53, 2 TDs), Golden Tate (2-27) and Sidney Rice (1-14).",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -611,9 +764,12 @@
    "game_won":   true,
    "player_team_score":"12",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    35031,
-    "sentence":"Baldwin, who caught 7 balls for 91 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     35031,
+     "sentence":"Baldwin, who caught 7 balls for 91 yards.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -627,19 +783,28 @@
    "rushing_yards":   3,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"7",
-    "annotationID":    35032,
-    "sentence":"Baldwin, who caught 7 balls for 91 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     35032,
+     "sentence":"Baldwin, who caught 7 balls for 91 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    35033,
-    "sentence":"Baldwin, who caught 7 balls for 91 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     35033,
+     "sentence":"Baldwin, who caught 7 balls for 91 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"91",
-    "annotationID":    35034,
-    "sentence":"Baldwin, who caught 7 balls for 91 yards."
+    "1":{
+     "propertyValue":"91",
+     "annotationID":     35034,
+     "sentence":"Baldwin, who caught 7 balls for 91 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -689,14 +854,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    36877,
-    "sentence":"Baldwin (3-39) and Golden Tate (3-17) were the only other Seahawks with more than 1 reception."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     36875,
+     "sentence":"Baldwin (3-39) and Golden Tate (3-17) were the only other Seahawks with more than 1 reception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     36877,
+     "sentence":"Baldwin (3-39) and Golden Tate (3-17) were the only other Seahawks with more than 1 reception.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"39",
-    "annotationID":    36876,
-    "sentence":"Baldwin (3-39) and Golden Tate (3-17) were the only other Seahawks with more than 1 reception."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     36876,
+     "sentence":"Baldwin (3-39) and Golden Tate (3-17) were the only other Seahawks with more than 1 reception.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -746,14 +923,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    37436,
-    "sentence":"Baldwin led the way with 5 receptions for 80 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     37436,
+     "sentence":"Baldwin led the way with 5 receptions for 80 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"80",
-    "annotationID":    37437,
-    "sentence":"Baldwin led the way with 5 receptions for 80 yards."
+    "1":{
+     "propertyValue":"80",
+     "annotationID":     37437,
+     "sentence":"Baldwin led the way with 5 receptions for 80 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -802,19 +985,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    38237,
-    "sentence":"Baldwin (4-48)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     38237,
+     "sentence":"Baldwin (4-48).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    38238,
-    "sentence":"Baldwin (4-48)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     38238,
+     "sentence":"Baldwin (4-48).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"48",
-    "annotationID":    38239,
-    "sentence":"Baldwin (4-48)."
+    "1":{
+     "propertyValue":"48",
+     "annotationID":     38239,
+     "sentence":"Baldwin (4-48).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -899,14 +1091,20 @@
    "opponent":"TAM",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    39753,
-    "sentence":"Kearse made a phenomenal leaping catch for 27-yards to Tampa Bay's 3."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     39753,
+     "sentence":"Kearse made a phenomenal leaping catch for 27-yards to Tampa Bay's 3.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    39752,
-    "sentence":"That led to a field goal and cut the Bucs' lead to 24-17."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     39752,
+     "sentence":"That led to a field goal and cut the Bucs' lead to 24-17.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -920,19 +1118,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"10",
-    "annotationID":    39751,
-    "sentence":"Wilson then ran the ball into the end zone on 10-yard run off the read option."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     39751,
+     "sentence":"Wilson then ran the ball into the end zone on 10-yard run off the read option.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    39749,
-    "sentence":"Baldwin (6-75)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     39749,
+     "sentence":"Baldwin (6-75).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"75",
-    "annotationID":    39750,
-    "sentence":"Baldwin (6-75)."
+    "1":{
+     "propertyValue":"75",
+     "annotationID":     39750,
+     "sentence":"Baldwin (6-75).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -982,14 +1189,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    39975,
-    "sentence":"Baldwin was also a factor (5-76)."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     39975,
+     "sentence":"Baldwin was also a factor (5-76).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"76",
-    "annotationID":    39976,
-    "sentence":"Baldwin was also a factor (5-76)."
+    "1":{
+     "propertyValue":"76",
+     "annotationID":     39976,
+     "sentence":"Baldwin was also a factor (5-76).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1038,19 +1251,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    40913,
-    "sentence":"Baldwin (2-63)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40913,
+     "sentence":"Baldwin (2-63).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    40914,
-    "sentence":"Baldwin (2-63)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40914,
+     "sentence":"Baldwin (2-63).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"63",
-    "annotationID":    40915,
-    "sentence":"Baldwin (2-63)."
+    "1":{
+     "propertyValue":"63",
+     "annotationID":     40915,
+     "sentence":"Baldwin (2-63).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1100,14 +1322,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    42834,
-    "sentence":"Baldwin (6-71, TD)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     42834,
+     "sentence":"Baldwin (6-71, TD).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"71",
-    "annotationID":    42835,
-    "sentence":"Baldwin (6-71, TD)."
+    "1":{
+     "propertyValue":"71",
+     "annotationID":     42835,
+     "sentence":"Baldwin (6-71, TD).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -1144,9 +1372,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"9",
-    "annotationID":    44162,
-    "sentence":"He misfired only twice on 9 throws in the second half, ultimately finishing 15-of-23 for 172 yards and a touchdown."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     44162,
+     "sentence":"He misfired only twice on 9 throws in the second half, ultimately finishing 15-of-23 for 172 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1209,26 +1440,56 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    44396,
-    "sentence":"Harvin finished with just 3 grabs for 21 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     44396,
+     "sentence":"Harvin finished with just 3 grabs for 21 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    44402,
-    "sentence":"Harvin finished with just 3 grabs for 21 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     44398,
+     "sentence":"However, he broke free for some big gains as the game developed, finishing with a franchise playoff-record 140 yards and 2 touchdowns on 28 carries.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     44399,
+     "sentence":"However, there are 2 things to keep in mind.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     44400,
+     "sentence":"Second, Wilson made a clutch, third-down conversion to Baldwin (2-30) on the team's final possession, setting up Lynch's second touchdown.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     44402,
+     "sentence":"Harvin, meanwhile, was the only Seahawk with more than 2 receptions.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"30",
-    "annotationID":    44401,
-    "sentence":"Second, Wilson made a clutch, third-down conversion to Baldwin (2-30) on the team's final possession, setting up Lynch's second touchdown."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     44401,
+     "sentence":"Second, Wilson made a clutch, third-down conversion to Baldwin (2-30) on the team's final possession, setting up Lynch's second touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
    "kick_return_yards":{
-    "propertyValue":"21",
-    "annotationID":    44397,
-    "sentence":"Harvin finished with just 3 grabs for 21 yards."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     44397,
+     "sentence":"Harvin finished with just 3 grabs for 21 yards.",
+     "confidence":"None"
+    }
    },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,
@@ -1324,14 +1585,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    47856,
-    "sentence":"Romo, who legitimately looked done after the first-quarter hit, finished 21-of-32 for 250 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     47856,
+     "sentence":"Romo, who legitimately looked done after the first-quarter hit, finished 21-of-32 for 250 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"32",
-    "annotationID":    47855,
-    "sentence":"Romo, who legitimately looked done after the first-quarter hit, finished 21-of-32 for 250 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     47855,
+     "sentence":"Romo, who legitimately looked done after the first-quarter hit, finished 21-of-32 for 250 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1368,9 +1635,12 @@
    "game_won":   false,
    "player_team_score":"26",
    "opponent_score":{
-    "propertyValue":"28",
-    "annotationID":    48308,
-    "sentence":"After the Rams got the ball back, Mason ripped off a run of 28 yards."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     48308,
+     "sentence":"After the Rams got the ball back, Mason ripped off a run of 28 yards.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1385,19 +1655,34 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    48311,
-    "sentence":"The Seahawks had to settle for a field goal, but the Rams answered with Benny Cunningham returning the kickoff 75 yards to the Seattle 31."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     48311,
+     "sentence":"Wilson threw a bullet to Baldwin (7-123) for a 9.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"123",
-    "annotationID":    48312,
-    "sentence":"Wilson threw a bullet to Baldwin (7-123) for a 9."
+    "1":{
+     "propertyValue":"123",
+     "annotationID":     48312,
+     "sentence":"Wilson threw a bullet to Baldwin (7-123) for a 9.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    48310,
-    "sentence":"The Seahawks had to settle for a field goal, but the Rams answered with Benny Cunningham returning the kickoff 75 yards to the Seattle 31."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48309,
+     "sentence":"It was 1 of the greatest special teams plays I've ever seen and an ingenious trick play by Fassel.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     48310,
+     "sentence":"Louis answered with a pretty 30-yard pass from Davis to Chris Givens (1-30).",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1445,19 +1730,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"8",
-    "annotationID":    48590,
-    "sentence":"He caught 6 of his 8 targets for 61 yards."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     48590,
+     "sentence":"He caught 6 of his 8 targets for 61 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    48589,
-    "sentence":"He caught 6 of his 8 targets for 61 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     48589,
+     "sentence":"He caught 6 of his 8 targets for 61 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"61",
-    "annotationID":    48591,
-    "sentence":"He caught 6 of his 8 targets for 61 yards."
+    "1":{
+     "propertyValue":"61",
+     "annotationID":     48591,
+     "sentence":"He caught 6 of his 8 targets for 61 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1507,23 +1801,50 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    49462,
-    "sentence":"Wilson finished completing 17-of-35 passes for 179 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     49461,
+     "sentence":"Marshawn Lynch had a huge day as Seattle's leading rusher with 21 carries for 67 yards and was the leading receiver with 5 receptions for 76 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     49462,
+     "sentence":"The Seahawks' receivers gave them very little, as Doug Baldwin (5-38), Paul Richardson (3-12) and Jermaine Kearse (1-4) were all held in check.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"38",
-    "annotationID":    49463,
-    "sentence":"Baldwin then returned a punt 38 yards."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     49459,
+     "sentence":"Baldwin then returned a punt 38 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"38",
+     "annotationID":     49460,
+     "sentence":"On third-and-goal just after the 2-minute warning, Carr connected with Rivera (8-38) for another touchdown off a play-action bootleg.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"38",
+     "annotationID":     49463,
+     "sentence":"The Seahawks' receivers gave them very little, as Doug Baldwin (5-38), Paul Richardson (3-12) and Jermaine Kearse (1-4) were all held in check.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    49464,
-    "sentence":"Baldwin then returned a punt 38 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     49464,
+     "sentence":"The Seahawks' receivers gave them very little, as Doug Baldwin (5-38), Paul Richardson (3-12) and Jermaine Kearse (1-4) were all held in check.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   37,
    "punt_return_touchdowns":   0,
@@ -1567,19 +1888,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    50084,
-    "sentence":"Baldwin had the most balls thrown to him (6), but his 4-31 line was very underwhelming."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     50084,
+     "sentence":"Baldwin had the most balls thrown to him (6), but his 4-31 line was very underwhelming.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    50085,
-    "sentence":"Baldwin had the most balls thrown to him (6), but his 4-31 line was very underwhelming."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     50085,
+     "sentence":"Baldwin had the most balls thrown to him (6), but his 4-31 line was very underwhelming.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"31",
-    "annotationID":    50086,
-    "sentence":"Baldwin had the most balls thrown to him (6), but his 4-31 line was very underwhelming."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     50086,
+     "sentence":"Baldwin had the most balls thrown to him (6), but his 4-31 line was very underwhelming.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1590,9 +1920,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    50088,
-    "sentence":"Baldwin had the most balls thrown to him (6), but his 4-31 line was very underwhelming."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50087,
+     "sentence":"The Giants blew this 1 late, but they can at least be encouraged by Beckham's performance.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50088,
+     "sentence":"Eli Manning went 28-of-43 for 279 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1633,14 +1972,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    50279,
-    "sentence":"Baldwin (6-45)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     50279,
+     "sentence":"Baldwin (6-45).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"45",
-    "annotationID":    50280,
-    "sentence":"Baldwin (6-45)."
+    "1":{
+     "propertyValue":"45",
+     "annotationID":     50280,
+     "sentence":"Baldwin (6-45).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   3,
@@ -1689,19 +2034,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    50963,
-    "sentence":"Baldwin (2-6) did much."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50963,
+     "sentence":"Baldwin (2-6) did much.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    50964,
-    "sentence":"Baldwin (2-6) did much."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50964,
+     "sentence":"Baldwin (2-6) did much.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"6",
-    "annotationID":    50965,
-    "sentence":"Baldwin (2-6) did much."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     50965,
+     "sentence":"Baldwin (2-6) did much.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1738,9 +2092,12 @@
    "game_won":   true,
    "player_team_score":"19",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    51182,
-    "sentence":"Baldwin (2-28) and Jermaine Kearse (3-34) once again produced pedestrian numbers."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     51182,
+     "sentence":"Baldwin (2-28) and Jermaine Kearse (3-34) once again produced pedestrian numbers.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1755,14 +2112,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    51180,
-    "sentence":"Baldwin (2-28) and Jermaine Kearse (3-34) once again produced pedestrian numbers."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     51180,
+     "sentence":"Baldwin (2-28) and Jermaine Kearse (3-34) once again produced pedestrian numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"28",
-    "annotationID":    51181,
-    "sentence":"Baldwin (2-28) and Jermaine Kearse (3-34) once again produced pedestrian numbers."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     51181,
+     "sentence":"Baldwin (2-28) and Jermaine Kearse (3-34) once again produced pedestrian numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1812,32 +2175,71 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    52154,
-    "sentence":"Baldwin with a dart on third-and-13 after eluding a sack, and then converted with another pass on third-and-15 after dancing around in the pocket."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     52151,
+     "sentence":"Lynch helped his fantasy owners as a receiver, catching 5 balls for 27 extra yards and a touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     52154,
+     "sentence":"That was Doug Baldwin (5-97), who secured Wilson's other touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"97",
-    "annotationID":    52156,
-    "sentence":"That was Doug Baldwin (5-97), who secured Wilson's other touchdown."
+    "1":{
+     "propertyValue":"97",
+     "annotationID":     52156,
+     "sentence":"That was Doug Baldwin (5-97), who secured Wilson's other touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    52153,
-    "sentence":"Baldwin with a dart on third-and-13 after eluding a sack, and then converted with another pass on third-and-15 after dancing around in the pocket."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     52149,
+     "sentence":"Wilson, who went 22-of-37 for 263 yards and 3 touchdowns (2 passing, 1 rushing) to go along with 48 rushing yards on 10 scrambles, did a great job of keeping drives alive.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     52153,
+     "sentence":"Despite holding the ball the entire game, only 1 Seattle player had more than 37 receiving yards.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    52150,
-    "sentence":"Baldwin with a dart on third-and-13 after eluding a sack, and then converted with another pass on third-and-15 after dancing around in the pocket."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     52148,
+     "sentence":"Wilson, who went 22-of-37 for 263 yards and 3 touchdowns (2 passing, 1 rushing) to go along with 48 rushing yards on 10 scrambles, did a great job of keeping drives alive.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     52150,
+     "sentence":"Wilson also nearly threw a pick-six very late, but Seattle still would have led by 3.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":{
-    "propertyValue":"5",
-    "annotationID":    52155,
-    "sentence":"Baldwin with a dart on third-and-13 after eluding a sack, and then converted with another pass on third-and-15 after dancing around in the pocket."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     52152,
+     "sentence":"Lynch helped his fantasy owners as a receiver, catching 5 balls for 27 extra yards and a touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     52155,
+     "sentence":"That was Doug Baldwin (5-97), who secured Wilson's other touchdown.",
+     "confidence":"None"
+    }
    },
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
@@ -1881,14 +2283,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    52739,
-    "sentence":"Baldwin (3-53) and Richardson were the only other Seahawks with more than 1 reception."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     52739,
+     "sentence":"Baldwin (3-53) and Richardson were the only other Seahawks with more than 1 reception.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"53",
-    "annotationID":    52740,
-    "sentence":"Baldwin (3-53) and Richardson were the only other Seahawks with more than 1 reception."
+    "1":{
+     "propertyValue":"53",
+     "annotationID":     52740,
+     "sentence":"Baldwin (3-53) and Richardson were the only other Seahawks with more than 1 reception.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1924,14 +2332,20 @@
    "opponent":"ARI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"35",
-    "annotationID":    53469,
-    "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     53469,
+     "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    53468,
-    "sentence":"They did keep this game close for a while - it was 14-6 entering the 4."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     53468,
+     "sentence":"They did keep this game close for a while - it was 14-6 entering the 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1946,14 +2360,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    53467,
-    "sentence":"Baldwin (7-113) also had a big game, while rookie Paul Richardson (7-52) also contributed."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     53465,
+     "sentence":"Baldwin (7-113) also had a big game, while rookie Paul Richardson (7-52) also contributed.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"7",
+     "annotationID":     53467,
+     "sentence":"Baldwin (7-113) also had a big game, while rookie Paul Richardson (7-52) also contributed.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"113",
-    "annotationID":    53466,
-    "sentence":"Baldwin (7-113) also had a big game, while rookie Paul Richardson (7-52) also contributed."
+    "1":{
+     "propertyValue":"113",
+     "annotationID":     53466,
+     "sentence":"Baldwin (7-113) also had a big game, while rookie Paul Richardson (7-52) also contributed.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2003,14 +2429,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    54294,
-    "sentence":"Baldwin (3-38, TD) and Marshawn Lynch."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     54294,
+     "sentence":"Baldwin (3-38, TD) and Marshawn Lynch.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"38",
-    "annotationID":    54295,
-    "sentence":"Baldwin (3-38, TD) and Marshawn Lynch."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     54295,
+     "sentence":"Baldwin (3-38, TD) and Marshawn Lynch.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2060,14 +2492,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    54445,
-    "sentence":"Baldwin (6-106), who lost a fumble on a kickoff, led the team in receiving, but it's clearer than ever that the Seahawks have to address their receiving corps this offseason."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     54445,
+     "sentence":"Baldwin (6-106), who lost a fumble on a kickoff, led the team in receiving, but it's clearer than ever that the Seahawks have to address their receiving corps this offseason.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"106",
-    "annotationID":    54446,
-    "sentence":"Baldwin (6-106), who lost a fumble on a kickoff, led the team in receiving, but it's clearer than ever that the Seahawks have to address their receiving corps this offseason."
+    "1":{
+     "propertyValue":"106",
+     "annotationID":     54446,
+     "sentence":"Baldwin (6-106), who lost a fumble on a kickoff, led the team in receiving, but it's clearer than ever that the Seahawks have to address their receiving corps this offseason.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   3,
@@ -2117,14 +2555,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    54722,
-    "sentence":"Baldwin (7-35) had an embarrassingly low yards-per-reception figure."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     54722,
+     "sentence":"Baldwin (7-35) had an embarrassingly low yards-per-reception figure.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"35",
-    "annotationID":    54723,
-    "sentence":"Baldwin (7-35) had an embarrassingly low yards-per-reception figure."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     54723,
+     "sentence":"Baldwin (7-35) had an embarrassingly low yards-per-reception figure.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2174,14 +2618,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    55783,
-    "sentence":"Baldwin led the way instead, catching 7 balls for 92 yards and a touchdown."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     55783,
+     "sentence":"Baldwin led the way instead, catching 7 balls for 92 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"92",
-    "annotationID":    55784,
-    "sentence":"Baldwin led the way instead, catching 7 balls for 92 yards and a touchdown."
+    "1":{
+     "propertyValue":"92",
+     "annotationID":     55784,
+     "sentence":"Baldwin led the way instead, catching 7 balls for 92 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2279,19 +2729,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    60074,
-    "sentence":"Baldwin (6-60) led the team in receiving."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     60074,
+     "sentence":"Baldwin (6-60) led the team in receiving.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    60075,
-    "sentence":"Baldwin (6-60) led the team in receiving."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     60075,
+     "sentence":"Baldwin (6-60) led the team in receiving.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"60",
-    "annotationID":    60076,
-    "sentence":"Baldwin (6-60) led the team in receiving."
+    "1":{
+     "propertyValue":"60",
+     "annotationID":     60076,
+     "sentence":"Baldwin (6-60) led the team in receiving.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2340,24 +2799,42 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"8",
-    "annotationID":    60622,
-    "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     60622,
+     "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    60621,
-    "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     60621,
+     "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"145",
-    "annotationID":    60623,
-    "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns."
+    "1":{
+     "propertyValue":"145",
+     "annotationID":     60623,
+     "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    60625,
-    "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     60624,
+     "sentence":"Baldwin's 6 receptions on 8 targets for 145 yards and 3 touchdowns was his career game in both yardage and touchdowns.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     60625,
+     "sentence":"He's now had 2 huge games in his last 3.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2393,9 +2870,12 @@
    "game_won":   true,
    "player_team_score":"38",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    60967,
-    "sentence":"Baldwin tied Tyler Lockett with the team lead in targets (7)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     60967,
+     "sentence":"Baldwin tied Tyler Lockett with the team lead in targets (7).",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2409,24 +2889,36 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"7",
-    "annotationID":    60968,
-    "sentence":"Baldwin tied Tyler Lockett with the team lead in targets (7)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     60968,
+     "sentence":"Baldwin tied Tyler Lockett with the team lead in targets (7).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    60964,
-    "sentence":"He continued to post big numbers, catching 5 balls for 94 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     60964,
+     "sentence":"He continued to post big numbers, catching 5 balls for 94 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"94",
-    "annotationID":    60965,
-    "sentence":"He continued to post big numbers, catching 5 balls for 94 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"94",
+     "annotationID":     60965,
+     "sentence":"He continued to post big numbers, catching 5 balls for 94 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    60966,
-    "sentence":"He continued to post big numbers, catching 5 balls for 94 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     60966,
+     "sentence":"He continued to post big numbers, catching 5 balls for 94 yards and 2 touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2462,9 +2954,12 @@
    "game_won":   true,
    "player_team_score":"35",
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    61455,
-    "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     61455,
+     "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2479,19 +2974,28 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    61456,
-    "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     61456,
+     "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"82",
-    "annotationID":    61457,
-    "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"82",
+     "annotationID":     61457,
+     "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    61458,
-    "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     61458,
+     "sentence":"Baldwin logged 6 receptions for 82 yards and 3 touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2589,14 +3093,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    63245,
-    "sentence":"One of the league's hottest receivers, Baldwin caught 8 passes for 118 yards and a touchdown."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     63245,
+     "sentence":"One of the league's hottest receivers, Baldwin caught 8 passes for 118 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"118",
-    "annotationID":    63246,
-    "sentence":"One of the league's hottest receivers, Baldwin caught 8 passes for 118 yards and a touchdown."
+    "1":{
+     "propertyValue":"118",
+     "annotationID":     63246,
+     "sentence":"One of the league's hottest receivers, Baldwin caught 8 passes for 118 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2681,9 +3191,12 @@
    "opponent":"MIN",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    63904,
-    "sentence":"handed catch to convert a third-and-10 in the second quarter."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     63904,
+     "sentence":"handed catch to convert a third-and-10 in the second quarter.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"9",
    "passing_attempts":   0,
@@ -2699,19 +3212,34 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    63901,
-    "sentence":"Baldwin (5-42), who made an amazing, 1."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     63901,
+     "sentence":"Baldwin (5-42), who made an amazing, 1.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"42",
-    "annotationID":    63902,
-    "sentence":"Baldwin (5-42), who made an amazing, 1."
+    "1":{
+     "propertyValue":"42",
+     "annotationID":     63902,
+     "sentence":"Baldwin (5-42), who made an amazing, 1.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    63905,
-    "sentence":"Baldwin (5-42), who made an amazing, 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     63903,
+     "sentence":"Baldwin (5-42), who made an amazing, 1.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     63905,
+     "sentence":"Lockett caught that 1 crazy pass, but he made it count, as it went for 35 yards.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2808,19 +3336,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"11",
-    "annotationID":    64766,
-    "sentence":"Baldwin, who picked up where he left off last season; he caught 9 of his 11 targets for 92 yards."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     64766,
+     "sentence":"Baldwin, who picked up where he left off last season; he caught 9 of his 11 targets for 92 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"9",
-    "annotationID":    64765,
-    "sentence":"Baldwin, who picked up where he left off last season; he caught 9 of his 11 targets for 92 yards."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     64765,
+     "sentence":"Baldwin, who picked up where he left off last season; he caught 9 of his 11 targets for 92 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"92",
-    "annotationID":    64767,
-    "sentence":"Baldwin, who picked up where he left off last season; he caught 9 of his 11 targets for 92 yards."
+    "1":{
+     "propertyValue":"92",
+     "annotationID":     64767,
+     "sentence":"Baldwin, who picked up where he left off last season; he caught 9 of his 11 targets for 92 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2856,9 +3393,12 @@
    "opponent":"LAR",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"3",
-    "annotationID":    65374,
-    "sentence":"Baldwin managed to catch just 3 passes for 30 yards, as he was finally slowed down."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     65374,
+     "sentence":"Baldwin managed to catch just 3 passes for 30 yards, as he was finally slowed down.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"9",
    "passing_attempts":   0,
@@ -2874,9 +3414,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    65375,
-    "sentence":"Baldwin managed to catch just 3 passes for 30 yards, as he was finally slowed down."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     65375,
+     "sentence":"Baldwin managed to catch just 3 passes for 30 yards, as he was finally slowed down.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   20,
    "receiving_touchdowns":   0,
@@ -2927,14 +3470,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    66111,
-    "sentence":"Baldwin, who had a monstrous performance, catching 8 balls for 164 yards."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     66111,
+     "sentence":"Baldwin, who had a monstrous performance, catching 8 balls for 164 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"164",
-    "annotationID":    66112,
-    "sentence":"Baldwin, who had a monstrous performance, catching 8 balls for 164 yards."
+    "1":{
+     "propertyValue":"164",
+     "annotationID":     66112,
+     "sentence":"Baldwin, who had a monstrous performance, catching 8 balls for 164 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2983,19 +3532,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    66347,
-    "sentence":"Baldwin (4-54) also made a terrific reception on a 38-yard gain just as he was rocked by Calvin Pryor."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     66347,
+     "sentence":"Baldwin (4-54) also made a terrific reception on a 38-yard gain just as he was rocked by Calvin Pryor.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    66348,
-    "sentence":"Baldwin (4-54) also made a terrific reception on a 38-yard gain just as he was rocked by Calvin Pryor."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     66348,
+     "sentence":"Baldwin (4-54) also made a terrific reception on a 38-yard gain just as he was rocked by Calvin Pryor.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"54",
-    "annotationID":    66349,
-    "sentence":"Baldwin (4-54) also made a terrific reception on a 38-yard gain just as he was rocked by Calvin Pryor."
+    "1":{
+     "propertyValue":"54",
+     "annotationID":     66349,
+     "sentence":"Baldwin (4-54) also made a terrific reception on a 38-yard gain just as he was rocked by Calvin Pryor.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3044,19 +3602,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    68056,
-    "sentence":"Baldwin (4-31), Jermaine Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     68056,
+     "sentence":"Baldwin (4-31), Jermaine Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    68054,
-    "sentence":"Baldwin (4-31), Jermaine Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     68054,
+     "sentence":"Baldwin (4-31), Jermaine Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"31",
-    "annotationID":    68055,
-    "sentence":"Baldwin (4-31), Jermaine Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     68055,
+     "sentence":"Baldwin (4-31), Jermaine Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3155,14 +3722,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    68970,
-    "sentence":"Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     68968,
+     "sentence":"Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     68970,
+     "sentence":"Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"51",
-    "annotationID":    68969,
-    "sentence":"Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers."
+    "1":{
+     "propertyValue":"51",
+     "annotationID":     68969,
+     "sentence":"Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3211,14 +3790,20 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    70540,
-    "sentence":"He hauled in 6 of his 8 targets for 59 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     70540,
+     "sentence":"He hauled in 6 of his 8 targets for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    70541,
-    "sentence":"He hauled in 6 of his 8 targets for 59 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     70541,
+     "sentence":"He hauled in 6 of his 8 targets for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   89,
    "receiving_touchdowns":   0,
@@ -3268,24 +3853,36 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"8",
-    "annotationID":    70543,
-    "sentence":"He hauled in 6 of his 8 targets for 59 yards."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     70543,
+     "sentence":"He hauled in 6 of his 8 targets for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    70542,
-    "sentence":"He hauled in 6 of his 8 targets for 59 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     70542,
+     "sentence":"He hauled in 6 of his 8 targets for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"59",
-    "annotationID":    70544,
-    "sentence":"He hauled in 6 of his 8 targets for 59 yards."
+    "1":{
+     "propertyValue":"59",
+     "annotationID":     70544,
+     "sentence":"He hauled in 6 of his 8 targets for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    70545,
-    "sentence":"He trailed Tyler Lockett (3-72), who looked healthy once again."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     70545,
+     "sentence":"He trailed Tyler Lockett (3-72), who looked healthy once again.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -3322,21 +3919,48 @@
    "player_team_score":"26",
    "opponent_score":"15",
    "passing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    71127,
-    "sentence":"Doug Baldwin (4-104) was the top target of the quarterback during the game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71124,
+     "sentence":"On 1 short completion, Baldwin managed to turn upfield and avoid tacklers to get a big gain.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     71127,
+     "sentence":"He should be a low-end WR1 so long as Wilson is healthy.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"1",
-    "annotationID":    71128,
-    "sentence":"Doug Baldwin (4-104) was the top target of the quarterback during the game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71125,
+     "sentence":"On 1 short completion, Baldwin managed to turn upfield and avoid tacklers to get a big gain.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     71128,
+     "sentence":"He should be a low-end WR1 so long as Wilson is healthy.",
+     "confidence":"None"
+    }
    },
    "passing_yards":   15,
    "passing_rating":   158.3,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    71129,
-    "sentence":"Doug Baldwin (4-104) was the top target of the quarterback during the game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71126,
+     "sentence":"On 1 short completion, Baldwin managed to turn upfield and avoid tacklers to get a big gain.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     71129,
+     "sentence":"He should be a low-end WR1 so long as Wilson is healthy.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
@@ -3346,14 +3970,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    71122,
-    "sentence":"Doug Baldwin (4-104) was the top target of the quarterback during the game."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     71122,
+     "sentence":"Doug Baldwin (4-104) was the top target of the quarterback during the game.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"104",
-    "annotationID":    71123,
-    "sentence":"Doug Baldwin (4-104) was the top target of the quarterback during the game."
+    "1":{
+     "propertyValue":"104",
+     "annotationID":     71123,
+     "sentence":"Doug Baldwin (4-104) was the top target of the quarterback during the game.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3390,9 +4020,12 @@
    "game_won":   true,
    "player_team_score":"40",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    72558,
-    "sentence":"Baldwin (7-65) and Tyler Lockett (5-63)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     72558,
+     "sentence":"Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -3406,19 +4039,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"7",
-    "annotationID":    72559,
-    "sentence":"Baldwin (7-65) and Tyler Lockett (5-63)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     72559,
+     "sentence":"Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    72560,
-    "sentence":"Baldwin (7-65) and Tyler Lockett (5-63)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     72560,
+     "sentence":"Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"65",
-    "annotationID":    72561,
-    "sentence":"Baldwin (7-65) and Tyler Lockett (5-63)."
+    "1":{
+     "propertyValue":"65",
+     "annotationID":     72561,
+     "sentence":"Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3468,14 +4110,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   11,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    73148,
-    "sentence":"He managed to lead the Seahawks with 6 catches and 46 yards, but he didn't have a good game."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     73148,
+     "sentence":"He managed to lead the Seahawks with 6 catches and 46 yards, but he didn't have a good game.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"46",
-    "annotationID":    73149,
-    "sentence":"He managed to lead the Seahawks with 6 catches and 46 yards, but he didn't have a good game."
+    "1":{
+     "propertyValue":"46",
+     "annotationID":     73149,
+     "sentence":"He managed to lead the Seahawks with 6 catches and 46 yards, but he didn't have a good game.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3512,9 +4160,12 @@
    "game_won":   true,
    "player_team_score":"24",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    73232,
-    "sentence":"Baldwin (5-35) and Luke Willson (3-19)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     73232,
+     "sentence":"Baldwin (5-35) and Luke Willson (3-19).",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -3529,14 +4180,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    73230,
-    "sentence":"Baldwin (5-35) and Luke Willson (3-19)."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     73230,
+     "sentence":"Baldwin (5-35) and Luke Willson (3-19).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"35",
-    "annotationID":    73231,
-    "sentence":"Baldwin (5-35) and Luke Willson (3-19)."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     73231,
+     "sentence":"Baldwin (5-35) and Luke Willson (3-19).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -3585,19 +4242,28 @@
    "rushing_yards":   6,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"19",
-    "annotationID":    74375,
-    "sentence":"The Stanford product caught a whopping 13 passes on 19 targets, totaling 171 receiving yards."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     74375,
+     "sentence":"The Stanford product caught a whopping 13 passes on 19 targets, totaling 171 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"13",
-    "annotationID":    74374,
-    "sentence":"The Stanford product caught a whopping 13 passes on 19 targets, totaling 171 receiving yards."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     74374,
+     "sentence":"The Stanford product caught a whopping 13 passes on 19 targets, totaling 171 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"171",
-    "annotationID":    74376,
-    "sentence":"The Stanford product caught a whopping 13 passes on 19 targets, totaling 171 receiving yards."
+    "1":{
+     "propertyValue":"171",
+     "annotationID":     74376,
+     "sentence":"The Stanford product caught a whopping 13 passes on 19 targets, totaling 171 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -3646,19 +4312,28 @@
    "rushing_yards":   6,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"12",
-    "annotationID":    75345,
-    "sentence":"Baldwin hauled in 11 of his 12 targets for 104 yards and a touchdown, and he could've had an even greater performance, but barely stepped out of bounds to negate a long gain."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     75345,
+     "sentence":"Baldwin hauled in 11 of his 12 targets for 104 yards and a touchdown, and he could've had an even greater performance, but barely stepped out of bounds to negate a long gain.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"11",
-    "annotationID":    75344,
-    "sentence":"Baldwin hauled in 11 of his 12 targets for 104 yards and a touchdown, and he could've had an even greater performance, but barely stepped out of bounds to negate a long gain."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     75344,
+     "sentence":"Baldwin hauled in 11 of his 12 targets for 104 yards and a touchdown, and he could've had an even greater performance, but barely stepped out of bounds to negate a long gain.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"104",
-    "annotationID":    75346,
-    "sentence":"Baldwin hauled in 11 of his 12 targets for 104 yards and a touchdown, and he could've had an even greater performance, but barely stepped out of bounds to negate a long gain."
+    "1":{
+     "propertyValue":"104",
+     "annotationID":     75346,
+     "sentence":"Baldwin hauled in 11 of his 12 targets for 104 yards and a touchdown, and he could've had an even greater performance, but barely stepped out of bounds to negate a long gain.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -3708,14 +4383,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    75464,
-    "sentence":"Baldwin (5-80) and Jimmy Graham (3-22) both caught touchdowns."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     75464,
+     "sentence":"Baldwin (5-80) and Jimmy Graham (3-22) both caught touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"80",
-    "annotationID":    75465,
-    "sentence":"Baldwin (5-80) and Jimmy Graham (3-22) both caught touchdowns."
+    "1":{
+     "propertyValue":"80",
+     "annotationID":     75465,
+     "sentence":"Baldwin (5-80) and Jimmy Graham (3-22) both caught touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -3761,26 +4442,74 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    76185,
-    "sentence":"To that point, the Seahawks had only 1 first down, but that throw really snapped them out of their funk."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     76183,
+     "sentence":"To that point, the Seahawks had only 1 first down, but that throw really snapped them out of their funk.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     76184,
+     "sentence":"It was a nice drive by the veteran, and 1 that only he would be able to orchestrate.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     76185,
+     "sentence":"On 1 throw in the 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -3,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    76191,
-    "sentence":"On 1 throw in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     76186,
+     "sentence":"On 1 throw in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     76188,
+     "sentence":"Doug Baldwin (4-63) and Paul Richardson (4-59) both looked good on the field.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     76191,
+     "sentence":"Doug Baldwin (4-63) and Paul Richardson (4-59) both looked good on the field.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    76192,
-    "sentence":"On 1 throw in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     76187,
+     "sentence":"On 1 throw in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     76189,
+     "sentence":"Doug Baldwin (4-63) and Paul Richardson (4-59) both looked good on the field.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     76192,
+     "sentence":"Doug Baldwin (4-63) and Paul Richardson (4-59) both looked good on the field.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"63",
-    "annotationID":    76190,
-    "sentence":"Doug Baldwin (4-63) and Paul Richardson (4-59) both looked good on the field."
+    "1":{
+     "propertyValue":"63",
+     "annotationID":     76190,
+     "sentence":"Doug Baldwin (4-63) and Paul Richardson (4-59) both looked good on the field.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3817,9 +4546,12 @@
    "game_won":   true,
    "player_team_score":"12",
    "opponent_score":{
-    "propertyValue":"9",
-    "annotationID":    76889,
-    "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     76889,
+     "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -3833,19 +4565,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"9",
-    "annotationID":    76890,
-    "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     76890,
+     "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    76888,
-    "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     76888,
+     "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"44",
-    "annotationID":    76891,
-    "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively."
+    "1":{
+     "propertyValue":"44",
+     "annotationID":     76891,
+     "sentence":"Baldwin and Tyler Lockett, each converted 6 of their 9 targets for 44 and 64 yards, respectively.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -3894,24 +4635,42 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"15",
-    "annotationID":    77478,
-    "sentence":"Baldwin saw 15 targets and was able to make a lot of plays throughout the day."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     77478,
+     "sentence":"Baldwin saw 15 targets and was able to make a lot of plays throughout the day.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"10",
-    "annotationID":    77475,
-    "sentence":"Baldwin (10-105, 1 TD) and Jimmy Graham (7-72)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     77475,
+     "sentence":"Baldwin (10-105, 1 TD) and Jimmy Graham (7-72).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"105",
-    "annotationID":    77476,
-    "sentence":"Baldwin (10-105, 1 TD) and Jimmy Graham (7-72)."
+    "1":{
+     "propertyValue":"105",
+     "annotationID":     77476,
+     "sentence":"Baldwin (10-105, 1 TD) and Jimmy Graham (7-72).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    77479,
-    "sentence":"Baldwin (10-105, 1 TD) and Jimmy Graham (7-72)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     77477,
+     "sentence":"Baldwin (10-105, 1 TD) and Jimmy Graham (7-72).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     77479,
+     "sentence":"When Wilson has enough time in the pocket, Baldwin can be a WR1.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -3959,19 +4718,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    78299,
-    "sentence":"Baldwin (3-35)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     78299,
+     "sentence":"Baldwin (3-35).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    78300,
-    "sentence":"Baldwin (3-35)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     78300,
+     "sentence":"Baldwin (3-35).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"35",
-    "annotationID":    78301,
-    "sentence":"Baldwin (3-35)."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     78301,
+     "sentence":"Baldwin (3-35).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -4021,14 +4789,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    78723,
-    "sentence":"Baldwin (4-37) and Paul Richardson (3-35) were not far behind."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78723,
+     "sentence":"Baldwin (4-37) and Paul Richardson (3-35) were not far behind.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    78724,
-    "sentence":"Baldwin (4-37) and Paul Richardson (3-35) were not far behind."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     78724,
+     "sentence":"Baldwin (4-37) and Paul Richardson (3-35) were not far behind.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -4078,19 +4852,40 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   12,
    "receiving_receptions":{
-    "propertyValue":"9",
-    "annotationID":    79823,
-    "sentence":"Wilson's top receivers on the day were Doug Baldwin (9-92, 1 TD) and "
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     79823,
+     "sentence":"Wilson's top receivers on the day were Doug Baldwin (9-92, 1 TD) and ",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"92",
-    "annotationID":    79824,
-    "sentence":"Wilson's top receivers on the day were Doug Baldwin (9-92, 1 TD) and "
+    "1":{
+     "propertyValue":"92",
+     "annotationID":     79824,
+     "sentence":"Wilson's top receivers on the day were Doug Baldwin (9-92, 1 TD) and ",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    79825,
-    "sentence":"On 1 of his touchdowns, he found Baldwin over the middle of the field and lofted a perfect touch pass to him for the 22-yard score."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79821,
+     "sentence":"On 1 of his touchdowns, he found Baldwin over the middle of the field and lofted a perfect touch pass to him for the 22-yard score.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     79822,
+     "sentence":"The ball lofted over the linebackers and was 1 of his best throws on the day.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     79825,
+     "sentence":"Wilson's top receivers on the day were Doug Baldwin (9-92, 1 TD) and ",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -4139,19 +4934,46 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   12,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    80758,
-    "sentence":"Baldwin (7-108, 1 TD) and Jimmy Graham (5-59)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     80758,
+     "sentence":"Baldwin (7-108, 1 TD) and Jimmy Graham (5-59).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"108",
-    "annotationID":    80759,
-    "sentence":"Baldwin (7-108, 1 TD) and Jimmy Graham (5-59)."
+    "1":{
+     "propertyValue":"108",
+     "annotationID":     80759,
+     "sentence":"Baldwin (7-108, 1 TD) and Jimmy Graham (5-59).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    80763,
-    "sentence":"Baldwin (7-108, 1 TD) and Jimmy Graham (5-59)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     80760,
+     "sentence":"Baldwin (7-108, 1 TD) and Jimmy Graham (5-59).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     80761,
+     "sentence":"He was once again Wilson's top target and given the state of the Seattle offense, he looks like a WR1 every week henceforth.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     80762,
+     "sentence":"Graham had 1 scary moment when he bent in an awkward way on a horse-collar tackle, but he returned and was a threat over the middle.",
+     "confidence":"Weak"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     80763,
+     "sentence":"He is a TE1 every week as well.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -4186,9 +5008,12 @@
    "opponent":"ARI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"22",
-    "annotationID":    80887,
-    "sentence":"Wilson finished 22-of-32 for 238 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     80887,
+     "sentence":"Wilson finished 22-of-32 for 238 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"16",
    "passing_attempts":   0,
@@ -4203,19 +5028,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    80888,
-    "sentence":"Both of Wilson's touchdowns went to Jimmy Graham, who caught 6 balls for 27 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     80888,
+     "sentence":"Both of Wilson's touchdowns went to Jimmy Graham, who caught 6 balls for 27 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    80889,
-    "sentence":"Baldwin caught it and ran toward the end zone for a 54-yard gain."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     80889,
+     "sentence":"Baldwin, meanwhile, led Seattle's receivers with 5 catches for 95 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"95",
-    "annotationID":    80890,
-    "sentence":"Baldwin, meanwhile, led Seattle's receivers with 5 catches for 95 yards."
+    "1":{
+     "propertyValue":"95",
+     "annotationID":     80890,
+     "sentence":"Baldwin, meanwhile, led Seattle's receivers with 5 catches for 95 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

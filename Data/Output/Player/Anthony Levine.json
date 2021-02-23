@@ -28,9 +28,12 @@
    "opponent":"NOR",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"34",
-    "annotationID":    51203,
-    "sentence":"Rivers finished 34-of-45 for 383 yards, 3 touchdowns and the aforementioned pick."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     51203,
+     "sentence":"Rivers finished 34-of-45 for 383 yards, 3 touchdowns and the aforementioned pick.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -82,9 +85,12 @@
    "game_won":   false,
    "player_team_score":"33",
    "opponent_score":{
-    "propertyValue":"34",
-    "annotationID":    51204,
-    "sentence":"Rivers finished 34-of-45 for 383 yards, 3 touchdowns and the aforementioned pick."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     51204,
+     "sentence":"Rivers finished 34-of-45 for 383 yards, 3 touchdowns and the aforementioned pick.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -109,14 +115,26 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"6",
-    "annotationID":    51207,
-    "sentence":"The Chargers had 4 players tally more than 6 receiving yards, and all of them had huge outings."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     51207,
+     "sentence":"The Chargers had 4 players tally more than 6 receiving yards, and all of them had huge outings.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"4",
-    "annotationID":    51206,
-    "sentence":"Rivers finished 34-of-45 for 383 yards, 3 touchdowns and the aforementioned pick."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     51205,
+     "sentence":"He even scrambled 4 times, lumbering for 19 additional yards on the ground.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     51206,
+     "sentence":"The Chargers had 4 players tally more than 6 receiving yards, and all of them had huge outings.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

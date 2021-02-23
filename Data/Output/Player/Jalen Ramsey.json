@@ -127,9 +127,12 @@
    "game_won":   true,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    67847,
-    "sentence":"Ka'Deem Carey added a 16-yard run to set up a first-and-goal, but the Jaguars held Chicago to 3 points."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     67847,
+     "sentence":"Ka'Deem Carey added a 16-yard run to set up a first-and-goal, but the Jaguars held Chicago to 3 points.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -154,9 +157,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    67849,
-    "sentence":"Jacksonville got moving with passes of 25 and 29 yards to Allen Hurns to set up the Jaguars inside the Bears' 5-yard line to start the 4."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     67848,
+     "sentence":"With about 2 minutes left, Hoyer got moving with a crossing completion to Meredith (11-113), but on a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     67849,
+     "sentence":"Ramsey showed his resiliency by holding Jeffery (7-93) to just 1 reception for 3 yards in the final 2 quarters.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

@@ -78,9 +78,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    74639,
-    "sentence":"This was evident when the Ravens had possession, down 20-10, with 5:40 remaining."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     74639,
+     "sentence":"This was evident when the Ravens had possession, down 20-10, with 5:40 remaining.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -106,14 +109,32 @@
    "defense_sacks":   0,
    "defense_tackles":   6,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    74640,
-    "sentence":"h-and-1 inside the red zone, but failed to convert."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74637,
+     "sentence":"h-and-1 inside the red zone, but failed to convert.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     74640,
+     "sentence":"Had they opted for the field goal, they would've been down just 1 score with the ball.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    74641,
-    "sentence":"h-and-1 inside the red zone, but failed to convert."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74638,
+     "sentence":"h-and-1 inside the red zone, but failed to convert.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     74641,
+     "sentence":"Had they opted for the field goal, they would've been down just 1 score with the ball.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

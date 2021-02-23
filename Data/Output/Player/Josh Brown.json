@@ -28,9 +28,12 @@
    "opponent":"CHI",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"3",
-    "annotationID":    3748,
-    "sentence":"In the wake of this loss, the Rams have now been outscored 99-10 in the first half the last 3 weeks."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     3748,
+     "sentence":"In the wake of this loss, the Rams have now been outscored 99-10 in the first half the last 3 weeks.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -81,9 +84,12 @@
    "opponent":"CHI",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"3",
-    "annotationID":    3777,
-    "sentence":"In the wake of this loss, the Rams have now been outscored 99-10 in the first half the last 3 weeks."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     3777,
+     "sentence":"In the wake of this loss, the Rams have now been outscored 99-10 in the first half the last 3 weeks.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -138,9 +144,12 @@
    "passing_attempts":   1,
    "passing_completions":   1,
    "passing_yards":{
-    "propertyValue":"36",
-    "annotationID":    8925,
-    "sentence":"Brown tossed a 36-yard touchdown to Daniel Fells."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     8925,
+     "sentence":"Brown tossed a 36-yard touchdown to Daniel Fells.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   158.3,
    "passing_touchdowns":   1,
@@ -266,20 +275,47 @@
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
    "point_after_attemps":{
-    "propertyValue":"1",
-    "annotationID":    19150,
-    "sentence":"Bradford's overall numbers were 17-of-30 for 188 yards, with a hidden 42 yards that he essentially threw for on a pass interference penalty off a beautiful play fake."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19148,
+     "sentence":"Jeremy Maclin had just 1 reception for 20 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     19150,
+     "sentence":"Ronnie Brown (4-7) didn't see much action - obviously a major disappointment to the 1 person on this planet who thought the Eagles would utilize a 2.",
+     "confidence":"None"
+    }
    },
    "point_after_makes":{
-    "propertyValue":"1",
-    "annotationID":    19151,
-    "sentence":"Bradford's overall numbers were 17-of-30 for 188 yards, with a hidden 42 yards that he essentially threw for on a pass interference penalty off a beautiful play fake."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19149,
+     "sentence":"Jeremy Maclin had just 1 reception for 20 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     19151,
+     "sentence":"Ronnie Brown (4-7) didn't see much action - obviously a major disappointment to the 1 person on this planet who thought the Eagles would utilize a 2.",
+     "confidence":"None"
+    }
    },
    "field_goal_attempts":   3,
    "field_goal_makes":{
-    "propertyValue":"2",
-    "annotationID":    19152,
-    "sentence":"Bradford's overall numbers were 17-of-30 for 188 yards, with a hidden 42 yards that he essentially threw for on a pass interference penalty off a beautiful play fake."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     19147,
+     "sentence":"His passing numbers weren't very good (14-of-32, 187 yards, 2 TDs).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     19152,
+     "sentence":"Ronnie Brown (4-7) didn't see much action - obviously a major disappointment to the 1 person on this planet who thought the Eagles would utilize a 2.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -493,14 +529,26 @@
    "opponent":"SFO",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    26122,
-    "sentence":"Jackson ripped off a 27-yard run, but the drive stalled."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     26121,
+     "sentence":"Jackson ripped off a 27-yard run, but the drive stalled.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"27",
+     "annotationID":     26122,
+     "sentence":"No 1 covered Crabtree wide and Akers hit him for an easy touchdown, creating a seemingly safe 27-10 lead as the third quarter came to a close.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"34",
-    "annotationID":    26114,
-    "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     26114,
+     "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -531,24 +579,72 @@
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
    "point_after_attemps":{
-    "propertyValue":"3",
-    "annotationID":    26117,
-    "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     26117,
+     "sentence":"The 49ers defense was starting to take over, and forced consecutive quick punts sandwiched around their own 3.",
+     "confidence":"None"
+    }
    },
    "point_after_makes":{
-    "propertyValue":"3",
-    "annotationID":    26118,
-    "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     26118,
+     "sentence":"The 49ers defense was starting to take over, and forced consecutive quick punts sandwiched around their own 3.",
+     "confidence":"None"
+    }
    },
    "field_goal_attempts":{
-    "propertyValue":"2",
-    "annotationID":    26119,
-    "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     26110,
+     "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     26112,
+     "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     26115,
+     "sentence":"Having started at their own 33-yard line, which on this day was par for the course, San Francisco executed 2 short runs, which Smith followed by hitting Vernon Davis (8-118) for a gain of 44.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     26119,
+     "sentence":"Two runs from Kendall Hunter for a total of 19 yards helped put San Francisco in plus territory, and a completion to Davis made it an easy field goal opportunity for Akers who put the 49ers up 20-7 at halftime when the Rams failed on their final desperation 2.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":{
-    "propertyValue":"2",
-    "annotationID":    26120,
-    "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     26111,
+     "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     26113,
+     "sentence":"Smith wasted no time finishing this second-consecutive drive and putting San Francisco on top, completing 2 passes to Michael Crabtree (9-92, 2 TDs) to cover the 34 yards and make it 14-7.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     26116,
+     "sentence":"Having started at their own 33-yard line, which on this day was par for the course, San Francisco executed 2 short runs, which Smith followed by hitting Vernon Davis (8-118) for a gain of 44.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     26120,
+     "sentence":"Two runs from Kendall Hunter for a total of 19 yards helped put San Francisco in plus territory, and a completion to Davis made it an easy field goal opportunity for Akers who put the 49ers up 20-7 at halftime when the Rams failed on their final desperation 2.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -598,14 +694,20 @@
    "point_after_attemps":   1,
    "point_after_makes":   1,
    "field_goal_attempts":{
-    "propertyValue":"3",
-    "annotationID":    33995,
-    "sentence":"Brown to hit a 43-yard field goal with only seconds remaining."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     33995,
+     "sentence":"Leon Hall made a great read of Roethlisberger to jump in front of Heath Miller (3-45) for an interception.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":{
-    "propertyValue":"2",
-    "annotationID":    33994,
-    "sentence":"Atkins had 2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     33994,
+     "sentence":"Atkins had 2.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -653,14 +755,20 @@
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
    "point_after_attemps":{
-    "propertyValue":"2",
-    "annotationID":    43357,
-    "sentence":"The Giants took over, and following 2 long completions, Josh Brown nailed a 45-yard field goal to clinch the upset."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     43357,
+     "sentence":"The Giants took over, and following 2 long completions, Josh Brown nailed a 45-yard field goal to clinch the upset.",
+     "confidence":"None"
+    }
    },
    "point_after_makes":{
-    "propertyValue":"2",
-    "annotationID":    43358,
-    "sentence":"The Giants took over, and following 2 long completions, Josh Brown nailed a 45-yard field goal to clinch the upset."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     43358,
+     "sentence":"The Giants took over, and following 2 long completions, Josh Brown nailed a 45-yard field goal to clinch the upset.",
+     "confidence":"None"
+    }
    },
    "field_goal_attempts":   3,
    "field_goal_makes":   3,
@@ -828,9 +936,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    58521,
-    "sentence":"Brown hit a 34-yard field goal to give New York a 20-13 lead."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     58521,
+     "sentence":"Brown hit a 34-yard field goal to give New York a 20-13 lead.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,

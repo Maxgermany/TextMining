@@ -28,9 +28,12 @@
    "opponent":"SDG",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"30",
-    "annotationID":    39677,
-    "sentence":"III hit Pierre Garcon for 30 yards, but the drive stalled inside the 10."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     39677,
+     "sentence":"III hit Pierre Garcon for 30 yards, but the drive stalled inside the 10.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"24",
    "passing_attempts":   23,
@@ -90,9 +93,12 @@
    "passing_interceptions":   0,
    "passing_sacks":   3,
    "passing_sacks_yards_lost":{
-    "propertyValue":"26",
-    "annotationID":    44858,
-    "sentence":"After a good 26-yard punt return from "
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     44858,
+     "sentence":"After a good 26-yard punt return from ",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   3,
    "rushing_yards":   2,
@@ -234,19 +240,28 @@
    "player_team_score":"13",
    "opponent_score":"33",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    73636,
-    "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     73636,
+     "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    73637,
-    "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     73637,
+     "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"196",
-    "annotationID":    73638,
-    "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover."
+    "1":{
+     "propertyValue":"196",
+     "annotationID":     73638,
+     "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   81.8,
    "passing_touchdowns":   0,
@@ -254,19 +269,34 @@
    "passing_sacks":   5,
    "passing_sacks_yards_lost":   34,
    "rushing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    73641,
-    "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     73641,
+     "sentence":"He had 8 scrambles for 48 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"48",
-    "annotationID":    73642,
-    "sentence":"He had 8 scrambles for 48 yards and a touchdown."
+    "1":{
+     "propertyValue":"48",
+     "annotationID":     73642,
+     "sentence":"He had 8 scrambles for 48 yards and a touchdown.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    73640,
-    "sentence":"He went 17-of-28 for 196 yards and did not commit a turnover."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     73639,
+     "sentence":"He had 1 nice downfield pass, but that was about it.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     73640,
+     "sentence":"The 1 area where Griffin looked to have some ability was on the ground.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -312,9 +342,12 @@
    "passing_rating":   92.9,
    "passing_touchdowns":   2,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    75005,
-    "sentence":"III touchdown passes, 1 to Seth DeValve and the other to Gary Barnidge."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     75005,
+     "sentence":"III touchdown passes, 1 to Seth DeValve and the other to Gary Barnidge.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   26,

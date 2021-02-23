@@ -208,9 +208,12 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":      13,
       "rushing_yards":{
-       "propertyValue":"103",
-       "annotationID":       34710,
-       "sentence":"Pierce on the ground, 103-70."
+       "1":{
+        "propertyValue":"103",
+        "annotationID":        34710,
+        "sentence":"Pierce on the ground, 103-70.",
+        "confidence":"Weak"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -342,9 +345,18 @@
       "game_won":      true,
       "player_team_score":"24",
       "opponent_score":{
-       "propertyValue":"9",
-       "annotationID":       34716,
-       "sentence":"He was solid on third down, converting 9-of-20 tries."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        34715,
+        "sentence":"He was solid on third down, converting 9-of-20 tries.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"9",
+        "annotationID":        34716,
+        "sentence":"Wayne naturally was Luck's top target, snagging 9 balls for 114 yards.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -358,19 +370,46 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"4",
-       "annotationID":       34717,
-       "sentence":"Going back to the Colts, Luck went 28-of-54 for 288 yards and the aforementioned pick."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        34714,
+        "sentence":"He also scrambled 4 times for 35 additional yards.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"4",
+        "annotationID":        34717,
+        "sentence":"There were 4 blown calls in the first quarter alone.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       34718,
-       "sentence":"Smith, he didn't have a great statistical outing (2-31), but he was a key blocker on 2 of the Ravens' touchdowns."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        34711,
+        "sentence":"Smith, he didn't have a great statistical outing (2-31), but he was a key blocker on 2 of the Ravens' touchdowns.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        34713,
+        "sentence":"Smith, he didn't have a great statistical outing (2-31), but he was a key blocker on 2 of the Ravens' touchdowns.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"2",
+        "annotationID":        34718,
+        "sentence":"The ensuing drive saw 2 missed face mask penalties.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"31",
-       "annotationID":       34712,
-       "sentence":"Smith, he didn't have a great statistical outing (2-31), but he was a key blocker on 2 of the Ravens' touchdowns."
+       "1":{
+        "propertyValue":"31",
+        "annotationID":        34712,
+        "sentence":"Smith, he didn't have a great statistical outing (2-31), but he was a key blocker on 2 of the Ravens' touchdowns.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -511,9 +550,12 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       34719,
-       "sentence":"Luck's next pass was tipped and picked on 4th-and-1."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        34719,
+        "sentence":"Luck's next pass was tipped and picked on 4th-and-1.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      51,
       "receiving_touchdowns":      0,
@@ -585,14 +627,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       34720,
-       "sentence":"He caught 5 balls for 145 yards and a touchdown, with his only blemish being an offensive pass interference in the third quarter."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        34720,
+        "sentence":"He caught 5 balls for 145 yards and a touchdown, with his only blemish being an offensive pass interference in the third quarter.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"145",
-       "annotationID":       34721,
-       "sentence":"He caught 5 balls for 145 yards and a touchdown, with his only blemish being an offensive pass interference in the third quarter."
+       "1":{
+        "propertyValue":"145",
+        "annotationID":        34721,
+        "sentence":"He caught 5 balls for 145 yards and a touchdown, with his only blemish being an offensive pass interference in the third quarter.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -662,19 +710,28 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"2",
-       "annotationID":       34722,
-       "sentence":"Pitta (2-27)."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        34722,
+        "sentence":"Pitta (2-27).",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       34723,
-       "sentence":"Pitta (2-27)."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        34723,
+        "sentence":"Pitta (2-27).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"27",
-       "annotationID":       34724,
-       "sentence":"Pitta (2-27)."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        34724,
+        "sentence":"Pitta (2-27).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -881,15 +938,21 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"1",
-       "annotationID":       34725,
-       "sentence":"Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34725,
+        "sentence":"Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      2,
       "rushing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       34726,
-       "sentence":"Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34726,
+        "sentence":"Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter.",
+        "confidence":"None"
+       }
       },
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -951,25 +1014,49 @@
       "player_team_score":"24",
       "opponent_score":"9",
       "passing_attempts":{
-       "propertyValue":"12",
-       "annotationID":       34727,
-       "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis."
+       "1":{
+        "propertyValue":"12",
+        "annotationID":        34727,
+        "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis.",
+        "confidence":"Strong"
+       }
       },
       "passing_completions":{
-       "propertyValue":"23",
-       "annotationID":       34728,
-       "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis."
+       "1":{
+        "propertyValue":"23",
+        "annotationID":        34728,
+        "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"282",
-       "annotationID":       34730,
-       "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis."
+       "1":{
+        "propertyValue":"282",
+        "annotationID":        34730,
+        "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      125.6,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       34732,
-       "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        34729,
+        "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        34731,
+        "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"2",
+        "annotationID":        34732,
+        "sentence":"Flacco converted 8 passes of 18 yards or more, though his second-longest completion, a 47-yarder to Ray Rice, was all on the running back, who took a short screen down to the 2-yard line.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":      1,
@@ -1049,9 +1136,12 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       34733,
-       "sentence":"Vonta Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34733,
+        "sentence":"Vonta Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      47,
       "receiving_touchdowns":      0,
@@ -1109,9 +1199,24 @@
       "opponent":"BAL",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"9",
-       "annotationID":       34739,
-       "sentence":"Despite the 9 points allowed and Ray Lewis playing his final home game in his Hall-of-Fame career, the Ravens did not look good defensively, and they're going to be in deep trouble next week against Peyton Manning, who routinely torches them."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        34734,
+        "sentence":"Despite the 9 points allowed and Ray Lewis playing his final home game in his Hall-of-Fame career, the Ravens did not look good defensively, and they're going to be in deep trouble next week against Peyton Manning, who routinely torches them.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"9",
+        "annotationID":        34737,
+        "sentence":"He was solid on third down, converting 9-of-20 tries.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"9",
+        "annotationID":        34739,
+        "sentence":"Wayne naturally was Luck's top target, snagging 9 balls for 114 yards.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"24",
       "passing_attempts":      0,
@@ -1126,19 +1231,40 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"18",
-       "annotationID":       34736,
-       "sentence":"Flacco converted 8 passes of 18 yards or more, though his second-longest completion, a 47-yarder to Ray Rice, was all on the running back, who took a short screen down to the 2-yard line."
+       "1":{
+        "propertyValue":"18",
+        "annotationID":        34736,
+        "sentence":"Flacco converted 8 passes of 18 yards or more, though his second-longest completion, a 47-yarder to Ray Rice, was all on the running back, who took a short screen down to the 2-yard line.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"9",
-       "annotationID":       34740,
-       "sentence":"Despite the 9 points allowed and Ray Lewis playing his final home game in his Hall-of-Fame career, the Ravens did not look good defensively, and they're going to be in deep trouble next week against Peyton Manning, who routinely torches them."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        34735,
+        "sentence":"Despite the 9 points allowed and Ray Lewis playing his final home game in his Hall-of-Fame career, the Ravens did not look good defensively, and they're going to be in deep trouble next week against Peyton Manning, who routinely torches them.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"9",
+        "annotationID":        34738,
+        "sentence":"He was solid on third down, converting 9-of-20 tries.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"9",
+        "annotationID":        34740,
+        "sentence":"Wayne naturally was Luck's top target, snagging 9 balls for 114 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"114",
-       "annotationID":       34741,
-       "sentence":"Wayne naturally was Luck's top target, snagging 9 balls for 114 yards."
+       "1":{
+        "propertyValue":"114",
+        "annotationID":        34741,
+        "sentence":"Wayne naturally was Luck's top target, snagging 9 balls for 114 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1195,9 +1321,24 @@
       "opponent":"BAL",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"9",
-       "annotationID":       34754,
-       "sentence":"Despite the 9 points allowed and Ray Lewis playing his final home game in his Hall-of-Fame career, the Ravens did not look good defensively, and they're going to be in deep trouble next week against Peyton Manning, who routinely torches them."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        34742,
+        "sentence":"Despite the 9 points allowed and Ray Lewis playing his final home game in his Hall-of-Fame career, the Ravens did not look good defensively, and they're going to be in deep trouble next week against Peyton Manning, who routinely torches them.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"9",
+        "annotationID":        34753,
+        "sentence":"He was solid on third down, converting 9-of-20 tries.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"9",
+        "annotationID":        34754,
+        "sentence":"Wayne naturally was Luck's top target, snagging 9 balls for 114 yards.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"24",
       "passing_attempts":      0,
@@ -1209,30 +1350,93 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"22",
-       "annotationID":       34756,
-       "sentence":"Vick Ballard tallied 91 yards on 22 carries."
+       "1":{
+        "propertyValue":"22",
+        "annotationID":        34756,
+        "sentence":"Vick Ballard tallied 91 yards on 22 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"91",
-       "annotationID":       34755,
-       "sentence":"Vick Ballard tallied 91 yards on 22 carries."
+       "1":{
+        "propertyValue":"91",
+        "annotationID":        34755,
+        "sentence":"Vick Ballard tallied 91 yards on 22 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"2",
-       "annotationID":       34757,
-       "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        34743,
+        "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        34744,
+        "sentence":"He barely completed half of his passes (12-of-23) and got away with 2 dropped Vontae Davis interceptions early on, but he threw for 282 yards and 2 touchdowns, torching any Colt corner not named Davis.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"2",
+        "annotationID":        34745,
+        "sentence":"Flacco converted 8 passes of 18 yards or more, though his second-longest completion, a 47-yarder to Ray Rice, was all on the running back, who took a short screen down to the 2-yard line.",
+        "confidence":"None"
+       },
+       "4":{
+        "propertyValue":"2",
+        "annotationID":        34749,
+        "sentence":"More importantly, he coughed up 2 fumbles in Indianapolis territory.",
+        "confidence":"None"
+       },
+       "5":{
+        "propertyValue":"2",
+        "annotationID":        34750,
+        "sentence":"Flacco's other score went to Dennis Pitta (2-27).",
+        "confidence":"None"
+       },
+       "6":{
+        "propertyValue":"2",
+        "annotationID":        34751,
+        "sentence":"As for Torrey Smith, he didn't have a great statistical outing (2-31), but he was a key blocker on 2 of the Ravens' touchdowns.",
+        "confidence":"None"
+       },
+       "7":{
+        "propertyValue":"2",
+        "annotationID":        34752,
+        "sentence":"As for Torrey Smith, he didn't have a great statistical outing (2-31), but he was a key blocker on 2 of the Ravens' touchdowns.",
+        "confidence":"None"
+       },
+       "8":{
+        "propertyValue":"2",
+        "annotationID":        34757,
+        "sentence":"The ensuing drive saw 2 missed face mask penalties.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       34746,
-       "sentence":"He did manage to lead the team with 13 tackles, however."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34746,
+        "sentence":"Vonta Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"3",
-       "annotationID":       34748,
-       "sentence":"He did manage to lead the team with 13 tackles, however."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        34747,
+        "sentence":"Vonta Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"3",
+        "annotationID":        34748,
+        "sentence":"Vonta Leach punched the ball into the end zone 1 play later to break a 3-3 tie in the second quarter.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1303,9 +1507,12 @@
       "game_won":      true,
       "player_team_score":"24",
       "opponent_score":{
-       "propertyValue":"14",
-       "annotationID":       34760,
-       "sentence":"Had he failed to reach it, the Seahawks would have punted down 14-0, and would have been in absolutely terrible shape had Griffin not re-injured his knee."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        34760,
+        "sentence":"Had he failed to reach it, the Seahawks would have punted down 14-0, and would have been in absolutely terrible shape had Griffin not re-injured his knee.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -1320,14 +1527,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       34758,
-       "sentence":"Miller, who had 4 grabs for 48 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        34758,
+        "sentence":"Miller, who had 4 grabs for 48 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"48",
-       "annotationID":       34759,
-       "sentence":"Miller, who had 4 grabs for 48 yards."
+       "1":{
+        "propertyValue":"48",
+        "annotationID":        34759,
+        "sentence":"Miller, who had 4 grabs for 48 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1394,29 +1607,62 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"20",
-       "annotationID":       34762,
-       "sentence":"Lynch, meanwhile, gained 132 yards and a score on 20 carries."
+       "1":{
+        "propertyValue":"20",
+        "annotationID":        34762,
+        "sentence":"Lynch, meanwhile, gained 132 yards and a score on 20 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"132",
-       "annotationID":       34761,
-       "sentence":"Lynch, meanwhile, gained 132 yards and a score on 20 carries."
+       "1":{
+        "propertyValue":"132",
+        "annotationID":        34761,
+        "sentence":"Lynch, meanwhile, gained 132 yards and a score on 20 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       34766,
-       "sentence":"Had it gone the other way, the Redskins would have been up 21-3."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34763,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        34766,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       }
       },
       "receiving_targets":{
-       "propertyValue":"1",
-       "annotationID":       34767,
-       "sentence":"Had it gone the other way, the Redskins would have been up 21-3."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34764,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        34767,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       34768,
-       "sentence":"Had it gone the other way, the Redskins would have been up 21-3."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34765,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        34768,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      9,
       "receiving_touchdowns":      0,
@@ -1476,38 +1722,62 @@
       "player_team_score":"24",
       "opponent_score":"14",
       "passing_attempts":{
-       "propertyValue":"15",
-       "annotationID":       34769,
-       "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles."
+       "1":{
+        "propertyValue":"15",
+        "annotationID":        34769,
+        "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"26",
-       "annotationID":       34770,
-       "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles."
+       "1":{
+        "propertyValue":"26",
+        "annotationID":        34770,
+        "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"187",
-       "annotationID":       34771,
-       "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles."
+       "1":{
+        "propertyValue":"187",
+        "annotationID":        34771,
+        "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      92.9,
       "passing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       34775,
-       "sentence":"Had it gone the other way, the Redskins would have been up 21-3."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        34774,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        34775,
+        "sentence":"His only blemish looked like a big 1 - he uncharacteristically fumbled at the 1-yard line, but made up for it with a 27-yard touchdown in the 4.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":      5,
       "passing_sacks_yards_lost":      31,
       "rushing_attempts":{
-       "propertyValue":"8",
-       "annotationID":       34773,
-       "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        34773,
+        "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"67",
-       "annotationID":       34772,
-       "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles."
+       "1":{
+        "propertyValue":"67",
+        "annotationID":        34772,
+        "sentence":"The former went 15-of-26 for 187 yards and a touchdown (stats that could have been better if it weren't for some drops) as well as 67 rushing yards on 8 scrambles.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -1591,9 +1861,12 @@
       "punt_return_yards":      0,
       "punt_return_touchdowns":      0,
       "defense_sacks":{
-       "propertyValue":"2",
-       "annotationID":       34776,
-       "sentence":"Doughty played the game of his life, registering 12 tackles and 2 sacks."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        34776,
+        "sentence":"Doughty played the game of his life, registering 12 tackles and 2 sacks.",
+        "confidence":"None"
+       }
       },
       "defense_tackles":      7,
       "defense_tackle_assists":      5,
@@ -1644,19 +1917,28 @@
       "player_team_score":"14",
       "opponent_score":"24",
       "passing_attempts":{
-       "propertyValue":"3",
-       "annotationID":       34777,
-       "sentence":"Cousins, who didn't look like he was prepared to play (3-of-10, 31 yards)."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        34777,
+        "sentence":"Cousins, who didn't look like he was prepared to play (3-of-10, 31 yards).",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"10",
-       "annotationID":       34778,
-       "sentence":"Cousins, who didn't look like he was prepared to play (3-of-10, 31 yards)."
+       "1":{
+        "propertyValue":"10",
+        "annotationID":        34778,
+        "sentence":"Cousins, who didn't look like he was prepared to play (3-of-10, 31 yards).",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"31",
-       "annotationID":       34779,
-       "sentence":"Cousins, who didn't look like he was prepared to play (3-of-10, 31 yards)."
+       "1":{
+        "propertyValue":"31",
+        "annotationID":        34779,
+        "sentence":"Cousins, who didn't look like he was prepared to play (3-of-10, 31 yards).",
+        "confidence":"None"
+       }
       },
       "passing_rating":      40,
       "passing_touchdowns":      0,
@@ -1724,9 +2006,12 @@
       "opponent":"SEA",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"14",
-       "annotationID":       34780,
-       "sentence":"The key play of the game was when they were driving, down 14-3 in the second quarter."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        34780,
+        "sentence":"The key play of the game was when they were driving, down 14-3 in the second quarter.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"24",
       "passing_attempts":      0,

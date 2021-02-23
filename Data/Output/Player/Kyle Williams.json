@@ -90,19 +90,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    23239,
-    "sentence":"Williams who slipped by linebacker Sam Acho for a pickup of 10 yards and had another reception for 15."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     23239,
+     "sentence":"It was somewhat of a breakout performance for Williams with 5 receptions for 54 yards and (spoiler alert) a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    23240,
-    "sentence":"Williams who slipped by linebacker Sam Acho for a pickup of 10 yards and had another reception for 15."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     23240,
+     "sentence":"It was somewhat of a breakout performance for Williams with 5 receptions for 54 yards and (spoiler alert) a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"54",
-    "annotationID":    23241,
-    "sentence":"It was somewhat of a breakout performance for Williams with 5 receptions for 54 yards and (spoiler alert) a touchdown."
+    "1":{
+     "propertyValue":"54",
+     "annotationID":     23241,
+     "sentence":"It was somewhat of a breakout performance for Williams with 5 receptions for 54 yards and (spoiler alert) a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -148,31 +157,82 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    23995,
-    "sentence":"That was once again apparent in this contest, as Chris Johnson rushed for 153 yards and 2 touchdowns on 23 attempts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     23995,
+     "sentence":"Chris Berman called Matt Hasselbeck 1 of the top free-agent acquisitions this offseason during <i>Sunday NFL Countdown</i> this week.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"25",
-    "annotationID":    23997,
-    "sentence":"Hasselbeck went 16-of-25 for 140 yards, but had trouble sustaining drives, converting just 2-of-11 third-down attempts."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     23997,
+     "sentence":"Hasselbeck went 16-of-25 for 140 yards, but had trouble sustaining drives, converting just 2-of-11 third-down attempts.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    24000,
-    "sentence":"That was once again apparent in this contest, as Chris Johnson rushed for 153 yards and 2 touchdowns on 23 attempts."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23991,
+     "sentence":"That was once again apparent in this contest, as Chris Johnson rushed for 153 yards and 2 touchdowns on 23 attempts.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     23993,
+     "sentence":"Johnson has struggled for most of this season, but has picked it up the past 2 weeks against the poor Buffalo and Tampa Bay defenses.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     23998,
+     "sentence":"Hasselbeck went 16-of-25 for 140 yards, but had trouble sustaining drives, converting just 2-of-11 third-down attempts.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     24000,
+     "sentence":"In fact, Buffalo actually outgained Tennessee, but 2 fumbles (Ryan Fitzpatrick, Scott Chandler) did them in.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    24001,
-    "sentence":"That was once again apparent in this contest, as Chris Johnson rushed for 153 yards and 2 touchdowns on 23 attempts."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     23992,
+     "sentence":"That was once again apparent in this contest, as Chris Johnson rushed for 153 yards and 2 touchdowns on 23 attempts.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     23994,
+     "sentence":"Johnson has struggled for most of this season, but has picked it up the past 2 weeks against the poor Buffalo and Tampa Bay defenses.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     23999,
+     "sentence":"Hasselbeck went 16-of-25 for 140 yards, but had trouble sustaining drives, converting just 2-of-11 third-down attempts.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     24001,
+     "sentence":"In fact, Buffalo actually outgained Tennessee, but 2 fumbles (Ryan Fitzpatrick, Scott Chandler) did them in.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   66,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    23996,
-    "sentence":"That was once again apparent in this contest, as Chris Johnson rushed for 153 yards and 2 touchdowns on 23 attempts."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     23996,
+     "sentence":"Chris Berman called Matt Hasselbeck 1 of the top free-agent acquisitions this offseason during <i>Sunday NFL Countdown</i> this week.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -207,9 +267,12 @@
    "opponent":"STL",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"26",
-    "annotationID":    24285,
-    "sentence":"Williams who did all the work for a 56-yard touchdown to make the final margin 26-0."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     24285,
+     "sentence":"Williams who did all the work for a 56-yard touchdown to make the final margin 26-0.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"0",
    "passing_attempts":   0,
@@ -224,14 +287,20 @@
    "rushing_yards":   25,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    24286,
-    "sentence":"Williams who did all the work for a 56-yard touchdown to make the final margin 26-0."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     24286,
+     "sentence":"It was another ho-hum day for Smith (17-of-23, 274 yards, 2 TDs), although he was sacked 4 times.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    24287,
-    "sentence":"Williams who did all the work for a 56-yard touchdown to make the final margin 26-0."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     24287,
+     "sentence":"It was another ho-hum day for Smith (17-of-23, 274 yards, 2 TDs), although he was sacked 4 times.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   66,
    "receiving_touchdowns":   1,
@@ -269,9 +338,36 @@
    "game_won":   true,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    25999,
-    "sentence":"Williams had a big punt return for 36 yards to change field position and set the 49ers up in Seahawks' territory."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     25991,
+     "sentence":"Two plays later, rookie phenomenon Aldon Smith registered a sack to force a 3rd-and-15.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     25993,
+     "sentence":"A ready and able Seattle defense held tough on 3 consecutive rushing plays, including a straight run on 3rd-and-6 that didn't exactly ooze confidence in Smith's arm.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     25994,
+     "sentence":"A ready and able Seattle defense held tough on 3 consecutive rushing plays, including a straight run on 3rd-and-6 that didn't exactly ooze confidence in Smith's arm.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"3",
+     "annotationID":     25998,
+     "sentence":"On 3rd-and-3, he was trying to scramble for a first down and had the ball knocked out from behind by linebacker ",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"3",
+     "annotationID":     25999,
+     "sentence":"On 3rd-and-3, he was trying to scramble for a first down and had the ball knocked out from behind by linebacker ",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -286,20 +382,47 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    25995,
-    "sentence":"Williams had a big punt return for 36 yards to change field position and set the 49ers up in Seahawks' territory."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     25989,
+     "sentence":"Akers connected from 44 yards out to make it 16-10 just a couple minutes into the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     25992,
+     "sentence":"Seattle took over at the 49ers' 4-yard line and Lynch delivered the first rushing touchdown of the season against San Francisco to put the Seahawks up 17-16.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     25995,
+     "sentence":"Lynch alternated rushing and receiving on the next 4 plays for a total of 33 yards, putting them just past midfield with 1:07 to play.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"33",
-    "annotationID":    25996,
-    "sentence":"Lynch alternated rushing and receiving on the next 4 plays for a total of 33 yards, putting them just past midfield with 1:07 to play."
+    "1":{
+     "propertyValue":"33",
+     "annotationID":     25996,
+     "sentence":"Lynch alternated rushing and receiving on the next 4 plays for a total of 33 yards, putting them just past midfield with 1:07 to play.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    25997,
-    "sentence":"Gore and Hunter runs did most of the work on the drive while Smith missed on his only pass attempt and scrambled for an 11-yard gain."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25990,
+     "sentence":"As the saying goes, the Seahawks were hanging around down by just 1 score.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     25997,
+     "sentence":"Lynch alternated rushing and receiving on the next 4 plays for a total of 33 yards, putting them just past midfield with 1:07 to play.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   18,
    "kick_return_touchdowns":   0,
@@ -333,14 +456,32 @@
    "opponent":"SEA",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"19",
-    "annotationID":    26011,
-    "sentence":"Yet another field goal from Akers put the 49ers ahead, 19-17."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     26011,
+     "sentence":"Yet another field goal from Akers put the 49ers ahead, 19-17.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    26012,
-    "sentence":"It looked like a bad decision when the punt went out of the end zone and Smith hit Davis for 17 yards on the first play of the drive."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     26004,
+     "sentence":"It looked like a bad decision when the punt went out of the end zone and Smith hit Davis for 17 yards on the first play of the drive.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"17",
+     "annotationID":     26006,
+     "sentence":"Seattle took over at the 49ers' 4-yard line and Lynch delivered the first rushing touchdown of the season against San Francisco to put the Seahawks up 17-16.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"17",
+     "annotationID":     26012,
+     "sentence":"Yet another field goal from Akers put the 49ers ahead, 19-17.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -355,32 +496,95 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    26014,
-    "sentence":"Gore and Hunter runs did most of the work on the drive while Smith missed on his only pass attempt and scrambled for an 11-yard gain."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     26002,
+     "sentence":"As the saying goes, the Seahawks were hanging around down by just 1 score.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     26014,
+     "sentence":"Lynch alternated rushing and receiving on the next 4 plays for a total of 33 yards, putting them just past midfield with 1:07 to play.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"4",
-    "annotationID":    26013,
-    "sentence":"Williams had a big punt return for 36 yards to change field position and set the 49ers up in Seahawks' territory."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     26001,
+     "sentence":"Akers connected from 44 yards out to make it 16-10 just a couple minutes into the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     26005,
+     "sentence":"Seattle took over at the 49ers' 4-yard line and Lynch delivered the first rushing touchdown of the season against San Francisco to put the Seahawks up 17-16.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     26013,
+     "sentence":"Lynch alternated rushing and receiving on the next 4 plays for a total of 33 yards, putting them just past midfield with 1:07 to play.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    26016,
-    "sentence":"Williams had a big punt return for 36 yards to change field position and set the 49ers up in Seahawks' territory."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     26003,
+     "sentence":"Two plays later, rookie phenomenon Aldon Smith registered a sack to force a 3rd-and-15.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     26009,
+     "sentence":"A ready and able Seattle defense held tough on 3 consecutive rushing plays, including a straight run on 3rd-and-6 that didn't exactly ooze confidence in Smith's arm.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     26010,
+     "sentence":"A ready and able Seattle defense held tough on 3 consecutive rushing plays, including a straight run on 3rd-and-6 that didn't exactly ooze confidence in Smith's arm.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"3",
+     "annotationID":     26015,
+     "sentence":"On 3rd-and-3, he was trying to scramble for a first down and had the ball knocked out from behind by linebacker ",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"3",
+     "annotationID":     26016,
+     "sentence":"On 3rd-and-3, he was trying to scramble for a first down and had the ball knocked out from behind by linebacker ",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   86,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    26007,
-    "sentence":"Akers has been like his ATM this season and would set a single-season NFL record with 42 field goals in this game."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     26000,
+     "sentence":"The next 2 drives were like watching instant replay.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     26007,
+     "sentence":"However, 2 plays later, Smith (14-of-26, 179 yards) connected on a deep ball good for 41 yards to Michael Crabtree.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":{
-    "propertyValue":"41",
-    "annotationID":    26008,
-    "sentence":"However, 2 plays later, Smith (14-of-26, 179 yards) connected on a deep ball good for 41 yards to Michael Crabtree."
+    "1":{
+     "propertyValue":"41",
+     "annotationID":     26008,
+     "sentence":"However, 2 plays later, Smith (14-of-26, 179 yards) connected on a deep ball good for 41 yards to Michael Crabtree.",
+     "confidence":"None"
+    }
    },
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
@@ -482,19 +686,28 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    27343,
-    "sentence":"Kyle Williams led the charge with 2 sacks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     27343,
+     "sentence":"Kyle Williams led the charge with 2 sacks.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    27344,
-    "sentence":"Kyle Williams led the charge with 2 sacks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     27344,
+     "sentence":"Kyle Williams led the charge with 2 sacks.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    27345,
-    "sentence":"Cassel still managed to throw for 300-plus yards (23-of-42, 301 yards, TDs, 1 INT), but most of that came when Buffalo simply didn't care anymore in the 4."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     27345,
+     "sentence":"Cassel still managed to throw for 300-plus yards (23-of-42, 301 yards, TDs, 1 INT), but most of that came when Buffalo simply didn't care anymore in the 4.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -533,24 +746,33 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    27362,
-    "sentence":"Kyle Williams led the charge with 2 sacks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     27362,
+     "sentence":"Kyle Williams led the charge with 2 sacks.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    27363,
-    "sentence":"Cassel still managed to throw for 300-plus yards (23-of-42, 301 yards, TDs, 1 INT), but most of that came when Buffalo simply didn't care anymore in the 4."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     27363,
+     "sentence":"Cassel still managed to throw for 300-plus yards (23-of-42, 301 yards, TDs, 1 INT), but most of that came when Buffalo simply didn't care anymore in the 4.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    27364,
-    "sentence":"Cassel still managed to throw for 300-plus yards (23-of-42, 301 yards, TDs, 1 INT), but most of that came when Buffalo simply didn't care anymore in the 4."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     27364,
+     "sentence":"Cassel still managed to throw for 300-plus yards (23-of-42, 301 yards, TDs, 1 INT), but most of that came when Buffalo simply didn't care anymore in the 4.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   8,
    "punt_return_touchdowns":   0,
@@ -643,25 +865,37 @@
    "rushing_yards":   6,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    29157,
-    "sentence":"Williams (2-50) and Mario Manningham (4-26)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     29157,
+     "sentence":"Williams (2-50) and Mario Manningham (4-26).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    29158,
-    "sentence":"Williams (2-50) and Mario Manningham (4-26)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     29158,
+     "sentence":"Williams (2-50) and Mario Manningham (4-26).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"50",
-    "annotationID":    29160,
-    "sentence":"Williams (2-50) and Mario Manningham (4-26)."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     29160,
+     "sentence":"Williams (2-50) and Mario Manningham (4-26).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    29159,
-    "sentence":"Williams (2-50) and Mario Manningham (4-26)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     29159,
+     "sentence":"Williams (2-50) and Mario Manningham (4-26).",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   45,
    "kick_return_touchdowns":   0,
@@ -964,9 +1198,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    39439,
-    "sentence":"He was also whistled for 2 penalties."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39439,
+     "sentence":"He was also whistled for 2 penalties.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1214,9 +1451,12 @@
    "defense_sacks":   1.5,
    "defense_tackles":   3,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    73598,
-    "sentence":"Both men recorded 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     73598,
+     "sentence":"Both men recorded 1.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

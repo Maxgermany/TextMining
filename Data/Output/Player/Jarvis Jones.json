@@ -52,9 +52,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    35410,
-    "sentence":"Only 3 Titans caught passes, with Nate Washington predictably leading the way with 4 grabs for 46 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     35409,
+     "sentence":"Only 3 Titans caught passes, with Nate Washington predictably leading the way with 4 grabs for 46 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     35410,
+     "sentence":"Delanie Walker (3-40) and Kendall Wright (2-11) also had multiple catches, while Kenny Britt (1-15) barely did anything.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -156,9 +165,12 @@
    "defense_tackles":   0,
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    61344,
-    "sentence":"DeAngelo Williams was fantastic, trampling the Colts for 134 yards on 26 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     61344,
+     "sentence":"Hasselbeck was exposed, going 16-of-26 for 169 yards, 1 touchdown, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   5,
    "defense_interception_touchdowns":   0,

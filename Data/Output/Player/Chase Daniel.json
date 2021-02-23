@@ -30,19 +30,28 @@
    "player_team_score":"24",
    "opponent_score":"27",
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    44126,
-    "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     44126,
+     "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"30",
-    "annotationID":    44127,
-    "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     44127,
+     "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"200",
-    "annotationID":    44128,
-    "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground."
+    "1":{
+     "propertyValue":"200",
+     "annotationID":     44128,
+     "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   99.3,
    "passing_touchdowns":   1,
@@ -51,9 +60,12 @@
    "passing_sacks_yards_lost":   11,
    "rushing_attempts":   7,
    "rushing_yards":{
-    "propertyValue":"59",
-    "annotationID":    44129,
-    "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground."
+    "1":{
+     "propertyValue":"59",
+     "annotationID":     44129,
+     "sentence":"It was ridiculous that Daniel was able to go 21-of-30 for 200 yards and a touchdown along with 59 rushing yards on the ground.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -94,43 +106,100 @@
    "game_won":   true,
    "player_team_score":"19",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    53514,
-    "sentence":"The Chargers mustered just 7 points, as the Chiefs upset San Diego, according to the talking heads on TV, who were oblivious to the fact that Kansas City was a 3."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     53512,
+     "sentence":"The Chargers mustered just 7 points, as the Chiefs upset San Diego, according to the talking heads on TV, who were oblivious to the fact that Kansas City was a 3.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"7",
+     "annotationID":     53514,
+     "sentence":"Rivers was swarmed on most of his attempts, as the Chiefs accumulated 7 sacks, including 4 by Justin Houston, who was just 1 sack short of breaking Michael Strahan's single-season record.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"16",
-    "annotationID":    53521,
-    "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     53521,
+     "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"27",
-    "annotationID":    53523,
-    "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     53523,
+     "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"157",
-    "annotationID":    53524,
-    "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe."
+    "1":{
+     "propertyValue":"157",
+     "annotationID":     53524,
+     "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   75.7,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    53520,
-    "sentence":"The Chargers were expected to win because of Philip Rivers, who had a heroic comeback against the 49ers on Saturday night."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     53515,
+     "sentence":"Rivers was swarmed on most of his attempts, as the Chiefs accumulated 7 sacks, including 4 by Justin Houston, who was just 1 sack short of breaking Michael Strahan's single-season record.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     53516,
+     "sentence":"With Allen out, Eddie Royal (4-95) led the team in receiving.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     53517,
+     "sentence":"Royal, however, dropped 2 touchdowns on the same drive in the 4.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     53518,
+     "sentence":"Three other Chargers logged more than 2 receptions: Dontrelle Inman (5-79), Antonio Gates (4-67) and Malcom Floyd (3-29).",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"4",
+     "annotationID":     53520,
+     "sentence":"Brown, meanwhile, was stuffed on a 4.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   17,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    53519,
-    "sentence":"The Chargers mustered just 7 points, as the Chiefs upset San Diego, according to the talking heads on TV, who were oblivious to the fact that Kansas City was a 3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     53513,
+     "sentence":"The Chargers mustered just 7 points, as the Chiefs upset San Diego, according to the talking heads on TV, who were oblivious to the fact that Kansas City was a 3.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     53519,
+     "sentence":"Three other Chargers logged more than 2 receptions: Dontrelle Inman (5-79), Antonio Gates (4-67) and Malcom Floyd (3-29).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"16",
-    "annotationID":    53522,
-    "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     53522,
+     "sentence":"Daniel was guilty of holding the ball too often on a couple of occasions and took some sacks as a consequence, but he was still able to complete more than half of his passes, finishing 16-of-27 for 157 yards and what should've been a touchdown to Bowe.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,

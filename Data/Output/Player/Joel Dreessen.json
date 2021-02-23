@@ -41,19 +41,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    7906,
-    "sentence":"Andre Johnson caught 8 balls for 101 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     7906,
+     "sentence":"Andre Johnson caught 8 balls for 101 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    7905,
-    "sentence":"Dreessen caught the ball, but could only get 1 foot inbounds."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     7905,
+     "sentence":"Dreessen caught the ball, but could only get 1 foot inbounds.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"4",
-    "annotationID":    7907,
-    "sentence":"Owen Daniels also had 8 grabs for 94 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     7907,
+     "sentence":"Kevin Walter notched 4 receptions for 37 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -103,14 +112,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    12601,
-    "sentence":"Dreessen paced the team with 81 yards and a touchdown on 6 receptions as well."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     12601,
+     "sentence":"Dreessen paced the team with 81 yards and a touchdown on 6 receptions as well.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"81",
-    "annotationID":    12600,
-    "sentence":"Dreessen paced the team with 81 yards and a touchdown on 6 receptions as well."
+    "1":{
+     "propertyValue":"81",
+     "annotationID":     12600,
+     "sentence":"Dreessen paced the team with 81 yards and a touchdown on 6 receptions as well.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -146,14 +161,38 @@
    "opponent":"OAK",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    20730,
-    "sentence":"Darren McFadden finally made his presence felt running for 8, 14 and 20 yards on consecutive plays to put them in the red zone."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     20726,
+     "sentence":"Darren McFadden finally made his presence felt running for 8, 14 and 20 yards on consecutive plays to put them in the red zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"20",
+     "annotationID":     20730,
+     "sentence":"h-and-18 but to call for a field goal, and Rackers made it 25-20 from 40 yards out.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"25",
-    "annotationID":    20729,
-    "sentence":"Two punts on each side later, Oakland's offense woke up starting on their own 25 at the 2."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     20723,
+     "sentence":"Two punts on each side later, Oakland's offense woke up starting on their own 25 at the 2.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"25",
+     "annotationID":     20728,
+     "sentence":"The drive stalled, but Janikowski hit another field goal, this 1 a gimme 42-yard effort, and a 25-17 advantage.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"25",
+     "annotationID":     20729,
+     "sentence":"h-and-18 but to call for a field goal, and Rackers made it 25-20 from 40 yards out.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -168,15 +207,45 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    20733,
-    "sentence":"Dreessen wide open for a 56-yard touchdown, taking advantage of linebacker Rolando McClain missing coverage."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     20725,
+     "sentence":"He took a screen 60 yards and would finish with a game-high 116 yards receiving on 5 catches.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     20733,
+     "sentence":"Two plays later, Schaub bought time and found Dreessen down to the 5-yard line.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   112,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    20732,
-    "sentence":"At 14-6, with a huge advantage in total yards, and the crowd behind them and things were going very smoothly early in the second quarter for the home team."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     20724,
+     "sentence":"Heyward-Bey, 1 of the picks Al Davis was criticized heavily for making because Texas Tech's more-heralded Michael Crabtree was on the board, finished with 7 receptions for 99 yards and that score.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     20727,
+     "sentence":"The drive stalled, but Janikowski hit another field goal, this 1 a gimme 42-yard effort, and a 25-17 advantage.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     20731,
+     "sentence":"Even with only 1 timeout remaining, Houston got the ball back with 1:50 left thanks to Campbell checking out of a run on first down and going for the sealing first down on a deep ball to Denarius Moore.",
+     "confidence":"Weak"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     20732,
+     "sentence":"Even with only 1 timeout remaining, Houston got the ball back with 1:50 left thanks to Campbell checking out of a run on first down and going for the sealing first down on a deep ball to Denarius Moore.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -225,19 +294,28 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    28573,
-    "sentence":"Dreessen (2-17) and Lance Ball (1-14)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     28573,
+     "sentence":"Dreessen (2-17) and Lance Ball (1-14).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"17",
-    "annotationID":    28574,
-    "sentence":"Dreessen (2-17) and Lance Ball (1-14)."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     28574,
+     "sentence":"Dreessen (2-17) and Lance Ball (1-14).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    28575,
-    "sentence":"Dreessen (2-17) and Lance Ball (1-14)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     28575,
+     "sentence":"Dreessen (2-17) and Lance Ball (1-14).",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -272,9 +350,12 @@
    "opponent":"NWE",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    29106,
-    "sentence":"Dreessen (4-21) and Brandon Stokley (2-10)."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     29106,
+     "sentence":"Dreessen (4-21) and Brandon Stokley (2-10).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"31",
    "passing_attempts":   0,
@@ -289,19 +370,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    29104,
-    "sentence":"Dreessen (4-21) and Brandon Stokley (2-10)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     29104,
+     "sentence":"Dreessen (4-21) and Brandon Stokley (2-10).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    29105,
-    "sentence":"Dreessen (4-21) and Brandon Stokley (2-10)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     29105,
+     "sentence":"Dreessen (4-21) and Brandon Stokley (2-10).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"21",
-    "annotationID":    29107,
-    "sentence":"Dreessen (4-21) and Brandon Stokley (2-10)."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     29107,
+     "sentence":"Dreessen (4-21) and Brandon Stokley (2-10).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -350,19 +440,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    30460,
-    "sentence":"Dreessen (4-38)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     30460,
+     "sentence":"Dreessen (4-38).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    30461,
-    "sentence":"Dreessen (4-38)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     30461,
+     "sentence":"Dreessen (4-38).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"38",
-    "annotationID":    30462,
-    "sentence":"Dreessen (4-38)."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     30462,
+     "sentence":"Dreessen (4-38).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -411,19 +510,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    39321,
-    "sentence":"Dreessen (2-9) for a touchdown to tie the game."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39321,
+     "sentence":"Dreessen (2-9) for a touchdown to tie the game.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    39322,
-    "sentence":"Dreessen (2-9) for a touchdown to tie the game."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39322,
+     "sentence":"Dreessen (2-9) for a touchdown to tie the game.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"9",
-    "annotationID":    39323,
-    "sentence":"Dreessen (2-9) for a touchdown to tie the game."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     39323,
+     "sentence":"Dreessen (2-9) for a touchdown to tie the game.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,

@@ -28,9 +28,12 @@
    "opponent":"KAN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"15",
-    "annotationID":    46315,
-    "sentence":"Lamar Miller ran well for the Dolphins with 108 yards on only 15 carries."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     46315,
+     "sentence":"Lamar Miller ran well for the Dolphins with 108 yards on only 15 carries.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"34",
    "passing_attempts":   0,
@@ -57,17 +60,47 @@
    "defense_sacks":   1.5,
    "defense_tackles":   11,
    "defense_tackle_assists":{
-    "propertyValue":"4",
-    "annotationID":    46317,
-    "sentence":"The Chiefs' defense held up thanks to some sacks of Tannehill, and Frankie Hammond had a 47-yard punt return."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     46313,
+     "sentence":"However, the Chiefs' defense shut the door, and running back Cyrus Gray (4-18) added a touchdown in garbage time.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     46317,
+     "sentence":"5 sacks, 4 tackles, batting a pass and drawing a holding penalty.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
    "defense_safeties":{
-    "propertyValue":"1",
-    "annotationID":    46319,
-    "sentence":"However, the Chiefs' defense shut the door, and running back Cyrus Gray (4-18) added a touchdown in garbage time."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     46314,
+     "sentence":"1-overall pick Eric Fisher had some bad plays in pass protection, but he progressively did better in run blocking as the game wore on.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     46316,
+     "sentence":"Dontari Poe was awesome for the Chiefs, recording 1.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     46318,
+     "sentence":"Hali and Houston (1 sack each) were very good.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     46319,
+     "sentence":"Jelani Jenkins was all over the field, as he had 14 tackles with 1.",
+     "confidence":"None"
+    }
    },
    "point_after_attemps":   0,
    "point_after_makes":   0,

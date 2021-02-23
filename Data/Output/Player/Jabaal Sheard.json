@@ -51,9 +51,12 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    25357,
-    "sentence":"Sheard and O'Brien Schofield both had 2 sacks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     25357,
+     "sentence":"Sheard and O'Brien Schofield both had 2 sacks.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   3,
    "defense_tackle_assists":   0,
@@ -130,9 +133,12 @@
    "opponent":"HOU",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    80646,
-    "sentence":"Brissett completed 20-of-30 passes for 308 yards with 2 touchdowns."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     80646,
+     "sentence":"Brissett completed 20-of-30 passes for 308 yards with 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"14",
    "passing_attempts":   0,
@@ -157,14 +163,44 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    80652,
-    "sentence":"Brissett completed 20-of-30 passes for 308 yards with 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     80647,
+     "sentence":"Brissett completed 20-of-30 passes for 308 yards with 2 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     80648,
+     "sentence":"Hilton had 5 receptions for 175 yards and 2 scores.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     80650,
+     "sentence":"Will Fuller (2-32) was limited without Watson at quarterback.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     80652,
+     "sentence":"Defensively, Jabaal Sheard had 2 sacks, with each resulting in a fumble.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    80651,
-    "sentence":"Brissett completed 20-of-30 passes for 308 yards with 2 touchdowns."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     80649,
+     "sentence":"Frank Gore ran for 51 yards on 17 carries with 3 receptions for 26 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     80651,
+     "sentence":"Lamar Miller had 57 yards on 10 carries with 3 receptions for 34 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,

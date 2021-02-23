@@ -175,9 +175,12 @@
    "opponent":"NYG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"14",
-    "annotationID":    46435,
-    "sentence":"Williams (14-64) to vulture a touchdown in the 4."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     46435,
+     "sentence":"Williams (14-64) to vulture a touchdown in the 4.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"45",
    "passing_attempts":   0,
@@ -425,9 +428,24 @@
    "game_won":   false,
    "player_team_score":"21",
    "opponent_score":{
-    "propertyValue":"32",
-    "annotationID":    55836,
-    "sentence":"As for the Giants, Eli Manning was sharp for most of the night, going 23-of-32 for 279 yards and 2 scores."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     55834,
+     "sentence":"As for the Giants, Eli Manning was sharp for most of the night, going 23-of-32 for 279 yards and 2 scores.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"32",
+     "annotationID":     55835,
+     "sentence":"Larry Donnell caught 3 passes for 32 yards.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"32",
+     "annotationID":     55836,
+     "sentence":"Rashad Jennings, who contributed with a blocked punt, managed only 32 yards on 11 carries.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,

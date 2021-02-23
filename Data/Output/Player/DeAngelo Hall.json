@@ -53,9 +53,12 @@
    "defense_sacks":   0,
    "defense_tackles":   7,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    13529,
-    "sentence":"At halftime, Rodney Harrison said the following, This has to be 1 of the dumbest plays I've ever seen."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     13529,
+     "sentence":"At halftime, Rodney Harrison said the following, This has to be 1 of the dumbest plays I've ever seen.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -107,9 +110,12 @@
    "defense_tackles":   7,
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"4",
-    "annotationID":    15639,
-    "sentence":"On the bright side, Cutler was sacked only 4 times!"
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     15639,
+     "sentence":"On the bright side, Cutler was sacked only 4 times!",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   92,
    "defense_interception_touchdowns":   0,
@@ -478,9 +484,18 @@
    "game_won":   false,
    "player_team_score":"21",
    "opponent_score":{
-    "propertyValue":"32",
-    "annotationID":    55876,
-    "sentence":"Larry Donnell caught 3 passes for 32 yards."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     55874,
+     "sentence":"Larry Donnell caught 3 passes for 32 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"32",
+     "annotationID":     55876,
+     "sentence":"Rashad Jennings, who contributed with a blocked punt, managed only 32 yards on 11 carries.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -505,14 +520,20 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    55873,
-    "sentence":"Larry Donnell caught 3 passes for 32 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     55873,
+     "sentence":"Larry Donnell caught 3 passes for 32 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    55875,
-    "sentence":"Each caught 7 balls each for 116 and 79 yards, respectively."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     55875,
+     "sentence":"He's not worth owning in 12-team leagues that start only 1 tight end.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

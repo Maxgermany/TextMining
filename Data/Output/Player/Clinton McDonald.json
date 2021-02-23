@@ -101,9 +101,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   1,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    42523,
-    "sentence":"Seattle got going when Russell Wilson hit a 31-yard pass to Luke Willson (3-70)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     42523,
+     "sentence":"Seattle got going when Russell Wilson hit a 31-yard pass to Luke Willson (3-70).",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -131,9 +134,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    50375,
-    "sentence":"McDonald had a nice sack to end a Redskins drive, but Marcus Thigpen muffed the punt, and the Redskins recovered at the Bucs' 17-yard line."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     50375,
+     "sentence":"The Bucs took a 13-7 lead into the half.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -157,19 +163,52 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    50381,
-    "sentence":"McDonald had a nice sack to end a Redskins drive, but Marcus Thigpen muffed the punt, and the Redskins recovered at the Bucs' 17-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50377,
+     "sentence":"The Bucs' defense got good games from Gerald McCoy (5 tackles, 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50379,
+     "sentence":"5 sacks), Clinton McDonald (4 tackles, 1 sack), Jacquies Smith (2 sacks), Michael Johnson (1 sack) and Lavonte David (12 tackles).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     50381,
+     "sentence":"5 sacks), Clinton McDonald (4 tackles, 1 sack), Jacquies Smith (2 sacks), Michael Johnson (1 sack) and Lavonte David (12 tackles).",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    50376,
-    "sentence":"The Bucs sent a blitz, but the Redskins had the perfect play called with a screen to Helu (6-57) that resulted in a 30-yard touchdown."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     50376,
+     "sentence":"Vincent Jackson (3-43) is seeing fewer targets, as Evans has emerged as a big-time play-maker.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    50382,
-    "sentence":"McDonald had a nice sack to end a Redskins drive, but Marcus Thigpen muffed the punt, and the Redskins recovered at the Bucs' 17-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50378,
+     "sentence":"The Bucs' defense got good games from Gerald McCoy (5 tackles, 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50380,
+     "sentence":"5 sacks), Clinton McDonald (4 tackles, 1 sack), Jacquies Smith (2 sacks), Michael Johnson (1 sack) and Lavonte David (12 tackles).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     50382,
+     "sentence":"5 sacks), Clinton McDonald (4 tackles, 1 sack), Jacquies Smith (2 sacks), Michael Johnson (1 sack) and Lavonte David (12 tackles).",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

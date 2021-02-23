@@ -41,14 +41,20 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    21207,
-    "sentence":"Not long after, Manning and wideout Hakeem Nicks beat cornerback Drayton Florence for a 60-yard gain to the Bills 5-yard line."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     21207,
+     "sentence":"Not long after, Manning and wideout Hakeem Nicks beat cornerback Drayton Florence for a 60-yard gain to the Bills 5-yard line.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    21208,
-    "sentence":"Not long after, Manning and wideout Hakeem Nicks beat cornerback Drayton Florence for a 60-yard gain to the Bills 5-yard line."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     21208,
+     "sentence":"Not long after, Manning and wideout Hakeem Nicks beat cornerback Drayton Florence for a 60-yard gain to the Bills 5-yard line.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   81,
    "receiving_touchdowns":   0,
@@ -85,9 +91,12 @@
    "opponent":"MIA",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    21793,
-    "sentence":"Still, New York's drive fizzled inside the 20 and they had to settle for the kick."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     21793,
+     "sentence":"Still, New York's drive fizzled inside the 20 and they had to settle for the kick.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":   0,
@@ -103,9 +112,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    21794,
-    "sentence":"The Dolphins finished the drive on 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     21794,
+     "sentence":"The Dolphins finished the drive on 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   55,
    "receiving_touchdowns":   0,
@@ -143,9 +155,18 @@
    "game_won":   true,
    "player_team_score":"24",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    22351,
-    "sentence":"They hooked up again for 28 yards to get inside the 20."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     22347,
+     "sentence":"They hooked up again for 28 yards to get inside the 20.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"20",
+     "annotationID":     22351,
+     "sentence":"For the night, Manning was 20-of-39 for 250 yards with 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -160,19 +181,52 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    22352,
-    "sentence":"A short time later, New England committed their 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     22346,
+     "sentence":"A short time later, New England committed their 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     22348,
+     "sentence":"Brady led another a field goal drive to take a 13-10 lead in the 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     22349,
+     "sentence":"A few plays later, and Brady had a 4th-and-8 at the Giants' 14-yard line.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     22352,
+     "sentence":"Ballard caught 4 passes for 67 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"67",
-    "annotationID":    22353,
-    "sentence":"Ballard caught 4 passes for 67 yards and a touchdown."
+    "1":{
+     "propertyValue":"67",
+     "annotationID":     22353,
+     "sentence":"Ballard caught 4 passes for 67 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    22354,
-    "sentence":"The sack-fumble was recovered by the Giants at the Patriots' 10-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     22350,
+     "sentence":"That put the ball on the Patriot's 1-yard line.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     22354,
+     "sentence":"Gronkowski had 8 grabs for 101 yards and 1 touchdown.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -222,9 +276,12 @@
    "receiving_targets":   3,
    "receiving_receptions":   3,
    "receiving_yards":{
-    "propertyValue":"13",
-    "annotationID":    42964,
-    "sentence":"He was limping around after the Titans tackled him low in the second quarter, but he was 8-of-13 for 108 yards and a touchdown following intermission, so unlike Fitzgerald, he didn't seem to be bothered by that hit."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     42964,
+     "sentence":"He was limping around after the Titans tackled him low in the second quarter, but he was 8-of-13 for 108 yards and a touchdown following intermission, so unlike Fitzgerald, he didn't seem to be bothered by that hit.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,

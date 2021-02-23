@@ -79,19 +79,28 @@
    "player_team_score":"34",
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    65478,
-    "sentence":"Siemian had a solid showing, going 22-of-33 for 266 yards."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     65478,
+     "sentence":"Siemian had a solid showing, going 22-of-33 for 266 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"33",
-    "annotationID":    65479,
-    "sentence":"Siemian had a solid showing, going 22-of-33 for 266 yards."
+    "1":{
+     "propertyValue":"33",
+     "annotationID":     65479,
+     "sentence":"Siemian had a solid showing, going 22-of-33 for 266 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"266",
-    "annotationID":    65480,
-    "sentence":"Siemian had a solid showing, going 22-of-33 for 266 yards."
+    "1":{
+     "propertyValue":"266",
+     "annotationID":     65480,
+     "sentence":"Siemian had a solid showing, going 22-of-33 for 266 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   78.6,
    "passing_touchdowns":   0,
@@ -146,15 +155,27 @@
    "passing_touchdowns":   4,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    65742,
-    "sentence":"Perhaps Lynch had potential, but the other 2 were considered horrible replacements."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     65740,
+     "sentence":"Perhaps Lynch had potential, but the other 2 were considered horrible replacements.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     65742,
+     "sentence":"Siemian went 10-of-11 for 168 yards and 2 touchdowns after intermission.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    65741,
-    "sentence":"The Broncos actually threw the ball on their first 3 plays."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     65741,
+     "sentence":"The Broncos actually threw the ball on their first 3 plays.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   5,
    "rushing_touchdowns":   0,
@@ -196,24 +217,36 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    66747,
-    "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     66747,
+     "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    66746,
-    "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     66746,
+     "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"7",
-    "annotationID":    66748,
-    "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     66748,
+     "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"68",
-    "annotationID":    66749,
-    "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown."
+    "1":{
+     "propertyValue":"68",
+     "annotationID":     66749,
+     "sentence":"Siemian was off to a good start in the contest, going 5-of-7 for 68 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   141.7,
    "passing_touchdowns":   1,
@@ -262,46 +295,136 @@
    "player_team_score":"13",
    "opponent_score":"21",
    "passing_attempts":{
-    "propertyValue":"30",
-    "annotationID":    67538,
-    "sentence":"Rivers was just 4-of-11 for 30 yards the rest of the way, ultimately finishing 18-of-29 for 178 yards and a score."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     67530,
+     "sentence":"Rivers was just 4-of-11 for 30 yards the rest of the way, ultimately finishing 18-of-29 for 178 yards and a score.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"30",
+     "annotationID":     67537,
+     "sentence":"Part of this was because the Chargers controlled the clock, holding the ball for 20:27 of 30 first-half minutes.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"30",
+     "annotationID":     67538,
+     "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"50",
-    "annotationID":    67539,
-    "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     67539,
+     "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"230",
-    "annotationID":    67540,
-    "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards."
+    "1":{
+     "propertyValue":"230",
+     "annotationID":     67540,
+     "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   77.9,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    67541,
-    "sentence":"In fact, his second possession went for 10 minutes, which was the longest drive of the season for any team."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67532,
+     "sentence":"His overall numbers would've been better had Antonio Gates not dropped 2 passes, 1 of which would've moved the chains on a third down.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     67541,
+     "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    67545,
-    "sentence":"The Chargers recovered, and following a late scare that involved an onside kick recovery, they finally sealed their first victory since they beat the Jaguars in Week 2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     67527,
+     "sentence":"The Chargers recovered, and following a late scare that involved an onside kick recovery, they finally sealed their first victory since they beat the Jaguars in Week 2.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     67528,
+     "sentence":"Philip Rivers set the tone for this victory by torching the Broncos on the initial 2 drives.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     67531,
+     "sentence":"His overall numbers would've been better had Antonio Gates not dropped 2 passes, 1 of which would've moved the chains on a third down.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     67535,
+     "sentence":"Gates caught only 2 passes for 16 yards, and he played second fiddle to Hunter Henry.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"2",
+     "annotationID":     67536,
+     "sentence":"Excluding Henry and Gates, only 3 Chargers caught multiple passes: Tyrell Williams (3-28), Travis Benjamin (3-17) and Dexter McCluster (2-15).",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"2",
+     "annotationID":     67545,
+     "sentence":"He didn't have any significant yardage, as most came with the Broncos down 2 or 3 scores and the Chargers turning into a prevent defense that nearly lost them the game.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"10",
-    "annotationID":    67544,
-    "sentence":"In fact, his second possession went for 10 minutes, which was the longest drive of the season for any team."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     67529,
+     "sentence":"In fact, his second possession went for 10 minutes, which was the longest drive of the season for any team.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     67544,
+     "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    67542,
-    "sentence":"In fact, his second possession went for 10 minutes, which was the longest drive of the season for any team."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67533,
+     "sentence":"His overall numbers would've been better had Antonio Gates not dropped 2 passes, 1 of which would've moved the chains on a third down.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     67542,
+     "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"1",
-    "annotationID":    67543,
-    "sentence":"In fact, his second possession went for 10 minutes, which was the longest drive of the season for any team."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67534,
+     "sentence":"His overall numbers would've been better had Antonio Gates not dropped 2 passes, 1 of which would've moved the chains on a third down.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     67543,
+     "sentence":"His final numbers don't look horrible - 30-of-50, 230 yards, 1 touchdown - but at the end of the third quarter, he was just 10-of-19 for only 58 yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -347,17 +470,23 @@
    "passing_yards":   157,
    "passing_rating":   88.2,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    69363,
-    "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     69363,
+     "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    69364,
-    "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     69364,
+     "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -405,14 +534,20 @@
    "passing_rating":   65.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    69365,
-    "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     69365,
+     "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    69366,
-    "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     69366,
+     "sentence":"The Chargers were back in the game, and 1 drive later, they drove down to the 2-yard line, down just 8.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":   3,
@@ -457,35 +592,59 @@
    "player_team_score":"20",
    "opponent_score":"30",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    69881,
-    "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     69881,
+     "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"37",
-    "annotationID":    69882,
-    "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     69882,
+     "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"283",
-    "annotationID":    69883,
-    "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1."
+    "1":{
+     "propertyValue":"283",
+     "annotationID":     69883,
+     "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   81.2,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    69884,
-    "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     69884,
+     "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    69886,
-    "sentence":"He began the game 1-of-8 for only 4 yards, as it didn't seem like the Broncos would be able to achieve a first down all evening."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     69880,
+     "sentence":"He began the game 1-of-8 for only 4 yards, as it didn't seem like the Broncos would be able to achieve a first down all evening.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     69886,
+     "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    69885,
-    "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     69885,
+     "sentence":"He finished 18-of-37 for 283 yards, 2 touchdowns, a late interception and a lost fumble, but it's worth noting that a 69-yard score of his was a fluky 1.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   17,
    "rushing_attempts":   0,
@@ -528,47 +687,83 @@
    "opponent":"NOR",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"25",
-    "annotationID":    70312,
-    "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     70312,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"23",
    "passing_attempts":{
-    "propertyValue":"25",
-    "annotationID":    70313,
-    "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     70313,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"40",
-    "annotationID":    70314,
-    "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     70314,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"258",
-    "annotationID":    70315,
-    "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading."
+    "1":{
+     "propertyValue":"258",
+     "annotationID":     70315,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   76.9,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    70318,
-    "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     70316,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     70318,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    70319,
-    "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     70317,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     70319,
+     "sentence":"Siemian put up some decent looking numbers, going 25-of-40 for 258 yards and 2 touchdowns and 2 picks, but the numbers are misleading.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"6",
-    "annotationID":    70320,
-    "sentence":"His offensive line was terrible on Sunday, as they allowed a whopping 6 sacks to the New Orleans front, so that may have shaken his confidence a bit."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     70320,
+     "sentence":"His offensive line was terrible on Sunday, as they allowed a whopping 6 sacks to the New Orleans front, so that may have shaken his confidence a bit.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    70321,
-    "sentence":"His offensive line was terrible on Sunday, as they allowed a whopping 6 sacks to the New Orleans front, so that may have shaken his confidence a bit."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     70321,
+     "sentence":"His offensive line was terrible on Sunday, as they allowed a whopping 6 sacks to the New Orleans front, so that may have shaken his confidence a bit.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   5,
    "rushing_touchdowns":   0,
@@ -611,25 +806,43 @@
    "player_team_score":"27",
    "opponent_score":"30",
    "passing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    71985,
-    "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     71985,
+     "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"34",
-    "annotationID":    71986,
-    "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     71986,
+     "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"368",
-    "annotationID":    71987,
-    "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"368",
+     "annotationID":     71987,
+     "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   125.6,
    "passing_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    71989,
-    "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     71988,
+     "sentence":"Siemian finished 20-of-34 for 368 yards and 3 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     71989,
+     "sentence":"Siemian, who was 11-of-19 for a whopping 279 yards and 3 touchdowns following halftime, torched ",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   5,
@@ -723,9 +936,12 @@
    "opponent":"NWE",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"3",
-    "annotationID":    73838,
-    "sentence":"Siemian absolutely crushed his team with an interception in the red zone when this contest was tied at 3 in the opening half."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     73838,
+     "sentence":"Siemian absolutely crushed his team with an interception in the red zone when this contest was tied at 3 in the opening half.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"16",
    "passing_attempts":   25,
@@ -778,26 +994,38 @@
    "player_team_score":"10",
    "opponent_score":"33",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    74620,
-    "sentence":"Siemian finished just 17-of-43 for 183 yards and an interception on his final throw, and as unbelievable as it may sound, the night could've been so much worse for him."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     74620,
+     "sentence":"Siemian finished just 17-of-43 for 183 yards and an interception on his final throw, and as unbelievable as it may sound, the night could've been so much worse for him.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"43",
-    "annotationID":    74621,
-    "sentence":"Siemian finished just 17-of-43 for 183 yards and an interception on his final throw, and as unbelievable as it may sound, the night could've been so much worse for him."
+    "1":{
+     "propertyValue":"43",
+     "annotationID":     74621,
+     "sentence":"Siemian finished just 17-of-43 for 183 yards and an interception on his final throw, and as unbelievable as it may sound, the night could've been so much worse for him.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"183",
-    "annotationID":    74622,
-    "sentence":"Siemian finished just 17-of-43 for 183 yards and an interception on his final throw, and as unbelievable as it may sound, the night could've been so much worse for him."
+    "1":{
+     "propertyValue":"183",
+     "annotationID":     74622,
+     "sentence":"Siemian finished just 17-of-43 for 183 yards and an interception on his final throw, and as unbelievable as it may sound, the night could've been so much worse for him.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   43.1,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    74619,
-    "sentence":"How can anyone be penalized 5 times in 1 game!"
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74619,
+     "sentence":"How can anyone be penalized 5 times in 1 game!",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
@@ -843,33 +1071,48 @@
    "player_team_score":"24",
    "opponent_score":"6",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    75181,
-    "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     75181,
+     "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"27",
-    "annotationID":    75182,
-    "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     75182,
+     "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"206",
-    "annotationID":    75183,
-    "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"206",
+     "annotationID":     75183,
+     "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   95.6,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    75184,
-    "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     75184,
+     "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    75185,
-    "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     75185,
+     "sentence":"Siemian played every snap, going 17-of-27 for 206 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -5,
    "rushing_touchdowns":   0,
@@ -1010,26 +1253,38 @@
    "player_team_score":"16",
    "opponent_score":"26",
    "passing_attempts":{
-    "propertyValue":"24",
-    "annotationID":    77243,
-    "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     77243,
+     "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"40",
-    "annotationID":    77244,
-    "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     77244,
+     "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"259",
-    "annotationID":    77245,
-    "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story."
+    "1":{
+     "propertyValue":"259",
+     "annotationID":     77245,
+     "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   58.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    77246,
-    "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     77246,
+     "sentence":"Siemian finished 24-of-40 for 259 yards and 2 interceptions, but that stat line doesn't tell the whole story.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   4,
@@ -1073,48 +1328,96 @@
    "opponent":"OAK",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"16",
-    "annotationID":    78243,
-    "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     78243,
+     "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"16",
-    "annotationID":    78244,
-    "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     78244,
+     "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"26",
-    "annotationID":    78245,
-    "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     78245,
+     "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"179",
-    "annotationID":    78246,
-    "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A."
+    "1":{
+     "propertyValue":"179",
+     "annotationID":     78246,
+     "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   94.9,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    78253,
-    "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     78249,
+     "sentence":"The tight end, who caught 4 balls for 75 yards, snatched a pass with 1 hand and ran into the end zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     78253,
+     "sentence":"It was very surprising to see Denver's wideouts struggle, as neither Emmanuel Sanders (4-27) nor Demaryius Thomas (1-11) couldn't get anything against a secondary that lost 2 starters - David Amerson and rookie Gareon Conley - to injury in this contest.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    78251,
-    "sentence":"The tight end, who caught 4 balls for 75 yards, snatched a pass with 1 hand and ran into the end zone."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78247,
+     "sentence":"The tight end, who caught 4 balls for 75 yards, snatched a pass with 1 hand and ran into the end zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78251,
+     "sentence":"It was very surprising to see Denver's wideouts struggle, as neither Emmanuel Sanders (4-27) nor Demaryius Thomas (1-11) couldn't get anything against a secondary that lost 2 starters - David Amerson and rookie Gareon Conley - to injury in this contest.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    78252,
-    "sentence":"The tight end, who caught 4 balls for 75 yards, snatched a pass with 1 hand and ran into the end zone."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78248,
+     "sentence":"The tight end, who caught 4 balls for 75 yards, snatched a pass with 1 hand and ran into the end zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78252,
+     "sentence":"It was very surprising to see Denver's wideouts struggle, as neither Emmanuel Sanders (4-27) nor Demaryius Thomas (1-11) couldn't get anything against a secondary that lost 2 starters - David Amerson and rookie Gareon Conley - to injury in this contest.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"1",
-    "annotationID":    78254,
-    "sentence":"Siemian finished 16-of-26 for 179 yards and a touchdown, which was an amazing catch by A."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     78250,
+     "sentence":"The tight end, who caught 4 balls for 75 yards, snatched a pass with 1 hand and ran into the end zone.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     78254,
+     "sentence":"It was very surprising to see Denver's wideouts struggle, as neither Emmanuel Sanders (4-27) nor Demaryius Thomas (1-11) couldn't get anything against a secondary that lost 2 starters - David Amerson and rookie Gareon Conley - to injury in this contest.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1155,34 +1458,49 @@
    "game_won":   false,
    "player_team_score":"10",
    "opponent_score":{
-    "propertyValue":"23",
-    "annotationID":    79372,
-    "sentence":"By intermission, he was 11-of-23 for 148 yards and a pair of picks."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     79372,
+     "sentence":"By intermission, he was 11-of-23 for 148 yards and a pair of picks.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   29,
    "passing_completions":   50,
    "passing_yards":{
-    "propertyValue":"376",
-    "annotationID":    79371,
-    "sentence":"Siemian, meanwhile, generated 376 passing yards, but that was a very misleading figure."
+    "1":{
+     "propertyValue":"376",
+     "annotationID":     79371,
+     "sentence":"Siemian, meanwhile, generated 376 passing yards, but that was a very misleading figure.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   71.7,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    79369,
-    "sentence":"1 ground defense for 117 yards on 21 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79369,
+     "sentence":"1 ground defense for 117 yards on 21 carries.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   2,
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    79368,
-    "sentence":"They led from start to finish as a result, maintaining a 20-3 lead heading into the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     79368,
+     "sentence":"They led from start to finish as a result, maintaining a 20-3 lead heading into the 4.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   28,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    79370,
-    "sentence":"1 ground defense for 117 yards on 21 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79370,
+     "sentence":"1 ground defense for 117 yards on 21 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   9,
    "rushing_touchdowns":   0,
@@ -1225,37 +1543,55 @@
    "player_team_score":"0",
    "opponent_score":"21",
    "passing_attempts":{
-    "propertyValue":"25",
-    "annotationID":    79860,
-    "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     79860,
+     "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    79862,
-    "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     79862,
+     "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"207",
-    "annotationID":    79863,
-    "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime."
+    "1":{
+     "propertyValue":"207",
+     "annotationID":     79863,
+     "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   74.3,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    79864,
-    "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79864,
+     "sentence":"Siemian wasn't the only 1 making mistakes.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   5,
    "passing_sacks_yards_lost":{
-    "propertyValue":"25",
-    "annotationID":    79861,
-    "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     79861,
+     "sentence":"Siemian finished 25-of-35 for 207 yards, a stat line that was helped by garbage time; Siemian was 11-of-17 for only 89 yards by halftime.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    79859,
-    "sentence":"Joey Bosa hounded him in the pocket, recording 2 sacks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     79859,
+     "sentence":"Joey Bosa hounded him in the pocket, recording 2 sacks.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   14,
    "rushing_touchdowns":   0,

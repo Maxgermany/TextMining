@@ -90,24 +90,36 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    35021,
-    "sentence":"Kearse (2-49) in the 4."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     35021,
+     "sentence":"Kearse (2-49) in the 4.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    35022,
-    "sentence":"Kearse (2-49) in the 4."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     35022,
+     "sentence":"Kearse (2-49) in the 4.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"49",
-    "annotationID":    35023,
-    "sentence":"Kearse (2-49) in the 4."
+    "1":{
+     "propertyValue":"49",
+     "annotationID":     35023,
+     "sentence":"Kearse (2-49) in the 4.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    35024,
-    "sentence":"This came exactly 1 snap after a Wilson-to-"
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     35024,
+     "sentence":"This came exactly 1 snap after a Wilson-to-",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -142,9 +154,12 @@
    "opponent":"IND",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"28",
-    "annotationID":    37416,
-    "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28)."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     37416,
+     "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"34",
    "passing_attempts":   0,
@@ -159,29 +174,92 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    37411,
-    "sentence":"Still though, the Seahawks were up 12-0 on the Colts, who looked completely out of it."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37401,
+     "sentence":"Hilton, who caught 5 balls for 140 yards, though it should be noted that 1 of the scores could've been prevented if a lethargic Richard Sherman ran downfield instead of halfheartedly waltzing toward Hilton.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37406,
+     "sentence":"Reggie Wayne, meanwhile, struggled with drops early, but finished with 6 receptions for 65 yards, with all but 1 catch coming after halftime.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     37411,
+     "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    37412,
-    "sentence":"Still though, the Seahawks were up 12-0 on the Colts, who looked completely out of it."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37402,
+     "sentence":"Hilton, who caught 5 balls for 140 yards, though it should be noted that 1 of the scores could've been prevented if a lethargic Richard Sherman ran downfield instead of halfheartedly waltzing toward Hilton.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37407,
+     "sentence":"Reggie Wayne, meanwhile, struggled with drops early, but finished with 6 receptions for 65 yards, with all but 1 catch coming after halftime.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     37412,
+     "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"28",
-    "annotationID":    37417,
-    "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28)."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     37417,
+     "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    37413,
-    "sentence":"Still though, the Seahawks were up 12-0 on the Colts, who looked completely out of it."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37403,
+     "sentence":"Hilton, who caught 5 balls for 140 yards, though it should be noted that 1 of the scores could've been prevented if a lethargic Richard Sherman ran downfield instead of halfheartedly waltzing toward Hilton.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37408,
+     "sentence":"Reggie Wayne, meanwhile, struggled with drops early, but finished with 6 receptions for 65 yards, with all but 1 catch coming after halftime.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     37413,
+     "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28).",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    37414,
-    "sentence":"Still though, the Seahawks were up 12-0 on the Colts, who looked completely out of it."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37404,
+     "sentence":"Hilton, who caught 5 balls for 140 yards, though it should be noted that 1 of the scores could've been prevented if a lethargic Richard Sherman ran downfield instead of halfheartedly waltzing toward Hilton.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37409,
+     "sentence":"Reggie Wayne, meanwhile, struggled with drops early, but finished with 6 receptions for 65 yards, with all but 1 catch coming after halftime.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     37414,
+     "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28).",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   21,
    "kick_return_touchdowns":   0,
@@ -195,9 +273,24 @@
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,
    "defense_safeties":{
-    "propertyValue":"1",
-    "annotationID":    37415,
-    "sentence":"Still though, the Seahawks were up 12-0 on the Colts, who looked completely out of it."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37405,
+     "sentence":"Hilton, who caught 5 balls for 140 yards, though it should be noted that 1 of the scores could've been prevented if a lethargic Richard Sherman ran downfield instead of halfheartedly waltzing toward Hilton.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37410,
+     "sentence":"Reggie Wayne, meanwhile, struggled with drops early, but finished with 6 receptions for 65 yards, with all but 1 catch coming after halftime.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     37415,
+     "sentence":"Wilson's 2 scores went to Golden Tate (5-61) and Kearse (1-28).",
+     "confidence":"None"
+    }
    },
    "point_after_attemps":   0,
    "point_after_makes":   0,
@@ -232,9 +325,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    39722,
-    "sentence":"Glennon threw a bullet to Wright for 27 yards for the next play."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39722,
+     "sentence":"Wilson hit Kearse (2-43) for a 16-yard touchdown and cut the Bucs lead to 21-7.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -272,9 +368,12 @@
    "opponent":"TAM",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"27",
-    "annotationID":    39723,
-    "sentence":"Glennon threw a bullet to Wright for 27 yards for the next play."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     39723,
+     "sentence":"Glennon threw a bullet to Wright for 27 yards for the next play.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"24",
    "passing_attempts":   0,
@@ -289,19 +388,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    39724,
-    "sentence":"Glennon threw a bullet to Wright for 27 yards for the next play."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39724,
+     "sentence":"Wilson hit Kearse (2-43) for a 16-yard touchdown and cut the Bucs lead to 21-7.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    39725,
-    "sentence":"Glennon threw a bullet to Wright for 27 yards for the next play."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39725,
+     "sentence":"Wilson hit Kearse (2-43) for a 16-yard touchdown and cut the Bucs lead to 21-7.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"43",
-    "annotationID":    39726,
-    "sentence":"Wilson hit Kearse (2-43) for a 16-yard touchdown and cut the Bucs lead to 21-7."
+    "1":{
+     "propertyValue":"43",
+     "annotationID":     39726,
+     "sentence":"Wilson hit Kearse (2-43) for a 16-yard touchdown and cut the Bucs lead to 21-7.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   3,
@@ -351,14 +459,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    39960,
-    "sentence":"Kearse had the other score to go along with 3 receptions for 75 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     39960,
+     "sentence":"Kearse had the other score to go along with 3 receptions for 75 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"75",
-    "annotationID":    39961,
-    "sentence":"Kearse had the other score to go along with 3 receptions for 75 yards."
+    "1":{
+     "propertyValue":"75",
+     "annotationID":     39961,
+     "sentence":"Kearse had the other score to go along with 3 receptions for 75 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   1,
@@ -408,14 +522,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    43383,
-    "sentence":"Kearse (3-38) and Zach Miller (1-11, TD)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     43383,
+     "sentence":"Kearse (3-38) and Zach Miller (1-11, TD).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"38",
-    "annotationID":    43384,
-    "sentence":"Kearse (3-38) and Zach Miller (1-11, TD)."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     43384,
+     "sentence":"Kearse (3-38) and Zach Miller (1-11, TD).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -563,9 +683,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    47824,
-    "sentence":"Kearse with 3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     47824,
+     "sentence":"Kearse with 3.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   62,
    "receiving_touchdowns":   0,
@@ -615,19 +738,34 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"7",
-    "annotationID":    48272,
-    "sentence":"Wilson threw a bullet to Baldwin (7-123) for a 9."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     48272,
+     "sentence":"Wilson threw a bullet to Baldwin (7-123) for a 9.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    48273,
-    "sentence":"Kearse (3-50)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     48270,
+     "sentence":"Kearse (3-50).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     48273,
+     "sentence":"With 3 minutes remaining, the Rams' possession fizzled.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"50",
-    "annotationID":    48271,
-    "sentence":"Kearse (3-50)."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     48271,
+     "sentence":"Kearse (3-50).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -664,9 +802,12 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    49435,
-    "sentence":"Carr completed 24-of-41 passes for 194 yards with 2 scores and 2 picks."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     49435,
+     "sentence":"Carr completed 24-of-41 passes for 194 yards with 2 scores and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -681,14 +822,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    49432,
-    "sentence":"Kearse (1-4) were all held in check."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49432,
+     "sentence":"Kearse (1-4) were all held in check.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"4",
-    "annotationID":    49434,
-    "sentence":"Kearse (1-4) were all held in check."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     49434,
+     "sentence":"Kearse (1-4) were all held in check.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -699,9 +846,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    49433,
-    "sentence":"Kearse (1-4) were all held in check."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49433,
+     "sentence":"Kearse (1-4) were all held in check.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -741,19 +891,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    50056,
-    "sentence":"Kearse was Wilson's leading receiver, catching 3 of his 4 targets for 70 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     50056,
+     "sentence":"Kearse was Wilson's leading receiver, catching 3 of his 4 targets for 70 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    50055,
-    "sentence":"Kearse was Wilson's leading receiver, catching 3 of his 4 targets for 70 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     50055,
+     "sentence":"Kearse was Wilson's leading receiver, catching 3 of his 4 targets for 70 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"70",
-    "annotationID":    50057,
-    "sentence":"Kearse was Wilson's leading receiver, catching 3 of his 4 targets for 70 yards."
+    "1":{
+     "propertyValue":"70",
+     "annotationID":     50057,
+     "sentence":"Kearse was Wilson's leading receiver, catching 3 of his 4 targets for 70 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -803,14 +962,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    50262,
-    "sentence":"Kearse, who had 5 catches for 54 yards, but was guilty of dropping a touchdown."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     50262,
+     "sentence":"Kearse, who had 5 catches for 54 yards, but was guilty of dropping a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"54",
-    "annotationID":    50263,
-    "sentence":"Kearse, who had 5 catches for 54 yards, but was guilty of dropping a touchdown."
+    "1":{
+     "propertyValue":"54",
+     "annotationID":     50263,
+     "sentence":"Kearse, who had 5 catches for 54 yards, but was guilty of dropping a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -846,9 +1011,12 @@
    "opponent":"ARI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"19",
-    "annotationID":    50951,
-    "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     50951,
+     "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"3",
    "passing_attempts":   0,
@@ -863,19 +1031,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    50953,
-    "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50953,
+     "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    50950,
-    "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50950,
+     "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"19",
-    "annotationID":    50952,
-    "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     50952,
+     "sentence":"Kearse (1-19) nor Doug Baldwin (2-6) did much.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -912,9 +1089,12 @@
    "game_won":   true,
    "player_team_score":"19",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    51146,
-    "sentence":"Kearse (3-34) once again produced pedestrian numbers."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     51146,
+     "sentence":"Kearse (3-34) once again produced pedestrian numbers.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -929,14 +1109,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    51147,
-    "sentence":"Kearse (3-34) once again produced pedestrian numbers."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     51147,
+     "sentence":"Kearse (3-34) once again produced pedestrian numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"34",
-    "annotationID":    51148,
-    "sentence":"Kearse (3-34) once again produced pedestrian numbers."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     51148,
+     "sentence":"Kearse (3-34) once again produced pedestrian numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -973,9 +1159,12 @@
    "game_won":   true,
    "player_team_score":"24",
    "opponent_score":{
-    "propertyValue":"14",
-    "annotationID":    52138,
-    "sentence":"Half of their 14 points came from a fumble from punter "
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     52138,
+     "sentence":"Half of their 14 points came from a fumble from punter ",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -990,14 +1179,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    52136,
-    "sentence":"Kearse (3-37) made a great, diving catch late in the contest."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     52136,
+     "sentence":"Kearse (3-37) made a great, diving catch late in the contest.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    52137,
-    "sentence":"Kearse (3-37) made a great, diving catch late in the contest."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     52137,
+     "sentence":"Kearse (3-37) made a great, diving catch late in the contest.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1047,14 +1242,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    52712,
-    "sentence":"Kearse, who made 5 grabs for 78 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     52712,
+     "sentence":"Kearse, who made 5 grabs for 78 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"78",
-    "annotationID":    52713,
-    "sentence":"Kearse, who made 5 grabs for 78 yards."
+    "1":{
+     "propertyValue":"78",
+     "annotationID":     52713,
+     "sentence":"Kearse, who made 5 grabs for 78 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1091,9 +1292,12 @@
    "game_won":   true,
    "player_team_score":"35",
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    53428,
-    "sentence":"They did keep this game close for a while - it was 14-6 entering the 4."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     53428,
+     "sentence":"They did keep this game close for a while - it was 14-6 entering the 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1156,24 +1360,48 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    54275,
-    "sentence":"Speaking of Kearse, he led the Seahawks with 129 receiving yards on 3 catches."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     54273,
+     "sentence":"Speaking of Kearse, he led the Seahawks with 129 receiving yards on 3 catches.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     54275,
+     "sentence":"Only 3 other Seattle players caught more than 1 pass: ",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    54276,
-    "sentence":"Speaking of Kearse, he led the Seahawks with 129 receiving yards on 3 catches."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     54274,
+     "sentence":"Speaking of Kearse, he led the Seahawks with 129 receiving yards on 3 catches.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     54276,
+     "sentence":"Only 3 other Seattle players caught more than 1 pass: ",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"129",
-    "annotationID":    54272,
-    "sentence":"Speaking of Kearse, he led the Seahawks with 129 receiving yards on 3 catches."
+    "1":{
+     "propertyValue":"129",
+     "annotationID":     54272,
+     "sentence":"Speaking of Kearse, he led the Seahawks with 129 receiving yards on 3 catches.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    54277,
-    "sentence":"Speaking of Kearse, he led the Seahawks with 129 receiving yards on 3 catches."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54277,
+     "sentence":"Only 3 other Seattle players caught more than 1 pass: ",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1222,15 +1450,93 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    54420,
-    "sentence":"After that, Green Bay had the following unforced blunders: - Following an overturned John Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54402,
+     "sentence":"After that, Green Bay had the following unforced blunders: - Following an overturned John Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     54405,
+     "sentence":"McCarthy opted to send out Mason Crosby on the 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     54408,
+     "sentence":"Had he hung on to it, the Seahawks wouldn't have gotten the 1 possession they needed to take the lead.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     54411,
+     "sentence":"Wilson, at 1 point, was 2-of-9 for only 13 yards and a whopping 3 interceptions.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     54414,
+     "sentence":"Following intermission, Wilson was 12-of-20 for 196 yards, 2 touchdowns (1 passing, 1 rushing) and an interception that wasn't his fault, as the ball deflected off Kearse's hands.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     54417,
+     "sentence":"Following intermission, Wilson was 12-of-20 for 196 yards, 2 touchdowns (1 passing, 1 rushing) and an interception that wasn't his fault, as the ball deflected off Kearse's hands.",
+     "confidence":"None"
+    },
+    "7":{
+     "propertyValue":"1",
+     "annotationID":     54420,
+     "sentence":"<div class=dfpAdSlots>    Kearse was 1 of the heroes because he caught the touchdown, but he was having a miserable afternoon prior to that reception, which was his first of the contest.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   35,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    54421,
-    "sentence":"After that, Green Bay had the following unforced blunders: - Following an overturned John Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54403,
+     "sentence":"After that, Green Bay had the following unforced blunders: - Following an overturned John Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     54406,
+     "sentence":"McCarthy opted to send out Mason Crosby on the 1-yard line.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     54409,
+     "sentence":"Had he hung on to it, the Seahawks wouldn't have gotten the 1 possession they needed to take the lead.",
+     "confidence":"Weak"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     54412,
+     "sentence":"Wilson, at 1 point, was 2-of-9 for only 13 yards and a whopping 3 interceptions.",
+     "confidence":"Weak"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     54415,
+     "sentence":"Following intermission, Wilson was 12-of-20 for 196 yards, 2 touchdowns (1 passing, 1 rushing) and an interception that wasn't his fault, as the ball deflected off Kearse's hands.",
+     "confidence":"Strong"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     54418,
+     "sentence":"Following intermission, Wilson was 12-of-20 for 196 yards, 2 touchdowns (1 passing, 1 rushing) and an interception that wasn't his fault, as the ball deflected off Kearse's hands.",
+     "confidence":"Strong"
+    },
+    "7":{
+     "propertyValue":"1",
+     "annotationID":     54421,
+     "sentence":"<div class=dfpAdSlots>    Kearse was 1 of the heroes because he caught the touchdown, but he was having a miserable afternoon prior to that reception, which was his first of the contest.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1240,9 +1546,48 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    54422,
-    "sentence":"After that, Green Bay had the following unforced blunders: - Following an overturned John Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54404,
+     "sentence":"After that, Green Bay had the following unforced blunders: - Following an overturned John Kuhn touchdown, Mike McCarthy opted to kick a field goal from the 1-inch line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     54407,
+     "sentence":"McCarthy opted to send out Mason Crosby on the 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     54410,
+     "sentence":"Had he hung on to it, the Seahawks wouldn't have gotten the 1 possession they needed to take the lead.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     54413,
+     "sentence":"Wilson, at 1 point, was 2-of-9 for only 13 yards and a whopping 3 interceptions.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     54416,
+     "sentence":"Following intermission, Wilson was 12-of-20 for 196 yards, 2 touchdowns (1 passing, 1 rushing) and an interception that wasn't his fault, as the ball deflected off Kearse's hands.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     54419,
+     "sentence":"Following intermission, Wilson was 12-of-20 for 196 yards, 2 touchdowns (1 passing, 1 rushing) and an interception that wasn't his fault, as the ball deflected off Kearse's hands.",
+     "confidence":"None"
+    },
+    "7":{
+     "propertyValue":"1",
+     "annotationID":     54422,
+     "sentence":"<div class=dfpAdSlots>    Kearse was 1 of the heroes because he caught the touchdown, but he was having a miserable afternoon prior to that reception, which was his first of the contest.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -1270,9 +1615,12 @@
    "game_won":   false,
    "player_team_score":"31",
    "opponent_score":{
-    "propertyValue":"34",
-    "annotationID":    54712,
-    "sentence":"Speaking of, Lockett (4-34) caught all the targets thrown to him, 3 of which came in the opening half."
+    "1":{
+     "propertyValue":"34",
+     "annotationID":     54712,
+     "sentence":"Speaking of, Lockett (4-34) caught all the targets thrown to him, 3 of which came in the opening half.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1287,14 +1635,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   10,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    54710,
-    "sentence":"Kearse (8-76)."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     54710,
+     "sentence":"Kearse (8-76).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"76",
-    "annotationID":    54711,
-    "sentence":"Kearse (8-76)."
+    "1":{
+     "propertyValue":"76",
+     "annotationID":     54711,
+     "sentence":"Kearse (8-76).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1392,14 +1746,20 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"6",
-    "annotationID":    56292,
-    "sentence":"A field goal closed the first half to give Seattle a 6-0 lead at the half."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     56292,
+     "sentence":"A field goal closed the first half to give Seattle a 6-0 lead at the half.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"6",
-    "annotationID":    56293,
-    "sentence":"A field goal closed the first half to give Seattle a 6-0 lead at the half."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     56293,
+     "sentence":"A field goal closed the first half to give Seattle a 6-0 lead at the half.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   76,
    "receiving_touchdowns":   0,
@@ -1477,9 +1837,12 @@
   "26":{
    "player_id":   11975,
    "year":{
-    "propertyValue":"2015",
-    "annotationID":    60606,
-    "sentence":"Over the first 10 games of 2015, Wheaton had caught 16-of-32 targets for 273 yards and a touchdown."
+    "1":{
+     "propertyValue":"2015",
+     "annotationID":     60606,
+     "sentence":"Over the first 10 games of 2015, Wheaton had caught 16-of-32 targets for 273 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "date":"2015-11-29",
    "game_number":"11",
@@ -1502,20 +1865,71 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    60607,
-    "sentence":"Ben Roethlisberger also put up big numbers, as you would expect with all these yards and touchdowns to go around, as he threw for 456 yards, but only connected for 1 touchdown and added 2 interceptions before leaving the game with a concussion with 2 minutes left."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     60604,
+     "sentence":"Wheaton, before this game, had never caught more than 5 passes or accumulated more than 97 yards in his 38 games.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     60607,
+     "sentence":"On the other side, all 5 of Wilson's touchdown passes went to 2 of his wide receivers, Doug Baldwin and Jermaine Kearse.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    60612,
-    "sentence":"That turned a 13-7 Steelers lead into a 14-10 Seattle lead."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     60605,
+     "sentence":"On Sunday, he caught 9-of-13 targets for 201 yards and a touchdown, the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     60610,
+     "sentence":"on after putting together a nice game, with 4 receptions for 75 yards.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     60611,
+     "sentence":"Graham had not put up the numbers he had in New Orleans, but still had been an integral part of the Seattle offense, averaging 4.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     60612,
+     "sentence":"4 receptions for 55 yards per game.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   47,
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    60609,
-    "sentence":"Ben Roethlisberger also put up big numbers, as you would expect with all these yards and touchdowns to go around, as he threw for 456 yards, but only connected for 1 touchdown and added 2 interceptions before leaving the game with a concussion with 2 minutes left."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     60602,
+     "sentence":"Ben Roethlisberger also put up big numbers, as you would expect with all these yards and touchdowns to go around, as he threw for 456 yards, but only connected for 1 touchdown and added 2 interceptions before leaving the game with a concussion with 2 minutes left.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     60603,
+     "sentence":"Ben Roethlisberger also put up big numbers, as you would expect with all these yards and touchdowns to go around, as he threw for 456 yards, but only connected for 1 touchdown and added 2 interceptions before leaving the game with a concussion with 2 minutes left.",
+     "confidence":"Strong"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     60608,
+     "sentence":"On the other side, all 5 of Wilson's touchdown passes went to 2 of his wide receivers, Doug Baldwin and Jermaine Kearse.",
+     "confidence":"Strong"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     60609,
+     "sentence":"He's now had 2 huge games in his last 3.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1564,14 +1978,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    61445,
-    "sentence":"Kearse caught 7 passes for 74 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     61445,
+     "sentence":"Kearse caught 7 passes for 74 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"74",
-    "annotationID":    61446,
-    "sentence":"Kearse caught 7 passes for 74 yards."
+    "1":{
+     "propertyValue":"74",
+     "annotationID":     61446,
+     "sentence":"Kearse caught 7 passes for 74 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1621,14 +2041,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    62485,
-    "sentence":"Kearse (7-110) and Tyler Lockett (5-55-1) also played well for Seattle."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     62485,
+     "sentence":"Kearse (7-110) and Tyler Lockett (5-55-1) also played well for Seattle.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"110",
-    "annotationID":    62486,
-    "sentence":"Kearse (7-110) and Tyler Lockett (5-55-1) also played well for Seattle."
+    "1":{
+     "propertyValue":"110",
+     "annotationID":     62486,
+     "sentence":"Kearse (7-110) and Tyler Lockett (5-55-1) also played well for Seattle.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1727,19 +2153,28 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   15,
    "receiving_receptions":{
-    "propertyValue":"11",
-    "annotationID":    64054,
-    "sentence":"He trailed only Kearse in the box score, as Kearse logged 11 receptions for 110 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     64054,
+     "sentence":"He trailed only Kearse in the box score, as Kearse logged 11 receptions for 110 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"110",
-    "annotationID":    64055,
-    "sentence":"He trailed only Kearse in the box score, as Kearse logged 11 receptions for 110 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"110",
+     "annotationID":     64055,
+     "sentence":"He trailed only Kearse in the box score, as Kearse logged 11 receptions for 110 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    64056,
-    "sentence":"Baldwin had a solid stat line despite the failed connections, catching 8 balls for 82 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     64056,
+     "sentence":"He trailed only Kearse in the box score, as Kearse logged 11 receptions for 110 yards and 2 touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -1787,19 +2222,34 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    68025,
-    "sentence":"Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     68025,
+     "sentence":"Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    68024,
-    "sentence":"Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     68022,
+     "sentence":"Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     68024,
+     "sentence":"Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"35",
-    "annotationID":    68023,
-    "sentence":"Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     68023,
+     "sentence":"Kearse (3-35) and Tyler Lockett (3-23) all got 5 targets and will continue to split Wilson's targets.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -1898,14 +2348,44 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    68954,
-    "sentence":"Michael gained 40 yards and a touchdown on 10 carries, while Prosise registered 23 yards on 4 tries."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     68949,
+     "sentence":"Michael gained 40 yards and a touchdown on 10 carries, while Prosise registered 23 yards on 4 tries.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     68950,
+     "sentence":"Prosise actually led the Seahawks in receiving yardage, as he had 4 catches go for 80 yards.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     68951,
+     "sentence":"Jermaine Kearse (4-57), Doug Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     68953,
+     "sentence":"Jermaine Kearse (4-57), Doug Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"4",
+     "annotationID":     68954,
+     "sentence":"Jermaine Kearse (4-57), Doug Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"57",
-    "annotationID":    68952,
-    "sentence":"Jermaine Kearse (4-57), Doug Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers."
+    "1":{
+     "propertyValue":"57",
+     "annotationID":     68952,
+     "sentence":"Jermaine Kearse (4-57), Doug Baldwin (4-51), Jimmy Graham (3-34) and Tyler Lockett (4-32) all posted underwhelming numbers.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2053,14 +2533,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    71790,
-    "sentence":"Kearse (1-18)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71790,
+     "sentence":"Kearse (1-18).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"18",
-    "annotationID":    71791,
-    "sentence":"Kearse (1-18)."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     71791,
+     "sentence":"Kearse (1-18).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2097,9 +2583,12 @@
    "game_won":   true,
    "player_team_score":"40",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    72540,
-    "sentence":"Kearse (5-68), Doug Baldwin (7-65) and Tyler Lockett (5-63)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     72540,
+     "sentence":"Kearse (5-68), Doug Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -2114,14 +2603,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    72541,
-    "sentence":"Kearse (5-68), Doug Baldwin (7-65) and Tyler Lockett (5-63)."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     72538,
+     "sentence":"Kearse (5-68), Doug Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     72541,
+     "sentence":"Kearse (5-68), Doug Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"68",
-    "annotationID":    72539,
-    "sentence":"Kearse (5-68), Doug Baldwin (7-65) and Tyler Lockett (5-63)."
+    "1":{
+     "propertyValue":"68",
+     "annotationID":     72539,
+     "sentence":"Kearse (5-68), Doug Baldwin (7-65) and Tyler Lockett (5-63).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2171,19 +2672,28 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    74336,
-    "sentence":"Kearse (4-37, 1 TD) logged a nice game for the Seahawks."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     74336,
+     "sentence":"Kearse (4-37, 1 TD) logged a nice game for the Seahawks.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    74337,
-    "sentence":"Kearse (4-37, 1 TD) logged a nice game for the Seahawks."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     74337,
+     "sentence":"Kearse (4-37, 1 TD) logged a nice game for the Seahawks.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    74338,
-    "sentence":"Kearse (4-37, 1 TD) logged a nice game for the Seahawks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74338,
+     "sentence":"Kearse (4-37, 1 TD) logged a nice game for the Seahawks.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2232,14 +2742,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    75842,
-    "sentence":"Kearse, who caught 7 balls for 59 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     75842,
+     "sentence":"Kearse, who caught 7 balls for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"59",
-    "annotationID":    75843,
-    "sentence":"Kearse, who caught 7 balls for 59 yards."
+    "1":{
+     "propertyValue":"59",
+     "annotationID":     75843,
+     "sentence":"Kearse, who caught 7 balls for 59 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2289,14 +2805,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    76822,
-    "sentence":"Kearse, who snatched 4 balls for 64 yards otherwise."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     76822,
+     "sentence":"Kearse, who snatched 4 balls for 64 yards otherwise.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"64",
-    "annotationID":    76823,
-    "sentence":"Kearse, who snatched 4 balls for 64 yards otherwise."
+    "1":{
+     "propertyValue":"64",
+     "annotationID":     76823,
+     "sentence":"Kearse, who snatched 4 balls for 64 yards otherwise.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   2,
    "kick_return_attempts":   0,
@@ -2345,19 +2867,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    77092,
-    "sentence":"Kearse (3-42) isn't really either."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     77092,
+     "sentence":"Kearse (3-42) isn't really either.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    77093,
-    "sentence":"Kearse (3-42) isn't really either."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     77093,
+     "sentence":"Kearse (3-42) isn't really either.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"42",
-    "annotationID":    77094,
-    "sentence":"Kearse (3-42) isn't really either."
+    "1":{
+     "propertyValue":"42",
+     "annotationID":     77094,
+     "sentence":"Kearse (3-42) isn't really either.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2406,19 +2937,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    78482,
-    "sentence":"Kearse (4-38) and Austin Seferian-Jenkins (6-29)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78482,
+     "sentence":"Kearse (4-38) and Austin Seferian-Jenkins (6-29).",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    78483,
-    "sentence":"Kearse (4-38) and Austin Seferian-Jenkins (6-29)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78483,
+     "sentence":"Kearse (4-38) and Austin Seferian-Jenkins (6-29).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"38",
-    "annotationID":    78484,
-    "sentence":"Kearse (4-38) and Austin Seferian-Jenkins (6-29)."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     78484,
+     "sentence":"Kearse (4-38) and Austin Seferian-Jenkins (6-29).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -2467,19 +3007,52 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    78973,
-    "sentence":"He had a poor throw where Malcolm Butler stepped in front of a defender to set up a New England touchdown, and he was also picked on a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78968,
+     "sentence":"He had a poor throw where Malcolm Butler stepped in front of a defender to set up a New England touchdown, and he was also picked on a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78970,
+     "sentence":"Kearse led the way with 4 grabs for 79 yards, while Robby Anderson (4-76) wasn't too far behind him.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     78973,
+     "sentence":"Kearse led the way with 4 grabs for 79 yards, while Robby Anderson (4-76) wasn't too far behind him.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    78974,
-    "sentence":"He had a poor throw where Malcolm Butler stepped in front of a defender to set up a New England touchdown, and he was also picked on a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78969,
+     "sentence":"He had a poor throw where Malcolm Butler stepped in front of a defender to set up a New England touchdown, and he was also picked on a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78971,
+     "sentence":"Kearse led the way with 4 grabs for 79 yards, while Robby Anderson (4-76) wasn't too far behind him.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     78974,
+     "sentence":"Kearse led the way with 4 grabs for 79 yards, while Robby Anderson (4-76) wasn't too far behind him.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"79",
-    "annotationID":    78972,
-    "sentence":"Kearse led the way with 4 grabs for 79 yards, while Robby Anderson (4-76) wasn't too far behind him."
+    "1":{
+     "propertyValue":"79",
+     "annotationID":     78972,
+     "sentence":"Kearse led the way with 4 grabs for 79 yards, while Robby Anderson (4-76) wasn't too far behind him.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -2529,19 +3102,28 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   4,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    79544,
-    "sentence":"Forte caught 5 passes for 41 yards, while Powell had 2 catches for 40 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79544,
+     "sentence":"I mentioned that Anderson (3-35) and Kearse (1-29) caught McCown's touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"29",
-    "annotationID":    79546,
-    "sentence":"I mentioned that Anderson (3-35) and Kearse (1-29) caught McCown's touchdowns."
+    "1":{
+     "propertyValue":"29",
+     "annotationID":     79546,
+     "sentence":"I mentioned that Anderson (3-35) and Kearse (1-29) caught McCown's touchdowns.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    79545,
-    "sentence":"Forte caught 5 passes for 41 yards, while Powell had 2 catches for 40 yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79545,
+     "sentence":"I mentioned that Anderson (3-35) and Kearse (1-29) caught McCown's touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -2590,14 +3172,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    80446,
-    "sentence":"Kearse (2-38) and Austin Seferian-Jenkins (2-20)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     80444,
+     "sentence":"Kearse (2-38) and Austin Seferian-Jenkins (2-20).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     80446,
+     "sentence":"Kearse (2-38) and Austin Seferian-Jenkins (2-20).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"38",
-    "annotationID":    80445,
-    "sentence":"Kearse (2-38) and Austin Seferian-Jenkins (2-20)."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     80445,
+     "sentence":"Kearse (2-38) and Austin Seferian-Jenkins (2-20).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

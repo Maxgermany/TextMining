@@ -77,9 +77,12 @@
    "opponent":"GNB",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    42417,
-    "sentence":"The Falcons were up 21-10 and appeared as though they'd cruise to victory, effectively eliminating Green Bay from playoff contention."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     42417,
+     "sentence":"The Falcons were up 21-10 and appeared as though they'd cruise to victory, effectively eliminating Green Bay from playoff contention.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"22",
    "passing_attempts":   0,
@@ -104,15 +107,21 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    42418,
-    "sentence":"Ryan, meanwhile, misfired on just 4 passes in the first half, going 9-of-13 for 85 yards and 2 scores."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     42418,
+     "sentence":"Flynn ultimately finished 24-of-32 for 258 yards, 1 touchdown and the pick-six.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   7,
    "defense_tackle_assists":{
-    "propertyValue":"4",
-    "annotationID":    42416,
-    "sentence":"Ryan, meanwhile, misfired on just 4 passes in the first half, going 9-of-13 for 85 yards and 2 scores."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     42416,
+     "sentence":"Ryan, meanwhile, misfired on just 4 passes in the first half, going 9-of-13 for 85 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

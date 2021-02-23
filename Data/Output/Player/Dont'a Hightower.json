@@ -78,9 +78,12 @@
    "game_won":   true,
    "player_team_score":"29",
    "opponent_score":{
-    "propertyValue":"26",
-    "annotationID":    29886,
-    "sentence":"Hightower, but Folk bailed him out with another 43-yarder to give the Jets a 26-23 lead with under 2 minutes remaining."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     29886,
+     "sentence":"Hightower, but Folk bailed him out with another 43-yarder to give the Jets a 26-23 lead with under 2 minutes remaining.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -327,9 +330,18 @@
    "game_won":   true,
    "player_team_score":"30",
    "opponent_score":{
-    "propertyValue":"23",
-    "annotationID":    58296,
-    "sentence":"A pass to Danny Amendola went for 23 yards did a lot of the distance, and after a few short gains, Brady scrambled to the Jets' 1-yard line with an 11-yard gain."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     58293,
+     "sentence":"A pass to Danny Amendola went for 23 yards did a lot of the distance, and after a few short gains, Brady scrambled to the Jets' 1-yard line with an 11-yard gain.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"23",
+     "annotationID":     58296,
+     "sentence":"With the Patriots up 23-20, New England quickly got the ball back and a leaping grab by Amendola put the Patriots in New York's territory.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -354,9 +366,30 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"10",
-    "annotationID":    58297,
-    "sentence":"They went on to open up a 10-3 lead as a 17-yard pass to Decker set up a short touchdown toss to Jeremy Kerley (3-27)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     58292,
+     "sentence":"They went on to open up a 10-3 lead as a 17-yard pass to Decker set up a short touchdown toss to Jeremy Kerley (3-27).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     58294,
+     "sentence":"He then dived into the end zone from a yard out on third down to tie the game at 10.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"10",
+     "annotationID":     58295,
+     "sentence":"That set up a Patriot field goal for a 13-10 lead at the half.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"10",
+     "annotationID":     58297,
+     "sentence":"Jaime Collins had a sack, Chandler Jones had a strip-sack, and Dont'a Hightower totaled 10 tackles and a fumble recovery.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

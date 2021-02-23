@@ -29,9 +29,12 @@
    "game_won":   true,
    "player_team_score":"47",
    "opponent_score":{
-    "propertyValue":"25",
-    "annotationID":    70241,
-    "sentence":"Each team added field goal drives to make it 44-25 early in the 4."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     70241,
+     "sentence":"Each team added field goal drives to make it 44-25 early in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -55,14 +58,56 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    70243,
-    "sentence":"To finish the drive, Mariota hit Anthony Fasano, who was wide open, for a short touchdown, which put the Titans up 21-0 at the end of the first quarter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     70236,
+     "sentence":"Green Bay got moving with a few receptions to Davante Adams and a pass to Randall Cobb (4-31) to get to the 1-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     70237,
+     "sentence":"Mariota quickly responded by lofting in a beautiful 32-yard touchdown pass to Rishard Matthews (3-63-1).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     70238,
+     "sentence":"He took advantage of the oppoturnity with a touchdown pass to Kendall Wright (2-8-1).",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     70240,
+     "sentence":"The Packers scored quickly in response, as Rodgers used Adams to move the ball and set up a screen touchdown pass to James Starks (7-33 rushing, 3-11-1 receiving).",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     70242,
+     "sentence":"Rodgers was 31-of-51 for 371 yards with 2 touchdowns and 2 interceptions - 1 came on a Hail Mary on the last play of the first half.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     70243,
+     "sentence":"Jordy Nelson led Green Bay with 12 catches for 126 yards and 1 touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"7",
-    "annotationID":    70244,
-    "sentence":"The Packers scored quickly in response, as Rodgers used Adams to move the ball and set up a screen touchdown pass to James Starks (7-33 rushing, 3-11-1 receiving)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     70239,
+     "sentence":"The Packers scored quickly in response, as Rodgers used Adams to move the ball and set up a screen touchdown pass to James Starks (7-33 rushing, 3-11-1 receiving).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"7",
+     "annotationID":     70244,
+     "sentence":"Defensively, the Titans got a good game from rookie safety Kevin Byard with 7 tackles and a sack.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -89,9 +134,12 @@
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"14",
-    "annotationID":    78008,
-    "sentence":"Byard to lose a scoring opportunity, but Houston was up 30-14 at the half."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     78008,
+     "sentence":"Byard to lose a scoring opportunity, but Houston was up 30-14 at the half.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"57",
    "passing_attempts":   0,
@@ -117,15 +165,27 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    78011,
-    "sentence":"Byard to lose a scoring opportunity, but Houston was up 30-14 at the half."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78009,
+     "sentence":"After the intermission, Watson continued to move the ball, using Hopkins for a few completions, including a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78011,
+     "sentence":"Shortly later, Watson threw his 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   5,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    78010,
-    "sentence":"Byard to lose a scoring opportunity, but Houston was up 30-14 at the half."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     78010,
+     "sentence":"h-and-1 and a pass interference.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   7,
    "defense_interception_touchdowns":   0,

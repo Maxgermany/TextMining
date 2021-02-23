@@ -69,9 +69,12 @@
   "2":{
    "player_id":   17892,
    "year":{
-    "propertyValue":"2017",
-    "annotationID":    75862,
-    "sentence":"Taylor was awful in the preseason, but he had a nice performance in his 2017 debut."
+    "1":{
+     "propertyValue":"2017",
+     "annotationID":     75862,
+     "sentence":"Taylor was awful in the preseason, but he had a nice performance in his 2017 debut.",
+     "confidence":"None"
+    }
    },
    "date":"2017-09-10",
    "game_number":"1",
@@ -81,9 +84,18 @@
    "opponent":"NYJ",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    75870,
-    "sentence":"McCoy was as outstanding as those numbers indicate, and he even juked Jamal Adams out of his cleats in the early going on a 21-yard catch-and-run play."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     75865,
+     "sentence":"McCoy was as outstanding as those numbers indicate, and he even juked Jamal Adams out of his cleats in the early going on a 21-yard catch-and-run play.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"21",
+     "annotationID":     75870,
+     "sentence":"Meanwhile, Zay Jones converted only 1 of his 4 targets for 21 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"12",
    "passing_attempts":   0,
@@ -108,16 +120,58 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    75868,
-    "sentence":"It was 1 of several curious decisions Todd Bowles made this afternoon."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     75860,
+     "sentence":"It was 1 of several curious decisions Todd Bowles made this afternoon.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     75863,
+     "sentence":"LeSean McCoy had a scare in this game when he hurt his hand on a run down to the 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     75866,
+     "sentence":"He trailed only Jordan Matthews (2-61), who did most of his work on 1 47-yard reception.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     75868,
+     "sentence":"Meanwhile, Zay Jones converted only 1 of his 4 targets for 21 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   3,
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    75869,
-    "sentence":"It was 1 of several curious decisions Todd Bowles made this afternoon."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     75861,
+     "sentence":"It was 1 of several curious decisions Todd Bowles made this afternoon.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     75864,
+     "sentence":"LeSean McCoy had a scare in this game when he hurt his hand on a run down to the 1-yard line.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     75867,
+     "sentence":"He trailed only Jordan Matthews (2-61), who did most of his work on 1 47-yard reception.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     75869,
+     "sentence":"Meanwhile, Zay Jones converted only 1 of his 4 targets for 21 yards.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

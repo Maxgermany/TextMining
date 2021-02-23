@@ -51,14 +51,20 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    64736,
-    "sentence":"Hyder recorded 2 sacks, but the rest of the Lions' front didn't get enough pressure on Luck while the secondary allowed too many wide-open receivers."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     64736,
+     "sentence":"Hyder recorded 2 sacks, but the rest of the Lions' front didn't get enough pressure on Luck while the secondary allowed too many wide-open receivers.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    64737,
-    "sentence":"Hyder recorded 2 sacks, but the rest of the Lions' front didn't get enough pressure on Luck while the secondary allowed too many wide-open receivers."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     64737,
+     "sentence":"Hyder recorded 2 sacks, but the rest of the Lions' front didn't get enough pressure on Luck while the secondary allowed too many wide-open receivers.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,
@@ -85,14 +91,26 @@
    "opponent":"WAS",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    68511,
-    "sentence":"Andre Roberts (1-20) made a great leaping grab to move the ball inside the 20."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     68510,
+     "sentence":"Andre Roberts (1-20) made a great leaping grab to move the ball inside the 20.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"20",
+     "annotationID":     68511,
+     "sentence":"Andre Roberts (1-20) made a great leaping grab to move the ball inside the 20.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    68509,
-    "sentence":"The Redskins held a 17-13 lead with 1:05 to go."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     68509,
+     "sentence":"The Redskins held a 17-13 lead with 1:05 to go.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -117,9 +135,24 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    68513,
-    "sentence":"A shovel pass to Tate went for 22 yards, and the Lions expanded their lead to 13-3 early in the 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     68508,
+     "sentence":"A shovel pass to Tate went for 22 yards, and the Lions expanded their lead to 13-3 early in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     68512,
+     "sentence":"With just under 30 seconds remaining, Stafford threw a frozen rope to Anquan Boldin (3-28-1) for an 18-yard touchdown pass to win the game for Detroit.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     68513,
+     "sentence":"Matt Jones (10-27) turned in a meltdown performance with 3 fumbles.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

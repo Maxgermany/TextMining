@@ -29,9 +29,12 @@
    "game_won":   false,
    "player_team_score":"10",
    "opponent_score":{
-    "propertyValue":"30",
-    "annotationID":    11460,
-    "sentence":"Overall, Favre was pretty solid, finishing 17-of-30 for 192 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     11460,
+     "sentence":"Overall, Favre was pretty solid, finishing 17-of-30 for 192 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -56,9 +59,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    11459,
-    "sentence":"Joseph dropped the ball and the Vikings scored 2 plays later."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     11459,
+     "sentence":"Joseph dropped the ball and the Vikings scored 2 plays later.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -134,9 +140,18 @@
    "opponent":"MIA",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"23",
-    "annotationID":    19794,
-    "sentence":"Tate totaled 103 yards on 23 carries."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     19793,
+     "sentence":"Tate totaled 103 yards on 23 carries.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"23",
+     "annotationID":     19794,
+     "sentence":"After dropping a potential touchdown pass, Johnson came back to catch a 23-yard touchdown strike from Schaub.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"13",
    "passing_attempts":   0,
@@ -162,20 +177,53 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    19792,
-    "sentence":"Wide receiver Devon Bess led Miami with 2 catches for 42 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     19791,
+     "sentence":"Schaub connected with Daniels from 4 yards out for the only touchdown in the first half after Henne's interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     19792,
+     "sentence":"Ben Tate had 4 carries for 21 yards in the first half, but with Foster sidelined, Tate had a big second half.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    19795,
-    "sentence":"Miami capped the possession with Henne tossing a 12-yard touchdown to Marshall."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     19787,
+     "sentence":"For the game, Henne was 12-of-30 for 170 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     19788,
+     "sentence":"For the game, Henne was 12-of-30 for 170 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     19789,
+     "sentence":"He was 16-of-22 for 170 yards with 1 touchdown.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     19795,
+     "sentence":"Johnson paced Houston with 7 receptions for 93 yards and 1 touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":{
-    "propertyValue":"5",
-    "annotationID":    19790,
-    "sentence":"He caught 5 passes for 63 yards in the first half."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     19790,
+     "sentence":"He caught 5 passes for 63 yards in the first half.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -200,9 +248,12 @@
    "game_won":   true,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    20467,
-    "sentence":"The Joseph blocked kick return never happens if Maurkice Pouncey doesn't commit a really dumb personal-foul penalty inside the Texans' 10-yard line."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     20467,
+     "sentence":"The Joseph blocked kick return never happens if Maurkice Pouncey doesn't commit a really dumb personal-foul penalty inside the Texans' 10-yard line.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -621,9 +672,12 @@
    "defense_tackles":   3,
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    51488,
-    "sentence":"A 7-yard touchdown pass to Foster (19-79 rushing, 5-26 receiving) then put the Texans in firm control."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     51488,
+     "sentence":"Starting at their 1-yard line, Fitzpatrick engineered a field goal drive.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   25,
    "defense_interception_touchdowns":   0,
@@ -697,14 +751,20 @@
    "opponent":"IND",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"16",
-    "annotationID":    62374,
-    "sentence":"That set up a short field goal for Novak to give the Texans a 16-10 lead."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     62374,
+     "sentence":"That set up a short field goal for Novak to give the Texans a 16-10 lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    62375,
-    "sentence":"That set up a short field goal for Novak to give the Texans a 16-10 lead."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     62375,
+     "sentence":"That set up a short field goal for Novak to give the Texans a 16-10 lead.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -1122,9 +1182,12 @@
    "defense_sacks":   0,
    "defense_tackles":   2,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    79071,
-    "sentence":"Hogan finished 20-of-37 for an embarrassingly low 140 yards, 1 touchdown and 3 interceptions."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79071,
+     "sentence":"Hogan finished 20-of-37 for an embarrassingly low 140 yards, 1 touchdown and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   2,
    "defense_interception_yards":   85,

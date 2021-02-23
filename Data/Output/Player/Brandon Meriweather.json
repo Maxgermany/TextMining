@@ -28,9 +28,12 @@
    "opponent":"JAX",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"35",
-    "annotationID":    12369,
-    "sentence":"Jones Drew had just 18 carries (63 yards) and 3 catches (35 more yards)."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     12369,
+     "sentence":"Jones Drew had just 18 carries (63 yards) and 3 catches (35 more yards).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"7",
    "passing_attempts":   0,
@@ -82,9 +85,12 @@
    "game_won":   true,
    "player_team_score":"31",
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    31535,
-    "sentence":"McCoy (6 catches, 67 yards) happened to be the Eagles' leading receiver, as Foles threw tons of screens."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     31535,
+     "sentence":"McCoy (6 catches, 67 yards) happened to be the Eagles' leading receiver, as Foles threw tons of screens.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -109,24 +115,48 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    31537,
-    "sentence":"One of his best players in terms of running came on a 3rd-and-14 in the third quarter when this was an 11-point game."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     31537,
+     "sentence":"One of his best players in terms of running came on a 3rd-and-14 in the third quarter when this was an 11-point game.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"4",
-    "annotationID":    31536,
-    "sentence":"McCoy rushed for just 45 yards on 15 carries and that aforementioned fumble."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     31536,
+     "sentence":"Griffin, meanwhile, was nearly perfect, going 14-of-15 for 200 yards and 4 touchdowns.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    31534,
-    "sentence":"McCoy rushed for just 45 yards on 15 carries and that aforementioned fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     31532,
+     "sentence":"The concussion, by the way, occurred when the Eagles were down 25 with 1:45 remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     31534,
+     "sentence":"down 25 with 1:45 remaining.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":{
-    "propertyValue":"25",
-    "annotationID":    31533,
-    "sentence":"The concussion, by the way, occurred when the Eagles were down 25 with 1:45 remaining."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     31531,
+     "sentence":"The concussion, by the way, occurred when the Eagles were down 25 with 1:45 remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"25",
+     "annotationID":     31533,
+     "sentence":"down 25 with 1:45 remaining.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -297,9 +327,12 @@
    "opponent":"ATL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    55531,
-    "sentence":"Some terrible clock management by New York gave the Falcons another shot with 3 minutes remaining while down 20-17."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     55531,
+     "sentence":"Some terrible clock management by New York gave the Falcons another shot with 3 minutes remaining while down 20-17.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"24",
    "passing_attempts":   0,
@@ -376,9 +409,18 @@
    "defense_tackles":   6,
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    58516,
-    "sentence":"Meriweather ran under it for an interception at the Giants' 1-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58515,
+     "sentence":"Meriweather ran under it for an interception at the Giants' 1-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     58516,
+     "sentence":"Randle made an amazing 1.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   26,
    "defense_interception_touchdowns":   0,
@@ -429,9 +471,18 @@
    "defense_tackles":   5,
    "defense_tackle_assists":   2,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    58518,
-    "sentence":"Meriweather ran under it for an interception at the Giants' 1-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58517,
+     "sentence":"Meriweather ran under it for an interception at the Giants' 1-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     58518,
+     "sentence":"Randle made an amazing 1.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   0,
    "defense_interception_touchdowns":   0,

@@ -28,9 +28,12 @@
    "opponent":"ATL",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"31",
-    "annotationID":    57566,
-    "sentence":"He connected on 1 try, but it was from 31."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     57566,
+     "sentence":"He connected on 1 try, but it was from 31.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"21",
    "passing_attempts":   0,
@@ -65,9 +68,18 @@
    "point_after_makes":   4,
    "field_goal_attempts":   3,
    "field_goal_makes":{
-    "propertyValue":"1",
-    "annotationID":    57565,
-    "sentence":"Hocker whiffed on 2 field goals, though 1 was from beyond 50."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57564,
+     "sentence":"Hocker whiffed on 2 field goals, though 1 was from beyond 50.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     57565,
+     "sentence":"He connected on 1 try, but it was from 31.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,

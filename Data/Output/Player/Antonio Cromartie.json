@@ -101,9 +101,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    17202,
-    "sentence":"Cromartie did their job; Terrell Owens (3-17) and Chad Ochocinco (4-41) were non-factors in this game."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     17202,
+     "sentence":"Cromartie did their job; Terrell Owens (3-17) and Chad Ochocinco (4-41) were non-factors in this game.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,
@@ -154,9 +157,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    18787,
-    "sentence":"Manning went 18-of-26 for 225 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     18787,
+     "sentence":"He remarkably attempted just 1 pass inside the red zone, which was an incompletion to ",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -249,9 +255,30 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    20068,
-    "sentence":"Kevin Boss made a nice first catch in a Raider uniform for 28 yards to set up McFadden's short touchdown run for a quick 7-0 lead."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     20064,
+     "sentence":"Sanchez came out firing, completing his first 2 passes for 40 yards to Plaxico Burress and Dustin Keller.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     20065,
+     "sentence":"The field position allowed the Jets to drive and eventually kick a short field go to go up by 10, but it would be 2 full quarters before their offense scored again.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     20067,
+     "sentence":"New York had a 3rd-and-2 from the Oakland 37-yard line.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     20068,
+     "sentence":"He booted the return, and 2 plays later, a ",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   29,
    "kick_return_touchdowns":   0,
@@ -261,9 +288,12 @@
    "defense_sacks":   0,
    "defense_tackles":   5,
    "defense_tackle_assists":{
-    "propertyValue":"3",
-    "annotationID":    20066,
-    "sentence":"That would be a theme as well as he finished with 369 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     20066,
+     "sentence":"New York had a 3rd-and-2 from the Oakland 37-yard line.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -309,9 +339,12 @@
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    23506,
-    "sentence":"Sanchez (17-for-35 180 yards, 4 TDs, 1 INT) threw 3 incompletions to kill the Jets' next drive, distributing his targets (Burress, "
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     23506,
+     "sentence":"Sanchez (17-for-35 180 yards, 4 TDs, 1 INT) threw 3 incompletions to kill the Jets' next drive, distributing his targets (Burress, ",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
@@ -441,9 +474,12 @@
    "game_won":   false,
    "player_team_score":"26",
    "opponent_score":{
-    "propertyValue":"29",
-    "annotationID":    29679,
-    "sentence":"Luck, meanwhile, went 16-of-29 for 186 yards with 2 rushing touchdowns."
+    "1":{
+     "propertyValue":"29",
+     "annotationID":     29679,
+     "sentence":"Luck, meanwhile, went 16-of-29 for 186 yards with 2 rushing touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -787,14 +823,26 @@
    "opponent":"STL",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"31",
-    "annotationID":    50025,
-    "sentence":"Suddenly, the Cardinals' 14-10 deficit transformed into a 31-14 advantage, prompting the FOX announcers to repeatedly call this sequence a Cardinals' avalanche."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     50025,
+     "sentence":"Suddenly, the Cardinals' 14-10 deficit transformed into a 31-14 advantage, prompting the FOX announcers to repeatedly call this sequence a Cardinals' avalanche.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"14",
-    "annotationID":    50026,
-    "sentence":"Suddenly, the Cardinals' 14-10 deficit transformed into a 31-14 advantage, prompting the FOX announcers to repeatedly call this sequence a Cardinals' avalanche."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     50024,
+     "sentence":"Suddenly, the Cardinals' 14-10 deficit transformed into a 31-14 advantage, prompting the FOX announcers to repeatedly call this sequence a Cardinals' avalanche.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"14",
+     "annotationID":     50026,
+     "sentence":"Suddenly, the Cardinals' 14-10 deficit transformed into a 31-14 advantage, prompting the FOX announcers to repeatedly call this sequence a Cardinals' avalanche.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -844,14 +892,26 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    53454,
-    "sentence":"While he was out, Robert Turbin (10-38) and Christine Michael (6-26) were able to split the workload."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     53452,
+     "sentence":"While he was out, Robert Turbin (10-38) and Christine Michael (6-26) were able to split the workload.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     53454,
+     "sentence":"They did keep this game close for a while - it was 14-6 entering the 4.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"35",
-    "annotationID":    53455,
-    "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     53455,
+     "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -876,9 +936,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    53453,
-    "sentence":"Lynch finished with 113 yards and a 2 touchdowns on just 10 carries."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     53451,
+     "sentence":"Lynch finished with 113 yards and a 2 touchdowns on just 10 carries.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     53453,
+     "sentence":"Arizona hasn't been able to cover tight ends all year, and Willson exposed that, leading the Seahawks with 139 receiving yards and 2 touchdowns on just 3 receptions, torching the anemic Larry Foote each time.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -930,14 +999,44 @@
    "defense_sacks":   0,
    "defense_tackles":   3,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    54064,
-    "sentence":"Newton nearly had a couple of other interceptions, including 1 play in which he appeared to throw a backward pass that was nearly picked off by an Arizona defensive lineman."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54060,
+     "sentence":"Newton nearly had a couple of other interceptions, including 1 play in which he appeared to throw a backward pass that was nearly picked off by an Arizona defensive lineman.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     54062,
+     "sentence":"The Panthers got away with that 1.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     54064,
+     "sentence":"as it was just 1 of about a dozen terrible calls by Ed Hochuli and his crew throughout this contest, but I'll get to that later.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    54065,
-    "sentence":"Newton nearly had a couple of other interceptions, including 1 play in which he appeared to throw a backward pass that was nearly picked off by an Arizona defensive lineman."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     54061,
+     "sentence":"Newton nearly had a couple of other interceptions, including 1 play in which he appeared to throw a backward pass that was nearly picked off by an Arizona defensive lineman.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     54063,
+     "sentence":"The Panthers got away with that 1.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     54065,
+     "sentence":"as it was just 1 of about a dozen terrible calls by Ed Hochuli and his crew throughout this contest, but I'll get to that later.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   50,
    "defense_interception_touchdowns":   0,
@@ -1126,9 +1225,18 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    59285,
-    "sentence":"To finish the drive, Fitzpatrick found Decker wide open in the end zone to give New York a 7-3 lead."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     59283,
+     "sentence":"To finish the drive, Fitzpatrick found Decker wide open in the end zone to give New York a 7-3 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     59285,
+     "sentence":"h-and-3 was converted by Fitzpatrick to Decker, and Chris Ivory scored on a third-and-1.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   98,
    "kick_return_touchdowns":   0,
@@ -1137,9 +1245,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    59286,
-    "sentence":"To finish the drive, Fitzpatrick found Decker wide open in the end zone to give New York a 7-3 lead."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     59284,
+     "sentence":"To finish the drive, Fitzpatrick found Decker wide open in the end zone to give New York a 7-3 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     59286,
+     "sentence":"h-and-3 was converted by Fitzpatrick to Decker, and Chris Ivory scored on a third-and-1.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

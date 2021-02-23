@@ -28,9 +28,12 @@
    "opponent":"NYG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"16",
-    "annotationID":    70885,
-    "sentence":"The Bears took a 16-9 lead into the half, but suffered a huge loss with Miller leaving the game due to an injury."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     70885,
+     "sentence":"The Bears took a 16-9 lead into the half, but suffered a huge loss with Miller leaving the game due to an injury.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"22",
    "passing_attempts":   0,
@@ -105,9 +108,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"8",
-    "annotationID":    79138,
-    "sentence":"Trubisky made a great play, scrambling to avoid rushers and slinging a pass to Kendall Wright (2-36) for a leaping grab of 18 yards."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     79138,
+     "sentence":"Trubisky was 8-of-16 for 113 yards with a touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -135,9 +141,30 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    79147,
-    "sentence":"That gave the Bears a 24-13 lead with only 5 minutes remaining."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     79140,
+     "sentence":"That gave the Bears a 24-13 lead with only 5 minutes remaining.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"24",
+     "annotationID":     79141,
+     "sentence":"The Ravens produced a field-goal drive to make it 24-16.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"24",
+     "annotationID":     79144,
+     "sentence":"point conversion to tie the game at 24 and force overtime.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"24",
+     "annotationID":     79147,
+     "sentence":"Flacco was 24-of-41 for 180 yards with 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -163,15 +190,45 @@
    "defense_sacks":   0,
    "defense_tackles":   6,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    79148,
-    "sentence":"That gave the Bears a 24-13 lead with only 5 minutes remaining."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     79142,
+     "sentence":"Just after the 2-minute warning, Baltimore's Michael Campanaro returned a punt 77 yards for a touchdown, and Flacco found Boyle wide open in the flat for a 2.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     79143,
+     "sentence":"Just after the 2-minute warning, Baltimore's Michael Campanaro returned a punt 77 yards for a touchdown, and Flacco found Boyle wide open in the flat for a 2.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     79145,
+     "sentence":"Trubisky made a great play, scrambling to avoid rushers and slinging a pass to Kendall Wright (2-36) for a leaping grab of 18 yards.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     79146,
+     "sentence":"At halftime, Trubisky was only 2-of-7 for 29 yards.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"2",
+     "annotationID":     79148,
+     "sentence":"Flacco was 24-of-41 for 180 yards with 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   1,
    "defense_interception_yards":{
-    "propertyValue":"90",
-    "annotationID":    79139,
-    "sentence":"Amos caught the deflection, returning the ball 90 yards for a touchdown."
+    "1":{
+     "propertyValue":"90",
+     "annotationID":     79139,
+     "sentence":"Amos caught the deflection, returning the ball 90 yards for a touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,

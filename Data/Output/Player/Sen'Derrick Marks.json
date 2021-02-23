@@ -127,9 +127,12 @@
    "game_won":   true,
    "player_team_score":"25",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    51490,
-    "sentence":"Manning was 24-of-34 for 247 yards with a touchdown."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     51490,
+     "sentence":"Manning was 24-of-34 for 247 yards with a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -153,9 +156,24 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    51492,
-    "sentence":"Bortles completed 21-of-35 passes for 194 yards with 1 score."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     51489,
+     "sentence":"The Jaguars' 2 defensive scores were the reason the team made the comeback.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     51491,
+     "sentence":"Jameel McClain (9 tackles, 1 sack), Devon Kennard (2 sacks) and Jason Pierre-Paul (1.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     51492,
+     "sentence":"Sen'Derrick Marks (2 sacks, 1 TFL) and Telvin Smith (10 tackles) stood out for the Jaguars.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   3,
    "defense_tackle_assists":   0,
@@ -207,14 +225,20 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0.5,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    51975,
-    "sentence":"Marks had 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     51975,
+     "sentence":"Marks had 1.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    51976,
-    "sentence":"5 sacks and 2 tackles for a loss."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     51976,
+     "sentence":"5 sacks and 2 tackles for a loss.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

@@ -28,9 +28,12 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    78722,
-    "sentence":"Goff 10."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     78722,
+     "sentence":"Goff 10.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"16",
    "passing_attempts":   0,
@@ -46,14 +49,26 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    78720,
-    "sentence":"Despite the positive final drive, Goff had his share of struggles against the Seahawks, and they were prevalent in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78719,
+     "sentence":"Despite the positive final drive, Goff had his share of struggles against the Seahawks, and they were prevalent in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78720,
+     "sentence":"Goff's top targets were Tyler Higbee (4-98), Cooper Kupp (3-44) and Robert Woods (5-66).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"98",
-    "annotationID":    78721,
-    "sentence":"Goff's top targets were Tyler Higbee (4-98), Cooper Kupp (3-44) and Robert Woods (5-66)."
+    "1":{
+     "propertyValue":"98",
+     "annotationID":     78721,
+     "sentence":"Goff's top targets were Tyler Higbee (4-98), Cooper Kupp (3-44) and Robert Woods (5-66).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

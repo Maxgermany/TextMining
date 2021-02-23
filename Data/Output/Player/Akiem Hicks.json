@@ -51,9 +51,18 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    40825,
-    "sentence":"Hicks (7 tackles, 1 sack), Galette (1 sack) and David Hawthorne (8 tackles) all played really well."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     40824,
+     "sentence":"Hicks (7 tackles, 1 sack), Galette (1 sack) and David Hawthorne (8 tackles) all played really well.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     40825,
+     "sentence":"Hicks (7 tackles, 1 sack), Galette (1 sack) and David Hawthorne (8 tackles) all played really well.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   4,
    "defense_tackle_assists":   3,
@@ -106,9 +115,12 @@
    "defense_sacks":   1.5,
    "defense_tackles":   3,
    "defense_tackle_assists":{
-    "propertyValue":"5",
-    "annotationID":    40974,
-    "sentence":"5 sacks."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     40974,
+     "sentence":"5 sacks.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -282,9 +294,12 @@
    "game_won":   false,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    79108,
-    "sentence":"Callahan returned the interception 52 yards to set up Chicago at the Ravens' 20-yard line."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     79108,
+     "sentence":"Callahan returned the interception 52 yards to set up Chicago at the Ravens' 20-yard line.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -308,9 +323,18 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    79109,
-    "sentence":"The only reason this game went to overtime was the Ravens' special teams unit producing 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     79107,
+     "sentence":"The only reason this game went to overtime was the Ravens' special teams unit producing 2 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     79109,
+     "sentence":"Two plays later, Tarik Cohen took a pitch and then threw to a wide open Zach Miller (2-25-1) for a touchdown after Jefferson lost eye discipline to let Miller run free.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   4,
    "defense_tackle_assists":   0,
@@ -361,14 +385,26 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    79111,
-    "sentence":"If Baltimore narrowly misses the playoffs, the team will look back at this game as 1 it should have won."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     79110,
+     "sentence":"If Baltimore narrowly misses the playoffs, the team will look back at this game as 1 it should have won.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     79111,
+     "sentence":"Two plays later, Tarik Cohen took a pitch and then threw to a wide open Zach Miller (2-25-1) for a touchdown after Jefferson lost eye discipline to let Miller run free.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    79112,
-    "sentence":"Before halftime, Joe Flacco led a field goal drive, and the Bears took a 10-3 lead into the locker room."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     79112,
+     "sentence":"Before halftime, Joe Flacco led a field goal drive, and the Bears took a 10-3 lead into the locker room.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

@@ -141,9 +141,12 @@
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"5",
-    "annotationID":    41519,
-    "sentence":"Bush atoned for the lost fumble, compiling 117 rushing yards and a touchdown on 20 carries to go along with 5 catches for 65 receiving yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     41519,
+     "sentence":"Bush atoned for the lost fumble, compiling 117 rushing yards and a touchdown on 20 carries to go along with 5 catches for 65 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   3,
@@ -199,9 +202,12 @@
    "kick_return_yards":   172,
    "kick_return_touchdowns":   1,
    "punt_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    42318,
-    "sentence":"McCoy started running forward, ultimately rushing for a single-game franchise-record 217 yards and 2 touchdowns on 29 carries."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     42318,
+     "sentence":"McCoy started running forward, ultimately rushing for a single-game franchise-record 217 yards and 2 touchdowns on 29 carries.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   71,
    "punt_return_touchdowns":   1,
@@ -245,25 +251,37 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    46637,
-    "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     46637,
+     "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    46638,
-    "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     46638,
+     "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"65",
-    "annotationID":    46640,
-    "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open."
+    "1":{
+     "propertyValue":"65",
+     "annotationID":     46640,
+     "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":{
-    "propertyValue":"2",
-    "annotationID":    46639,
-    "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     46639,
+     "sentence":"Ross (2-65), who burned Antonio Allen and Calvin Pryor to get wide open.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   35,
    "kick_return_touchdowns":   0,
@@ -310,21 +328,48 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    50469,
-    "sentence":"The play was reviewed, and Boger incorrectly determined that the ball should be on the Detroit 1-yard line because the Cardinals somehow had possession, when that never really happened."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50466,
+     "sentence":"The play was reviewed, and Boger incorrectly determined that the ball should be on the Detroit 1-yard line because the Cardinals somehow had possession, when that never really happened.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50469,
+     "sentence":"Boger also messed up the spot on the Fitzgerald reception, which ended the game instead of giving Detroit 1 last shot.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    50470,
-    "sentence":"The play was reviewed, and Boger incorrectly determined that the ball should be on the Detroit 1-yard line because the Cardinals somehow had possession, when that never really happened."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50467,
+     "sentence":"The play was reviewed, and Boger incorrectly determined that the ball should be on the Detroit 1-yard line because the Cardinals somehow had possession, when that never really happened.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50470,
+     "sentence":"Boger also messed up the spot on the Fitzgerald reception, which ended the game instead of giving Detroit 1 last shot.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   7,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    50471,
-    "sentence":"The play was reviewed, and Boger incorrectly determined that the ball should be on the Detroit 1-yard line because the Cardinals somehow had possession, when that never really happened."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50468,
+     "sentence":"The play was reviewed, and Boger incorrectly determined that the ball should be on the Detroit 1-yard line because the Cardinals somehow had possession, when that never really happened.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50471,
+     "sentence":"Boger also messed up the spot on the Fitzgerald reception, which ended the game instead of giving Detroit 1 last shot.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   26,
    "kick_return_touchdowns":   0,
@@ -359,9 +404,12 @@
    "game_won":   true,
    "player_team_score":"44",
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    75053,
-    "sentence":"Los Angeles produced 2 field goal drives in the second quarter and the Cardinals got a field goal on the final play of the half to make it 16-6."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     75053,
+     "sentence":"Los Angeles produced 2 field goal drives in the second quarter and the Cardinals got a field goal on the final play of the half to make it 16-6.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -375,19 +423,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    75050,
-    "sentence":"Ross (4-37) for a touchdown."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     75050,
+     "sentence":"Ross (4-37) for a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    75051,
-    "sentence":"Ross (4-37) for a touchdown."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     75051,
+     "sentence":"Ross (4-37) for a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"37",
-    "annotationID":    75052,
-    "sentence":"Ross (4-37) for a touchdown."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     75052,
+     "sentence":"Ross (4-37) for a touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,

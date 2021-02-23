@@ -77,14 +77,20 @@
    "opponent":"JAX",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"31",
-    "annotationID":    57823,
-    "sentence":"Bortles promptly threw a pick-six to Hal, who jumped the route and returned it 31 yards for a score."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     57823,
+     "sentence":"Bortles promptly threw a pick-six to Hal, who jumped the route and returned it 31 yards for a score.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    57821,
-    "sentence":"Bortles went on to hit Robinson for a gain of close to 20 and then threw a dart to a wide open Julius Thomas for a 29-yard touchdown."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     57821,
+     "sentence":"Bortles went on to hit Robinson for a gain of close to 20 and then threw a dart to a wide open Julius Thomas for a 29-yard touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -110,9 +116,18 @@
    "defense_sacks":   0,
    "defense_tackles":   2,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    57822,
-    "sentence":"h-and-1 carry by Foster for a loss of a few yards, which set up Jacksonville at midfield."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57820,
+     "sentence":"h-and-1 carry by Foster for a loss of a few yards, which set up Jacksonville at midfield.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     57822,
+     "sentence":"Houston answered with Hopkins making a ridiculous 1.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   2,
    "defense_interception_yards":   34,
@@ -236,9 +251,12 @@
    "opponent":"BUF",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    61107,
-    "sentence":"LeSean McCoy totaled 112 yards on 21 totes, but missed the majority of the second half in the concussion protocal."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     61107,
+     "sentence":"LeSean McCoy totaled 112 yards on 21 totes, but missed the majority of the second half in the concussion protocal.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"30",
    "passing_attempts":   0,
@@ -264,9 +282,24 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    61108,
-    "sentence":"Hal in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     61105,
+     "sentence":"Hal in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     61106,
+     "sentence":"Hal's would have been a pick-six with 3 or 4 minutes remaining.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     61108,
+     "sentence":"Charles Clay (4-66) made up for a bad drop with his game-winning touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,
@@ -317,9 +350,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    63567,
-    "sentence":"Hal intercepted Blake Bortles with a great diving catch, and that set up a 51-yard field goal from Nick Novak and the Texans took a 20-3 lead into the half."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     63567,
+     "sentence":"Hal intercepted Blake Bortles with a great diving catch, and that set up a 51-yard field goal from Nick Novak and the Texans took a 20-3 lead into the half.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   1,
@@ -470,14 +506,38 @@
    "defense_tackles":   0,
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    72895,
-    "sentence":"The Colts had a chance after they were set up in the red zone by a 41-yard penalty on Robert Nelson, and they turned that into a screen pass to Frank Gore for an 18-yard touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     72891,
+     "sentence":"Indianapolis was running a poorly designed play at the time, as tight end Dwayne Allen was blocking Clowney 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     72892,
+     "sentence":"h-and-1 on a horrible called screen pass by the Colts.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     72895,
+     "sentence":"Osweiler completed 14-of-24 passes for 147 yards and 1 interception.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":{
-    "propertyValue":"24",
-    "annotationID":    72894,
-    "sentence":"Luck completed 24-of-45 passes for 276 yards with 2 touchdowns and 2 interceptions."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     72893,
+     "sentence":"Luck completed 24-of-45 passes for 276 yards with 2 touchdowns and 2 interceptions.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"24",
+     "annotationID":     72894,
+     "sentence":"Osweiler completed 14-of-24 passes for 147 yards and 1 interception.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -525,9 +585,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    74495,
-    "sentence":"Dalton finished 28-of-41 for 268 yards, 1 touchdown and an interception, but if you take out that LaFell score, he would've thrown for just 182 yards on 40 attempts, good for a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     74495,
+     "sentence":"Dalton finished 28-of-41 for 268 yards, 1 touchdown and an interception, but if you take out that LaFell score, he would've thrown for just 182 yards on 40 attempts, good for a 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   3,
    "defense_interceptions":   0,
@@ -555,9 +618,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"14",
-    "annotationID":    75294,
-    "sentence":"Cook, at halftime, had completed only 4 of his 14 attempts for only 41 yards."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     75294,
+     "sentence":"Cook, at halftime, had completed only 4 of his 14 attempts for only 41 yards.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -582,9 +648,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    75293,
-    "sentence":"Cook finished just 18-of-45 for 161 yards, 1 touchdown and 3 interceptions."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     75292,
+     "sentence":"Believe it or not, but those numbers were enhanced by garbage time, as the Raiders put together a long touchdown drive in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     75293,
+     "sentence":"Cook, at halftime, had completed only 4 of his 14 attempts for only 41 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   2,
    "defense_interceptions":   0,
@@ -612,9 +687,12 @@
    "game_won":   true,
    "player_team_score":"57",
    "opponent_score":{
-    "propertyValue":"14",
-    "annotationID":    78005,
-    "sentence":"Watson threw a frozen rope to Hopkins a couple plays later for a short touchdown run and a 14-0 lead."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     78005,
+     "sentence":"Watson threw a frozen rope to Hopkins a couple plays later for a short touchdown run and a 14-0 lead.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -639,20 +717,29 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    78006,
-    "sentence":"Watson threw a frozen rope to Hopkins a couple plays later for a short touchdown run and a 14-0 lead."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     78006,
+     "sentence":"However, Watson had his 1 mistake of the of the game, throwing an interception to ",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"3",
-    "annotationID":    78003,
-    "sentence":"Watson then threaded a rope to Bruce Ellington (3-44) for 35 yards to the Titans' 5-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     78003,
+     "sentence":"Watson then threaded a rope to Bruce Ellington (3-44) for 35 yards to the Titans' 5-yard line.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   2,
    "defense_interception_yards":{
-    "propertyValue":"3",
-    "annotationID":    78004,
-    "sentence":"Watson then threaded a rope to Bruce Ellington (3-44) for 35 yards to the Titans' 5-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     78004,
+     "sentence":"Watson then threaded a rope to Bruce Ellington (3-44) for 35 yards to the Titans' 5-yard line.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -700,9 +787,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    81916,
-    "sentence":"One pass-catcher who didn't let Mariota down was Delanie Walker, who hauled in all 5 of his targets for 63 yards and a touchdown."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     81916,
+     "sentence":"Decker was next on the stat sheet, and the disappointing wideout logged just 3 receptions for 27 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

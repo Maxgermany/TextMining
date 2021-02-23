@@ -30,33 +30,48 @@
    "player_team_score":"13",
    "opponent_score":"23",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    248,
-    "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     248,
+     "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"20",
-    "annotationID":    249,
-    "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     249,
+     "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"195",
-    "annotationID":    250,
-    "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice."
+    "1":{
+     "propertyValue":"195",
+     "annotationID":     250,
+     "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   80.2,
    "passing_touchdowns":   0,
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    251,
-    "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     251,
+     "sentence":"He was sacked 4 times.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   12,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    252,
-    "sentence":"O'Sullivan completed 14-of-20 passes, but threw for just 195 yards and fumbled twice."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     252,
+     "sentence":"San Francisco's top 2 receivers, ",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   1,
    "rushing_touchdowns":   0,
@@ -97,40 +112,70 @@
    "opponent":"SEA",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"33",
-    "annotationID":    515,
-    "sentence":"I'd like to criticize Seattle's defense for allowing 33 points to Mike Martz and O'Sullivan, but the fact remains they sacked O'Sullivan 8 times and limited Frank Gore to just 61 yards on 19 carries."
+    "1":{
+     "propertyValue":"33",
+     "annotationID":     515,
+     "sentence":"I'd like to criticize Seattle's defense for allowing 33 points to Mike Martz and O'Sullivan, but the fact remains they sacked O'Sullivan 8 times and limited Frank Gore to just 61 yards on 19 carries.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"30",
    "passing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    514,
-    "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     509,
+     "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"20",
+     "annotationID":     514,
+     "sentence":"When the Seahawks were in the red zone in the third quarter, up 20-13, Patrick Willis picked off a Matt Hasselbeck pass and took it back 86 yards for a score.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"32",
-    "annotationID":    510,
-    "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     510,
+     "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"321",
-    "annotationID":    512,
-    "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times."
+    "1":{
+     "propertyValue":"321",
+     "annotationID":     512,
+     "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   106.4,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"8",
-    "annotationID":    516,
-    "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     513,
+     "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"8",
+     "annotationID":     516,
+     "sentence":"I'd like to criticize Seattle's defense for allowing 33 points to Mike Martz and O'Sullivan, but the fact remains they sacked O'Sullivan 8 times and limited Frank Gore to just 61 yards on 19 carries.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   49,
    "rushing_attempts":   4,
    "rushing_yards":{
-    "propertyValue":"32",
-    "annotationID":    511,
-    "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     511,
+     "sentence":"O'Sullivan, meanwhile, was a masterful 20-of-32 for 321 yards and a touchdown despite getting sacked 8 times.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -176,18 +221,24 @@
    "passing_yards":   189,
    "passing_rating":   123.3,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    758,
-    "sentence":"Gore had a great game, gaining 130 yards and a touchdown on 27 carries."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     758,
+     "sentence":"O'Sullivan tossed 2 touchdowns, but neither Bryant Johnson nor Isaac Bruce saw much action.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   1,
    "rushing_attempts":   8,
    "rushing_yards":{
-    "propertyValue":"32",
-    "annotationID":    757,
-    "sentence":"He also caught 4 balls for 32 receiving yards."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     757,
+     "sentence":"He also caught 4 balls for 32 receiving yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -229,45 +280,69 @@
    "player_team_score":"17",
    "opponent_score":"31",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    1053,
-    "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     1053,
+     "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"36",
-    "annotationID":    1054,
-    "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     1054,
+     "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"257",
-    "annotationID":    1056,
-    "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"257",
+     "annotationID":     1056,
+     "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   59.6,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    1057,
-    "sentence":"O'Sullivan has now been sacked 19 times, putting him on pace for 76, which would tie him with David Carr for the all-time record."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1057,
+     "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    1058,
-    "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     1058,
+     "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"6",
-    "annotationID":    1052,
-    "sentence":"O'Sullivan was sacked 6 times against the Saints."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     1052,
+     "sentence":"O'Sullivan was sacked 6 times against the Saints.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"36",
-    "annotationID":    1055,
-    "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     1055,
+     "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    1059,
-    "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     1059,
+     "sentence":"Mike Martz's alleged Super Awesome Quarterback was 18-of-36 for 257 yards, 1 touchdown, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
@@ -316,9 +391,12 @@
    "passing_touchdowns":   3,
    "passing_interceptions":   3,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    1444,
-    "sentence":"O'Sullivan was sacked only 1 time against the Patriots."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1444,
+     "sentence":"O'Sullivan was sacked only 1 time against the Patriots.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   8,
    "rushing_attempts":   6,
@@ -365,16 +443,22 @@
    "passing_attempts":   17,
    "passing_completions":   30,
    "passing_yards":{
-    "propertyValue":"199",
-    "annotationID":    1791,
-    "sentence":"He threw for 199 yards, but most of that came on screens."
+    "1":{
+     "propertyValue":"199",
+     "annotationID":     1791,
+     "sentence":"He threw for 199 yards, but most of that came on screens.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   49.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    1792,
-    "sentence":"O'Sullivan tossed 2 interceptions, including a game-clinching pick-six."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     1792,
+     "sentence":"O'Sullivan tossed 2 interceptions, including a game-clinching pick-six.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   24,
@@ -422,27 +506,45 @@
    "passing_attempts":   16,
    "passing_completions":   28,
    "passing_yards":{
-    "propertyValue":"256",
-    "annotationID":    1852,
-    "sentence":"O'Sullivan finished with 256 yards and a touchdown, which was nice for fantasy owners, but he also threw 2 picks and fumbled a whopping 4 times, 1 of which led to a safety."
+    "1":{
+     "propertyValue":"256",
+     "annotationID":     1852,
+     "sentence":"O'Sullivan finished with 256 yards and a touchdown, which was nice for fantasy owners, but he also threw 2 picks and fumbled a whopping 4 times, 1 of which led to a safety.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   69.9,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    1855,
-    "sentence":"O'Sullivan finished with 256 yards and a touchdown, which was nice for fantasy owners, but he also threw 2 picks and fumbled a whopping 4 times, 1 of which led to a safety."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1855,
+     "sentence":"O'Sullivan finished with 256 yards and a touchdown, which was nice for fantasy owners, but he also threw 2 picks and fumbled a whopping 4 times, 1 of which led to a safety.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    1853,
-    "sentence":"O'Sullivan finished with 256 yards and a touchdown, which was nice for fantasy owners, but he also threw 2 picks and fumbled a whopping 4 times, 1 of which led to a safety."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     1853,
+     "sentence":"O'Sullivan finished with 256 yards and a touchdown, which was nice for fantasy owners, but he also threw 2 picks and fumbled a whopping 4 times, 1 of which led to a safety.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   6,
    "passing_sacks_yards_lost":   38,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    1856,
-    "sentence":"Boy, it's a good thing the 49ers have such a great, intelligent offensive coordinator; otherwise, they would have had no chance to win this game."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     1854,
+     "sentence":"O'Sullivan finished with 256 yards and a touchdown, which was nice for fantasy owners, but he also threw 2 picks and fumbled a whopping 4 times, 1 of which led to a safety.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     1856,
+     "sentence":"In addition to his 4 turnovers, O'Sullivan also missed a wide-open ",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   27,
    "rushing_touchdowns":   0,
@@ -532,25 +634,37 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    2536,
-    "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     2536,
+     "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"34",
    "passing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    2537,
-    "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     2537,
+     "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"21",
-    "annotationID":    2538,
-    "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     2538,
+     "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"131",
-    "annotationID":    2539,
-    "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six."
+    "1":{
+     "propertyValue":"131",
+     "annotationID":     2539,
+     "sentence":"Speaking of , O'Sullivan went 13-of-21, 131 yards, 2 fumbles and the aforementioned pick-six.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   59.8,
    "passing_touchdowns":   0,

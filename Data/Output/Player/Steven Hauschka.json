@@ -224,14 +224,32 @@
    "opponent":"ARI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"35",
-    "annotationID":    53444,
-    "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     53444,
+     "sentence":"His overall numbers say it all, as he went 14-of-35 for 178 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    53443,
-    "sentence":"Playing like an MVP, he went 20-of-31 for 339 yards and 2 touchdowns, and he also scrambled 6 times for 88 rushing yards and a third score on the ground."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     53440,
+     "sentence":"Playing like an MVP, he went 20-of-31 for 339 yards and 2 touchdowns, and he also scrambled 6 times for 88 rushing yards and a third score on the ground.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     53441,
+     "sentence":"While he was out, Robert Turbin (10-38) and Christine Michael (6-26) were able to split the workload.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"6",
+     "annotationID":     53443,
+     "sentence":"They did keep this game close for a while - it was 14-6 entering the 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -264,9 +282,18 @@
    "point_after_attemps":   5,
    "point_after_makes":   5,
    "field_goal_attempts":{
-    "propertyValue":"3",
-    "annotationID":    53442,
-    "sentence":"Hauschka not whiffed on 3 field goals."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     53439,
+     "sentence":"Hauschka not whiffed on 3 field goals.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     53442,
+     "sentence":"Arizona hasn't been able to cover tight ends all year, and Willson exposed that, leading the Seahawks with 139 receiving yards and 2 touchdowns on just 3 receptions, torching the anemic Larry Foote each time.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":   0,
    "punting_attempts":   0,
@@ -335,9 +362,12 @@
    "game_won":   true,
    "player_team_score":"26",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    68050,
-    "sentence":"That was absolutely critical, as the score was 24-23 when the kick was blocked."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     68050,
+     "sentence":"That was absolutely critical, as the score was 24-23 when the kick was blocked.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -368,24 +398,60 @@
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
    "point_after_attemps":{
-    "propertyValue":"2",
-    "annotationID":    68046,
-    "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     68042,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     68046,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    }
    },
    "point_after_makes":{
-    "propertyValue":"3",
-    "annotationID":    68048,
-    "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     68044,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     68048,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    }
    },
    "field_goal_attempts":{
-    "propertyValue":"3",
-    "annotationID":    68049,
-    "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     68045,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     68049,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":{
-    "propertyValue":"2",
-    "annotationID":    68047,
-    "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     68043,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     68047,
+     "sentence":"Hauschka went 2-for-3 on field goals and 2-for-3 on extra points.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -403,14 +469,20 @@
    "opponent":"ARI",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    68777,
-    "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     68777,
+     "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    68778,
-    "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     68778,
+     "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -443,9 +515,24 @@
    "point_after_attemps":   0,
    "point_after_makes":   0,
    "field_goal_attempts":{
-    "propertyValue":"3",
-    "annotationID":    68776,
-    "sentence":"Ultimately, this tie hurts the Cardinals more; they were at home, and they needed to rebound off their 3-3 start, while the Seahawks were 4-1 and had a greater margin for error."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     68774,
+     "sentence":"Ultimately, this tie hurts the Cardinals more; they were at home, and they needed to rebound off their 3-3 start, while the Seahawks were 4-1 and had a greater margin for error.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     68775,
+     "sentence":"Ultimately, this tie hurts the Cardinals more; they were at home, and they needed to rebound off their 3-3 start, while the Seahawks were 4-1 and had a greater margin for error.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     68776,
+     "sentence":"Wilson, of course, has been dealing with some knee problems, he had been able to throw the ball well in his past 3 games.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":   2,
    "punting_attempts":   0,
@@ -497,9 +584,12 @@
    "point_after_makes":   3,
    "field_goal_attempts":   2,
    "field_goal_makes":{
-    "propertyValue":"1",
-    "annotationID":    74345,
-    "sentence":"Left with only 1 minute until the end of regulation and the prospect of overtime, the Cardinals moved down the field thanks to "
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     74345,
+     "sentence":"Left with only 1 minute until the end of regulation and the prospect of overtime, the Cardinals moved down the field thanks to ",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,

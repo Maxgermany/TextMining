@@ -28,9 +28,12 @@
    "opponent":"OAK",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    25460,
-    "sentence":"Oakland took advantage of the short field, marching 30 yards to cash in an easy field goal for a 13-6 advantage."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     25460,
+     "sentence":"Oakland took advantage of the short field, marching 30 yards to cash in an easy field goal for a 13-6 advantage.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"16",
    "passing_attempts":   0,
@@ -45,14 +48,32 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    25463,
-    "sentence":"After the Chiefs' defense held, the offense again went to plus territory at the Oakland 35-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     25461,
+     "sentence":"Giordano tackled him at the 3-yard line after a gain of 49.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     25463,
+     "sentence":"Oakland's offense went 3.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    25464,
-    "sentence":"After the Chiefs' defense held, the offense again went to plus territory at the Oakland 35-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     25462,
+     "sentence":"Giordano tackled him at the 3-yard line after a gain of 49.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     25464,
+     "sentence":"Oakland's offense went 3.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   61,
    "receiving_touchdowns":   0,

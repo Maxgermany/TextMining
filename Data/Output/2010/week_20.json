@@ -45,9 +45,12 @@
       "opponent":"NYJ",
       "game_won":      true,
       "player_team_score":{
-       "propertyValue":"24",
-       "annotationID":       18980,
-       "sentence":"The Steelers actually had more points (24) by halftime than New York ran plays (22)."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        18980,
+        "sentence":"The Steelers actually had more points (24) by halftime than New York ran plays (22).",
+        "confidence":"None"
+       }
       },
       "opponent_score":"19",
       "passing_attempts":      0,
@@ -59,14 +62,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"4",
-       "annotationID":       18979,
-       "sentence":"Redman, meanwhile, chipped in with 27 yards on just 4 attempts."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        18979,
+        "sentence":"Redman, meanwhile, chipped in with 27 yards on just 4 attempts.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"27",
-       "annotationID":       18978,
-       "sentence":"Redman, meanwhile, chipped in with 27 yards on just 4 attempts."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        18978,
+        "sentence":"Redman, meanwhile, chipped in with 27 yards on just 4 attempts.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -127,9 +136,12 @@
       "opponent":"PIT",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"19",
-       "annotationID":       18982,
-       "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands."
+       "1":{
+        "propertyValue":"19",
+        "annotationID":        18982,
+        "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"24",
       "passing_attempts":      0,
@@ -142,9 +154,12 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":      9,
       "rushing_yards":{
-       "propertyValue":"52",
-       "annotationID":       18981,
-       "sentence":"Greene generated 52 yards on the same amount of attempts."
+       "1":{
+        "propertyValue":"52",
+        "annotationID":        18981,
+        "sentence":"Greene generated 52 yards on the same amount of attempts.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -206,9 +221,12 @@
       "game_won":      false,
       "player_team_score":"19",
       "opponent_score":{
-       "propertyValue":"24",
-       "annotationID":       18983,
-       "sentence":"On 4th-and-goal at the 1-yard line of a 24-10 contest, Schottenheimer called for a Tomlinson carry."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        18983,
+        "sentence":"On 4th-and-goal at the 1-yard line of a 24-10 contest, Schottenheimer called for a Tomlinson carry.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -219,14 +237,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"9",
-       "annotationID":       18985,
-       "sentence":"He gained just 16 yards on 9 carries, while "
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        18985,
+        "sentence":"He gained just 16 yards on 9 carries, while ",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"16",
-       "annotationID":       18984,
-       "sentence":"He gained just 16 yards on 9 carries, while "
+       "1":{
+        "propertyValue":"16",
+        "annotationID":        18984,
+        "sentence":"He gained just 16 yards on 9 carries, while ",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -297,14 +321,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"27",
-       "annotationID":       18987,
-       "sentence":"Mendenhall trampled the Jets for 121 yards on 27 carries."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        18987,
+        "sentence":"Mendenhall trampled the Jets for 121 yards on 27 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"121",
-       "annotationID":       18986,
-       "sentence":"Mendenhall trampled the Jets for 121 yards on 27 carries."
+       "1":{
+        "propertyValue":"121",
+        "annotationID":        18986,
+        "sentence":"Mendenhall trampled the Jets for 121 yards on 27 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      3,
@@ -365,49 +395,97 @@
       "opponent":"NYJ",
       "game_won":      true,
       "player_team_score":{
-       "propertyValue":"24",
-       "annotationID":       18992,
-       "sentence":"The Steelers actually had more points (24) by halftime than New York ran plays (22)."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        18988,
+        "sentence":"The Steelers actually had more points (24) by halftime than New York ran plays (22).",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"24",
+        "annotationID":        18992,
+        "sentence":"On 4th-and-goal at the 1-yard line of a 24-10 contest, Schottenheimer called for a Tomlinson carry.",
+        "confidence":"None"
+       }
       },
       "opponent_score":{
-       "propertyValue":"19",
-       "annotationID":       18995,
-       "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands."
+       "1":{
+        "propertyValue":"19",
+        "annotationID":        18995,
+        "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":{
-       "propertyValue":"10",
-       "annotationID":       18994,
-       "sentence":"On 4th-and-goal at the 1-yard line of a 24-10 contest, Schottenheimer called for a Tomlinson carry."
+       "1":{
+        "propertyValue":"10",
+        "annotationID":        18993,
+        "sentence":"On 4th-and-goal at the 1-yard line of a 24-10 contest, Schottenheimer called for a Tomlinson carry.",
+        "confidence":"Weak"
+       },
+       "2":{
+        "propertyValue":"10",
+        "annotationID":        18994,
+        "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands.",
+        "confidence":"Strong"
+       }
       },
       "passing_completions":{
-       "propertyValue":"19",
-       "annotationID":       18996,
-       "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands."
+       "1":{
+        "propertyValue":"19",
+        "annotationID":        18996,
+        "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"133",
-       "annotationID":       18997,
-       "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands."
+       "1":{
+        "propertyValue":"133",
+        "annotationID":        18997,
+        "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      35.5,
       "passing_touchdowns":      0,
       "passing_interceptions":{
-       "propertyValue":"2",
-       "annotationID":       18998,
-       "sentence":"Rashard Mendenhall trampled the Jets for 121 yards on 27 carries."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        18989,
+        "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        18998,
+        "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands.",
+        "confidence":"None"
+       }
       },
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       18999,
-       "sentence":"Rashard Mendenhall trampled the Jets for 121 yards on 27 carries."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        18990,
+        "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        18999,
+        "sentence":"Big Ben's passing numbers were hardly impressive (10-of-19, 133 yards, 2 INTs), but he evaded enough pass rushers in the backfield and picked up a few key first downs (and a touchdown) to keep the ball out of Sanchez's hands.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      12,
       "rushing_attempts":      11,
       "rushing_yards":      21,
       "rushing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       18991,
-       "sentence":"Roethlisberger to 7-of-14 passing for 96 yards and an interception prior to intermission, it could not stop the Steelers."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        18991,
+        "sentence":"On 4th-and-goal at the 1-yard line of a 24-10 contest, Schottenheimer called for a Tomlinson carry.",
+        "confidence":"None"
+       }
       },
       "receiving_targets":      0,
       "receiving_receptions":      0,
@@ -538,41 +616,62 @@
       "game_won":      false,
       "player_team_score":"19",
       "opponent_score":{
-       "propertyValue":"24",
-       "annotationID":       19001,
-       "sentence":"The Steelers actually had more points (24) by halftime than New York ran plays (22)."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        19001,
+        "sentence":"The Steelers actually had more points (24) by halftime than New York ran plays (22).",
+        "confidence":"None"
+       }
       },
       "passing_attempts":{
-       "propertyValue":"20",
-       "annotationID":       19002,
-       "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone."
+       "1":{
+        "propertyValue":"20",
+        "annotationID":        19002,
+        "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"33",
-       "annotationID":       19003,
-       "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone."
+       "1":{
+        "propertyValue":"33",
+        "annotationID":        19003,
+        "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"233",
-       "annotationID":       19004,
-       "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone."
+       "1":{
+        "propertyValue":"233",
+        "annotationID":        19004,
+        "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      102.2,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       19005,
-       "sentence":"Rashard Mendenhall trampled the Jets for 121 yards on 27 carries."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        19005,
+        "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       19006,
-       "sentence":"Rashard Mendenhall trampled the Jets for 121 yards on 27 carries."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        19006,
+        "sentence":"Sanchez went 20-of-33 for 233 yards and 2 touchdowns, but was ultimately betrayed by offensive coordinator Brian Schottenheimer's slow and shoddy play-calling inside the red zone.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":{
-       "propertyValue":"14",
-       "annotationID":       19000,
-       "sentence":"Even though the defense held Ben Roethlisberger to 7-of-14 passing for 96 yards and an interception prior to intermission, it could not stop the Steelers."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        19000,
+        "sentence":"Even though the defense held Ben Roethlisberger to 7-of-14 passing for 96 yards and an interception prior to intermission, it could not stop the Steelers.",
+        "confidence":"None"
+       }
       },
       "rushing_attempts":      3,
       "rushing_yards":      6,

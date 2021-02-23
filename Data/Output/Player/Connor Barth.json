@@ -127,9 +127,12 @@
    "game_won":   false,
    "player_team_score":"22",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    28648,
-    "sentence":"He completed 24-of-39 passes for 299 yards, a touchdown and an interception."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     28648,
+     "sentence":"He completed 24-of-39 passes for 299 yards, a touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -277,9 +280,12 @@
    "opponent":"ATL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"23",
-    "annotationID":    32046,
-    "sentence":"That led to another Barth field goal and a 23-17 Tampa Bay lead."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     32046,
+     "sentence":"That led to another Barth field goal and a 23-17 Tampa Bay lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"24",
    "passing_attempts":   0,
@@ -313,14 +319,26 @@
    "point_after_attemps":   2,
    "point_after_makes":   2,
    "field_goal_attempts":{
-    "propertyValue":"4",
-    "annotationID":    32045,
-    "sentence":"Bryant then missed a 48-yarder to give Tampa Bay 1 more shot at stealing the win with a Hail Mary attempt (Editor's Note: and a push)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     32045,
+     "sentence":"The Bucs took the lead on the first play of the 4.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":{
-    "propertyValue":"3",
-    "annotationID":    32044,
-    "sentence":"The Bucs' first drive was pure domination as Doug Martin (21-50) scored a short touchdown to give Tampa Bay a 7-3 lead."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     32043,
+     "sentence":"The Bucs' first drive was pure domination as Doug Martin (21-50) scored a short touchdown to give Tampa Bay a 7-3 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     32044,
+     "sentence":"The Buccaneers pulled out a gadget play with Mike Williams (3-28) throwing a 28-yard pass to Vincent Jackson (5-96) to set up a Tampa Bay field goal.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -469,9 +487,18 @@
    "point_after_makes":   2,
    "field_goal_attempts":   4,
    "field_goal_makes":{
-    "propertyValue":"3",
-    "annotationID":    67165,
-    "sentence":"Much later, the Bears, down just 3 points with about 3 minutes remaining, committed a fumble when "
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     67164,
+     "sentence":"Much later, the Bears, down just 3 points with about 3 minutes remaining, committed a fumble when ",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     67165,
+     "sentence":"Much later, the Bears, down just 3 points with about 3 minutes remaining, committed a fumble when ",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -686,9 +713,12 @@
    "game_won":   true,
    "player_team_score":"27",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    79102,
-    "sentence":"Flacco was 24-of-41 for 180 yards with 2 interceptions."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     79102,
+     "sentence":"Flacco was 24-of-41 for 180 yards with 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -721,14 +751,32 @@
    "point_after_attemps":   3,
    "point_after_makes":   3,
    "field_goal_attempts":{
-    "propertyValue":"2",
-    "annotationID":    79103,
-    "sentence":"At halftime, Trubisky was only 2-of-7 for 29 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     79100,
+     "sentence":"At halftime, Trubisky was only 2-of-7 for 29 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     79103,
+     "sentence":"Flacco was 24-of-41 for 180 yards with 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":{
-    "propertyValue":"2",
-    "annotationID":    79104,
-    "sentence":"At halftime, Trubisky was only 2-of-7 for 29 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     79101,
+     "sentence":"At halftime, Trubisky was only 2-of-7 for 29 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     79104,
+     "sentence":"Flacco was 24-of-41 for 180 yards with 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,

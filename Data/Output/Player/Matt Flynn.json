@@ -30,19 +30,34 @@
    "player_team_score":"21",
    "opponent_score":"30",
    "passing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    1016,
-    "sentence":"Flynn finished 2-of-5 for 6 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     1013,
+     "sentence":"Flynn finished 2-of-5 for 6 yards.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     1016,
+     "sentence":"Aaron Rodgers finished 14-of-27 for 165 yards, 2 touchdowns and 3 picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"5",
-    "annotationID":    1014,
-    "sentence":"Flynn finished 2-of-5 for 6 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     1014,
+     "sentence":"Flynn finished 2-of-5 for 6 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"6",
-    "annotationID":    1015,
-    "sentence":"Flynn finished 2-of-5 for 6 yards."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     1015,
+     "sentence":"Flynn finished 2-of-5 for 6 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   47.9,
    "passing_touchdowns":   0,
@@ -90,32 +105,47 @@
    "game_won":   false,
    "player_team_score":"3",
    "opponent_score":{
-    "propertyValue":"7",
-    "annotationID":    17920,
-    "sentence":"Rodgers finished the game 7-of-11 for 46 yards and an interception that wasn't his fault (Jennings dropped a perfect pass)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     17920,
+     "sentence":"Rodgers finished the game 7-of-11 for 46 yards and an interception that wasn't his fault (Jennings dropped a perfect pass).",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    17922,
-    "sentence":"He finished 15-of-26 for 177 yards and an interception."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     17922,
+     "sentence":"He finished 15-of-26 for 177 yards and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"26",
-    "annotationID":    17923,
-    "sentence":"He finished 15-of-26 for 177 yards and an interception."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     17923,
+     "sentence":"He finished 15-of-26 for 177 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"177",
-    "annotationID":    17924,
-    "sentence":"He finished 15-of-26 for 177 yards and an interception."
+    "1":{
+     "propertyValue":"177",
+     "annotationID":     17924,
+     "sentence":"He finished 15-of-26 for 177 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   62.5,
    "passing_touchdowns":   0,
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    17921,
-    "sentence":"The Packers had just 2 first downs in the opening half."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     17921,
+     "sentence":"The Packers had just 2 first downs in the opening half.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   13,
    "rushing_attempts":   3,
@@ -160,33 +190,48 @@
    "player_team_score":"27",
    "opponent_score":"31",
    "passing_attempts":{
-    "propertyValue":"24",
-    "annotationID":    18485,
-    "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     18485,
+     "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"37",
-    "annotationID":    18486,
-    "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     18486,
+     "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"251",
-    "annotationID":    18487,
-    "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"251",
+     "annotationID":     18487,
+     "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   100.2,
    "passing_touchdowns":{
-    "propertyValue":"3",
-    "annotationID":    18488,
-    "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     18488,
+     "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":   5,
    "passing_sacks_yards_lost":   25,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    18489,
-    "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     18489,
+     "sentence":"The former LSU champion went 24-of-37 for 251 yards, 3 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   13,
    "rushing_touchdowns":   0,
@@ -235,9 +280,12 @@
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    24803,
-    "sentence":"The Raiders took the ensuing possession down the field for another garbage touchdown with Palmer (24-of-42 245 yards 1 TD 4 INT) hitting "
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     24803,
+     "sentence":"The Raiders took the ensuing possession down the field for another garbage touchdown with Palmer (24-of-42 245 yards 1 TD 4 INT) hitting ",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   6,
    "rushing_attempts":   3,
@@ -282,35 +330,53 @@
    "player_team_score":"45",
    "opponent_score":"41",
    "passing_attempts":{
-    "propertyValue":"31",
-    "annotationID":    26216,
-    "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     26216,
+     "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"44",
-    "annotationID":    26217,
-    "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception."
+    "1":{
+     "propertyValue":"44",
+     "annotationID":     26217,
+     "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"480",
-    "annotationID":    26218,
-    "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception."
+    "1":{
+     "propertyValue":"480",
+     "annotationID":     26218,
+     "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   136.4,
    "passing_touchdowns":{
-    "propertyValue":"6",
-    "annotationID":    26219,
-    "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     26219,
+     "sentence":"Flynn went 31-of-44, 480 yards, 6 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    26215,
-    "sentence":"Flynn opened this contest with a 17-yard completion to Donald Driver, but was strip-sacked 3 plays later."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     26215,
+     "sentence":"The Lions scored a quick touchdown and then secured a safety when Green Bay kickoff returner Patrick Lee had a brain fart and walked backward into the end zone after picking up the football when it was laying on the 1-yard line.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"3",
-    "annotationID":    26214,
-    "sentence":"Flynn opened this contest with a 17-yard completion to Donald Driver, but was strip-sacked 3 plays later."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     26214,
+     "sentence":"Flynn opened this contest with a 17-yard completion to Donald Driver, but was strip-sacked 3 plays later.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   11,
    "rushing_attempts":   2,
@@ -353,15 +419,27 @@
    "opponent":"DEN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    37120,
-    "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by "
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     37120,
+     "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by ",
+     "confidence":"None"
+    }
    },
    "opponent_score":"37",
    "passing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    37121,
-    "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37119,
+     "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37121,
+     "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by ",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   2,
    "passing_yards":   19,
@@ -410,36 +488,66 @@
    "opponent":"WAS",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"14",
-    "annotationID":    37122,
-    "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     37122,
+     "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    37125,
-    "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by "
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     37125,
+     "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by ",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"32",
-    "annotationID":    37126,
-    "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by "
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     37126,
+     "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by ",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"227",
-    "annotationID":    37127,
-    "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by "
+    "1":{
+     "propertyValue":"227",
+     "annotationID":     37127,
+     "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by ",
+     "confidence":"None"
+    }
    },
    "passing_rating":   83.7,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    37128,
-    "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37123,
+     "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37128,
+     "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by ",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    37129,
-    "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     37124,
+     "sentence":"Oakland had success moving the ball early on - the team held a 14-0 lead, though 1 of the touchdowns came on a blocked punt in the opening quarter - but couldn't do anything once those backs exited the contest.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     37129,
+     "sentence":"As for Flynn, he went 21-of-32 for 227 yards, 1 touchdown and an interception which was returned for 6 by ",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   7,
    "passing_sacks_yards_lost":   33,
@@ -485,38 +593,74 @@
    "player_team_score":"26",
    "opponent_score":"26",
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    41132,
-    "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than "
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     41132,
+     "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than ",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"36",
-    "annotationID":    41133,
-    "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than "
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     41133,
+     "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than ",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"218",
-    "annotationID":    41134,
-    "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than "
+    "1":{
+     "propertyValue":"218",
+     "annotationID":     41134,
+     "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than ",
+     "confidence":"None"
+    }
    },
    "passing_rating":   85.2,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    41131,
-    "sentence":"The Vikings were given 1 possession to tie or take the lead."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     41128,
+     "sentence":"The Vikings were given 1 possession to tie or take the lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     41131,
+     "sentence":"What's the point of a tie for Minnesota? Green Bay doesn't exactly mind it because the team is now just half a game behind Chicago and Detroit instead of being 1 back with a loss.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    41135,
-    "sentence":"Faced with a 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     41129,
+     "sentence":"Faced with a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     41130,
+     "sentence":"There were 4 minutes remaining in overtime, so the likelihood of the Vikings generating another long drive were slim.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     41135,
+     "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than ",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"24",
-    "annotationID":    41136,
-    "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than "
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     41136,
+     "sentence":"Flynn wasn't great or anything - he went 21-of-36 for 218 yards and a touchdown to go along with 4 scrambles and 24 rushing yards - but he was much more effective than ",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -556,47 +700,101 @@
    "opponent":"DET",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"10",
-    "annotationID":    41505,
-    "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     41498,
+     "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     41505,
+     "sentence":"He went 10-of-20 for 139 yards and an interception, but that doesn't tell the whole story.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"40",
-    "annotationID":    41497,
-    "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     41497,
+     "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    41506,
-    "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     41499,
+     "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     41506,
+     "sentence":"He went 10-of-20 for 139 yards and an interception, but that doesn't tell the whole story.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"20",
-    "annotationID":    41507,
-    "sentence":"Bush atoned for the lost fumble, compiling 117 rushing yards and a touchdown on 20 carries to go along with 5 catches for 65 receiving yards."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     41504,
+     "sentence":"Bush atoned for the lost fumble, compiling 117 rushing yards and a touchdown on 20 carries to go along with 5 catches for 65 receiving yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"20",
+     "annotationID":     41507,
+     "sentence":"He went 10-of-20 for 139 yards and an interception, but that doesn't tell the whole story.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"139",
-    "annotationID":    41508,
-    "sentence":"He went 10-of-20 for 139 yards and an interception, but that doesn't tell the whole story."
+    "1":{
+     "propertyValue":"139",
+     "annotationID":     41508,
+     "sentence":"He went 10-of-20 for 139 yards and an interception, but that doesn't tell the whole story.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   51.9,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    41502,
-    "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     41502,
+     "sentence":"Speaking of Megatron, he caught 6 balls for 101 yards and 1 of Stafford's 3 scores.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"7",
-    "annotationID":    41510,
-    "sentence":"As a reference, no team since 1989 (as far back as my data goes) has outgained its opponent by 507 yards or more."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     41510,
+     "sentence":"Flynn was sacked 7 times through 3 quarters, including the safety by ",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   37,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    41509,
-    "sentence":"He went 22-of-35 for 330 yards, 3 touchdowns, 2 picks and the lost fumble."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     41500,
+     "sentence":"He went 22-of-35 for 330 yards, 3 touchdowns, 2 picks and the lost fumble.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     41501,
+     "sentence":"His completion percentage should have been even better; he endured a handful of drops from his receivers, 2 of which were Calvin Johnson's fault.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     41509,
+     "sentence":"He had another pick dropped and lost 2 fumbles.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   4,
    "rushing_touchdowns":   0,
@@ -612,9 +810,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    41503,
-    "sentence":"This game was so lopsided that by the time Detroit made this a 40-10 affair, it had outgained the Packers, 563-56."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     41503,
+     "sentence":"Speaking of Megatron, he caught 6 balls for 101 yards and 1 of Stafford's 3 scores.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -693,28 +894,40 @@
    "opponent_score":"36",
    "passing_attempts":   26,
    "passing_completions":{
-    "propertyValue":"39",
-    "annotationID":    43003,
-    "sentence":"Flynn hit James Jones on a slant that he broke down the field for a 39-yard gain."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     43003,
+     "sentence":"Flynn hit James Jones on a slant that he broke down the field for a 39-yard gain.",
+     "confidence":"None"
+    }
    },
    "passing_yards":   299,
    "passing_rating":   113.1,
    "passing_touchdowns":{
-    "propertyValue":"4",
-    "annotationID":    43005,
-    "sentence":"DeMarco Murray soon ripped off a 41-yard run up the middle, and a pass to Dez Bryant set up Bailey's second 3."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     43005,
+     "sentence":"Romo went down the seam to Jason Witten (4-71) for a 25-yard touchdown in the final seconds of the first quarter.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    43006,
-    "sentence":"DeMarcus Ware and Orlando Scandrick had a sack, but Mason Crosby hit a 27-yard field goal to tie it."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     43006,
+     "sentence":"Flynn threw a pick to Sterling Moore, and Bailey ended up with 2 more field goals before halftime.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   16,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    43004,
-    "sentence":"Flynn hit James Jones on a slant that he broke down the field for a 39-yard gain."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     43004,
+     "sentence":"DeMarco Murray soon ripped off a 41-yard run up the middle, and a pass to Dez Bryant set up Bailey's second 3.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -3,
    "rushing_touchdowns":   0,
@@ -765,9 +978,12 @@
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   13,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    43442,
-    "sentence":"Flynn, who once again drew the start in what Mike McCarthy repeatedly called an organizational decision, ruined a potential victory with 2 crucial mistakes."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     43442,
+     "sentence":"Flynn, who once again drew the start in what Mike McCarthy repeatedly called an organizational decision, ruined a potential victory with 2 crucial mistakes.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   8,
    "rushing_touchdowns":   0,
@@ -859,23 +1075,50 @@
    "player_team_score":"30",
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    53968,
-    "sentence":"Flynn took the field at the beginning of the second half, and Green Bay's 14-0 lead quickly disappeared."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     53965,
+     "sentence":"In fact, Rodgers was better in the second half than he was in the first, going 11-of-13 for 129 yards and 2 touchdowns following intermission, with 1 of the scores being a quarterback sneak.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     53968,
+     "sentence":"Rodgers finished 17-of-22 for 226 yards and 3 touchdowns (2 passing, 1 rushing).",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"1",
-    "annotationID":    53969,
-    "sentence":"Flynn took the field at the beginning of the second half, and Green Bay's 14-0 lead quickly disappeared."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     53966,
+     "sentence":"In fact, Rodgers was better in the second half than he was in the first, going 11-of-13 for 129 yards and 2 touchdowns following intermission, with 1 of the scores being a quarterback sneak.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     53969,
+     "sentence":"Rodgers finished 17-of-22 for 226 yards and 3 touchdowns (2 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "passing_yards":   6,
    "passing_rating":   91.7,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    53970,
-    "sentence":"Flynn took the field at the beginning of the second half, and Green Bay's 14-0 lead quickly disappeared."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     53967,
+     "sentence":"In fact, Rodgers was better in the second half than he was in the first, going 11-of-13 for 129 yards and 2 touchdowns following intermission, with 1 of the scores being a quarterback sneak.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     53970,
+     "sentence":"Rodgers finished 17-of-22 for 226 yards and 3 touchdowns (2 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   7,
    "rushing_attempts":   0,

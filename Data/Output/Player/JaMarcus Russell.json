@@ -28,35 +28,62 @@
    "opponent":"DEN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"14",
-    "annotationID":    334,
-    "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     334,
+     "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"41",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    336,
-    "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     336,
+     "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   26,
    "passing_yards":   180,
    "passing_rating":   111.1,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    339,
-    "sentence":"2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     339,
+     "sentence":"2.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"3",
-    "annotationID":    337,
-    "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     332,
+     "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     337,
+     "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   23,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    338,
-    "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     333,
+     "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     338,
+     "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   7,
    "rushing_touchdowns":   0,
@@ -72,9 +99,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    335,
-    "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     335,
+     "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -103,19 +133,28 @@
    "player_team_score":"23",
    "opponent_score":"8",
    "passing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    342,
-    "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     342,
+     "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"17",
-    "annotationID":    343,
-    "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     343,
+     "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"55",
-    "annotationID":    344,
-    "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3."
+    "1":{
+     "propertyValue":"55",
+     "annotationID":     344,
+     "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   45,
    "passing_touchdowns":   0,
@@ -123,14 +162,26 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    341,
-    "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     341,
+     "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"3",
-    "annotationID":    345,
-    "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     340,
+     "sentence":"Russell was 3-of-14 for 30 yards just 1 minute into the third quarter.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     345,
+     "sentence":"Russell finished the game 6-of-17 for 55 yards, giving him a sterling YPA of 3.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -172,47 +223,71 @@
    "player_team_score":"23",
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    600,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     600,
+     "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"19",
-    "annotationID":    601,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     601,
+     "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"156",
-    "annotationID":    602,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"156",
+     "annotationID":     602,
+     "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   93.3,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    603,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     603,
+     "sentence":"The Bills, now in full control of the AFC East, are 3-0 for the first time since 1992 - 1 of the 4 years they lost the Super Bowl.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    604,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     604,
+     "sentence":"The Bills, now in full control of the AFC East, are 3-0 for the first time since 1992 - 1 of the 4 years they lost the Super Bowl.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   7,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    605,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     605,
+     "sentence":"The Bills, now in full control of the AFC East, are 3-0 for the first time since 1992 - 1 of the 4 years they lost the Super Bowl.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"1",
-    "annotationID":    606,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     606,
+     "sentence":"The Bills, now in full control of the AFC East, are 3-0 for the first time since 1992 - 1 of the 4 years they lost the Super Bowl.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    607,
-    "sentence":"Russell finished 9-of-19 for 156 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     607,
+     "sentence":"The Bills, now in full control of the AFC East, are 3-0 for the first time since 1992 - 1 of the 4 years they lost the Super Bowl.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -253,30 +328,45 @@
    "player_team_score":"18",
    "opponent_score":"28",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    1123,
-    "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     1123,
+     "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"37",
-    "annotationID":    1124,
-    "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     1124,
+     "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"277",
-    "annotationID":    1125,
-    "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"277",
+     "annotationID":     1125,
+     "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   80.6,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    1126,
-    "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1126,
+     "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    1127,
-    "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1127,
+     "sentence":"Russell was 22-of-37, 277 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   6,
    "passing_sacks_yards_lost":   26,
@@ -322,33 +412,48 @@
    "player_team_score":"3",
    "opponent_score":"34",
    "passing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    1605,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     1605,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    1606,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     1606,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"159",
-    "annotationID":    1607,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"159",
+     "annotationID":     1607,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   40.1,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    1608,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1608,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    1609,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1609,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   11,
    "rushing_touchdowns":   0,
@@ -391,33 +496,48 @@
    "player_team_score":"3",
    "opponent_score":"34",
    "passing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    1654,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     1654,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"35",
-    "annotationID":    1655,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     1655,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"159",
-    "annotationID":    1656,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"159",
+     "annotationID":     1656,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   40.1,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    1657,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1657,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    1658,
-    "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     1658,
+     "sentence":"Russell was 13-of-35 for 159 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   11,
    "rushing_touchdowns":   0,
@@ -460,31 +580,52 @@
    "player_team_score":"16",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    2134,
-    "sentence":"His numbers weren't amazing - 17-of-30, 203 yards and a touchdown - but he was decisive in the pocket and move the chains efficiently."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     2134,
+     "sentence":"His numbers weren't amazing - 17-of-30, 203 yards and a touchdown - but he was decisive in the pocket and move the chains efficiently.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"30",
-    "annotationID":    2135,
-    "sentence":"His numbers weren't amazing - 17-of-30, 203 yards and a touchdown - but he was decisive in the pocket and move the chains efficiently."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     2135,
+     "sentence":"His numbers weren't amazing - 17-of-30, 203 yards and a touchdown - but he was decisive in the pocket and move the chains efficiently.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"203",
-    "annotationID":    2136,
-    "sentence":"His numbers weren't amazing - 17-of-30, 203 yards and a touchdown - but he was decisive in the pocket and move the chains efficiently."
+    "1":{
+     "propertyValue":"203",
+     "annotationID":     2136,
+     "sentence":"His numbers weren't amazing - 17-of-30, 203 yards and a touchdown - but he was decisive in the pocket and move the chains efficiently.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   88.6,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    2133,
-    "sentence":"So, let's move on to the stats: Brett Favre really struggled for the Jets, going 21-of-38, 197 yards, 2 interceptions and 3 fumbles."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     2133,
+     "sentence":"Laveranues Coles and Jerricho Cotchery consequently did nothing; Coles had 4 grabs for 51 yards, while Cotchery had 1 reception for no yardage.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    2132,
-    "sentence":"I'd love to continue to bash these 2 teams, but I'll have Carpal Tunnel before I'm finished."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2131,
+     "sentence":"I'd love to continue to bash these 2 teams, but I'll have Carpal Tunnel before I'm finished.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     2132,
+     "sentence":"So, let's move on to the stats: Brett Favre really struggled for the Jets, going 21-of-38, 197 yards, 2 interceptions and 3 fumbles.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   12,
    "rushing_attempts":   0,
@@ -529,33 +670,48 @@
    "player_team_score":"0",
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    2804,
-    "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     2804,
+     "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"19",
-    "annotationID":    2805,
-    "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     2805,
+     "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"31",
-    "annotationID":    2807,
-    "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     2807,
+     "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles.",
+     "confidence":"None"
+    }
    },
    "passing_rating":{
-    "propertyValue":"19",
-    "annotationID":    2806,
-    "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     2806,
+     "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles.",
+     "confidence":"None"
+    }
    },
    "passing_touchdowns":   0,
    "passing_interceptions":   1,
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   21,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    2808,
-    "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2808,
+     "sentence":"Russell finished the game 6-of-19 for 31 yards, an interception and 2 fumbles.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   46,
    "rushing_touchdowns":   0,
@@ -596,34 +752,49 @@
    "opponent":"MIA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"15",
-    "annotationID":    3325,
-    "sentence":"Russell was an unspectacular 15-of-22 for 156 yards."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     3325,
+     "sentence":"Russell was an unspectacular 15-of-22 for 156 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    3326,
-    "sentence":"Russell was an unspectacular 15-of-22 for 156 yards."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     3326,
+     "sentence":"Russell was an unspectacular 15-of-22 for 156 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"22",
-    "annotationID":    3327,
-    "sentence":"Russell was an unspectacular 15-of-22 for 156 yards."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     3327,
+     "sentence":"Russell was an unspectacular 15-of-22 for 156 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"156",
-    "annotationID":    3329,
-    "sentence":"Russell was an unspectacular 15-of-22 for 156 yards."
+    "1":{
+     "propertyValue":"156",
+     "annotationID":     3329,
+     "sentence":"Russell was an unspectacular 15-of-22 for 156 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   88.4,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":   4,
    "passing_sacks_yards_lost":{
-    "propertyValue":"22",
-    "annotationID":    3328,
-    "sentence":"Russell was an unspectacular 15-of-22 for 156 yards."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     3328,
+     "sentence":"Russell was an unspectacular 15-of-22 for 156 yards.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -666,24 +837,36 @@
    "game_won":   true,
    "player_team_score":"31",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    3890,
-    "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     3890,
+     "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    3891,
-    "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     3891,
+     "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"11",
-    "annotationID":    3892,
-    "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     3892,
+     "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"152",
-    "annotationID":    3889,
-    "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown."
+    "1":{
+     "propertyValue":"152",
+     "annotationID":     3889,
+     "sentence":"Russell had just 152 yards, he played exceptionally well, completing 10-of-11 attempts and throwing a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   149.1,
    "passing_touchdowns":   1,
@@ -730,25 +913,37 @@
    "opponent":"KAN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    4335,
-    "sentence":"Russell, perhaps overconfident following last week's sterling performance, was just 10-of-28 for 132 yards."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     4335,
+     "sentence":"Thanks to his struggles, Oakland was just 3-of-13 on third downs, and lost the time-of-possession battle, 35:11 to 24:49.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    4332,
-    "sentence":"Russell, perhaps overconfident following last week's sterling performance, was just 10-of-28 for 132 yards."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     4332,
+     "sentence":"Russell, perhaps overconfident following last week's sterling performance, was just 10-of-28 for 132 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    4333,
-    "sentence":"Russell, perhaps overconfident following last week's sterling performance, was just 10-of-28 for 132 yards."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     4333,
+     "sentence":"Russell, perhaps overconfident following last week's sterling performance, was just 10-of-28 for 132 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"132",
-    "annotationID":    4334,
-    "sentence":"Russell, perhaps overconfident following last week's sterling performance, was just 10-of-28 for 132 yards."
+    "1":{
+     "propertyValue":"132",
+     "annotationID":     4334,
+     "sentence":"Russell, perhaps overconfident following last week's sterling performance, was just 10-of-28 for 132 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   51.5,
    "passing_touchdowns":   0,
@@ -797,31 +992,58 @@
    "player_team_score":"7",
    "opponent_score":"34",
    "passing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    4381,
-    "sentence":"20, Harris led the league with 9 false starts."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     4378,
+     "sentence":"20, Harris led the league with 9 false starts.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"9",
+     "annotationID":     4381,
+     "sentence":"That's because JaMarcus Russell, who was 9-of-13, 68 yards, 2 picks and a fumble, left the game in the second quarter with an ankle injury.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"13",
-    "annotationID":    4382,
-    "sentence":"That's because JaMarcus Russell, who was 9-of-13, 68 yards, 2 picks and a fumble, left the game in the second quarter with an ankle injury."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     4382,
+     "sentence":"That's because JaMarcus Russell, who was 9-of-13, 68 yards, 2 picks and a fumble, left the game in the second quarter with an ankle injury.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"68",
-    "annotationID":    4383,
-    "sentence":"That's because JaMarcus Russell, who was 9-of-13, 68 yards, 2 picks and a fumble, left the game in the second quarter with an ankle injury."
+    "1":{
+     "propertyValue":"68",
+     "annotationID":     4383,
+     "sentence":"That's because JaMarcus Russell, who was 9-of-13, 68 yards, 2 picks and a fumble, left the game in the second quarter with an ankle injury.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   42,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    4384,
-    "sentence":"20, Harris led the league with 9 false starts."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     4384,
+     "sentence":"That's because JaMarcus Russell, who was 9-of-13, 68 yards, 2 picks and a fumble, left the game in the second quarter with an ankle injury.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    4380,
-    "sentence":"On another promising drive, the Raiders had a first-and-10 on San Diego's 23."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     4379,
+     "sentence":"The Raiders still have only 1 offensive first-half touchdown this season, and it doesn't look like they'll score another 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     4380,
+     "sentence":"The Raiders still have only 1 offensive first-half touchdown this season, and it doesn't look like they'll score another 1.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   0,
@@ -866,27 +1088,39 @@
    "player_team_score":"26",
    "opponent_score":"49",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    5104,
-    "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     5104,
+     "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   32,
    "passing_yards":{
-    "propertyValue":"242",
-    "annotationID":    5105,
-    "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"242",
+     "annotationID":     5105,
+     "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   85.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    5106,
-    "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5106,
+     "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    5107,
-    "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5107,
+     "sentence":"Russell was 17-of-31 for 242 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":   0,
@@ -931,25 +1165,37 @@
    "player_team_score":"27",
    "opponent_score":"16",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    5386,
-    "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     5386,
+     "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"25",
-    "annotationID":    5387,
-    "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     5387,
+     "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"236",
-    "annotationID":    5388,
-    "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"236",
+     "annotationID":     5388,
+     "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   128.1,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    5389,
-    "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5389,
+     "sentence":"Russell, who was 18-of-25 for 236 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
@@ -996,34 +1242,49 @@
    "player_team_score":"31",
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    5614,
-    "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     5614,
+     "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"21",
-    "annotationID":    5615,
-    "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     5615,
+     "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"148",
-    "annotationID":    5616,
-    "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"148",
+     "annotationID":     5616,
+     "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   98.9,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    5617,
-    "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5617,
+     "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   3,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    5618,
-    "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     5618,
+     "sentence":"Russell, meanwhile, actually played really well for a change, going 14-of-21 for 148 yards, 2 touchdowns and a pick.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1072,9 +1333,12 @@
    "passing_interceptions":   2,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
-    "propertyValue":"7",
-    "annotationID":    6660,
-    "sentence":"Before the final drive, he was 3-of-17 for 42 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     6660,
+     "sentence":"Russell was 4-of-7 for 67 yards on the final sequence.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   2,
    "rushing_yards":   6,
@@ -1118,9 +1382,12 @@
    "player_team_score":"13",
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    6662,
-    "sentence":"Before the final drive, he was 3-of-17 for 42 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     6662,
+     "sentence":"Russell was 4-of-7 for 67 yards on the final sequence.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   24,
    "passing_yards":   109,
@@ -1130,9 +1397,12 @@
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   10,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    6661,
-    "sentence":"Before the final drive, he was 3-of-17 for 42 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     6661,
+     "sentence":"Before the final drive, he was 3-of-17 for 42 yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -3,
    "rushing_touchdowns":   0,
@@ -1175,26 +1445,38 @@
    "player_team_score":"3",
    "opponent_score":"23",
    "passing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    7232,
-    "sentence":"Russell was 12-of-21 for 61 yards and 2 picks."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     7232,
+     "sentence":"Russell was 12-of-21 for 61 yards and 2 picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"21",
-    "annotationID":    7233,
-    "sentence":"Russell was 12-of-21 for 61 yards and 2 picks."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     7233,
+     "sentence":"Russell was 12-of-21 for 61 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"61",
-    "annotationID":    7234,
-    "sentence":"Russell was 12-of-21 for 61 yards and 2 picks."
+    "1":{
+     "propertyValue":"61",
+     "annotationID":     7234,
+     "sentence":"Russell was 12-of-21 for 61 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   22.6,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    7235,
-    "sentence":"Russell was 12-of-21 for 61 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     7235,
+     "sentence":"Russell was 12-of-21 for 61 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   19,
@@ -1240,19 +1522,28 @@
    "player_team_score":"6",
    "opponent_score":"29",
    "passing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    7326,
-    "sentence":"Russell was 12-of-33 for 128 yards."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     7326,
+     "sentence":"Russell was 12-of-33 for 128 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"33",
-    "annotationID":    7327,
-    "sentence":"Russell was 12-of-33 for 128 yards."
+    "1":{
+     "propertyValue":"33",
+     "annotationID":     7327,
+     "sentence":"Russell was 12-of-33 for 128 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"128",
-    "annotationID":    7328,
-    "sentence":"Russell was 12-of-33 for 128 yards."
+    "1":{
+     "propertyValue":"128",
+     "annotationID":     7328,
+     "sentence":"Russell was 12-of-33 for 128 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   48.5,
    "passing_touchdowns":   0,
@@ -1301,27 +1592,45 @@
    "player_team_score":"7",
    "opponent_score":"44",
    "passing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    7748,
-    "sentence":"His stat line doesn't look too bad - 8-of-13 for 100 yards - but he lost a whopping 3 fumbles, which led to 13 Giants points."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     7748,
+     "sentence":"His stat line doesn't look too bad - 8-of-13 for 100 yards - but he lost a whopping 3 fumbles, which led to 13 Giants points.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"13",
-    "annotationID":    7751,
-    "sentence":"His stat line doesn't look too bad - 8-of-13 for 100 yards - but he lost a whopping 3 fumbles, which led to 13 Giants points."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     7749,
+     "sentence":"His stat line doesn't look too bad - 8-of-13 for 100 yards - but he lost a whopping 3 fumbles, which led to 13 Giants points.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"13",
+     "annotationID":     7751,
+     "sentence":"His stat line doesn't look too bad - 8-of-13 for 100 yards - but he lost a whopping 3 fumbles, which led to 13 Giants points.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"100",
-    "annotationID":    7750,
-    "sentence":"His stat line doesn't look too bad - 8-of-13 for 100 yards - but he lost a whopping 3 fumbles, which led to 13 Giants points."
+    "1":{
+     "propertyValue":"100",
+     "annotationID":     7750,
+     "sentence":"His stat line doesn't look too bad - 8-of-13 for 100 yards - but he lost a whopping 3 fumbles, which led to 13 Giants points.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   85.4,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"6",
-    "annotationID":    7752,
-    "sentence":"Oakland had 6 3-and-outs."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     7752,
+     "sentence":"Oakland had 6 3-and-outs.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   36,
    "rushing_attempts":   2,
@@ -1366,35 +1675,53 @@
    "player_team_score":"13",
    "opponent_score":"9",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    8242,
-    "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     8242,
+     "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    8243,
-    "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     8243,
+     "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"224",
-    "annotationID":    8244,
-    "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"224",
+     "annotationID":     8244,
+     "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   68.2,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    8245,
-    "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     8245,
+     "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    8246,
-    "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     8246,
+     "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    8247,
-    "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     8247,
+     "sentence":"Russell went 17-of-28 for 224 yards, 1 touchdown and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   15,
    "rushing_attempts":   5,
@@ -1439,32 +1766,53 @@
    "player_team_score":"0",
    "opponent_score":"38",
    "passing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    8546,
-    "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     8546,
+     "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"11",
-    "annotationID":    8548,
-    "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     8548,
+     "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"61",
-    "annotationID":    8549,
-    "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"61",
+     "annotationID":     8549,
+     "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   31.1,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    8550,
-    "sentence":"How quick were these scores? The Jets' 2 touchdown drives were for a combined 8 yards."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     8545,
+     "sentence":"How quick were these scores? The Jets' 2 touchdown drives were for a combined 8 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     8550,
+     "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
-    "propertyValue":"6",
-    "annotationID":    8547,
-    "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     8547,
+     "sentence":"He finished 6-of-11 for 61 yards, 2 picks and a fumble.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -1508,38 +1856,56 @@
    "player_team_score":"16",
    "opponent_score":"24",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    8952,
-    "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception)."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     8952,
+     "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception).",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"22",
-    "annotationID":    8953,
-    "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception)."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     8953,
+     "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception).",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"109",
-    "annotationID":    8954,
-    "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception)."
+    "1":{
+     "propertyValue":"109",
+     "annotationID":     8954,
+     "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception).",
+     "confidence":"None"
+    }
    },
    "passing_rating":   56.8,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    8955,
-    "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     8955,
+     "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception).",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   5,
    "passing_sacks_yards_lost":   28,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    8956,
-    "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     8956,
+     "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"1",
-    "annotationID":    8957,
-    "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     8957,
+     "sentence":"A week after getting benched, Russell put together a pedestrian performance (14-of-22 for 109 yards), which was great for him because he had only 1 turnover (an interception).",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1581,9 +1947,12 @@
    "player_team_score":"10",
    "opponent_score":"16",
    "passing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    9760,
-    "sentence":"He was benched in the second half in favor of Bruce Gradkowski (4-of-8 for 46 yards, 2 INTs), who nearly led a comeback (more on this later)."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     9760,
+     "sentence":"He was benched in the second half in favor of Bruce Gradkowski (4-of-8 for 46 yards, 2 INTs), who nearly led a comeback (more on this later).",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   23,
    "passing_yards":   64,
@@ -1632,32 +2001,65 @@
    "opponent":"WAS",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    11553,
-    "sentence":"The score at 1 point was 17-13, but once Russell started taking sacks and doing stupid things, the Raiders looked like they gave up."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     11553,
+     "sentence":"The score at 1 point was 17-13, but once Russell started taking sacks and doing stupid things, the Raiders looked like they gave up.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"34",
    "passing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    11554,
-    "sentence":"His stats don't look so bad (10-of-16, 74 yards, 1 INT), but he took multiple sacks because he couldn't read the defense or identify Washington's blitz package (shocker)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     11548,
+     "sentence":"His stats don't look so bad (10-of-16, 74 yards, 1 INT), but he took multiple sacks because he couldn't read the defense or identify Washington's blitz package (shocker).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     11554,
+     "sentence":"Gradkowski was a more effective 10-of-18 for 153 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"16",
-    "annotationID":    11549,
-    "sentence":"His stats don't look so bad (10-of-16, 74 yards, 1 INT), but he took multiple sacks because he couldn't read the defense or identify Washington's blitz package (shocker)."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     11549,
+     "sentence":"His stats don't look so bad (10-of-16, 74 yards, 1 INT), but he took multiple sacks because he couldn't read the defense or identify Washington's blitz package (shocker).",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"74",
-    "annotationID":    11550,
-    "sentence":"His stats don't look so bad (10-of-16, 74 yards, 1 INT), but he took multiple sacks because he couldn't read the defense or identify Washington's blitz package (shocker)."
+    "1":{
+     "propertyValue":"74",
+     "annotationID":     11550,
+     "sentence":"His stats don't look so bad (10-of-16, 74 yards, 1 INT), but he took multiple sacks because he couldn't read the defense or identify Washington's blitz package (shocker).",
+     "confidence":"None"
+    }
    },
    "passing_rating":   47.4,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    11552,
-    "sentence":"000000000001 units on Oakland."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     11547,
+     "sentence":"000000000001 units on Oakland.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     11551,
+     "sentence":"His stats don't look so bad (10-of-16, 74 yards, 1 INT), but he took multiple sacks because he couldn't read the defense or identify Washington's blitz package (shocker).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     11552,
+     "sentence":"The score at 1 point was 17-13, but once Russell started taking sacks and doing stupid things, the Raiders looked like they gave up.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   6,
    "passing_sacks_yards_lost":   52,

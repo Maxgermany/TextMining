@@ -346,9 +346,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    52780,
-    "sentence":"Cox and Philadelphia's strong defensive front in 2 performances."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     52780,
+     "sentence":"Cox and Philadelphia's strong defensive front in 2 performances.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,
@@ -473,9 +476,12 @@
    "opponent":"CAR",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"28",
-    "annotationID":    78883,
-    "sentence":"Newton went 28-of-52 for only 239 yards, 1 touchdown and 3 interceptions."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     78883,
+     "sentence":"Newton went 28-of-52 for only 239 yards, 1 touchdown and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"23",
    "passing_attempts":   0,
@@ -502,9 +508,30 @@
    "defense_sacks":   0.5,
    "defense_tackles":   0,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    78882,
-    "sentence":"The Eagles were so much more effective offensively following halftime, gaining 188 yards compared to 122 in the opening 2 quarters, and their yards-per-play average rose to 5."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     78879,
+     "sentence":"The Eagles were so much more effective offensively following halftime, gaining 188 yards compared to 122 in the opening 2 quarters, and their yards-per-play average rose to 5.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     78880,
+     "sentence":"2 compared to the 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     78881,
+     "sentence":"He caught 2 balls for 18 yards.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     78882,
+     "sentence":"He also found the end zone on a 2.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

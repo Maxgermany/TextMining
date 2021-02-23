@@ -52,9 +52,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"7",
-    "annotationID":    35461,
-    "sentence":"He caught 7 balls for 141 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     35461,
+     "sentence":"He caught 7 balls for 141 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -350,15 +353,27 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"5",
-    "annotationID":    56262,
-    "sentence":"He ended the day with 2 interceptions (1 returned for a touchdown), 5 solo tackles and 2 passes defended."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     56262,
+     "sentence":"He ended the day with 2 interceptions (1 returned for a touchdown), 5 solo tackles and 2 passes defended.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    56263,
-    "sentence":"He ended the day with 2 interceptions (1 returned for a touchdown), 5 solo tackles and 2 passes defended."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     56261,
+     "sentence":"He ended the day with 2 interceptions (1 returned for a touchdown), 5 solo tackles and 2 passes defended.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     56263,
+     "sentence":"He ended the day with 2 interceptions (1 returned for a touchdown), 5 solo tackles and 2 passes defended.",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":   50,
    "defense_interception_touchdowns":   0,
@@ -383,14 +398,20 @@
    "opponent":"STL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"22",
-    "annotationID":    56767,
-    "sentence":"The Cardinals, down 24-22, were hoping to get the ball back to engineer a game-winning drive, but Gurley single-handedly made sure that they didn't have a chance."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     56767,
+     "sentence":"The Cardinals, down 24-22, were hoping to get the ball back to engineer a game-winning drive, but Gurley single-handedly made sure that they didn't have a chance.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    56766,
-    "sentence":"The Cardinals, down 24-22, were hoping to get the ball back to engineer a game-winning drive, but Gurley single-handedly made sure that they didn't have a chance."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     56766,
+     "sentence":"The Cardinals, down 24-22, were hoping to get the ball back to engineer a game-winning drive, but Gurley single-handedly made sure that they didn't have a chance.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -538,14 +559,20 @@
    "opponent":"PHI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"40",
-    "annotationID":    62671,
-    "sentence":"I don't understand why Mathieu was even on the field when the score was 40-17 with just 2 minutes remaining."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     62671,
+     "sentence":"I don't understand why Mathieu was even on the field when the score was 40-17 with just 2 minutes remaining.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    62672,
-    "sentence":"I don't understand why Mathieu was even on the field when the score was 40-17 with just 2 minutes remaining."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     62672,
+     "sentence":"I don't understand why Mathieu was even on the field when the score was 40-17 with just 2 minutes remaining.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -570,24 +597,36 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    62674,
-    "sentence":"I don't understand why Mathieu was even on the field when the score was 40-17 with just 2 minutes remaining."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     62674,
+     "sentence":"David Johnson gained 187 yards and 3 touchdowns on 29 carries to go along with 4 catches for 42 receiving yards, and those numbers don't even tell the entire story.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    62675,
-    "sentence":"I don't understand why Mathieu was even on the field when the score was 40-17 with just 2 minutes remaining."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     62675,
+     "sentence":"He was so great on 1 of his touchdown runs that Cris Collinsworth exclaimed, That's worth of Beast Mode!",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    62676,
-    "sentence":"I don't understand why Mathieu was even on the field when the score was 40-17 with just 2 minutes remaining."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     62676,
+     "sentence":"He was so great on 1 of his touchdown runs that Cris Collinsworth exclaimed, That's worth of Beast Mode!",
+     "confidence":"None"
+    }
    },
    "defense_interception_yards":{
-    "propertyValue":"3",
-    "annotationID":    62673,
-    "sentence":"David Johnson gained 187 yards and 3 touchdowns on 29 carries to go along with 4 catches for 42 receiving yards, and those numbers don't even tell the entire story."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     62673,
+     "sentence":"David Johnson gained 187 yards and 3 touchdowns on 29 carries to go along with 4 catches for 42 receiving yards, and those numbers don't even tell the entire story.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -611,9 +650,12 @@
    "opponent":"NYJ",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"28",
-    "annotationID":    68803,
-    "sentence":"This set up Hauschka's 28-yard try, but he ruined Wilson's sole positive drive with a miss."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     68803,
+     "sentence":"This set up Hauschka's 28-yard try, but he ruined Wilson's sole positive drive with a miss.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"3",
    "passing_attempts":   0,
@@ -639,16 +681,22 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"6",
-    "annotationID":    68804,
-    "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     68804,
+     "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,
    "defense_interception_yards":{
-    "propertyValue":"4",
-    "annotationID":    68805,
-    "sentence":"Wilson finished 24-of-37 for 225 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     68805,
+     "sentence":"His only blemish was a drop with 4 minutes remaining in regulation.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -672,14 +720,20 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    68806,
-    "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     68806,
+     "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    68807,
-    "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     68807,
+     "sentence":"Baldwin caught 6 balls for 69 yards, with 27 of those yards coming in overtime.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -949,9 +1003,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   1,
    "defense_tackles":{
-    "propertyValue":"11",
-    "annotationID":    78132,
-    "sentence":"Mathieu, who had 11 tackles with a sack."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     78132,
+     "sentence":"Mathieu, who had 11 tackles with a sack.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -979,9 +1036,12 @@
    "game_won":   true,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    80713,
-    "sentence":"Mathieu and the loose ball was scooped up by Patrick Peterson for a return to inside the 49ers' 10-yard line, which set up the Cardinals' offense."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     80713,
+     "sentence":"Mathieu and the loose ball was scooped up by Patrick Peterson for a return to inside the 49ers' 10-yard line, which set up the Cardinals' offense.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,

@@ -176,9 +176,12 @@
    "game_won":   false,
    "player_team_score":"15",
    "opponent_score":{
-    "propertyValue":"18",
-    "annotationID":    78141,
-    "sentence":"Chris Johnson (13-32) and Ellington (5-18) didn't do much on the ground."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     78141,
+     "sentence":"Chris Johnson (13-32) and Ellington (5-18) didn't do much on the ground.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -202,14 +205,50 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    78139,
-    "sentence":"Arizona repeated the trend, tying the game at 12 midway through the 4."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     78138,
+     "sentence":"Palmer completed 33-of-51 passes for 357 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     78139,
+     "sentence":"Palmer completed 33-of-51 passes for 357 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    78142,
-    "sentence":"The 49ers answered again with a Robbie Gould field goal."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     78135,
+     "sentence":"Arizona repeated the trend, tying the game at 12 midway through the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     78136,
+     "sentence":"Arizona's defense was able to get a stop with the 49ers backed up deep in their own territory, so that set up the Cardinals with good field position at their own 45-yard line with just under 4 minutes remaining.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     78137,
+     "sentence":"The 49ers advanced the ball with an 11-yard pass to Pierre Garcon (4-36), a third-down conversion with an 8.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     78140,
+     "sentence":"Fitzgerald had 4 catches for 32 yards to go with the only touchdown in the game.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"4",
+     "annotationID":     78142,
+     "sentence":"Buckner was superb with 4 tackles and a sack.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

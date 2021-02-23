@@ -30,19 +30,28 @@
    "player_team_score":"10",
    "opponent_score":"28",
    "passing_attempts":{
-    "propertyValue":"11",
-    "annotationID":    271,
-    "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     271,
+     "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    272,
-    "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     272,
+     "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"114",
-    "annotationID":    274,
-    "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown."
+    "1":{
+     "propertyValue":"114",
+     "annotationID":     274,
+     "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   74,
    "passing_touchdowns":   1,
@@ -51,9 +60,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   4,
    "rushing_yards":{
-    "propertyValue":"24",
-    "annotationID":    273,
-    "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     273,
+     "sentence":"Anderson went 11-of-24 for 114 yards and a touchdown.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -144,31 +156,58 @@
    "player_team_score":"6",
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    580,
-    "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     580,
+     "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"32",
-    "annotationID":    581,
-    "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks."
+    "1":{
+     "propertyValue":"32",
+     "annotationID":     581,
+     "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"166",
-    "annotationID":    582,
-    "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks."
+    "1":{
+     "propertyValue":"166",
+     "annotationID":     582,
+     "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   44.5,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    585,
-    "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     583,
+     "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     585,
+     "sentence":"He began the contest 2-of-9 for 13 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    586,
-    "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     584,
+     "sentence":"Anderson was 18-of-32 for 166 yards and 2 picks.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     586,
+     "sentence":"He began the contest 2-of-9 for 13 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   11,
    "rushing_attempts":   3,
@@ -213,35 +252,59 @@
    "player_team_score":"10",
    "opponent_score":"28",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    866,
-    "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     866,
+     "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"37",
-    "annotationID":    867,
-    "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     867,
+     "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"125",
-    "annotationID":    868,
-    "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead."
+    "1":{
+     "propertyValue":"125",
+     "annotationID":     868,
+     "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   22.9,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    871,
-    "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     869,
+     "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     871,
+     "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"3",
-    "annotationID":    870,
-    "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     870,
+     "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    872,
-    "sentence":"Anderson, who was 14-of-37 for 125 yards, 1 touchdown and 3 interceptions, tossed 1 of those picks deep in his own territory with the lead."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     872,
+     "sentence":"The next interception was a pick-six despite trailing by just 4 points.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   26,
    "rushing_attempts":   2,
@@ -286,41 +349,62 @@
    "player_team_score":"20",
    "opponent_score":"12",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    904,
-    "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     904,
+     "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    905,
-    "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     905,
+     "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"138",
-    "annotationID":    906,
-    "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"138",
+     "annotationID":     906,
+     "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   74.7,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    907,
-    "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     907,
+     "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    908,
-    "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     908,
+     "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    909,
-    "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     909,
+     "sentence":"Anderson finished 15-of-24, 138 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   11,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    903,
-    "sentence":"If the Browns weren't playing the sorry Bungles, they would be 0-4 right now."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     903,
+     "sentence":"If the Browns weren't playing the sorry Bungles, they would be 0-4 right now.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   11,
    "rushing_touchdowns":   0,
@@ -362,26 +446,47 @@
    "game_won":   true,
    "player_team_score":"35",
    "opponent_score":{
-    "propertyValue":"14",
-    "annotationID":    2189,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     2187,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"14",
+     "annotationID":     2188,
+     "sentence":"Anderson reverted to pre-Giants game form; he was 3-of-14 for 17 yards at halftime.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"14",
+     "annotationID":     2189,
+     "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   18,
    "passing_completions":   29,
    "passing_yards":   310,
    "passing_rating":   121.3,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    2186,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2186,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    2190,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     2190,
+     "sentence":"Braylon Edwards caught 4 balls for 58 yards, while ",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -2,
    "rushing_touchdowns":   0,
@@ -422,48 +527,96 @@
    "opponent":"WAS",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"11",
-    "annotationID":    2194,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     2194,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"14",
-    "annotationID":    2198,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     2192,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"14",
+     "annotationID":     2196,
+     "sentence":"Anderson reverted to pre-Giants game form; he was 3-of-14 for 17 yards at halftime.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"14",
+     "annotationID":     2198,
+     "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    2199,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     2193,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"14",
+     "annotationID":     2197,
+     "sentence":"Anderson reverted to pre-Giants game form; he was 3-of-14 for 17 yards at halftime.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"14",
+     "annotationID":     2199,
+     "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"37",
-    "annotationID":    2200,
-    "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     2200,
+     "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"136",
-    "annotationID":    2201,
-    "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown."
+    "1":{
+     "propertyValue":"136",
+     "annotationID":     2201,
+     "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   57.9,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
-    "propertyValue":"2",
-    "annotationID":    2191,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2191,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    2195,
-    "sentence":"Anderson reverted to pre-Giants game form; he was 3-of-14 for 17 yards at halftime."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     2195,
+     "sentence":"Anderson reverted to pre-Giants game form; he was 3-of-14 for 17 yards at halftime.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"4",
-    "annotationID":    2202,
-    "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     2202,
+     "sentence":"Braylon Edwards caught 4 balls for 58 yards, while ",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -505,19 +658,28 @@
    "player_team_score":"23",
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    2491,
-    "sentence":"Anderson finished 14-of-27 for 246 yards and that touchdown."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     2491,
+     "sentence":"Anderson finished 14-of-27 for 246 yards and that touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"27",
-    "annotationID":    2492,
-    "sentence":"Anderson finished 14-of-27 for 246 yards and that touchdown."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     2492,
+     "sentence":"Anderson finished 14-of-27 for 246 yards and that touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"246",
-    "annotationID":    2493,
-    "sentence":"Anderson finished 14-of-27 for 246 yards and that touchdown."
+    "1":{
+     "propertyValue":"246",
+     "annotationID":     2493,
+     "sentence":"Anderson finished 14-of-27 for 246 yards and that touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   95.6,
    "passing_touchdowns":   1,
@@ -566,33 +728,48 @@
    "player_team_score":"27",
    "opponent_score":"37",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    2599,
-    "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     2599,
+     "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"33",
-    "annotationID":    2600,
-    "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4."
+    "1":{
+     "propertyValue":"33",
+     "annotationID":     2600,
+     "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"219",
-    "annotationID":    2601,
-    "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4."
+    "1":{
+     "propertyValue":"219",
+     "annotationID":     2601,
+     "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   80.2,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    2602,
-    "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2602,
+     "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    2603,
-    "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2603,
+     "sentence":"Anderson certainly wasn't awful (17-of-33, 219 yards, 2 touchdowns), but he tossed a disgusting pick-six in the 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   8,
    "rushing_touchdowns":   0,
@@ -633,43 +810,64 @@
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    3829,
-    "sentence":"It was just 16-6!"
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     3829,
+     "sentence":"It was just 16-6!",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    3828,
-    "sentence":"It was just 16-6!"
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     3828,
+     "sentence":"It was just 16-6!",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    3823,
-    "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     3823,
+     "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"14",
-    "annotationID":    3824,
-    "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     3824,
+     "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"51",
-    "annotationID":    3825,
-    "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"51",
+     "annotationID":     3825,
+     "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   17.3,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    3826,
-    "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     3826,
+     "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    3827,
-    "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     3827,
+     "sentence":"Anderson, who went 5-of-14 for 51 yards, 1 interception and a fumble.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
@@ -712,51 +910,78 @@
    "player_team_score":"20",
    "opponent_score":"23",
    "passing_attempts":{
-    "propertyValue":"26",
-    "annotationID":    7270,
-    "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     7270,
+     "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"48",
-    "annotationID":    7271,
-    "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"48",
+     "annotationID":     7271,
+     "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"269",
-    "annotationID":    7272,
-    "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"269",
+     "annotationID":     7272,
+     "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   68.8,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    7273,
-    "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     7273,
+     "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    7274,
-    "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     7274,
+     "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    7267,
-    "sentence":"Anderson did a great job moving the chains in those 2 quarters."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     7267,
+     "sentence":"Anderson did a great job moving the chains in those 2 quarters.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   20,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    7268,
-    "sentence":"Anderson did a great job moving the chains in those 2 quarters."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     7268,
+     "sentence":"Anderson did a great job moving the chains in those 2 quarters.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    7269,
-    "sentence":"Anderson did a great job moving the chains in those 2 quarters."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     7269,
+     "sentence":"Anderson did a great job moving the chains in those 2 quarters.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    7275,
-    "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     7275,
+     "sentence":"He was 26-of-48 for 269 yards, 1 touchdown and a pick.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -795,25 +1020,37 @@
    "opponent":"BUF",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    7647,
-    "sentence":"Cleveland allowed Buffalo to convert 6 third downs."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     7647,
+     "sentence":"Cleveland allowed Buffalo to convert 6 third downs.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"3",
    "passing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    7643,
-    "sentence":"Anderson was 2-of-17 for 23 yards and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     7643,
+     "sentence":"Anderson was 2-of-17 for 23 yards and a pick.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"17",
-    "annotationID":    7645,
-    "sentence":"Anderson was 2-of-17 for 23 yards and a pick."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     7645,
+     "sentence":"Anderson was 2-of-17 for 23 yards and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"23",
-    "annotationID":    7646,
-    "sentence":"Anderson was 2-of-17 for 23 yards and a pick."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     7646,
+     "sentence":"Anderson was 2-of-17 for 23 yards and a pick.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   15.1,
    "passing_touchdowns":   0,
@@ -822,9 +1059,12 @@
    "passing_sacks_yards_lost":   1,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    7644,
-    "sentence":"Anderson was 2-of-17 for 23 yards and a pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     7644,
+     "sentence":"Anderson was 2-of-17 for 23 yards and a pick.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -866,19 +1106,28 @@
    "player_team_score":"14",
    "opponent_score":"27",
    "passing_attempts":{
-    "propertyValue":"9",
-    "annotationID":    8104,
-    "sentence":"Anderson was 9-of-24 with a touchdown and a pick otherwise."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     8104,
+     "sentence":"Anderson was 9-of-24 with a touchdown and a pick otherwise.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    8105,
-    "sentence":"Anderson was 9-of-24 with a touchdown and a pick otherwise."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     8105,
+     "sentence":"Anderson was 9-of-24 with a touchdown and a pick otherwise.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"122",
-    "annotationID":    8103,
-    "sentence":"Anderson had just 122 yards."
+    "1":{
+     "propertyValue":"122",
+     "annotationID":     8103,
+     "sentence":"Anderson had just 122 yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   51,
    "passing_touchdowns":   1,
@@ -925,39 +1174,69 @@
    "opponent":"CHI",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    8738,
-    "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     8738,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"30",
    "passing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    8739,
-    "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     8739,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"17",
-    "annotationID":    8740,
-    "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     8740,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"76",
-    "annotationID":    8741,
-    "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble."
+    "1":{
+     "propertyValue":"76",
+     "annotationID":     8741,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   10.5,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    8742,
-    "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     8736,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     8742,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   1,
    "passing_sacks_yards_lost":   11,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    8743,
-    "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     8737,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     8743,
+     "sentence":"Anderson was 2-of-9 for 13 yards and a pick at halftime, and finished 6-of-17 for 76 yards, 2 interceptions and a lost fumble.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   1,
    "rushing_touchdowns":   1,
@@ -1000,28 +1279,46 @@
    "player_team_score":"23",
    "opponent_score":"9",
    "passing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    12231,
-    "sentence":"Anderson went 8-of-17 for 121 yards and a score, looking very mediocre throughout."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     12231,
+     "sentence":"Anderson went 8-of-17 for 121 yards and a score, looking very mediocre throughout.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"17",
-    "annotationID":    12232,
-    "sentence":"Anderson went 8-of-17 for 121 yards and a score, looking very mediocre throughout."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     12232,
+     "sentence":"Anderson went 8-of-17 for 121 yards and a score, looking very mediocre throughout.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"121",
-    "annotationID":    12233,
-    "sentence":"Anderson went 8-of-17 for 121 yards and a score, looking very mediocre throughout."
+    "1":{
+     "propertyValue":"121",
+     "annotationID":     12233,
+     "sentence":"Anderson went 8-of-17 for 121 yards and a score, looking very mediocre throughout.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   90.6,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":   2,
    "passing_sacks_yards_lost":{
-    "propertyValue":"3",
-    "annotationID":    12235,
-    "sentence":"Mohamed Massaquoi caught that touchdown, notching 3 receptions for 61 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     12234,
+     "sentence":"Mohamed Massaquoi caught that touchdown, notching 3 receptions for 61 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     12235,
+     "sentence":"But before you wet your pants and think that the Raiders have a legitimate quarterback, note that he tossed 3 interceptions as well.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   1,
    "rushing_yards":   -1,
@@ -1065,19 +1362,28 @@
    "player_team_score":"23",
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    12566,
-    "sentence":"Anderson was just 7-of-11 for 86 yards and an interception, and he didn't even attempt a single pass in the third quarter."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     12566,
+     "sentence":"Anderson was just 7-of-11 for 86 yards and an interception, and he didn't even attempt a single pass in the third quarter.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"11",
-    "annotationID":    12567,
-    "sentence":"Anderson was just 7-of-11 for 86 yards and an interception, and he didn't even attempt a single pass in the third quarter."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     12567,
+     "sentence":"Anderson was just 7-of-11 for 86 yards and an interception, and he didn't even attempt a single pass in the third quarter.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"86",
-    "annotationID":    12568,
-    "sentence":"Anderson was just 7-of-11 for 86 yards and an interception, and he didn't even attempt a single pass in the third quarter."
+    "1":{
+     "propertyValue":"86",
+     "annotationID":     12568,
+     "sentence":"Anderson was just 7-of-11 for 86 yards and an interception, and he didn't even attempt a single pass in the third quarter.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   49.8,
    "passing_touchdowns":   0,
@@ -1086,9 +1392,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    12569,
-    "sentence":"No Cleveland player caught more than 2 passes."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     12569,
+     "sentence":"No Cleveland player caught more than 2 passes.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1130,33 +1439,48 @@
    "player_team_score":"17",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    13413,
-    "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     13413,
+     "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"41",
-    "annotationID":    13414,
-    "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown."
+    "1":{
+     "propertyValue":"41",
+     "annotationID":     13414,
+     "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"297",
-    "annotationID":    13415,
-    "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown."
+    "1":{
+     "propertyValue":"297",
+     "annotationID":     13415,
+     "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   85.1,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    13416,
-    "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     13416,
+     "sentence":"On 1 of Anderson's errant passes that sailed out of bounds, ",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   31,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    13417,
-    "sentence":"Anderson went 22-of-41 for 297 yards and a touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     13417,
+     "sentence":"On 1 of Anderson's errant passes that sailed out of bounds, ",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   9,
    "rushing_touchdowns":   0,
@@ -1199,36 +1523,54 @@
    "player_team_score":"7",
    "opponent_score":"41",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    13645,
-    "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     13645,
+     "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"31",
-    "annotationID":    13646,
-    "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     13646,
+     "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"161",
-    "annotationID":    13647,
-    "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions."
+    "1":{
+     "propertyValue":"161",
+     "annotationID":     13647,
+     "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   42.5,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    13648,
-    "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     13648,
+     "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    13649,
-    "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     13649,
+     "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"15",
-    "annotationID":    13644,
-    "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     13644,
+     "sentence":"15 after this game; he went 17-of-31 for 161 yards and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -1272,31 +1614,64 @@
    "player_team_score":"24",
    "opponent_score":"23",
    "passing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    14405,
-    "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     14405,
+     "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"26",
-    "annotationID":    14412,
-    "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     14406,
+     "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"26",
+     "annotationID":     14412,
+     "sentence":"One of Anderson's scores went to Larry Fitzgerald, who could only muster 2 catches for 26 yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"122",
-    "annotationID":    14407,
-    "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"122",
+     "annotationID":     14407,
+     "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   69.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    14410,
-    "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     14408,
+     "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     14410,
+     "sentence":"One of Anderson's scores went to Larry Fitzgerald, who could only muster 2 catches for 26 yards.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    14411,
-    "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     14409,
+     "sentence":"Anderson drunkenly went 12-of-26 for 122 yards, 2 touchdowns and an interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     14411,
+     "sentence":"One of Anderson's scores went to Larry Fitzgerald, who could only muster 2 catches for 26 yards.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   14,
    "rushing_attempts":   0,
@@ -1341,26 +1716,38 @@
    "player_team_score":"10",
    "opponent_score":"41",
    "passing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    14810,
-    "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     14810,
+     "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"14",
-    "annotationID":    14811,
-    "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     14811,
+     "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"64",
-    "annotationID":    14812,
-    "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions."
+    "1":{
+     "propertyValue":"64",
+     "annotationID":     14812,
+     "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   23.2,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    14813,
-    "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     14813,
+     "sentence":"He drunkenly went 7-of-14 for 64 yards and 2 ugly interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   20,
@@ -1406,9 +1793,12 @@
    "player_team_score":"30",
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    15066,
-    "sentence":"Hall played pretty well, going 17-of-27 for 168 yards and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     15066,
+     "sentence":"h quarter when he threw the ball out of bounds in the red zone when no 1 was open.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   2,
    "passing_yards":   6,
@@ -1459,19 +1849,28 @@
    "player_team_score":"10",
    "opponent_score":"22",
    "passing_attempts":{
-    "propertyValue":"8",
-    "annotationID":    15731,
-    "sentence":"Anderson went 8-of-17 for 96 yards, and I have to disagree with Billick; there's no way a drunken quarterback can possibly be an upgrade over anyone."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     15731,
+     "sentence":"Anderson went 8-of-17 for 96 yards, and I have to disagree with Billick; there's no way a drunken quarterback can possibly be an upgrade over anyone.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"17",
-    "annotationID":    15732,
-    "sentence":"Anderson went 8-of-17 for 96 yards, and I have to disagree with Billick; there's no way a drunken quarterback can possibly be an upgrade over anyone."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     15732,
+     "sentence":"Anderson went 8-of-17 for 96 yards, and I have to disagree with Billick; there's no way a drunken quarterback can possibly be an upgrade over anyone.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"96",
-    "annotationID":    15733,
-    "sentence":"Anderson went 8-of-17 for 96 yards, and I have to disagree with Billick; there's no way a drunken quarterback can possibly be an upgrade over anyone."
+    "1":{
+     "propertyValue":"96",
+     "annotationID":     15733,
+     "sentence":"Anderson went 8-of-17 for 96 yards, and I have to disagree with Billick; there's no way a drunken quarterback can possibly be an upgrade over anyone.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   64.8,
    "passing_touchdowns":   0,
@@ -1520,35 +1919,53 @@
    "player_team_score":"35",
    "opponent_score":"38",
    "passing_attempts":{
-    "propertyValue":"16",
-    "annotationID":    16062,
-    "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     16062,
+     "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    16063,
-    "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     16063,
+     "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"234",
-    "annotationID":    16064,
-    "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"234",
+     "annotationID":     16064,
+     "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   77.4,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    16065,
-    "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     16065,
+     "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    16067,
-    "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     16067,
+     "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    16066,
-    "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     16066,
+     "sentence":"Anderson was better by default, going 16-of-24 for 234 yards, 1 touchdown and 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":   0,
@@ -1593,33 +2010,48 @@
    "player_team_score":"24",
    "opponent_score":"27",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    16321,
-    "sentence":"After the inexplicable 30-yard pass to Larry Fitzgerald, I added, Nah' mean? - Anderson (15-of-26, 179, TD) entered Sober Mode and did a good job of moving the chains until the 4."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     16321,
+     "sentence":"After the inexplicable 30-yard pass to Larry Fitzgerald, I added, Nah' mean? - Anderson (15-of-26, 179, TD) entered Sober Mode and did a good job of moving the chains until the 4.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"26",
-    "annotationID":    16322,
-    "sentence":"After the inexplicable 30-yard pass to Larry Fitzgerald, I added, Nah' mean? - Anderson (15-of-26, 179, TD) entered Sober Mode and did a good job of moving the chains until the 4."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     16322,
+     "sentence":"After the inexplicable 30-yard pass to Larry Fitzgerald, I added, Nah' mean? - Anderson (15-of-26, 179, TD) entered Sober Mode and did a good job of moving the chains until the 4.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"179",
-    "annotationID":    16323,
-    "sentence":"After the inexplicable 30-yard pass to Larry Fitzgerald, I added, Nah' mean? - Anderson (15-of-26, 179, TD) entered Sober Mode and did a good job of moving the chains until the 4."
+    "1":{
+     "propertyValue":"179",
+     "annotationID":     16323,
+     "sentence":"After the inexplicable 30-yard pass to Larry Fitzgerald, I added, Nah' mean? - Anderson (15-of-26, 179, TD) entered Sober Mode and did a good job of moving the chains until the 4.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   91.7,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"6",
-    "annotationID":    16324,
-    "sentence":"After the inexplicable 30-yard pass to Larry Fitzgerald, I added, Nah' mean? - Anderson (15-of-26, 179, TD) entered Sober Mode and did a good job of moving the chains until the 4."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     16324,
+     "sentence":"When the Cardinals had the ball, Anderson weakly crumbled under Minnesota's heavy pressure (6 sacks).",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    16320,
-    "sentence":"The turning point was a converted 3rd-and-19 on the Arizona 10-yard line in the final minutes of the first half."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     16320,
+     "sentence":"The turning point was a converted 3rd-and-19 on the Arizona 10-yard line in the final minutes of the first half.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   16,
    "rushing_touchdowns":   0,
@@ -1662,35 +2094,53 @@
    "player_team_score":"18",
    "opponent_score":"36",
    "passing_attempts":{
-    "propertyValue":"23",
-    "annotationID":    16722,
-    "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     16722,
+     "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"45",
-    "annotationID":    16723,
-    "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"45",
+     "annotationID":     16723,
+     "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"322",
-    "annotationID":    16724,
-    "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"322",
+     "annotationID":     16724,
+     "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   72.6,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    16725,
-    "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     16725,
+     "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    16726,
-    "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     16726,
+     "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"5",
-    "annotationID":    16727,
-    "sentence":"Anderson, he posted solid fantasy numbers by going 23-of-45 for 322 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     16727,
+     "sentence":"He also fumbled and took 5 sacks.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   36,
    "rushing_attempts":   0,
@@ -1735,27 +2185,45 @@
    "player_team_score":"13",
    "opponent_score":"31",
    "passing_attempts":{
-    "propertyValue":"25",
-    "annotationID":    16936,
-    "sentence":"Derek Anderson went 25-of-46 for 295 yards and a touchdown, though most of his yardage (and touchdown) came in junk time."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     16936,
+     "sentence":"Derek Anderson went 25-of-46 for 295 yards and a touchdown, though most of his yardage (and touchdown) came in junk time.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"46",
-    "annotationID":    16937,
-    "sentence":"Derek Anderson went 25-of-46 for 295 yards and a touchdown, though most of his yardage (and touchdown) came in junk time."
+    "1":{
+     "propertyValue":"46",
+     "annotationID":     16937,
+     "sentence":"Derek Anderson went 25-of-46 for 295 yards and a touchdown, though most of his yardage (and touchdown) came in junk time.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"295",
-    "annotationID":    16938,
-    "sentence":"Derek Anderson went 25-of-46 for 295 yards and a touchdown, though most of his yardage (and touchdown) came in junk time."
+    "1":{
+     "propertyValue":"295",
+     "annotationID":     16938,
+     "sentence":"Derek Anderson went 25-of-46 for 295 yards and a touchdown, though most of his yardage (and touchdown) came in junk time.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   81.3,
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    16935,
-    "sentence":"By the time it was 21-3, Charles had 10 touches for 104 total yards (60 rushing, 44 receiving)."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     16934,
+     "sentence":") Thomas Jones, however, wasn't a slouch, rushing for 71 yards and 2 touchdowns on 15 attempts.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     16935,
+     "sentence":"Matt Cassel's numbers weren't pretty (15-24, 193 yards, 2 TDs), but he made enough plays to carry the Chiefs to victory, including a 38-yard touchdown to Dwayne Bowe.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   14,
    "rushing_attempts":   0,
@@ -1805,20 +2273,29 @@
    "passing_rating":   51.6,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    17770,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17770,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    17771,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17771,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   6,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    17772,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17772,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
@@ -1861,36 +2338,54 @@
    "player_team_score":"6",
    "opponent_score":"19",
    "passing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    17775,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     17775,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"20",
-    "annotationID":    17777,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     17777,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"93",
-    "annotationID":    17778,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"93",
+     "annotationID":     17778,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   29.8,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    17773,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17773,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    17774,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     17774,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"7",
-    "annotationID":    17776,
-    "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     17776,
+     "sentence":"Anderson took 1 last swig out of his magic flask and went 7-of-20 for 93 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":   0,
    "rushing_yards":   0,
@@ -1983,9 +2478,12 @@
    "player_team_score":"19",
    "opponent_score":"37",
    "passing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    46381,
-    "sentence":"Newton's sole score went to Greg Olsen, who had 5 catches for 69 yards."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     46381,
+     "sentence":"Newton's sole score went to Greg Olsen, who had 5 catches for 69 yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":   6,
    "passing_yards":   80,
@@ -2089,14 +2587,20 @@
    "passing_yards":   172,
    "passing_rating":   87.6,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    66556,
-    "sentence":"They connected again on the 2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66556,
+     "sentence":"They connected again on the 2.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    66557,
-    "sentence":"They connected again on the 2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     66557,
+     "sentence":"They connected again on the 2.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,

@@ -77,14 +77,26 @@
    "opponent":"SDG",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"28",
-    "annotationID":    40348,
-    "sentence":"Manning took advantage by ripping the ball through San Diego's secondary, including a 28-yard, over-the-shoulder catch by Demaryius Thomas."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     40347,
+     "sentence":"Manning took advantage by ripping the ball through San Diego's secondary, including a 28-yard, over-the-shoulder catch by Demaryius Thomas.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"28",
+     "annotationID":     40348,
+     "sentence":"That cut the Denver lead to 28-20.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"20",
-    "annotationID":    40349,
-    "sentence":"That cut the Denver lead to 28-20."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     40349,
+     "sentence":"That cut the Denver lead to 28-20.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -207,9 +219,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   2.5,
    "defense_tackles":{
-    "propertyValue":"5",
-    "annotationID":    66721,
-    "sentence":"5 times."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     66721,
+     "sentence":"5 times.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,

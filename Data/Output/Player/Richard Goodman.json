@@ -43,9 +43,12 @@
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"25",
-    "annotationID":    15762,
-    "sentence":"Goodman caught a 25-yard pass and fell down untouched."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     15762,
+     "sentence":"Goodman caught a 25-yard pass and fell down untouched.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -81,14 +84,26 @@
    "opponent":"OAK",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"38",
-    "annotationID":    26526,
-    "sentence":"Two plays later, Rivers again hit Floyd for a 43-yard scoring strike and 38-26 lead."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     26526,
+     "sentence":"Two plays later, Rivers again hit Floyd for a 43-yard scoring strike and 38-26 lead.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"26",
-    "annotationID":    26527,
-    "sentence":"A big gain to Heyward-Bey, short run and touchdown right up the middle to Kevin Boss quickly put Oakland back in the game down 31-26."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     26525,
+     "sentence":"A big gain to Heyward-Bey, short run and touchdown right up the middle to Kevin Boss quickly put Oakland back in the game down 31-26.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"26",
+     "annotationID":     26527,
+     "sentence":"Two plays later, Rivers again hit Floyd for a 43-yard scoring strike and 38-26 lead.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -106,15 +121,27 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"6",
-    "annotationID":    26528,
-    "sentence":"The Chargers' offense never let off the pedal (463 total yards) in this 1 though."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     26524,
+     "sentence":"This looked like no exception when Heyward-Bey caught a pass for a gain of 23 followed by a 9-yard pass to Bush, but with 11 seconds left and no timeouts to stop the clock, Palmer inexplicably completed a short pass to Murphy for a gain of 6.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     26528,
+     "sentence":"It was all over but the fighting, even though 6:35 remained on the clock.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   215,
    "kick_return_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    26523,
-    "sentence":"Goodman returned the ensuing kickoff for a touchdown to provide San Diego with a 21-10 cushion."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     26523,
+     "sentence":"The Chargers' offense never let off the pedal (463 total yards) in this 1 though.",
+     "confidence":"None"
+    }
    },
    "punt_return_attempts":   0,
    "punt_return_yards":   0,

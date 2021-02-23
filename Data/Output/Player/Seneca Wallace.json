@@ -30,25 +30,37 @@
    "player_team_score":"34",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    2542,
-    "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     2542,
+     "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"25",
-    "annotationID":    2543,
-    "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     2543,
+     "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"222",
-    "annotationID":    2544,
-    "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores."
+    "1":{
+     "propertyValue":"222",
+     "annotationID":     2544,
+     "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   115.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    2545,
-    "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2545,
+     "sentence":"Wallace was predictably much better than he played last Sunday night at Tampa Bay, going 15-of-25, 222 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   1,
@@ -95,9 +107,12 @@
    "player_team_score":"7",
    "opponent_score":"26",
    "passing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    2831,
-    "sentence":"The Eagles did a great job limiting the Seahawks after that, but Donovan McNabb really struggled, completing just 3 of his first 13 passes for 57 yards and an end-zone interception."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     2831,
+     "sentence":"The Eagles did a great job limiting the Seahawks after that, but Donovan McNabb really struggled, completing just 3 of his first 13 passes for 57 yards and an end-zone interception.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":   29,
    "passing_yards":   169,
@@ -108,9 +123,18 @@
    "passing_sacks_yards_lost":   22,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"2",
-    "annotationID":    2833,
-    "sentence":"McNabb eventually figured things out, finishing 28-of-43, 349 yards, 2 touchdowns and an interception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2832,
+     "sentence":"McNabb eventually figured things out, finishing 28-of-43, 349 yards, 2 touchdowns and an interception.",
+     "confidence":"Strong"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     2833,
+     "sentence":"Jackson had 2 catches for 20 yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -151,24 +175,36 @@
    "game_won":   false,
    "player_team_score":"19",
    "opponent_score":{
-    "propertyValue":"21",
-    "annotationID":    2902,
-    "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     2902,
+     "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"21",
-    "annotationID":    2903,
-    "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     2903,
+     "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"38",
-    "annotationID":    2904,
-    "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4."
+    "1":{
+     "propertyValue":"38",
+     "annotationID":     2904,
+     "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"185",
-    "annotationID":    2905,
-    "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4."
+    "1":{
+     "propertyValue":"185",
+     "annotationID":     2905,
+     "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   77.2,
    "passing_touchdowns":   1,
@@ -176,14 +212,20 @@
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   13,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    2907,
-    "sentence":"Wallace was 21-of-38 for 185 yards and a touchdown, giving him a YPA of 4."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2907,
+     "sentence":"Despite that fact, Seattle was able to convert 7-of-15 third-down attempts and score a nauseating backdoor touchdown with 2:41 remaining in regulation.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"9",
-    "annotationID":    2906,
-    "sentence":"9."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     2906,
+     "sentence":"9.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -225,19 +267,34 @@
    "player_team_score":"23",
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    4961,
-    "sentence":"They can blame Seneca Wallace (15-of-25 for 226 yards), Maurice Morris (15 carries, 86 yards), and Deion Branch and John Carlson (5 catches, 76 yards each)."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     4958,
+     "sentence":"They can blame Seneca Wallace (15-of-25 for 226 yards), Maurice Morris (15 carries, 86 yards), and Deion Branch and John Carlson (5 catches, 76 yards each).",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"15",
+     "annotationID":     4961,
+     "sentence":"They can blame Seneca Wallace (15-of-25 for 226 yards), Maurice Morris (15 carries, 86 yards), and Deion Branch and John Carlson (5 catches, 76 yards each).",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"25",
-    "annotationID":    4959,
-    "sentence":"They can blame Seneca Wallace (15-of-25 for 226 yards), Maurice Morris (15 carries, 86 yards), and Deion Branch and John Carlson (5 catches, 76 yards each)."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     4959,
+     "sentence":"They can blame Seneca Wallace (15-of-25 for 226 yards), Maurice Morris (15 carries, 86 yards), and Deion Branch and John Carlson (5 catches, 76 yards each).",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"226",
-    "annotationID":    4960,
-    "sentence":"They can blame Seneca Wallace (15-of-25 for 226 yards), Maurice Morris (15 carries, 86 yards), and Deion Branch and John Carlson (5 catches, 76 yards each)."
+    "1":{
+     "propertyValue":"226",
+     "annotationID":     4960,
+     "sentence":"They can blame Seneca Wallace (15-of-25 for 226 yards), Maurice Morris (15 carries, 86 yards), and Deion Branch and John Carlson (5 catches, 76 yards each).",
+     "confidence":"None"
+    }
    },
    "passing_rating":   89.7,
    "passing_touchdowns":   0,
@@ -245,9 +302,12 @@
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    4957,
-    "sentence":"Wallace engineered 2 4."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     4957,
+     "sentence":"Wallace engineered 2 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   3,
    "rushing_touchdowns":   0,
@@ -290,25 +350,37 @@
    "player_team_score":"13",
    "opponent_score":"3",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    5405,
-    "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     5405,
+     "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"25",
-    "annotationID":    5406,
-    "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     5406,
+     "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"175",
-    "annotationID":    5407,
-    "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league."
+    "1":{
+     "propertyValue":"175",
+     "annotationID":     5407,
+     "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   104.6,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    5408,
-    "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     5408,
+     "sentence":"Wallace was 18-of-25 for 175 yards and a score, Maurice Morris was most impressive, rushing for 116 yards on 29 attempts versus 1 of the top run defenses in the league.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   0,
@@ -354,24 +426,36 @@
    "game_won":   false,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    14143,
-    "sentence":"Wallace, who went 18-of-24 for 141 yards and a score."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     14143,
+     "sentence":"Wallace, who went 18-of-24 for 141 yards and a score.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    14142,
-    "sentence":"Wallace, who went 18-of-24 for 141 yards and a score."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     14142,
+     "sentence":"Wallace, who went 18-of-24 for 141 yards and a score.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    14144,
-    "sentence":"Wallace, who went 18-of-24 for 141 yards and a score."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     14144,
+     "sentence":"Wallace, who went 18-of-24 for 141 yards and a score.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"141",
-    "annotationID":    14145,
-    "sentence":"Wallace, who went 18-of-24 for 141 yards and a score."
+    "1":{
+     "propertyValue":"141",
+     "annotationID":     14145,
+     "sentence":"Wallace, who went 18-of-24 for 141 yards and a score.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   103,
    "passing_touchdowns":   1,
@@ -420,35 +504,53 @@
    "player_team_score":"23",
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    14513,
-    "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     14513,
+     "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"30",
-    "annotationID":    14514,
-    "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     14514,
+     "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"184",
-    "annotationID":    14515,
-    "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup."
+    "1":{
+     "propertyValue":"184",
+     "annotationID":     14515,
+     "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   74.9,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    14516,
-    "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14516,
+     "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    14517,
-    "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14517,
+     "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    14518,
-    "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     14518,
+     "sentence":"Wallace was 18-of-30 for 184 yards, 1 touchdown and an interception, but was the superior quarterback in this matchup.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   5,
    "rushing_attempts":   5,
@@ -542,19 +644,28 @@
    "player_team_score":"17",
    "opponent_score":"20",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    25353,
-    "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     25353,
+     "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"31",
-    "annotationID":    25354,
-    "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     25354,
+     "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"226",
-    "annotationID":    25355,
-    "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards."
+    "1":{
+     "propertyValue":"226",
+     "annotationID":     25355,
+     "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   91.6,
    "passing_touchdowns":   1,
@@ -563,9 +674,12 @@
    "passing_sacks_yards_lost":   13,
    "rushing_attempts":   3,
    "rushing_yards":{
-    "propertyValue":"21",
-    "annotationID":    25356,
-    "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     25356,
+     "sentence":"Wallace probably did a better job than Colt McCoy would have done, going 18-of-31 for 226 yards and a touchdown to go along with 21 rushing yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -656,38 +770,56 @@
    "player_team_score":"9",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"16",
-    "annotationID":    26458,
-    "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     26458,
+     "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"41",
-    "annotationID":    26459,
-    "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles."
+    "1":{
+     "propertyValue":"41",
+     "annotationID":     26459,
+     "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"177",
-    "annotationID":    26460,
-    "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles."
+    "1":{
+     "propertyValue":"177",
+     "annotationID":     26460,
+     "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   42.4,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    26457,
-    "sentence":"Wallace, by the way, did nothing (1-11)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     26457,
+     "sentence":"Wallace, by the way, did nothing (1-11).",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   9,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    26462,
-    "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     26462,
+     "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"44",
-    "annotationID":    26461,
-    "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles."
+    "1":{
+     "propertyValue":"44",
+     "annotationID":     26461,
+     "sentence":"Quickly on the Browns, Seneca Wallace went just 16-of-41 for 177 yards and an interception, but led the team with 44 rushing yards on 3 scrambles.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -778,14 +910,20 @@
    "player_team_score":"13",
    "opponent_score":"27",
    "passing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    40088,
-    "sentence":"Wallace completed his first 5 passes in this contest, but he was knocked out with a groin injury."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     40088,
+     "sentence":"Wallace completed his first 5 passes in this contest, but he was knocked out with a groin injury.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"5",
-    "annotationID":    40089,
-    "sentence":"Wallace completed his first 5 passes in this contest, but he was knocked out with a groin injury."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     40089,
+     "sentence":"Wallace completed his first 5 passes in this contest, but he was knocked out with a groin injury.",
+     "confidence":"None"
+    }
    },
    "passing_yards":   25,
    "passing_rating":   87.5,

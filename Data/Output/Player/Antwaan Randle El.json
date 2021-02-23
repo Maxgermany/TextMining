@@ -28,14 +28,20 @@
    "opponent":"NYG",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    1,
-    "sentence":"El picked it up in garbage time, snatching 7 catches for 73 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     1,
+     "sentence":"El picked it up in garbage time, snatching 7 catches for 73 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    6,
-    "sentence":"They jumped out on the Redskins early with a 16-0 lead, but stalled multiple times at midfield afterward."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     6,
+     "sentence":"They jumped out on the Redskins early with a 16-0 lead, but stalled multiple times at midfield afterward.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -50,23 +56,38 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    2,
-    "sentence":"El picked it up in garbage time, snatching 7 catches for 73 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     2,
+     "sentence":"El picked it up in garbage time, snatching 7 catches for 73 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"73",
-    "annotationID":    3,
-    "sentence":"El picked it up in garbage time, snatching 7 catches for 73 yards."
+    "1":{
+     "propertyValue":"73",
+     "annotationID":     3,
+     "sentence":"El picked it up in garbage time, snatching 7 catches for 73 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    5,
-    "sentence":"He completed his first pass with 1 minute remaining in the second quarter!"
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     4,
+     "sentence":"He completed his first pass with 1 minute remaining in the second quarter!",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     5,
+     "sentence":"However, 1 could argue that Campbell would have been responsible for a couple of interceptions if he went deep.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   -2,
    "punt_return_touchdowns":   0,
@@ -111,14 +132,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    1534,
-    "sentence":"El and Chris Cooley 5 times each (87 yards and 57 yards, respectively)."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     1534,
+     "sentence":"El and Chris Cooley 5 times each (87 yards and 57 yards, respectively).",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"87",
-    "annotationID":    1535,
-    "sentence":"El and Chris Cooley 5 times each (87 yards and 57 yards, respectively)."
+    "1":{
+     "propertyValue":"87",
+     "annotationID":     1535,
+     "sentence":"El and Chris Cooley 5 times each (87 yards and 57 yards, respectively).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -154,14 +181,62 @@
    "opponent":"CLE",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"14",
-    "annotationID":    2176,
-    "sentence":"The Browns were down 14-3 late in the 4."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     2156,
+     "sentence":"The Browns were down 14-3 late in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"14",
+     "annotationID":     2166,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"14",
+     "annotationID":     2169,
+     "sentence":"Anderson reverted to pre-Giants game form; he was 3-of-14 for 17 yards at halftime.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"14",
+     "annotationID":     2170,
+     "sentence":"Anderson finished a woeful 14-of-37 for 136 yards and a touchdown.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"14",
+     "annotationID":     2175,
+     "sentence":"While Cleveland scored 11, it's surprising that Washington didn't tally more than 14 points, given that Clinton Portis registered 175 yards and a touchdown on 27 carries.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"14",
+     "annotationID":     2176,
+     "sentence":"Jason Campbell was somewhat efficient and pretty unspectacular, going 14-of-23 for 164 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"11",
-    "annotationID":    2174,
-    "sentence":"Eleven points? How does a team score 11 points? I'll tell you how - completely inept coaching."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     2155,
+     "sentence":"Eleven points? How does a team score 11 points? I'll tell you how - completely inept coaching.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"11",
+     "annotationID":     2167,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"11",
+     "annotationID":     2174,
+     "sentence":"While Cleveland scored 11, it's surprising that Washington didn't tally more than 14 points, given that Clinton Portis registered 175 yards and a touchdown on 27 carries.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -175,14 +250,56 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    2177,
-    "sentence":"The Browns were down 14-3 late in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     2158,
+     "sentence":"The Browns were down 14-3 late in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     2162,
+     "sentence":"Well, Cleveland was faced with a 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     2171,
+     "sentence":"Braylon Edwards caught 4 balls for 58 yards, while Kellen Winslow Jr.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     2177,
+     "sentence":"Santana Moss, Antwaan Randle El and Chris Cooley each caught 4 passes.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    2178,
-    "sentence":"The Browns were down 14-3 late in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     2159,
+     "sentence":"The Browns were down 14-3 late in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     2163,
+     "sentence":"Well, Cleveland was faced with a 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     2172,
+     "sentence":"Braylon Edwards caught 4 balls for 58 yards, while Kellen Winslow Jr.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"4",
+     "annotationID":     2178,
+     "sentence":"Santana Moss, Antwaan Randle El and Chris Cooley each caught 4 passes.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   56,
    "receiving_touchdowns":   0,
@@ -190,17 +307,53 @@
    "kick_return_yards":   0,
    "kick_return_touchdowns":   0,
    "punt_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    2168,
-    "sentence":"The Browns were down 14-3 late in the 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     2157,
+     "sentence":"The Browns were down 14-3 late in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     2164,
+     "sentence":"h-on-three on Washington's 3-yard line with 5:58 remaining in regulation.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     2168,
+     "sentence":"Anderson reverted to pre-Giants game form; he was 3-of-14 for 17 yards at halftime.",
+     "confidence":"None"
+    }
    },
    "punt_return_yards":   22,
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    2173,
-    "sentence":"As Bill Simmons would write, any 17-year-old Madden geek could tell you that they needed 2 scores: a field goal and a touchdown plus 2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     2160,
+     "sentence":"As Bill Simmons would write, any 17-year-old Madden geek could tell you that they needed 2 scores: a field goal and a touchdown plus 2.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     2161,
+     "sentence":"As Bill Simmons would write, any 17-year-old Madden geek could tell you that they needed 2 scores: a field goal and a touchdown plus 2.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     2165,
+     "sentence":"Three minutes later, the Browns scored a touchdown and converted the 2-point try, which would explain the 14-11 score.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     2173,
+     "sentence":"managed just 2 receptions.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -241,14 +394,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   9,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    6472,
-    "sentence":"Santana Moss had just 2 catches for 6 yards, while Antwaan Randle El had 7 grabs for 98 yards."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     6472,
+     "sentence":"Santana Moss had just 2 catches for 6 yards, while Antwaan Randle El had 7 grabs for 98 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"98",
-    "annotationID":    6473,
-    "sentence":"Santana Moss had just 2 catches for 6 yards, while Antwaan Randle El had 7 grabs for 98 yards."
+    "1":{
+     "propertyValue":"98",
+     "annotationID":     6473,
+     "sentence":"Santana Moss had just 2 catches for 6 yards, while Antwaan Randle El had 7 grabs for 98 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -298,14 +457,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    11064,
-    "sentence":"El (4-73) also contributed."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     11064,
+     "sentence":"El (4-73) also contributed.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"73",
-    "annotationID":    11065,
-    "sentence":"El (4-73) also contributed."
+    "1":{
+     "propertyValue":"73",
+     "annotationID":     11065,
+     "sentence":"El (4-73) also contributed.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

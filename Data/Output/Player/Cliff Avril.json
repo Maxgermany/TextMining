@@ -100,14 +100,26 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    21835,
-    "sentence":"When it was Detroit's turn, Stafford threw a jump ball and Tony Scheffler made a juggling 29-yard catch to set up the Lions at the Broncos' 2-yard line."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     21835,
+     "sentence":"When it was Detroit's turn, Stafford threw a jump ball and Tony Scheffler made a juggling 29-yard catch to set up the Lions at the Broncos' 2-yard line.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    21836,
-    "sentence":"In the first half, Tebow was sacked 3 times and under steady pressure, making only 4-of-13 passes for 37 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     21834,
+     "sentence":"In the first half, Tebow was sacked 3 times and under steady pressure, making only 4-of-13 passes for 37 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     21836,
+     "sentence":"Detroit was up 24-3 at halftime.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -159,9 +171,18 @@
    "defense_sacks":   2,
    "defense_tackles":   7,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    24528,
-    "sentence":"Avril took this opportunity to inexplicably jump offsides before Webb could spike the ball, setting up Minnesota at the 1-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     24527,
+     "sentence":"Avril took this opportunity to inexplicably jump offsides before Webb could spike the ball, setting up Minnesota at the 1-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     24528,
+     "sentence":"The thing is, Minnesota should have had another shot at the 1-yard line; the fumble occurred because Webb was grabbed by the face mask.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -187,14 +208,32 @@
    "opponent":"OAK",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"28",
-    "annotationID":    25215,
-    "sentence":"After an incompletion, Stafford hit Johnson for the score and 28-27 lead, the Lions' first of the game."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     25215,
+     "sentence":"After an incompletion, Stafford hit Johnson for the score and 28-27 lead, the Lions' first of the game.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    25216,
-    "sentence":"touchdown advantage, the lead was 27-14."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     25208,
+     "sentence":"touchdown advantage, the lead was 27-14.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"27",
+     "annotationID":     25209,
+     "sentence":"He was only 4-for-9 on the drive, but put the ball in the end zone to Titus Young, trimming the Raiders lead to 27-21.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"27",
+     "annotationID":     25216,
+     "sentence":"After an incompletion, Stafford hit Johnson for the score and 28-27 lead, the Lions' first of the game.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -218,19 +257,100 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    25212,
-    "sentence":"The penalties set the Raiders up at the Detroit 12, and Louis Murphy ran it in for a touchdown on a reverse for the game's first score."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     25199,
+     "sentence":"The Lions answered with a touchdown drive that started off with small gains and ended with a bomb to Calvin Johnson (9-214, 2 TDs) for the 51-yard tying score.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     25204,
+     "sentence":"After forcing a punt, the Oakland offense chipped away with a feisty drive featuring a handful of short Bush runs and 2 modest pass plays to get Janikowski close enough for a 51-yard field goal midway through the 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     25205,
+     "sentence":"Apparently he was worried about the Lions scoring a touchdown and 2 field goals in that span to beat him.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     25206,
+     "sentence":"Instead of trying the 2.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"2",
+     "annotationID":     25207,
+     "sentence":"point conversion to take a 2.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"2",
+     "annotationID":     25211,
+     "sentence":"Oakland tried to run it out with Bush, who had gains of 12, 3, 15, 5 and 2 yards to chew up 2:19 off the clock and eat up precious timeouts.",
+     "confidence":"None"
+    },
+    "7":{
+     "propertyValue":"2",
+     "annotationID":     25212,
+     "sentence":"Oakland tried to run it out with Bush, who had gains of 12, 3, 15, 5 and 2 yards to chew up 2:19 off the clock and eat up precious timeouts.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    25214,
-    "sentence":"Darrius Heyward-Bey had a 35-yard gain to bail the Raiders out of poor field position, and then he caught a 43-yard touchdown to put Oakland back on top 14-7."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     25202,
+     "sentence":"He was unable to find room the entire game and was stuffed on 3rd- and 4th-and-1 for a turnover on downs.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     25210,
+     "sentence":"Oakland tried to run it out with Bush, who had gains of 12, 3, 15, 5 and 2 yards to chew up 2:19 off the clock and eat up precious timeouts.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     25213,
+     "sentence":"Faced with a 3rd-and-3, the call was a play-action pass down the sideline for Chaz Schilens.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"3",
+     "annotationID":     25214,
+     "sentence":"Faced with a 3rd-and-3, the call was a play-action pass down the sideline for Chaz Schilens.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    25203,
-    "sentence":"Chris Houston drew a flag on the very next play for illegal contact, and 1 play later, Stephen Tulloch was nailed for yet another horse collar."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     25198,
+     "sentence":"Chris Houston drew a flag on the very next play for illegal contact, and 1 play later, Stephen Tulloch was nailed for yet another horse collar.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     25200,
+     "sentence":"Oakland struggled to convert third downs (1-of-9) the entire game, and even though Detroit was effective (8-of-17), they did most of their damage on big scoring plays.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     25201,
+     "sentence":"Kevin Smith (15 rushes for 43 yards) took the rock on 4 of the next 5 plays during 1 drive.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     25203,
+     "sentence":"He was unable to find room the entire game and was stuffed on 3rd- and 4th-and-1 for a turnover on downs.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -426,14 +546,32 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    49438,
-    "sentence":"Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles)."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     49436,
+     "sentence":"Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles).",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     49437,
+     "sentence":"Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     49438,
+     "sentence":"Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles).",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    49439,
-    "sentence":"Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles)."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     49439,
+     "sentence":"Avril (1 strip sack), and Richard Sherman (1 interception, 1 forced fumble, 3 tackles).",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

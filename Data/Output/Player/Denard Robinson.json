@@ -38,9 +38,12 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    36082,
-    "sentence":"Robinson (1-0) did very little in relief."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     36082,
+     "sentence":"Robinson (1-0) did very little in relief.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
@@ -91,9 +94,12 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    42707,
-    "sentence":"However, he wasn't too bad otherwise, going 17-of-24 for 193 yards, 2 touchdowns and the aforementioned pick."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     42707,
+     "sentence":"However, he wasn't too bad otherwise, going 17-of-24 for 193 yards, 2 touchdowns and the aforementioned pick.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   28,
    "rushing_touchdowns":   0,
@@ -135,9 +141,12 @@
    "game_won":   true,
    "player_team_score":"24",
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    48195,
-    "sentence":"Johnson (6-16, TD) barely was a factor."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     48195,
+     "sentence":"Johnson (6-16, TD) barely was a factor.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -148,14 +157,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"22",
-    "annotationID":    48194,
-    "sentence":"Robinson, taking the reins from the ineffective Storm Johnson, rushed for 127 yards and a touchdown on 22 carries."
+    "1":{
+     "propertyValue":"22",
+     "annotationID":     48194,
+     "sentence":"Robinson, taking the reins from the ineffective Storm Johnson, rushed for 127 yards and a touchdown on 22 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"127",
-    "annotationID":    48193,
-    "sentence":"Robinson, taking the reins from the ineffective Storm Johnson, rushed for 127 yards and a touchdown on 22 carries."
+    "1":{
+     "propertyValue":"127",
+     "annotationID":     48193,
+     "sentence":"Robinson, taking the reins from the ineffective Storm Johnson, rushed for 127 yards and a touchdown on 22 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -205,25 +220,55 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    48666,
-    "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     48659,
+     "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"18",
+     "annotationID":     48665,
+     "sentence":"He gained 108 yards on 18 carries, but struggled following intermission, managing just 18 yards on 7 attempts.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"18",
+     "annotationID":     48666,
+     "sentence":"He gained 108 yards on 18 carries, but struggled following intermission, managing just 18 yards on 7 attempts.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"108",
-    "annotationID":    48664,
-    "sentence":"He gained 108 yards on 18 carries, but struggled following intermission, managing just 18 yards on 7 attempts."
+    "1":{
+     "propertyValue":"108",
+     "annotationID":     48664,
+     "sentence":"He gained 108 yards on 18 carries, but struggled following intermission, managing just 18 yards on 7 attempts.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"2",
-    "annotationID":    48663,
-    "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     48662,
+     "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     48663,
+     "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    48660,
-    "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48660,
+     "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   10,
    "receiving_touchdowns":   0,
@@ -235,9 +280,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    48661,
-    "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48661,
+     "sentence":"Bortles (18-of-34, 221 yards, 1 touchdown, 2 picks), made his most egregious errors occurred when he lost a fumble and tossed 2 interceptions, both of which were pick-sixes.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -274,22 +322,31 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    49150,
-    "sentence":"A couple of plays later, Robinson (17-94) ran the ball into the end zone to close the lead to 3."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     49150,
+     "sentence":"A couple of plays later, Robinson (17-94) ran the ball into the end zone to close the lead to 3.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"94",
-    "annotationID":    49151,
-    "sentence":"A couple of plays later, Robinson (17-94) ran the ball into the end zone to close the lead to 3."
+    "1":{
+     "propertyValue":"94",
+     "annotationID":     49151,
+     "sentence":"A couple of plays later, Robinson (17-94) ran the ball into the end zone to close the lead to 3.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   2,
    "receiving_receptions":   2,
    "receiving_yards":{
-    "propertyValue":"10",
-    "annotationID":    49149,
-    "sentence":"Dalton dropped in a rainbow to Sanu, who made an over-the-shoulder catch for a 32-yard gain to the 10-yard line."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     49149,
+     "sentence":"Dalton dropped in a rainbow to Sanu, who made an over-the-shoulder catch for a 32-yard gain to the 10-yard line.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -335,14 +392,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    49952,
-    "sentence":"Robinson (15-60) exploded untouched on a 32-yard touchdown run."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     49952,
+     "sentence":"Robinson (15-60) exploded untouched on a 32-yard touchdown run.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"60",
-    "annotationID":    49953,
-    "sentence":"Robinson (15-60) exploded untouched on a 32-yard touchdown run."
+    "1":{
+     "propertyValue":"60",
+     "annotationID":     49953,
+     "sentence":"Robinson (15-60) exploded untouched on a 32-yard touchdown run.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   2,
    "receiving_targets":   3,
@@ -392,14 +455,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    50697,
-    "sentence":"Robinson couldn't run behind his offensive line, mustering just 25 yards on 14 carries."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     50697,
+     "sentence":"Robinson couldn't run behind his offensive line, mustering just 25 yards on 14 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"25",
-    "annotationID":    50696,
-    "sentence":"Robinson couldn't run behind his offensive line, mustering just 25 yards on 14 carries."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     50696,
+     "sentence":"Robinson couldn't run behind his offensive line, mustering just 25 yards on 14 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
@@ -440,9 +509,12 @@
    "game_won":   true,
    "player_team_score":"25",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    51499,
-    "sentence":"Manning was 24-of-34 for 247 yards with a touchdown."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     51499,
+     "sentence":"Manning was 24-of-34 for 247 yards with a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -453,20 +525,29 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"11",
-    "annotationID":    51497,
-    "sentence":"Robinson (11-44) never got going on the ground."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     51497,
+     "sentence":"Robinson (11-44) never got going on the ground.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"44",
-    "annotationID":    51498,
-    "sentence":"Robinson (11-44) never got going on the ground."
+    "1":{
+     "propertyValue":"44",
+     "annotationID":     51498,
+     "sentence":"Robinson (11-44) never got going on the ground.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    51500,
-    "sentence":"Robinson (11-44) never got going on the ground."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     51500,
+     "sentence":"The Jaguars allowed Bortles to be sacked 7 times, while New York allowed 4 sacks of Manning.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   3,
    "receiving_yards":   10,
@@ -514,14 +595,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    51979,
-    "sentence":"Robinson (10-30)."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     51979,
+     "sentence":"Robinson (10-30).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"30",
-    "annotationID":    51980,
-    "sentence":"Robinson (10-30)."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     51980,
+     "sentence":"Robinson (10-30).",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   2,
@@ -561,9 +648,12 @@
    "opponent":"HOU",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    57812,
-    "sentence":"Bortles went on to hit Robinson for a gain of close to 20 and then threw a dart to a wide open Julius Thomas for a 29-yard touchdown."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     57812,
+     "sentence":"Bortles went on to hit Robinson for a gain of close to 20 and then threw a dart to a wide open Julius Thomas for a 29-yard touchdown.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"31",
    "passing_attempts":   0,
@@ -575,21 +665,30 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    57809,
-    "sentence":"The Texans answered with a field goal drive to take a 10-7 lead."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     57809,
+     "sentence":"The Texans answered with a field goal drive to take a 10-7 lead.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   19,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    57810,
-    "sentence":"Right before the half, Bortles drove the ball to Houston's 10-yard line, but he threw a terrible pass that was intercepted by Andre Hal to maintain the 3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     57810,
+     "sentence":"Right before the half, Bortles drove the ball to Houston's 10-yard line, but he threw a terrible pass that was intercepted by Andre Hal to maintain the 3.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    57811,
-    "sentence":"Right before the half, Bortles drove the ball to Houston's 10-yard line, but he threw a terrible pass that was intercepted by Andre Hal to maintain the 3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     57811,
+     "sentence":"Right before the half, Bortles drove the ball to Houston's 10-yard line, but he threw a terrible pass that was intercepted by Andre Hal to maintain the 3.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   19,
    "receiving_touchdowns":   0,
@@ -626,9 +725,12 @@
    "opponent":"TEN",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"19",
-    "annotationID":    59589,
-    "sentence":"Hurns, on the other hand, logged 3 receptions for 19 yards."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     59589,
+     "sentence":"Hurns, on the other hand, logged 3 receptions for 19 yards.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"13",
    "passing_attempts":   0,
@@ -680,9 +782,12 @@
    "game_won":   true,
    "player_team_score":"51",
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    61867,
-    "sentence":"That expanded the Jaguars' lead to 30-16."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     61867,
+     "sentence":"That expanded the Jaguars' lead to 30-16.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -698,9 +803,12 @@
    "receiving_targets":   2,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"12",
-    "annotationID":    61866,
-    "sentence":"Robinson ran the ball 12 yards before Bortles threw a dart to Allen Robinson for a short touchdown."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     61866,
+     "sentence":"Robinson ran the ball 12 yards before Bortles threw a dart to Allen Robinson for a short touchdown.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -851,9 +959,18 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"1",
-    "annotationID":    71747,
-    "sentence":"He posted a career-high 81 rushing yards on 8 carries."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     71746,
+     "sentence":"Marqise Lee (4-37, 1 TD), Allen Robinson (2-24) and Allen Hurns (1-12, TD) all saw a great deal of attention from their quarterback.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     71747,
+     "sentence":"Marqise Lee (4-37, 1 TD), Allen Robinson (2-24) and Allen Hurns (1-12, TD) all saw a great deal of attention from their quarterback.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   13,
    "kick_return_touchdowns":   0,

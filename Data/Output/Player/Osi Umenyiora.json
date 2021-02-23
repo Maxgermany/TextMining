@@ -198,9 +198,12 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    28709,
-    "sentence":"If there's 1 dark cloud over this performance for Philadelphia's offense, it's that the team struggled in the red zone."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     28709,
+     "sentence":"If there's 1 dark cloud over this performance for Philadelphia's offense, it's that the team struggled in the red zone.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   4,
    "defense_tackle_assists":   0,
@@ -304,9 +307,12 @@
    "defense_tackle_assists":   0,
    "defense_interceptions":   1,
    "defense_interception_yards":{
-    "propertyValue":"68",
-    "annotationID":    35605,
-    "sentence":"The former Giant defensive end then galloped 68 yards to go into the end zone."
+    "1":{
+     "propertyValue":"68",
+     "annotationID":     35605,
+     "sentence":"The former Giant defensive end then galloped 68 yards to go into the end zone.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -353,9 +359,18 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    40761,
-    "sentence":"Umenyiora had 2 insignificant coverage sacks, but Atlanta's defense was dreadful."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     40760,
+     "sentence":"Umenyiora had 2 insignificant coverage sacks, but Atlanta's defense was dreadful.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     40761,
+     "sentence":"It is disheartening at 2-8 with expectations that were reasonable coming into this year.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":   3,
    "defense_tackle_assists":   0,
@@ -384,9 +399,12 @@
    "game_won":   false,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"30",
-    "annotationID":    47138,
-    "sentence":"As a result, Manning was a clean 19-of-30 for 200 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     47138,
+     "sentence":"As a result, Manning was a clean 19-of-30 for 200 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,

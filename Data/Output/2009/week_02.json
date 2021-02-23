@@ -70,9 +70,12 @@
       "defense_sacks":      0,
       "defense_tackles":      3,
       "defense_tackle_assists":{
-       "propertyValue":"2",
-       "annotationID":       6536,
-       "sentence":"Unfortunately, Detroit could not contain Peterson, who rushed for 92 yards and a score on just 15 carries."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6536,
+        "sentence":"Two games and 2 touchdowns for ",
+        "confidence":"None"
+       }
       },
       "defense_interceptions":      0,
       "defense_interception_yards":      0,
@@ -132,14 +135,44 @@
       "rushing_yards":      16,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"2",
-       "annotationID":       6541,
-       "sentence":"Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6537,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        6539,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"2",
+        "annotationID":        6541,
+        "sentence":"Two games and 2 touchdowns for ",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6542,
-       "sentence":"Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6538,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        6540,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"2",
+        "annotationID":        6542,
+        "sentence":"Two games and 2 touchdowns for ",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      11,
       "receiving_touchdowns":      0,
@@ -210,19 +243,28 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"6",
-       "annotationID":       6543,
-       "sentence":"Berrian grabbed 6 balls for 46 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6543,
+        "sentence":"Berrian grabbed 6 balls for 46 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6544,
-       "sentence":"Berrian grabbed 6 balls for 46 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6544,
+        "sentence":"Berrian grabbed 6 balls for 46 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"46",
-       "annotationID":       6545,
-       "sentence":"Berrian grabbed 6 balls for 46 yards."
+       "1":{
+        "propertyValue":"46",
+        "annotationID":        6545,
+        "sentence":"Berrian grabbed 6 balls for 46 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -293,14 +335,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6546,
-       "sentence":"Megatron, meanwhile, had 5 grabs for 51 yards and a touchdown."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6546,
+        "sentence":"Megatron, meanwhile, had 5 grabs for 51 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"51",
-       "annotationID":       6547,
-       "sentence":"Megatron, meanwhile, had 5 grabs for 51 yards and a touchdown."
+       "1":{
+        "propertyValue":"51",
+        "annotationID":        6547,
+        "sentence":"Megatron, meanwhile, had 5 grabs for 51 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -371,14 +419,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6548,
-       "sentence":"Pettigrew also took part in the passing game, catching 4 balls for 40 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6548,
+        "sentence":"Pettigrew also took part in the passing game, catching 4 balls for 40 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"40",
-       "annotationID":       6549,
-       "sentence":"Pettigrew also took part in the passing game, catching 4 balls for 40 yards."
+       "1":{
+        "propertyValue":"40",
+        "annotationID":        6549,
+        "sentence":"Pettigrew also took part in the passing game, catching 4 balls for 40 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -435,9 +489,18 @@
       "opponent":"DET",
       "game_won":      true,
       "player_team_score":{
-       "propertyValue":"27",
-       "annotationID":       6554,
-       "sentence":"Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        6550,
+        "sentence":"Peterson 27-yard touchdown run.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"27",
+        "annotationID":        6554,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"13",
       "passing_attempts":      0,
@@ -449,29 +512,56 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"15",
-       "annotationID":       6558,
-       "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"15",
+        "annotationID":        6556,
+        "sentence":"Unfortunately, Detroit could not contain Peterson, who rushed for 92 yards and a score on just 15 carries.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"15",
+        "annotationID":        6558,
+        "sentence":"Of course, 1 has to wonder why Peterson got only 15 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"92",
-       "annotationID":       6555,
-       "sentence":"Unfortunately, Detroit could not contain Peterson, who rushed for 92 yards and a score on just 15 carries."
+       "1":{
+        "propertyValue":"92",
+        "annotationID":        6555,
+        "sentence":"Unfortunately, Detroit could not contain Peterson, who rushed for 92 yards and a score on just 15 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       6557,
-       "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6551,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        6557,
+        "sentence":"Of course, 1 has to wonder why Peterson got only 15 carries.",
+        "confidence":"None"
+       }
       },
       "receiving_targets":{
-       "propertyValue":"4",
-       "annotationID":       6552,
-       "sentence":"Brandon Pettigrew also took part in the passing game, catching 4 balls for 40 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6552,
+        "sentence":"Brandon Pettigrew also took part in the passing game, catching 4 balls for 40 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6553,
-       "sentence":"Brandon Pettigrew also took part in the passing game, catching 4 balls for 40 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6553,
+        "sentence":"Brandon Pettigrew also took part in the passing game, catching 4 balls for 40 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      24,
       "receiving_touchdowns":      0,
@@ -542,19 +632,28 @@
       "rushing_yards":      14,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"5",
-       "annotationID":       6559,
-       "sentence":"Harvin caught 5 balls for 41 yards and the score."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6559,
+        "sentence":"Harvin caught 5 balls for 41 yards and the score.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6560,
-       "sentence":"Harvin caught 5 balls for 41 yards and the score."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6560,
+        "sentence":"Harvin caught 5 balls for 41 yards and the score.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"41",
-       "annotationID":       6561,
-       "sentence":"Harvin caught 5 balls for 41 yards and the score."
+       "1":{
+        "propertyValue":"41",
+        "annotationID":        6561,
+        "sentence":"Harvin caught 5 balls for 41 yards and the score.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      3,
@@ -612,46 +711,94 @@
       "game_won":      false,
       "player_team_score":"13",
       "opponent_score":{
-       "propertyValue":"27",
-       "annotationID":       6567,
-       "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        6567,
+        "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":{
-       "propertyValue":"18",
-       "annotationID":       6568,
-       "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"18",
+        "annotationID":        6568,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"30",
-       "annotationID":       6569,
-       "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"30",
+        "annotationID":        6569,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"152",
-       "annotationID":       6570,
-       "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"152",
+        "annotationID":        6570,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      56.5,
       "passing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       6571,
-       "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6564,
+        "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        6571,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":{
-       "propertyValue":"2",
-       "annotationID":       6574,
-       "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6562,
+        "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        6574,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       6575,
-       "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6563,
+        "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        6575,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      16,
       "rushing_attempts":{
-       "propertyValue":"1",
-       "annotationID":       6572,
-       "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6565,
+        "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        6572,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      7,
       "rushing_touchdowns":      0,
@@ -667,9 +814,18 @@
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
       "defense_tackles":{
-       "propertyValue":"1",
-       "annotationID":       6573,
-       "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6566,
+        "sentence":"Stafford tossed 2 picks - 1 late over the middle - and the Lions forgot how to tackle on an Adrian Peterson 27-yard touchdown run.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        6573,
+        "sentence":"Stafford finished 18-of-30 for 152 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -717,31 +873,46 @@
       "opponent":"DET",
       "game_won":      true,
       "player_team_score":{
-       "propertyValue":"27",
-       "annotationID":       6577,
-       "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        6577,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"13",
       "passing_attempts":{
-       "propertyValue":"23",
-       "annotationID":       6576,
-       "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"23",
+        "annotationID":        6576,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"27",
-       "annotationID":       6578,
-       "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        6578,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"155",
-       "annotationID":       6579,
-       "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"155",
+        "annotationID":        6579,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      115.3,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6580,
-       "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6580,
+        "sentence":"Favre was 23-of-27 for 155 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":      3,
@@ -818,17 +989,23 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":      24,
       "rushing_yards":{
-       "propertyValue":"83",
-       "annotationID":       6581,
-       "sentence":"Smith touched the ball 26 times out of 66 plays (83 rushing yards, 10 receiving yards)."
+       "1":{
+        "propertyValue":"83",
+        "annotationID":        6581,
+        "sentence":"Smith touched the ball 26 times out of 66 plays (83 rushing yards, 10 receiving yards).",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
       "receiving_receptions":      2,
       "receiving_yards":{
-       "propertyValue":"10",
-       "annotationID":       6582,
-       "sentence":"Smith touched the ball 26 times out of 66 plays (83 rushing yards, 10 receiving yards)."
+       "1":{
+        "propertyValue":"10",
+        "annotationID":        6582,
+        "sentence":"Smith touched the ball 26 times out of 66 plays (83 rushing yards, 10 receiving yards).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -911,9 +1088,12 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"5",
-       "annotationID":       6583,
-       "sentence":"He was targeted 5 times."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6583,
+        "sentence":"He was targeted 5 times.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":      0,
       "receiving_yards":      0,
@@ -986,14 +1166,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6584,
-       "sentence":"Finley (4 catches, 56 yards) committed a false start penalty with less than 10 seconds left."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6584,
+        "sentence":"Finley (4 catches, 56 yards) committed a false start penalty with less than 10 seconds left.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"56",
-       "annotationID":       6585,
-       "sentence":"Finley (4 catches, 56 yards) committed a false start penalty with less than 10 seconds left."
+       "1":{
+        "propertyValue":"56",
+        "annotationID":        6585,
+        "sentence":"Finley (4 catches, 56 yards) committed a false start penalty with less than 10 seconds left.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -1064,14 +1250,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6586,
-       "sentence":"He finished with 6 grabs for 99 yards and a score."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6586,
+        "sentence":"He finished with 6 grabs for 99 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"99",
-       "annotationID":       6587,
-       "sentence":"He finished with 6 grabs for 99 yards and a score."
+       "1":{
+        "propertyValue":"99",
+        "annotationID":        6587,
+        "sentence":"He finished with 6 grabs for 99 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -1130,41 +1322,62 @@
       "player_team_score":"31",
       "opponent_score":"24",
       "passing_attempts":{
-       "propertyValue":"15",
-       "annotationID":       6588,
-       "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards."
+       "1":{
+        "propertyValue":"15",
+        "annotationID":        6588,
+        "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards.",
+        "confidence":"Strong"
+       }
       },
       "passing_completions":{
-       "propertyValue":"23",
-       "annotationID":       6589,
-       "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards."
+       "1":{
+        "propertyValue":"23",
+        "annotationID":        6589,
+        "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"185",
-       "annotationID":       6590,
-       "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards."
+       "1":{
+        "propertyValue":"185",
+        "annotationID":        6590,
+        "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      93.3,
       "passing_touchdowns":{
-       "propertyValue":"3",
-       "annotationID":       6591,
-       "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6591,
+        "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":{
-       "propertyValue":"2",
-       "annotationID":       6592,
-       "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6592,
+        "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards.",
+        "confidence":"None"
+       }
       },
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       6593,
-       "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6593,
+        "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      17,
       "rushing_attempts":{
-       "propertyValue":"2",
-       "annotationID":       6594,
-       "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6594,
+        "sentence":"Palmer (15-of-23, 185 yards, 3 TDs, 2 INTs) passed to Daniel Coats for 25 yards.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      1,
       "rushing_touchdowns":      1,
@@ -1438,37 +1651,55 @@
       "player_team_score":"24",
       "opponent_score":"31",
       "passing_attempts":{
-       "propertyValue":"21",
-       "annotationID":       6595,
-       "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line."
+       "1":{
+        "propertyValue":"21",
+        "annotationID":        6595,
+        "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"39",
-       "annotationID":       6596,
-       "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line."
+       "1":{
+        "propertyValue":"39",
+        "annotationID":        6596,
+        "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"261",
-       "annotationID":       6598,
-       "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line."
+       "1":{
+        "propertyValue":"261",
+        "annotationID":        6598,
+        "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      83.4,
       "passing_touchdowns":      1,
       "passing_interceptions":      0,
       "passing_sacks":{
-       "propertyValue":"6",
-       "annotationID":       6600,
-       "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6600,
+        "sentence":"In total, Aaron Rodgers was sacked 6 times.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":{
-       "propertyValue":"39",
-       "annotationID":       6597,
-       "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line."
+       "1":{
+        "propertyValue":"39",
+        "annotationID":        6597,
+        "sentence":"Rodgers (21-of-39, 261 yards, TD) drove the Packers down to Cincinnati's 10-yard line.",
+        "confidence":"None"
+       }
       },
       "rushing_attempts":{
-       "propertyValue":"4",
-       "annotationID":       6599,
-       "sentence":"Fortunately for the sanity of all Bengals fans, Green Bay ran out of time; Jermichael Finley (4 catches, 56 yards) committed a false start penalty with less than 10 seconds left."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6599,
+        "sentence":"Fortunately for the sanity of all Bengals fans, Green Bay ran out of time; Jermichael Finley (4 catches, 56 yards) committed a false start penalty with less than 10 seconds left.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      43,
       "rushing_touchdowns":      0,
@@ -1540,14 +1771,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"14",
-       "annotationID":       6602,
-       "sentence":"Grant gained 46 yards and a touchdown on 14 carries."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6602,
+        "sentence":"Grant gained 46 yards and a touchdown on 14 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"46",
-       "annotationID":       6601,
-       "sentence":"Grant gained 46 yards and a touchdown on 14 carries."
+       "1":{
+        "propertyValue":"46",
+        "annotationID":        6601,
+        "sentence":"Grant gained 46 yards and a touchdown on 14 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      5,
@@ -1759,25 +1996,37 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":      1,
       "rushing_yards":{
-       "propertyValue":"2",
-       "annotationID":       6604,
-       "sentence":"He came up with 2 grabs for 9 yards and a touchdown."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6604,
+        "sentence":"He came up with 2 grabs for 9 yards and a touchdown.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"3",
-       "annotationID":       6603,
-       "sentence":"- Laveranues Coles was also targeted 3 times."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6603,
+        "sentence":"- Laveranues Coles was also targeted 3 times.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6605,
-       "sentence":"He came up with 2 grabs for 9 yards and a touchdown."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6605,
+        "sentence":"He came up with 2 grabs for 9 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"9",
-       "annotationID":       6606,
-       "sentence":"He finished with 6 grabs for 99 yards and a score."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6606,
+        "sentence":"He came up with 2 grabs for 9 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -1844,14 +2093,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"29",
-       "annotationID":       6607,
-       "sentence":"Benson (29 carries, 141 yards) gained 4."
+       "1":{
+        "propertyValue":"29",
+        "annotationID":        6607,
+        "sentence":"Benson (29 carries, 141 yards) gained 4.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"141",
-       "annotationID":       6608,
-       "sentence":"Benson (29 carries, 141 yards) gained 4."
+       "1":{
+        "propertyValue":"141",
+        "annotationID":        6608,
+        "sentence":"Benson (29 carries, 141 yards) gained 4.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -1925,15 +2180,21 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"3",
-       "annotationID":       6610,
-       "sentence":"- Laveranues Coles was also targeted 3 times."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6610,
+        "sentence":"- Laveranues Coles was also targeted 3 times.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":      1,
       "receiving_yards":{
-       "propertyValue":"5",
-       "annotationID":       6609,
-       "sentence":"Henry scored a touchdown, but it was his only reception (5 yards)."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6609,
+        "sentence":"Henry scored a touchdown, but it was his only reception (5 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2017,14 +2278,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6611,
-       "sentence":"Sims-Walker collected 6 receptions for 106 yards and a score."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6611,
+        "sentence":"Sims-Walker collected 6 receptions for 106 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"106",
-       "annotationID":       6612,
-       "sentence":"Sims-Walker collected 6 receptions for 106 yards and a score."
+       "1":{
+        "propertyValue":"106",
+        "annotationID":        6612,
+        "sentence":"Sims-Walker collected 6 receptions for 106 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2081,9 +2348,12 @@
       "opponent":"ARI",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"17",
-       "annotationID":       6616,
-       "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards."
+       "1":{
+        "propertyValue":"17",
+        "annotationID":        6616,
+        "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"31",
       "passing_attempts":      0,
@@ -2095,26 +2365,38 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"13",
-       "annotationID":       6614,
-       "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards."
+       "1":{
+        "propertyValue":"13",
+        "annotationID":        6614,
+        "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"66",
-       "annotationID":       6613,
-       "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards."
+       "1":{
+        "propertyValue":"66",
+        "annotationID":        6613,
+        "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6615,
-       "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6615,
+        "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"17",
-       "annotationID":       6617,
-       "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards."
+       "1":{
+        "propertyValue":"17",
+        "annotationID":        6617,
+        "sentence":"Jones-Drew managed 66 yards on just 13 carries (WTF?) and 4 catches for 17 more yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2185,14 +2467,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"8",
-       "annotationID":       6618,
-       "sentence":"Boldin had 8 catches for 69 yards."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        6618,
+        "sentence":"Boldin had 8 catches for 69 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"69",
-       "annotationID":       6619,
-       "sentence":"Boldin had 8 catches for 69 yards."
+       "1":{
+        "propertyValue":"69",
+        "annotationID":        6619,
+        "sentence":"Boldin had 8 catches for 69 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2263,14 +2551,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      11,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6620,
-       "sentence":"Holt had 6 catches for 65 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6620,
+        "sentence":"Holt had 6 catches for 65 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"65",
-       "annotationID":       6621,
-       "sentence":"Holt had 6 catches for 65 yards."
+       "1":{
+        "propertyValue":"65",
+        "annotationID":        6621,
+        "sentence":"Holt had 6 catches for 65 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2340,19 +2634,28 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"5",
-       "annotationID":       6622,
-       "sentence":"Breaston managed 5 receptions for 83 yards."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6622,
+        "sentence":"Breaston managed 5 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6623,
-       "sentence":"Breaston managed 5 receptions for 83 yards."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6623,
+        "sentence":"Breaston managed 5 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"83",
-       "annotationID":       6624,
-       "sentence":"Breaston managed 5 receptions for 83 yards."
+       "1":{
+        "propertyValue":"83",
+        "annotationID":        6624,
+        "sentence":"Breaston managed 5 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -2419,14 +2722,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"15",
-       "annotationID":       6626,
-       "sentence":"Hightower stole his touches, gaining 72 yards and a score on 15 attempts."
+       "1":{
+        "propertyValue":"15",
+        "annotationID":        6626,
+        "sentence":"Hightower stole his touches, gaining 72 yards and a score on 15 attempts.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"72",
-       "annotationID":       6625,
-       "sentence":"Hightower stole his touches, gaining 72 yards and a score on 15 attempts."
+       "1":{
+        "propertyValue":"72",
+        "annotationID":        6625,
+        "sentence":"Hightower stole his touches, gaining 72 yards and a score on 15 attempts.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      3,
@@ -2489,25 +2798,37 @@
       "player_team_score":"31",
       "opponent_score":"17",
       "passing_attempts":{
-       "propertyValue":"24",
-       "annotationID":       6627,
-       "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        6627,
+        "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"26",
-       "annotationID":       6628,
-       "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores."
+       "1":{
+        "propertyValue":"26",
+        "annotationID":        6628,
+        "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"243",
-       "annotationID":       6629,
-       "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores."
+       "1":{
+        "propertyValue":"243",
+        "annotationID":        6629,
+        "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      131.2,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6630,
-       "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6630,
+        "sentence":"Warner set an NFL record for completion percentage in game, going 24-of-26 for 243 yards and 2 scores.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":      0,
@@ -2587,14 +2908,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6631,
-       "sentence":"Fitzgerald was the only wideout who caught a touchdown (4 catches, 34 yards)."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6631,
+        "sentence":"Fitzgerald was the only wideout who caught a touchdown (4 catches, 34 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"34",
-       "annotationID":       6632,
-       "sentence":"Fitzgerald was the only wideout who caught a touchdown (4 catches, 34 yards)."
+       "1":{
+        "propertyValue":"34",
+        "annotationID":        6632,
+        "sentence":"Fitzgerald was the only wideout who caught a touchdown (4 catches, 34 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -2653,25 +2980,37 @@
       "player_team_score":"17",
       "opponent_score":"31",
       "passing_attempts":{
-       "propertyValue":"23",
-       "annotationID":       6633,
-       "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles."
+       "1":{
+        "propertyValue":"23",
+        "annotationID":        6633,
+        "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"43",
-       "annotationID":       6634,
-       "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles."
+       "1":{
+        "propertyValue":"43",
+        "annotationID":        6634,
+        "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"282",
-       "annotationID":       6635,
-       "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles."
+       "1":{
+        "propertyValue":"282",
+        "annotationID":        6635,
+        "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      79.8,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6636,
-       "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6636,
+        "sentence":"Garrard was 23-of-43 for 282 yards, 2 touchdowns, (most of that late in the game) a pick and 3 fumbles.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      1,
       "passing_sacks":      4,
@@ -2760,14 +3099,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"24",
-       "annotationID":       6638,
-       "sentence":"gaining 78 yards on 24 carries."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        6638,
+        "sentence":"gaining 78 yards on 24 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"78",
-       "annotationID":       6637,
-       "sentence":"gaining 78 yards on 24 carries."
+       "1":{
+        "propertyValue":"78",
+        "annotationID":        6637,
+        "sentence":"gaining 78 yards on 24 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
@@ -2830,35 +3175,53 @@
       "player_team_score":"10",
       "opponent_score":"13",
       "passing_attempts":{
-       "propertyValue":"24",
-       "annotationID":       6639,
-       "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        6639,
+        "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"39",
-       "annotationID":       6640,
-       "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"39",
+        "annotationID":        6640,
+        "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"241",
-       "annotationID":       6641,
-       "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"241",
+        "annotationID":        6641,
+        "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      66.3,
       "passing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       6642,
-       "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6642,
+        "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":{
-       "propertyValue":"2",
-       "annotationID":       6644,
-       "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6644,
+        "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       6645,
-       "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6645,
+        "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      5,
       "rushing_attempts":      5,
@@ -2876,9 +3239,12 @@
       "punt_return_touchdowns":      0,
       "defense_sacks":      0,
       "defense_tackles":{
-       "propertyValue":"1",
-       "annotationID":       6643,
-       "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6643,
+        "sentence":"- Matt Cassel was 24-of-39 for 241 yards, 1 touchdown and 2 picks.",
+        "confidence":"None"
+       }
       },
       "defense_tackle_assists":      0,
       "defense_interceptions":      0,
@@ -2938,24 +3304,36 @@
       "rushing_attempts":      12,
       "rushing_yards":      55,
       "rushing_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       6647,
-       "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6647,
+        "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive.",
+        "confidence":"None"
+       }
       },
       "receiving_targets":{
-       "propertyValue":"1",
-       "annotationID":       6648,
-       "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6648,
+        "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       6649,
-       "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6649,
+        "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"4",
-       "annotationID":       6646,
-       "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6646,
+        "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3022,30 +3400,45 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"9",
-       "annotationID":       6650,
-       "sentence":"Bush is easily the team's best runner, yet he had just 9 carries for 35 yards."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6650,
+        "sentence":"Bush is easily the team's best runner, yet he had just 9 carries for 35 yards.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"35",
-       "annotationID":       6651,
-       "sentence":"Bush is easily the team's best runner, yet he had just 9 carries for 35 yards."
+       "1":{
+        "propertyValue":"35",
+        "annotationID":        6651,
+        "sentence":"Bush is easily the team's best runner, yet he had just 9 carries for 35 yards.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"1",
-       "annotationID":       6653,
-       "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6653,
+        "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       6654,
-       "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6654,
+        "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"17",
-       "annotationID":       6652,
-       "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive."
+       "1":{
+        "propertyValue":"17",
+        "annotationID":        6652,
+        "sentence":"When Bush got the ball, he rushed 4 times for 14 yards and caught a 17-yard pass on 1 drive.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3185,15 +3578,21 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"6",
-       "annotationID":       6656,
-       "sentence":"However, Heyward-Bey was targeted 6 times."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6656,
+        "sentence":"However, Heyward-Bey was targeted 6 times.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":      1,
       "receiving_yards":{
-       "propertyValue":"18",
-       "annotationID":       6655,
-       "sentence":"Heyward-Bey caught the first pass of his career, which was an 18-yarder."
+       "1":{
+        "propertyValue":"18",
+        "annotationID":        6655,
+        "sentence":"Heyward-Bey caught the first pass of his career, which was an 18-yarder.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -3264,23 +3663,32 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6657,
-       "sentence":"Wade actually led the Chiefs wideouts in receptions with 6 for 72 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6657,
+        "sentence":"Wade actually led the Chiefs wideouts in receptions with 6 for 72 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"72",
-       "annotationID":       6659,
-       "sentence":"Wade actually led the Chiefs wideouts in receptions with 6 for 72 yards."
+       "1":{
+        "propertyValue":"72",
+        "annotationID":        6659,
+        "sentence":"Wade actually led the Chiefs wideouts in receptions with 6 for 72 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
       "punt_return_attempts":{
-       "propertyValue":"6",
-       "annotationID":       6658,
-       "sentence":"Wade actually led the Chiefs wideouts in receptions with 6 for 72 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6658,
+        "sentence":"Wade actually led the Chiefs wideouts in receptions with 6 for 72 yards.",
+        "confidence":"None"
+       }
       },
       "punt_return_yards":      57,
       "punt_return_touchdowns":      0,
@@ -3481,9 +3889,12 @@
       "passing_interceptions":      2,
       "passing_sacks":      1,
       "passing_sacks_yards_lost":{
-       "propertyValue":"7",
-       "annotationID":       6660,
-       "sentence":"Before the final drive, he was 3-of-17 for 42 yards."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6660,
+        "sentence":"Russell was 4-of-7 for 67 yards on the final sequence.",
+        "confidence":"None"
+       }
       },
       "rushing_attempts":      2,
       "rushing_yards":      6,
@@ -3548,9 +3959,12 @@
       "player_team_score":"13",
       "opponent_score":"10",
       "passing_attempts":{
-       "propertyValue":"7",
-       "annotationID":       6662,
-       "sentence":"Before the final drive, he was 3-of-17 for 42 yards."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6662,
+        "sentence":"Russell was 4-of-7 for 67 yards on the final sequence.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":      24,
       "passing_yards":      109,
@@ -3560,9 +3974,12 @@
       "passing_sacks":      2,
       "passing_sacks_yards_lost":      10,
       "rushing_attempts":{
-       "propertyValue":"3",
-       "annotationID":       6661,
-       "sentence":"Before the final drive, he was 3-of-17 for 42 yards."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6661,
+        "sentence":"Before the final drive, he was 3-of-17 for 42 yards.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      -3,
       "rushing_touchdowns":      0,
@@ -3637,19 +4054,28 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"5",
-       "annotationID":       6663,
-       "sentence":"Bowe had 5 catches for 56 yards and a touchdown."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6663,
+        "sentence":"Bowe had 5 catches for 56 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6664,
-       "sentence":"Bowe had 5 catches for 56 yards and a touchdown."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6664,
+        "sentence":"Bowe had 5 catches for 56 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"56",
-       "annotationID":       6665,
-       "sentence":"Bowe had 5 catches for 56 yards and a touchdown."
+       "1":{
+        "propertyValue":"56",
+        "annotationID":        6665,
+        "sentence":"Bowe had 5 catches for 56 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -3860,9 +4286,12 @@
       "game_won":      true,
       "player_team_score":"25",
       "opponent_score":{
-       "propertyValue":"24",
-       "annotationID":       6666,
-       "sentence":"Moss caught 4 balls for 24 yards, as he was completely shut down by Darrelle Revis."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        6666,
+        "sentence":"Moss caught 4 balls for 24 yards, as he was completely shut down by Darrelle Revis.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -3947,14 +4376,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6667,
-       "sentence":"Moss caught 4 balls for 24 yards, as he was completely shut down by Darrelle Revis."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6667,
+        "sentence":"Moss caught 4 balls for 24 yards, as he was completely shut down by Darrelle Revis.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"24",
-       "annotationID":       6668,
-       "sentence":"Moss caught 4 balls for 24 yards, as he was completely shut down by Darrelle Revis."
+       "1":{
+        "propertyValue":"24",
+        "annotationID":        6668,
+        "sentence":"Moss caught 4 balls for 24 yards, as he was completely shut down by Darrelle Revis.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4025,14 +4460,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6669,
-       "sentence":"Cotchery and Chansi Stuckey caught 4 balls for 87 and 37 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6669,
+        "sentence":"Cotchery and Chansi Stuckey caught 4 balls for 87 and 37 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"87",
-       "annotationID":       6670,
-       "sentence":"Cotchery and Chansi Stuckey caught 4 balls for 87 and 37 yards."
+       "1":{
+        "propertyValue":"87",
+        "annotationID":        6670,
+        "sentence":"Cotchery and Chansi Stuckey caught 4 balls for 87 and 37 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4173,14 +4614,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      16,
       "receiving_receptions":{
-       "propertyValue":"8",
-       "annotationID":       6671,
-       "sentence":"Edelman, playing in the slot in place of an injured Wes Welker, had 8 catches for 98 yards."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        6671,
+        "sentence":"Edelman, playing in the slot in place of an injured Wes Welker, had 8 catches for 98 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"98",
-       "annotationID":       6672,
-       "sentence":"Edelman, playing in the slot in place of an injured Wes Welker, had 8 catches for 98 yards."
+       "1":{
+        "propertyValue":"98",
+        "annotationID":        6672,
+        "sentence":"Edelman, playing in the slot in place of an injured Wes Welker, had 8 catches for 98 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      2,
@@ -4461,14 +4908,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      13,
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6673,
-       "sentence":"Galloway (5 catches for 53 yards) out-produced Randy Moss."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6673,
+        "sentence":"Galloway (5 catches for 53 yards) out-produced Randy Moss.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"53",
-       "annotationID":       6674,
-       "sentence":"Galloway (5 catches for 53 yards) out-produced Randy Moss."
+       "1":{
+        "propertyValue":"53",
+        "annotationID":        6674,
+        "sentence":"Galloway (5 catches for 53 yards) out-produced Randy Moss.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4605,14 +5058,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"14",
-       "annotationID":       6675,
-       "sentence":"Washington and Thomas Jones had 14 carries each for 58 and 54 yards, respectively."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6675,
+        "sentence":"Washington and Thomas Jones had 14 carries each for 58 and 54 yards, respectively.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"58",
-       "annotationID":       6676,
-       "sentence":"Washington and Thomas Jones had 14 carries each for 58 and 54 yards, respectively."
+       "1":{
+        "propertyValue":"58",
+        "annotationID":        6676,
+        "sentence":"Washington and Thomas Jones had 14 carries each for 58 and 54 yards, respectively.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
@@ -4823,14 +5282,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"14",
-       "annotationID":       6677,
-       "sentence":"Jones had 14 carries each for 58 and 54 yards, respectively."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6677,
+        "sentence":"Jones had 14 carries each for 58 and 54 yards, respectively.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"54",
-       "annotationID":       6678,
-       "sentence":"Jones had 14 carries each for 58 and 54 yards, respectively."
+       "1":{
+        "propertyValue":"54",
+        "annotationID":        6678,
+        "sentence":"Jones had 14 carries each for 58 and 54 yards, respectively.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -4905,14 +5370,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6679,
-       "sentence":"Leon Washington and Thomas Jones had 14 carries each for 58 and 54 yards, respectively."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6679,
+        "sentence":"Meanwhile, both Jerricho Cotchery and Chansi Stuckey caught 4 balls for 87 and 37 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"37",
-       "annotationID":       6680,
-       "sentence":"Meanwhile, both Jerricho Cotchery and Chansi Stuckey caught 4 balls for 87 and 37 yards."
+       "1":{
+        "propertyValue":"37",
+        "annotationID":        6680,
+        "sentence":"Meanwhile, both Jerricho Cotchery and Chansi Stuckey caught 4 balls for 87 and 37 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -4971,19 +5442,28 @@
       "player_team_score":"16",
       "opponent_score":"9",
       "passing_attempts":{
-       "propertyValue":"14",
-       "annotationID":       6681,
-       "sentence":"Sanchez didn't have pretty stats - he was 14-of-22 for 163 yards and a touchdown - but he once again did a great job moving the chains and avoiding turnovers."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6681,
+        "sentence":"Sanchez didn't have pretty stats - he was 14-of-22 for 163 yards and a touchdown - but he once again did a great job moving the chains and avoiding turnovers.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"22",
-       "annotationID":       6682,
-       "sentence":"Sanchez didn't have pretty stats - he was 14-of-22 for 163 yards and a touchdown - but he once again did a great job moving the chains and avoiding turnovers."
+       "1":{
+        "propertyValue":"22",
+        "annotationID":        6682,
+        "sentence":"Sanchez didn't have pretty stats - he was 14-of-22 for 163 yards and a touchdown - but he once again did a great job moving the chains and avoiding turnovers.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"163",
-       "annotationID":       6683,
-       "sentence":"Sanchez didn't have pretty stats - he was 14-of-22 for 163 yards and a touchdown - but he once again did a great job moving the chains and avoiding turnovers."
+       "1":{
+        "propertyValue":"163",
+        "annotationID":        6683,
+        "sentence":"Sanchez didn't have pretty stats - he was 14-of-22 for 163 yards and a touchdown - but he once again did a great job moving the chains and avoiding turnovers.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      101.1,
       "passing_touchdowns":      1,
@@ -5217,24 +5697,36 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"8",
-       "annotationID":       6684,
-       "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        6684,
+        "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"8",
-       "annotationID":       6685,
-       "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        6685,
+        "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"98",
-       "annotationID":       6686,
-       "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"98",
+        "annotationID":        6686,
+        "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6687,
-       "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6687,
+        "sentence":"Colston dominated Philadelphia's secondary, catching 8 passes for 98 yards and 2 touchdowns.",
+        "confidence":"Strong"
+       }
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -5304,14 +5796,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6688,
-       "sentence":"Shockey chipped in with 4 grabs for 49 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6688,
+        "sentence":"Shockey chipped in with 4 grabs for 49 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"49",
-       "annotationID":       6689,
-       "sentence":"Shockey chipped in with 4 grabs for 49 yards."
+       "1":{
+        "propertyValue":"49",
+        "annotationID":        6689,
+        "sentence":"Shockey chipped in with 4 grabs for 49 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5372,15 +5870,21 @@
       "passing_attempts":      31,
       "passing_completions":      51,
       "passing_yards":{
-       "propertyValue":"391",
-       "annotationID":       6690,
-       "sentence":"Kolb started and threw for 391 yards and 2 touchdowns, including a beautiful 71-yard bomb to DeSean Jackson."
+       "1":{
+        "propertyValue":"391",
+        "annotationID":        6690,
+        "sentence":"Kolb started and threw for 391 yards and 2 touchdowns, including a beautiful 71-yard bomb to DeSean Jackson.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      73.2,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6691,
-       "sentence":"Kolb started and threw for 391 yards and 2 touchdowns, including a beautiful 71-yard bomb to DeSean Jackson."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6691,
+        "sentence":"Kolb started and threw for 391 yards and 2 touchdowns, including a beautiful 71-yard bomb to DeSean Jackson.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      3,
       "passing_sacks":      1,
@@ -5597,17 +6101,23 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":      13,
       "rushing_yards":{
-       "propertyValue":"52",
-       "annotationID":       6692,
-       "sentence":"Westbrook had just 17 touches (52 rush yards, 14 receiving yards) out of 75 plays."
+       "1":{
+        "propertyValue":"52",
+        "annotationID":        6692,
+        "sentence":"Westbrook had just 17 touches (52 rush yards, 14 receiving yards) out of 75 plays.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
       "receiving_receptions":      3,
       "receiving_yards":{
-       "propertyValue":"14",
-       "annotationID":       6693,
-       "sentence":"Westbrook had just 17 touches (52 rush yards, 14 receiving yards) out of 75 plays."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6693,
+        "sentence":"Westbrook had just 17 touches (52 rush yards, 14 receiving yards) out of 75 plays.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -5674,35 +6184,56 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"3",
-       "annotationID":       6697,
-       "sentence":"The Eagles didn't need a quarterback 3 years ago, so it's now apparent that their No."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6695,
+        "sentence":"The Eagles didn't need a quarterback 3 years ago, so it's now apparent that their No.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"3",
+        "annotationID":        6697,
+        "sentence":"It could be Jeff Garcia time in Week 3.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      15,
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6699,
-       "sentence":"Westbrook had just 17 touches (52 rush yards, 14 receiving yards) out of 75 plays."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6699,
+        "sentence":"Jackson had the long touchdown and finished with 101 yards on 4 receptions, but he wasn't the Eagles' leading receiver.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"101",
-       "annotationID":       6698,
-       "sentence":"Jackson had the long touchdown and finished with 101 yards on 4 receptions, but he wasn't the Eagles' leading receiver."
+       "1":{
+        "propertyValue":"101",
+        "annotationID":        6698,
+        "sentence":"Jackson had the long touchdown and finished with 101 yards on 4 receptions, but he wasn't the Eagles' leading receiver.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       6696,
-       "sentence":"1 selection in 2007 was an epic fail on all levels."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6696,
+        "sentence":"1 selection in 2007 was an epic fail on all levels.",
+        "confidence":"Weak"
+       }
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
       "kick_return_touchdowns":      0,
       "punt_return_attempts":{
-       "propertyValue":"2",
-       "annotationID":       6694,
-       "sentence":"He had 2 interceptions later in the game when the Saints up big."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6694,
+        "sentence":"He had 2 interceptions later in the game when the Saints up big.",
+        "confidence":"None"
+       }
       },
       "punt_return_yards":      5,
       "punt_return_touchdowns":      0,
@@ -5764,14 +6295,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"17",
-       "annotationID":       6701,
-       "sentence":"Bell garnered 86 yards and a touchdown on 17 attempts."
+       "1":{
+        "propertyValue":"17",
+        "annotationID":        6701,
+        "sentence":"Bell garnered 86 yards and a touchdown on 17 attempts.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"86",
-       "annotationID":       6700,
-       "sentence":"Bell garnered 86 yards and a touchdown on 17 attempts."
+       "1":{
+        "propertyValue":"86",
+        "annotationID":        6700,
+        "sentence":"Bell garnered 86 yards and a touchdown on 17 attempts.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      1,
@@ -5834,25 +6371,37 @@
       "player_team_score":"48",
       "opponent_score":"22",
       "passing_attempts":{
-       "propertyValue":"25",
-       "annotationID":       6702,
-       "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick."
+       "1":{
+        "propertyValue":"25",
+        "annotationID":        6702,
+        "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"34",
-       "annotationID":       6703,
-       "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick."
+       "1":{
+        "propertyValue":"34",
+        "annotationID":        6703,
+        "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"311",
-       "annotationID":       6704,
-       "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick."
+       "1":{
+        "propertyValue":"311",
+        "annotationID":        6704,
+        "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      118.6,
       "passing_touchdowns":{
-       "propertyValue":"3",
-       "annotationID":       6705,
-       "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6705,
+        "sentence":"Brees was 25-of-34 for 311 yards, 3 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      1,
       "passing_sacks":      2,
@@ -5932,14 +6481,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
       "receiving_receptions":{
-       "propertyValue":"7",
-       "annotationID":       6706,
-       "sentence":"Avant, meanwhile, notched 7 catches for 79 yards and a score."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6706,
+        "sentence":"Avant, meanwhile, notched 7 catches for 79 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"79",
-       "annotationID":       6707,
-       "sentence":"Avant, meanwhile, notched 7 catches for 79 yards and a score."
+       "1":{
+        "propertyValue":"79",
+        "annotationID":        6707,
+        "sentence":"Avant, meanwhile, notched 7 catches for 79 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -6009,14 +6564,20 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"1",
-       "annotationID":       6708,
-       "sentence":"The Frenchman caught 1 pass for a loss of 4 yards."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6708,
+        "sentence":"The Frenchman caught 1 pass for a loss of 4 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       6709,
-       "sentence":"The Frenchman caught 1 pass for a loss of 4 yards."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6709,
+        "sentence":"The Frenchman caught 1 pass for a loss of 4 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      -4,
       "receiving_touchdowns":      0,
@@ -6088,14 +6649,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      11,
       "receiving_receptions":{
-       "propertyValue":"8",
-       "annotationID":       6710,
-       "sentence":"Celek, who hauled in 8 grabs for 104 yards."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        6710,
+        "sentence":"Celek, who hauled in 8 grabs for 104 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"104",
-       "annotationID":       6711,
-       "sentence":"Celek, who hauled in 8 grabs for 104 yards."
+       "1":{
+        "propertyValue":"104",
+        "annotationID":        6711,
+        "sentence":"Celek, who hauled in 8 grabs for 104 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6166,14 +6733,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6712,
-       "sentence":"Henderson hauled in 3 balls for 71 yards."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6712,
+        "sentence":"Henderson hauled in 3 balls for 71 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"71",
-       "annotationID":       6713,
-       "sentence":"Henderson hauled in 3 balls for 71 yards."
+       "1":{
+        "propertyValue":"71",
+        "annotationID":        6713,
+        "sentence":"Henderson hauled in 3 balls for 71 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -6256,14 +6829,20 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"2",
-       "annotationID":       6714,
-       "sentence":"Britt caught 2 balls each."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6714,
+        "sentence":"Britt caught 2 balls each.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6715,
-       "sentence":"Britt caught 2 balls each."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6715,
+        "sentence":"Britt caught 2 balls each.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      22,
       "receiving_touchdowns":      0,
@@ -6323,38 +6902,56 @@
       "player_team_score":"34",
       "opponent_score":"31",
       "passing_attempts":{
-       "propertyValue":"25",
-       "annotationID":       6716,
-       "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns."
+       "1":{
+        "propertyValue":"25",
+        "annotationID":        6716,
+        "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"39",
-       "annotationID":       6717,
-       "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns."
+       "1":{
+        "propertyValue":"39",
+        "annotationID":        6717,
+        "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"357",
-       "annotationID":       6718,
-       "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns."
+       "1":{
+        "propertyValue":"357",
+        "annotationID":        6718,
+        "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      127.8,
       "passing_touchdowns":{
-       "propertyValue":"4",
-       "annotationID":       6719,
-       "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6719,
+        "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"4",
-       "annotationID":       6720,
-       "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6720,
+        "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"4",
-       "annotationID":       6721,
-       "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6721,
+        "sentence":"Schaub was terrific, going 25-of-39 for 357 yards and 4 touchdowns.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      0,
@@ -6637,9 +7234,24 @@
       "rushing_attempts":      16,
       "rushing_yards":      197,
       "rushing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6724,
-       "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6722,
+        "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        6723,
+        "sentence":"In the past 2 seasons, the Texans are now 8-2 when Johnson accumulates at least 75 yards.",
+        "confidence":"None"
+       },
+       "3":{
+        "propertyValue":"2",
+        "annotationID":        6724,
+        "sentence":"In the past 2 seasons, the Texans are now 8-2 when Johnson accumulates at least 75 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_targets":      11,
       "receiving_receptions":      9,
@@ -6713,14 +7325,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6725,
-       "sentence":"Washington was his leading receiver with 4 catches for 36 yards and a score."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6725,
+        "sentence":"Washington was his leading receiver with 4 catches for 36 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"36",
-       "annotationID":       6726,
-       "sentence":"Washington was his leading receiver with 4 catches for 36 yards and a score."
+       "1":{
+        "propertyValue":"36",
+        "annotationID":        6726,
+        "sentence":"Washington was his leading receiver with 4 catches for 36 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -6779,37 +7397,55 @@
       "player_team_score":"31",
       "opponent_score":"34",
       "passing_attempts":{
-       "propertyValue":"21",
-       "annotationID":       6727,
-       "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"21",
+        "annotationID":        6727,
+        "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"33",
-       "annotationID":       6728,
-       "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"33",
+        "annotationID":        6728,
+        "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"216",
-       "annotationID":       6729,
-       "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"216",
+        "annotationID":        6729,
+        "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      90,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6730,
-       "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6730,
+        "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      1,
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       6731,
-       "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6731,
+        "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      7,
       "rushing_attempts":{
-       "propertyValue":"2",
-       "annotationID":       6732,
-       "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6732,
+        "sentence":"Collins was an economical 21-of-33 for 216 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      4,
       "rushing_touchdowns":      0,
@@ -6885,19 +7521,40 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      16,
       "receiving_receptions":{
-       "propertyValue":"10",
-       "annotationID":       6733,
-       "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"10",
+        "annotationID":        6733,
+        "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"149",
-       "annotationID":       6734,
-       "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"149",
+        "annotationID":        6734,
+        "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6737,
-       "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6735,
+        "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns.",
+        "confidence":"Strong"
+       },
+       "2":{
+        "propertyValue":"2",
+        "annotationID":        6736,
+        "sentence":"In the past 2 seasons, the Texans are now 8-2 when Johnson accumulates at least 75 yards.",
+        "confidence":"Weak"
+       },
+       "3":{
+        "propertyValue":"2",
+        "annotationID":        6737,
+        "sentence":"In the past 2 seasons, the Texans are now 8-2 when Johnson accumulates at least 75 yards.",
+        "confidence":"Weak"
+       }
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -6967,9 +7624,12 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6738,
-       "sentence":"Gage and Kenny Britt caught 2 balls each."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6738,
+        "sentence":"Gage and Kenny Britt caught 2 balls each.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      27,
       "receiving_touchdowns":      0,
@@ -7098,9 +7758,12 @@
       "game_won":      true,
       "player_team_score":"13",
       "opponent_score":{
-       "propertyValue":"10",
-       "annotationID":       6739,
-       "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"10",
+        "annotationID":        6739,
+        "sentence":"Johnson, shut down by Darrelle Revis last week, exploded against the Titans, catching 10 balls for 149 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -7241,9 +7904,12 @@
       "opponent":"TEN",
       "game_won":      true,
       "player_team_score":{
-       "propertyValue":"34",
-       "annotationID":       6740,
-       "sentence":"Slaton had at least 100 rushing yards in both meetings against Tennessee last year, but managed only 34 yards on 17 carries on Sunday."
+       "1":{
+        "propertyValue":"34",
+        "annotationID":        6740,
+        "sentence":"Slaton had at least 100 rushing yards in both meetings against Tennessee last year, but managed only 34 yards on 17 carries on Sunday.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"31",
       "passing_attempts":      0,
@@ -7255,21 +7921,36 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"17",
-       "annotationID":       6742,
-       "sentence":"Slaton had at least 100 rushing yards in both meetings against Tennessee last year, but managed only 34 yards on 17 carries on Sunday."
+       "1":{
+        "propertyValue":"17",
+        "annotationID":        6742,
+        "sentence":"Slaton had at least 100 rushing yards in both meetings against Tennessee last year, but managed only 34 yards on 17 carries on Sunday.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"34",
-       "annotationID":       6741,
-       "sentence":"Slaton had at least 100 rushing yards in both meetings against Tennessee last year, but managed only 34 yards on 17 carries on Sunday."
+       "1":{
+        "propertyValue":"34",
+        "annotationID":        6741,
+        "sentence":"Slaton had at least 100 rushing yards in both meetings against Tennessee last year, but managed only 34 yards on 17 carries on Sunday.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6744,
-       "sentence":"Slaton had at least 100 rushing yards in both meetings against Tennessee last year, but managed only 34 yards on 17 carries on Sunday."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6743,
+        "sentence":"Of course, a huge blemish for Houston was its defense, which gave up 3 huge plays to Chris Johnson early in the game.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"3",
+        "annotationID":        6744,
+        "sentence":"And the last was a long burst from Tennessee's 9 on a 3rd-and-10.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      25,
       "receiving_touchdowns":      0,
@@ -7412,27 +8093,39 @@
       "player_team_score":"9",
       "opponent_score":"7",
       "passing_attempts":{
-       "propertyValue":"23",
-       "annotationID":       6745,
-       "sentence":"Campbell (23-of-35, 242 yards)."
+       "1":{
+        "propertyValue":"23",
+        "annotationID":        6745,
+        "sentence":"Campbell (23-of-35, 242 yards).",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"35",
-       "annotationID":       6746,
-       "sentence":"Campbell (23-of-35, 242 yards)."
+       "1":{
+        "propertyValue":"35",
+        "annotationID":        6746,
+        "sentence":"Campbell (23-of-35, 242 yards).",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"242",
-       "annotationID":       6747,
-       "sentence":"Campbell (23-of-35, 242 yards)."
+       "1":{
+        "propertyValue":"242",
+        "annotationID":        6747,
+        "sentence":"Campbell (23-of-35, 242 yards).",
+        "confidence":"None"
+       }
       },
       "passing_rating":      85.7,
       "passing_touchdowns":      0,
       "passing_interceptions":      0,
       "passing_sacks":{
-       "propertyValue":"1",
-       "annotationID":       6748,
-       "sentence":"For example, on 1 red-zone trip, "
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6748,
+        "sentence":"For example, on 1 red-zone trip, ",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      5,
       "rushing_attempts":      7,
@@ -7496,34 +8189,49 @@
       "opponent":"WAS",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"7",
-       "annotationID":       6749,
-       "sentence":"Chris Cooley led the team with 7 receptions for 83 yards."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6749,
+        "sentence":"Chris Cooley led the team with 7 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"9",
       "passing_attempts":{
-       "propertyValue":"15",
-       "annotationID":       6751,
-       "sentence":"Marc Bulger was a horrific 15-of-28 for 125 yards and a score, giving him a YPA of 4."
+       "1":{
+        "propertyValue":"15",
+        "annotationID":        6751,
+        "sentence":"Marc Bulger was a horrific 15-of-28 for 125 yards and a score, giving him a YPA of 4.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"28",
-       "annotationID":       6752,
-       "sentence":"Marc Bulger was a horrific 15-of-28 for 125 yards and a score, giving him a YPA of 4."
+       "1":{
+        "propertyValue":"28",
+        "annotationID":        6752,
+        "sentence":"Marc Bulger was a horrific 15-of-28 for 125 yards and a score, giving him a YPA of 4.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"125",
-       "annotationID":       6753,
-       "sentence":"Marc Bulger was a horrific 15-of-28 for 125 yards and a score, giving him a YPA of 4."
+       "1":{
+        "propertyValue":"125",
+        "annotationID":        6753,
+        "sentence":"Marc Bulger was a horrific 15-of-28 for 125 yards and a score, giving him a YPA of 4.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      77.2,
       "passing_touchdowns":      1,
       "passing_interceptions":      0,
       "passing_sacks":      1,
       "passing_sacks_yards_lost":{
-       "propertyValue":"6",
-       "annotationID":       6750,
-       "sentence":"The former mustered 104 yards on 17 rushes, while the latter hauled in 6 balls for 54 yards and a touchdown."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6750,
+        "sentence":"The former mustered 104 yards on 17 rushes, while the latter hauled in 6 balls for 54 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "rushing_attempts":      2,
       "rushing_yards":      9,
@@ -7600,14 +8308,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       6754,
-       "sentence":"Avery disappointed with 1 catch for 4 yards."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6754,
+        "sentence":"Avery disappointed with 1 catch for 4 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"4",
-       "annotationID":       6755,
-       "sentence":"Avery disappointed with 1 catch for 4 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6755,
+        "sentence":"Avery disappointed with 1 catch for 4 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7665,9 +8379,12 @@
       "game_won":      true,
       "player_team_score":"9",
       "opponent_score":{
-       "propertyValue":"7",
-       "annotationID":       6758,
-       "sentence":"Chris Cooley led the team with 7 receptions for 83 yards."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6758,
+        "sentence":"Chris Cooley led the team with 7 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -7682,14 +8399,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6756,
-       "sentence":"Moss once again had a lackluster performance, catching just 3 balls for 35 yards."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6756,
+        "sentence":"Moss once again had a lackluster performance, catching just 3 balls for 35 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"35",
-       "annotationID":       6757,
-       "sentence":"Moss once again had a lackluster performance, catching just 3 balls for 35 yards."
+       "1":{
+        "propertyValue":"35",
+        "annotationID":        6757,
+        "sentence":"Moss once again had a lackluster performance, catching just 3 balls for 35 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7816,14 +8539,26 @@
       "opponent":"STL",
       "game_won":      true,
       "player_team_score":{
-       "propertyValue":"9",
-       "annotationID":       6759,
-       "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6759,
+        "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St.",
+        "confidence":"None"
+       }
       },
       "opponent_score":{
-       "propertyValue":"7",
-       "annotationID":       6763,
-       "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6761,
+        "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"7",
+        "annotationID":        6763,
+        "sentence":"Chris Cooley led the team with 7 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":      0,
       "passing_completions":      0,
@@ -7837,19 +8572,34 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"9",
-       "annotationID":       6760,
-       "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6760,
+        "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"7",
-       "annotationID":       6764,
-       "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6762,
+        "sentence":"Up 9-7 with 2 minutes remaining in regulation, Zorn went for it on 4th-and-1 on the St.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"7",
+        "annotationID":        6764,
+        "sentence":"Chris Cooley led the team with 7 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"83",
-       "annotationID":       6765,
-       "sentence":"Chris Cooley led the team with 7 receptions for 83 yards."
+       "1":{
+        "propertyValue":"83",
+        "annotationID":        6765,
+        "sentence":"Chris Cooley led the team with 7 receptions for 83 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -7920,19 +8670,28 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6766,
-       "sentence":"The former mustered 104 yards on 17 rushes, while the latter hauled in 6 balls for 54 yards and a touchdown."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6766,
+        "sentence":"The former mustered 104 yards on 17 rushes, while the latter hauled in 6 balls for 54 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"54",
-       "annotationID":       6767,
-       "sentence":"The former mustered 104 yards on 17 rushes, while the latter hauled in 6 balls for 54 yards and a touchdown."
+       "1":{
+        "propertyValue":"54",
+        "annotationID":        6767,
+        "sentence":"The former mustered 104 yards on 17 rushes, while the latter hauled in 6 balls for 54 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       6768,
-       "sentence":"The former mustered 104 yards on 17 rushes, while the latter hauled in 6 balls for 54 yards and a touchdown."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6768,
+        "sentence":"Donnie Avery disappointed with 1 catch for 4 yards.",
+        "confidence":"Weak"
+       }
       },
       "kick_return_attempts":      0,
       "kick_return_yards":      0,
@@ -8014,9 +8773,12 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"3",
-       "annotationID":       6769,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6769,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":      2,
       "receiving_yards":      46,
@@ -8089,14 +8851,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6770,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6770,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"52",
-       "annotationID":       6771,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"52",
+        "annotationID":        6771,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -8153,9 +8921,12 @@
       "opponent":"NYG",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"31",
-       "annotationID":       6772,
-       "sentence":"Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"31",
+        "annotationID":        6772,
+        "sentence":"Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"33",
       "passing_attempts":      13,
@@ -8241,9 +9012,12 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6773,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6773,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      41,
       "receiving_touchdowns":      0,
@@ -8315,14 +9089,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6774,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6774,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"62",
-       "annotationID":       6775,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"62",
+        "annotationID":        6775,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8389,14 +9169,26 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"9",
-       "annotationID":       6778,
-       "sentence":"Ward had 9 attempts for 32 yards, while Cadillac Williams gained only 9 yards on 7 rushes."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6776,
+        "sentence":"Ward had 9 attempts for 32 yards, while Cadillac Williams gained only 9 yards on 7 rushes.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"9",
+        "annotationID":        6778,
+        "sentence":"Ward had 9 attempts for 32 yards, while Cadillac Williams gained only 9 yards on 7 rushes.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"32",
-       "annotationID":       6777,
-       "sentence":"Ward had 9 attempts for 32 yards, while Cadillac Williams gained only 9 yards on 7 rushes."
+       "1":{
+        "propertyValue":"32",
+        "annotationID":        6777,
+        "sentence":"Ward had 9 attempts for 32 yards, while Cadillac Williams gained only 9 yards on 7 rushes.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      2,
@@ -8537,14 +9329,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"28",
-       "annotationID":       6780,
-       "sentence":"He rushed for 163 yards on 28 carries against Tampa Bay's anemic defense."
+       "1":{
+        "propertyValue":"28",
+        "annotationID":        6780,
+        "sentence":"He rushed for 163 yards on 28 carries against Tampa Bay's anemic defense.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"163",
-       "annotationID":       6779,
-       "sentence":"He rushed for 163 yards on 28 carries against Tampa Bay's anemic defense."
+       "1":{
+        "propertyValue":"163",
+        "annotationID":        6779,
+        "sentence":"He rushed for 163 yards on 28 carries against Tampa Bay's anemic defense.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
@@ -8759,14 +9557,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6781,
-       "sentence":"Clayton had just 2 receptions for 27 yards."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6781,
+        "sentence":"Clayton had just 2 receptions for 27 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"27",
-       "annotationID":       6782,
-       "sentence":"Clayton had just 2 receptions for 27 yards."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        6782,
+        "sentence":"Clayton had just 2 receptions for 27 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -8837,14 +9641,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      10,
       "receiving_receptions":{
-       "propertyValue":"7",
-       "annotationID":       6783,
-       "sentence":"Winslow, who had 7 catches for 90 yards and a touchdown."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6783,
+        "sentence":"Winslow, who had 7 catches for 90 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"90",
-       "annotationID":       6784,
-       "sentence":"Winslow, who had 7 catches for 90 yards and a touchdown."
+       "1":{
+        "propertyValue":"90",
+        "annotationID":        6784,
+        "sentence":"Winslow, who had 7 catches for 90 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -8914,14 +9724,20 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"6",
-       "annotationID":       6785,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6785,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6786,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6786,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      25,
       "receiving_touchdowns":      0,
@@ -8994,9 +9810,12 @@
       "receiving_targets":      5,
       "receiving_receptions":      1,
       "receiving_yards":{
-       "propertyValue":"32",
-       "annotationID":       6787,
-       "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown."
+       "1":{
+        "propertyValue":"32",
+        "annotationID":        6787,
+        "sentence":"Schouman had 6 grabs for 62 yards; Owens hauled in 3 balls for 52 yards and a score; and Lee Evans had only a 32-yard touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -9059,17 +9878,23 @@
       "passing_yards":      212,
       "passing_rating":      114.1,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6788,
-       "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6788,
+        "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":      4,
       "passing_sacks_yards_lost":      26,
       "rushing_attempts":{
-       "propertyValue":"2",
-       "annotationID":       6789,
-       "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6789,
+        "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      25,
       "rushing_touchdowns":      0,
@@ -9133,31 +9958,46 @@
       "player_team_score":"33",
       "opponent_score":"20",
       "passing_attempts":{
-       "propertyValue":"21",
-       "annotationID":       6790,
-       "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"21",
+        "annotationID":        6790,
+        "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"31",
-       "annotationID":       6791,
-       "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"31",
+        "annotationID":        6791,
+        "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"230",
-       "annotationID":       6792,
-       "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"230",
+        "annotationID":        6792,
+        "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      97.5,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6793,
-       "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6793,
+        "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      1,
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       6794,
-       "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6794,
+        "sentence":"Edwards picked up where Tony Romo left off as he torched the Bucs' secondary, going 21-of-31 for 230 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      10,
       "rushing_attempts":      3,
@@ -9231,30 +10071,57 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"7",
-       "annotationID":       6799,
-       "sentence":"Williams gained only 9 yards on 7 rushes."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6797,
+        "sentence":"Williams gained only 9 yards on 7 rushes.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"7",
+        "annotationID":        6799,
+        "sentence":"Cadillac - not Ward - contributed with 7 receptions for 56 yards and a score.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"9",
-       "annotationID":       6795,
-       "sentence":"Williams gained only 9 yards on 7 rushes."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6795,
+        "sentence":"Williams gained only 9 yards on 7 rushes.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"9",
-       "annotationID":       6796,
-       "sentence":"Williams gained only 9 yards on 7 rushes."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6796,
+        "sentence":"Williams gained only 9 yards on 7 rushes.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"7",
-       "annotationID":       6800,
-       "sentence":"Williams gained only 9 yards on 7 rushes."
+       "1":{
+        "propertyValue":"7",
+        "annotationID":        6798,
+        "sentence":"Williams gained only 9 yards on 7 rushes.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"7",
+        "annotationID":        6800,
+        "sentence":"Cadillac - not Ward - contributed with 7 receptions for 56 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"56",
-       "annotationID":       6801,
-       "sentence":"Cadillac - not Ward - contributed with 7 receptions for 56 yards and a score."
+       "1":{
+        "propertyValue":"56",
+        "annotationID":        6801,
+        "sentence":"Cadillac - not Ward - contributed with 7 receptions for 56 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -9548,14 +10415,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6802,
-       "sentence":"Houshmandzadeh caught 4 balls for 62 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6802,
+        "sentence":"Houshmandzadeh caught 4 balls for 62 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"62",
-       "annotationID":       6803,
-       "sentence":"Houshmandzadeh caught 4 balls for 62 yards."
+       "1":{
+        "propertyValue":"62",
+        "annotationID":        6803,
+        "sentence":"Houshmandzadeh caught 4 balls for 62 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9625,14 +10498,20 @@
       "rushing_yards":      92,
       "rushing_touchdowns":      1,
       "receiving_targets":{
-       "propertyValue":"4",
-       "annotationID":       6804,
-       "sentence":"Unfortunately, he carried the ball only 4 more times after that, as he left the contest with a minor injury."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6804,
+        "sentence":"Unfortunately, he carried the ball only 4 more times after that, as he left the contest with a minor injury.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6805,
-       "sentence":"Unfortunately, he carried the ball only 4 more times after that, as he left the contest with a minor injury."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6805,
+        "sentence":"Unfortunately, he carried the ball only 4 more times after that, as he left the contest with a minor injury.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":      24,
       "receiving_touchdowns":      0,
@@ -9692,19 +10571,28 @@
       "player_team_score":"23",
       "opponent_score":"10",
       "passing_attempts":{
-       "propertyValue":"19",
-       "annotationID":       6806,
-       "sentence":"Hill, who was 19-of-26 for 144 yards."
+       "1":{
+        "propertyValue":"19",
+        "annotationID":        6806,
+        "sentence":"Hill, who was 19-of-26 for 144 yards.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"26",
-       "annotationID":       6807,
-       "sentence":"Hill, who was 19-of-26 for 144 yards."
+       "1":{
+        "propertyValue":"26",
+        "annotationID":        6807,
+        "sentence":"Hill, who was 19-of-26 for 144 yards.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"144",
-       "annotationID":       6808,
-       "sentence":"Hill, who was 19-of-26 for 144 yards."
+       "1":{
+        "propertyValue":"144",
+        "annotationID":        6808,
+        "sentence":"Hill, who was 19-of-26 for 144 yards.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      86.1,
       "passing_touchdowns":      0,
@@ -9856,14 +10744,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6809,
-       "sentence":"Bruce led the wideouts with 4 grabs for 35 yards."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6809,
+        "sentence":"Bruce led the wideouts with 4 grabs for 35 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"35",
-       "annotationID":       6810,
-       "sentence":"Bruce led the wideouts with 4 grabs for 35 yards."
+       "1":{
+        "propertyValue":"35",
+        "annotationID":        6810,
+        "sentence":"Bruce led the wideouts with 4 grabs for 35 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -9930,14 +10824,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"8",
-       "annotationID":       6812,
-       "sentence":"Jones was an epic failure on the ground, rushing for just 11 yards on 8 carries."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        6812,
+        "sentence":"Jones was an epic failure on the ground, rushing for just 11 yards on 8 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"11",
-       "annotationID":       6811,
-       "sentence":"Jones was an epic failure on the ground, rushing for just 11 yards on 8 carries."
+       "1":{
+        "propertyValue":"11",
+        "annotationID":        6811,
+        "sentence":"Jones was an epic failure on the ground, rushing for just 11 yards on 8 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      3,
@@ -10012,14 +10912,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      8,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6813,
-       "sentence":"Carlson had 6 grabs for 46 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6813,
+        "sentence":"Carlson had 6 grabs for 46 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"46",
-       "annotationID":       6814,
-       "sentence":"Carlson had 6 grabs for 46 yards."
+       "1":{
+        "propertyValue":"46",
+        "annotationID":        6814,
+        "sentence":"Carlson had 6 grabs for 46 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10084,15 +10990,21 @@
       "passing_touchdowns":      0,
       "passing_interceptions":      0,
       "passing_sacks":{
-       "propertyValue":"1",
-       "annotationID":       6816,
-       "sentence":"Hasselbeck's injury, but San Francisco actually led 13-3 before he left the game."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6816,
+        "sentence":"Beginning with 1:20 remaining in the third quarter, the 49ers maintained possession until the 6:58 mark of the 4.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      7,
       "rushing_attempts":{
-       "propertyValue":"3",
-       "annotationID":       6815,
-       "sentence":"Hasselbeck's injury, but San Francisco actually led 13-3 before he left the game."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6815,
+        "sentence":"Hasselbeck's injury, but San Francisco actually led 13-3 before he left the game.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      12,
       "rushing_touchdowns":      0,
@@ -10164,30 +11076,45 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"5",
-       "annotationID":       6818,
-       "sentence":"Forsett rushed for 35 yards on 5 attempts."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6818,
+        "sentence":"Forsett rushed for 35 yards on 5 attempts.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"35",
-       "annotationID":       6817,
-       "sentence":"Forsett rushed for 35 yards on 5 attempts."
+       "1":{
+        "propertyValue":"35",
+        "annotationID":        6817,
+        "sentence":"Forsett rushed for 35 yards on 5 attempts.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"6",
-       "annotationID":       6819,
-       "sentence":"Forsett chipped in with 6 receptions for 57 more yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6819,
+        "sentence":"Forsett chipped in with 6 receptions for 57 more yards.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6820,
-       "sentence":"Forsett chipped in with 6 receptions for 57 more yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6820,
+        "sentence":"Forsett chipped in with 6 receptions for 57 more yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"57",
-       "annotationID":       6821,
-       "sentence":"Forsett chipped in with 6 receptions for 57 more yards."
+       "1":{
+        "propertyValue":"57",
+        "annotationID":        6821,
+        "sentence":"Forsett chipped in with 6 receptions for 57 more yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      1,
@@ -10271,19 +11198,28 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6822,
-       "sentence":"Knox, who hauled in 6 grabs for 70 yards and a score."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6822,
+        "sentence":"Knox, who hauled in 6 grabs for 70 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"70",
-       "annotationID":       6823,
-       "sentence":"Knox, who hauled in 6 grabs for 70 yards and a score."
+       "1":{
+        "propertyValue":"70",
+        "annotationID":        6823,
+        "sentence":"Knox, who hauled in 6 grabs for 70 yards and a score.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":{
-       "propertyValue":"1",
-       "annotationID":       6824,
-       "sentence":"1 wideout, Knox could be emerging as that guy."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6824,
+        "sentence":"1 wideout, Knox could be emerging as that guy.",
+        "confidence":"Weak"
+       }
       },
       "kick_return_attempts":      2,
       "kick_return_yards":      41,
@@ -10339,9 +11275,12 @@
       "opponent":"CHI",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"14",
-       "annotationID":       6826,
-       "sentence":"Parker gained just 47 yards on 14 attempts."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6826,
+        "sentence":"Parker gained just 47 yards on 14 attempts.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"17",
       "passing_attempts":      0,
@@ -10353,14 +11292,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"14",
-       "annotationID":       6827,
-       "sentence":"Parker gained just 47 yards on 14 attempts."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6827,
+        "sentence":"Parker gained just 47 yards on 14 attempts.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"47",
-       "annotationID":       6825,
-       "sentence":"Parker gained just 47 yards on 14 attempts."
+       "1":{
+        "propertyValue":"47",
+        "annotationID":        6825,
+        "sentence":"Parker gained just 47 yards on 14 attempts.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -10435,14 +11380,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6828,
-       "sentence":"Ward 6 times (57 yards)."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6828,
+        "sentence":"Ward 6 times (57 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"57",
-       "annotationID":       6829,
-       "sentence":"Ward 6 times (57 yards)."
+       "1":{
+        "propertyValue":"57",
+        "annotationID":        6829,
+        "sentence":"Ward 6 times (57 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10501,31 +11452,46 @@
       "player_team_score":"17",
       "opponent_score":"14",
       "passing_attempts":{
-       "propertyValue":"27",
-       "annotationID":       6830,
-       "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"27",
+        "annotationID":        6830,
+        "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"38",
-       "annotationID":       6831,
-       "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"38",
+        "annotationID":        6831,
+        "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"236",
-       "annotationID":       6832,
-       "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"236",
+        "annotationID":        6832,
+        "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      104.7,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6833,
-       "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6833,
+        "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      0,
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       6834,
-       "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6834,
+        "sentence":"Cutler went 27-of-38 for 236 yards and 2 touchdowns.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      5,
       "rushing_attempts":      1,
@@ -10619,19 +11585,28 @@
       "defense_interception_touchdowns":      0,
       "defense_safeties":      0,
       "point_after_attemps":{
-       "propertyValue":"2",
-       "annotationID":       6835,
-       "sentence":"Reed missed 2 4."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6835,
+        "sentence":"Reed missed 2 4.",
+        "confidence":"None"
+       }
       },
       "point_after_makes":{
-       "propertyValue":"2",
-       "annotationID":       6836,
-       "sentence":"Reed missed 2 4."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6836,
+        "sentence":"Reed missed 2 4.",
+        "confidence":"None"
+       }
       },
       "field_goal_attempts":{
-       "propertyValue":"2",
-       "annotationID":       6837,
-       "sentence":"Reed missed 2 4."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6837,
+        "sentence":"Reed missed 2 4.",
+        "confidence":"None"
+       }
       },
       "field_goal_makes":      0,
       "punting_attempts":      0,
@@ -10685,14 +11660,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6838,
-       "sentence":"Olsen (3 catches, 41 yards), Earl Bennett (2-22) or Devin Hester (4-21)."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6838,
+        "sentence":"Olsen (3 catches, 41 yards), Earl Bennett (2-22) or Devin Hester (4-21).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"41",
-       "annotationID":       6839,
-       "sentence":"Olsen (3 catches, 41 yards), Earl Bennett (2-22) or Devin Hester (4-21)."
+       "1":{
+        "propertyValue":"41",
+        "annotationID":        6839,
+        "sentence":"Olsen (3 catches, 41 yards), Earl Bennett (2-22) or Devin Hester (4-21).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10759,26 +11740,38 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"13",
-       "annotationID":       6841,
-       "sentence":"Forte rushed for only 29 yards on 13 carries."
+       "1":{
+        "propertyValue":"13",
+        "annotationID":        6841,
+        "sentence":"Forte rushed for only 29 yards on 13 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"29",
-       "annotationID":       6840,
-       "sentence":"Forte rushed for only 29 yards on 13 carries."
+       "1":{
+        "propertyValue":"29",
+        "annotationID":        6840,
+        "sentence":"Forte rushed for only 29 yards on 13 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6842,
-       "sentence":"Forte also chipped in with 5 receptions for 33 more yards."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6842,
+        "sentence":"Forte also chipped in with 5 receptions for 33 more yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"33",
-       "annotationID":       6843,
-       "sentence":"Forte also chipped in with 5 receptions for 33 more yards."
+       "1":{
+        "propertyValue":"33",
+        "annotationID":        6843,
+        "sentence":"Forte also chipped in with 5 receptions for 33 more yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -10916,9 +11909,12 @@
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":      3,
       "rushing_yards":{
-       "propertyValue":"39",
-       "annotationID":       6844,
-       "sentence":"Mendenhall had a 39-yard rush, but didn't do anything outside of that."
+       "1":{
+        "propertyValue":"39",
+        "annotationID":        6844,
+        "sentence":"Mendenhall had a 39-yard rush, but didn't do anything outside of that.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -10992,19 +11988,28 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"2",
-       "annotationID":       6845,
-       "sentence":"Bennett (2-22) or Devin Hester (4-21)."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6845,
+        "sentence":"Bennett (2-22) or Devin Hester (4-21).",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6846,
-       "sentence":"Bennett (2-22) or Devin Hester (4-21)."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6846,
+        "sentence":"Bennett (2-22) or Devin Hester (4-21).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"22",
-       "annotationID":       6847,
-       "sentence":"Bennett (2-22) or Devin Hester (4-21)."
+       "1":{
+        "propertyValue":"22",
+        "annotationID":        6847,
+        "sentence":"Bennett (2-22) or Devin Hester (4-21).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11133,19 +12138,28 @@
       "player_team_score":"14",
       "opponent_score":"17",
       "passing_attempts":{
-       "propertyValue":"23",
-       "annotationID":       6848,
-       "sentence":"Roethlisberger was his usual self, going 23-of-35 for 221 yards, a score and a pick."
+       "1":{
+        "propertyValue":"23",
+        "annotationID":        6848,
+        "sentence":"Roethlisberger was his usual self, going 23-of-35 for 221 yards, a score and a pick.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"35",
-       "annotationID":       6849,
-       "sentence":"Roethlisberger was his usual self, going 23-of-35 for 221 yards, a score and a pick."
+       "1":{
+        "propertyValue":"35",
+        "annotationID":        6849,
+        "sentence":"Roethlisberger was his usual self, going 23-of-35 for 221 yards, a score and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"221",
-       "annotationID":       6850,
-       "sentence":"Roethlisberger was his usual self, going 23-of-35 for 221 yards, a score and a pick."
+       "1":{
+        "propertyValue":"221",
+        "annotationID":        6850,
+        "sentence":"Roethlisberger was his usual self, going 23-of-35 for 221 yards, a score and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      80.8,
       "passing_touchdowns":      1,
@@ -11154,9 +12168,12 @@
       "passing_sacks_yards_lost":      18,
       "rushing_attempts":      3,
       "rushing_yards":{
-       "propertyValue":"6",
-       "annotationID":       6851,
-       "sentence":"Roethlisberger went to Santonio Holmes 5 times (83 yards) and Hines Ward 6 times (57 yards)."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6851,
+        "sentence":"Roethlisberger went to Santonio Holmes 5 times (83 yards) and Hines Ward 6 times (57 yards).",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      0,
@@ -11231,14 +12248,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      14,
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6852,
-       "sentence":"Holmes 5 times (83 yards) and Hines Ward 6 times (57 yards)."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6852,
+        "sentence":"Holmes 5 times (83 yards) and Hines Ward 6 times (57 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"83",
-       "annotationID":       6853,
-       "sentence":"Holmes 5 times (83 yards) and Hines Ward 6 times (57 yards)."
+       "1":{
+        "propertyValue":"83",
+        "annotationID":        6853,
+        "sentence":"Holmes 5 times (83 yards) and Hines Ward 6 times (57 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11309,14 +12332,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6854,
-       "sentence":"Hester (4-21)."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6854,
+        "sentence":"Hester (4-21).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"21",
-       "annotationID":       6855,
-       "sentence":"Hester (4-21)."
+       "1":{
+        "propertyValue":"21",
+        "annotationID":        6855,
+        "sentence":"Hester (4-21).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11386,9 +12415,12 @@
       "opponent":"DEN",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"6",
-       "annotationID":       6856,
-       "sentence":"Edwards was the lone bright spot for Cleveland's offense, catching 6 balls for 92 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6856,
+        "sentence":"Edwards was the lone bright spot for Cleveland's offense, catching 6 balls for 92 yards.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"27",
       "passing_attempts":      0,
@@ -11404,14 +12436,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6857,
-       "sentence":"Edwards was the lone bright spot for Cleveland's offense, catching 6 balls for 92 yards."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6857,
+        "sentence":"Edwards was the lone bright spot for Cleveland's offense, catching 6 balls for 92 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"92",
-       "annotationID":       6858,
-       "sentence":"Edwards was the lone bright spot for Cleveland's offense, catching 6 balls for 92 yards."
+       "1":{
+        "propertyValue":"92",
+        "annotationID":        6858,
+        "sentence":"Edwards was the lone bright spot for Cleveland's offense, catching 6 balls for 92 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11482,14 +12520,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      9,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6860,
-       "sentence":"Royal (20) all hauled in 3 catches."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6860,
+        "sentence":"Royal (20) all hauled in 3 catches.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"20",
-       "annotationID":       6859,
-       "sentence":"Royal (20) all hauled in 3 catches."
+       "1":{
+        "propertyValue":"20",
+        "annotationID":        6859,
+        "sentence":"Royal (20) all hauled in 3 catches.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      1,
@@ -11548,19 +12592,28 @@
       "player_team_score":"27",
       "opponent_score":"6",
       "passing_attempts":{
-       "propertyValue":"19",
-       "annotationID":       6862,
-       "sentence":"Orton went 19-of-37 for 263 yards and a touchdown."
+       "1":{
+        "propertyValue":"19",
+        "annotationID":        6862,
+        "sentence":"Orton went 19-of-37 for 263 yards and a touchdown.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"37",
-       "annotationID":       6863,
-       "sentence":"Orton went 19-of-37 for 263 yards and a touchdown."
+       "1":{
+        "propertyValue":"37",
+        "annotationID":        6863,
+        "sentence":"Orton went 19-of-37 for 263 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"263",
-       "annotationID":       6864,
-       "sentence":"Orton went 19-of-37 for 263 yards and a touchdown."
+       "1":{
+        "propertyValue":"263",
+        "annotationID":        6864,
+        "sentence":"Orton went 19-of-37 for 263 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      83.5,
       "passing_touchdowns":      1,
@@ -11568,9 +12621,12 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"2",
-       "annotationID":       6861,
-       "sentence":"Orton is now 2-0, but he was brutally mediocre once again."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6861,
+        "sentence":"Orton is now 2-0, but he was brutally mediocre once again.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
@@ -11646,14 +12702,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6865,
-       "sentence":"Stokley led the Broncos with 5 receptions for 70 yards."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6865,
+        "sentence":"Stokley led the Broncos with 5 receptions for 70 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"70",
-       "annotationID":       6866,
-       "sentence":"Stokley led the Broncos with 5 receptions for 70 yards."
+       "1":{
+        "propertyValue":"70",
+        "annotationID":        6866,
+        "sentence":"Stokley led the Broncos with 5 receptions for 70 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11724,14 +12786,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      5,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6868,
-       "sentence":"Gaffney (82 yards), Brandon Marshall (34) and Eddie Royal (20) all hauled in 3 catches."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6868,
+        "sentence":"Gaffney (82 yards), Brandon Marshall (34) and Eddie Royal (20) all hauled in 3 catches.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"82",
-       "annotationID":       6867,
-       "sentence":"Gaffney (82 yards), Brandon Marshall (34) and Eddie Royal (20) all hauled in 3 catches."
+       "1":{
+        "propertyValue":"82",
+        "annotationID":        6867,
+        "sentence":"Gaffney (82 yards), Brandon Marshall (34) and Eddie Royal (20) all hauled in 3 catches.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11798,30 +12866,45 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"17",
-       "annotationID":       6870,
-       "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions."
+       "1":{
+        "propertyValue":"17",
+        "annotationID":        6870,
+        "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"75",
-       "annotationID":       6869,
-       "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions."
+       "1":{
+        "propertyValue":"75",
+        "annotationID":        6869,
+        "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"2",
-       "annotationID":       6872,
-       "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6872,
+        "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6873,
-       "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6873,
+        "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"22",
-       "annotationID":       6871,
-       "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions."
+       "1":{
+        "propertyValue":"22",
+        "annotationID":        6871,
+        "sentence":"Moreno collected 75 yards on 17 rushes and 22 more yards on 2 receptions.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -11888,14 +12971,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"14",
-       "annotationID":       6875,
-       "sentence":"Lewis, meanwhile, mustered 38 yards on 14 carries."
+       "1":{
+        "propertyValue":"14",
+        "annotationID":        6875,
+        "sentence":"Lewis, meanwhile, mustered 38 yards on 14 carries.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"38",
-       "annotationID":       6874,
-       "sentence":"Lewis, meanwhile, mustered 38 yards on 14 carries."
+       "1":{
+        "propertyValue":"38",
+        "annotationID":        6874,
+        "sentence":"Lewis, meanwhile, mustered 38 yards on 14 carries.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      1,
@@ -11966,14 +13055,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"9",
-       "annotationID":       6877,
-       "sentence":"Buckhalter rushed for 76 yards on 9 carries, including a 45-yard score in which Denver's offensive line blew open an enormous hole."
+       "1":{
+        "propertyValue":"9",
+        "annotationID":        6877,
+        "sentence":"Buckhalter rushed for 76 yards on 9 carries, including a 45-yard score in which Denver's offensive line blew open an enormous hole.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"76",
-       "annotationID":       6876,
-       "sentence":"Buckhalter rushed for 76 yards on 9 carries, including a 45-yard score in which Denver's offensive line blew open an enormous hole."
+       "1":{
+        "propertyValue":"76",
+        "annotationID":        6876,
+        "sentence":"Buckhalter rushed for 76 yards on 9 carries, including a 45-yard score in which Denver's offensive line blew open an enormous hole.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      1,
       "receiving_targets":      3,
@@ -12041,9 +13136,18 @@
       "passing_rating":      58.7,
       "passing_touchdowns":      0,
       "passing_interceptions":{
-       "propertyValue":"1",
-       "annotationID":       6879,
-       "sentence":"Quinn is awful; he's a turnover machine (1 interception, 1 fumble) and he refuses to take any downfield shots."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6878,
+        "sentence":"Quinn is awful; he's a turnover machine (1 interception, 1 fumble) and he refuses to take any downfield shots.",
+        "confidence":"None"
+       },
+       "2":{
+        "propertyValue":"1",
+        "annotationID":        6879,
+        "sentence":"Quinn is awful; he's a turnover machine (1 interception, 1 fumble) and he refuses to take any downfield shots.",
+        "confidence":"None"
+       }
       },
       "passing_sacks":      4,
       "passing_sacks_yards_lost":      15,
@@ -12122,14 +13226,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6881,
-       "sentence":"Marshall (34) and Eddie Royal (20) all hauled in 3 catches."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6881,
+        "sentence":"Marshall (34) and Eddie Royal (20) all hauled in 3 catches.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"34",
-       "annotationID":       6880,
-       "sentence":"Marshall (34) and Eddie Royal (20) all hauled in 3 catches."
+       "1":{
+        "propertyValue":"34",
+        "annotationID":        6880,
+        "sentence":"Marshall (34) and Eddie Royal (20) all hauled in 3 catches.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -12209,14 +13319,20 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"15",
-       "annotationID":       6883,
-       "sentence":"McGahee gained 79 yards on 15 rushes and scored twice."
+       "1":{
+        "propertyValue":"15",
+        "annotationID":        6883,
+        "sentence":"McGahee gained 79 yards on 15 rushes and scored twice.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"79",
-       "annotationID":       6882,
-       "sentence":"McGahee gained 79 yards on 15 rushes and scored twice."
+       "1":{
+        "propertyValue":"79",
+        "annotationID":        6882,
+        "sentence":"McGahee gained 79 yards on 15 rushes and scored twice.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      2,
       "receiving_targets":      2,
@@ -12361,14 +13477,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      7,
       "receiving_receptions":{
-       "propertyValue":"6",
-       "annotationID":       6884,
-       "sentence":"Jackson, who snatched 6 balls for 141 yards and a touchdown."
+       "1":{
+        "propertyValue":"6",
+        "annotationID":        6884,
+        "sentence":"Jackson, who snatched 6 balls for 141 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"141",
-       "annotationID":       6885,
-       "sentence":"Jackson, who snatched 6 balls for 141 yards and a touchdown."
+       "1":{
+        "propertyValue":"141",
+        "annotationID":        6885,
+        "sentence":"Jackson, who snatched 6 balls for 141 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -12495,9 +13617,12 @@
       "opponent":"BAL",
       "game_won":      false,
       "player_team_score":{
-       "propertyValue":"26",
-       "annotationID":       6888,
-       "sentence":"Sproles managed just 26 yards on 10 carries."
+       "1":{
+        "propertyValue":"26",
+        "annotationID":        6888,
+        "sentence":"Sproles managed just 26 yards on 10 carries.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"31",
       "passing_attempts":      0,
@@ -12512,19 +13637,28 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"10",
-       "annotationID":       6889,
-       "sentence":"Sproles managed just 26 yards on 10 carries."
+       "1":{
+        "propertyValue":"10",
+        "annotationID":        6889,
+        "sentence":"Sproles managed just 26 yards on 10 carries.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"2",
-       "annotationID":       6886,
-       "sentence":"Chambers did nothing again (2 rec."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6886,
+        "sentence":"Chambers did nothing again (2 rec.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"30",
-       "annotationID":       6887,
-       "sentence":", 30 yards)."
+       "1":{
+        "propertyValue":"30",
+        "annotationID":        6887,
+        "sentence":", 30 yards).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -12723,35 +13857,53 @@
       "player_team_score":"26",
       "opponent_score":"31",
       "passing_attempts":{
-       "propertyValue":"25",
-       "annotationID":       6890,
-       "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense."
+       "1":{
+        "propertyValue":"25",
+        "annotationID":        6890,
+        "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"45",
-       "annotationID":       6891,
-       "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense."
+       "1":{
+        "propertyValue":"45",
+        "annotationID":        6891,
+        "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"436",
-       "annotationID":       6892,
-       "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense."
+       "1":{
+        "propertyValue":"436",
+        "annotationID":        6892,
+        "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      85,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6893,
-       "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6893,
+        "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":{
-       "propertyValue":"2",
-       "annotationID":       6894,
-       "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6894,
+        "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense.",
+        "confidence":"None"
+       }
       },
       "passing_sacks":{
-       "propertyValue":"2",
-       "annotationID":       6895,
-       "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6895,
+        "sentence":"Rivers was brilliant, going 25-of-45 for 436 yards, 2 touchdowns and a pair of picks against Baltimore's prolific defense.",
+        "confidence":"None"
+       }
       },
       "passing_sacks_yards_lost":      15,
       "rushing_attempts":      4,
@@ -12828,19 +13980,28 @@
       "rushing_yards":      0,
       "rushing_touchdowns":      0,
       "receiving_targets":{
-       "propertyValue":"4",
-       "annotationID":       6896,
-       "sentence":"Washington was Baltimore's leading receiver with 4 catches for 58 yards and a touchdown."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6896,
+        "sentence":"Washington was Baltimore's leading receiver with 4 catches for 58 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_receptions":{
-       "propertyValue":"4",
-       "annotationID":       6897,
-       "sentence":"Washington was Baltimore's leading receiver with 4 catches for 58 yards and a touchdown."
+       "1":{
+        "propertyValue":"4",
+        "annotationID":        6897,
+        "sentence":"Washington was Baltimore's leading receiver with 4 catches for 58 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"58",
-       "annotationID":       6898,
-       "sentence":"Washington was Baltimore's leading receiver with 4 catches for 58 yards and a touchdown."
+       "1":{
+        "propertyValue":"58",
+        "annotationID":        6898,
+        "sentence":"Washington was Baltimore's leading receiver with 4 catches for 58 yards and a touchdown.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      1,
       "kick_return_attempts":      0,
@@ -12897,9 +14058,12 @@
       "opponent":"SDG",
       "game_won":      true,
       "player_team_score":{
-       "propertyValue":"31",
-       "annotationID":       6900,
-       "sentence":"Mason had just 3 receptions for 31 yards."
+       "1":{
+        "propertyValue":"31",
+        "annotationID":        6900,
+        "sentence":"Mason had just 3 receptions for 31 yards.",
+        "confidence":"None"
+       }
       },
       "opponent_score":"26",
       "passing_attempts":      0,
@@ -12915,14 +14079,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
       "receiving_receptions":{
-       "propertyValue":"3",
-       "annotationID":       6899,
-       "sentence":"Mason had just 3 receptions for 31 yards."
+       "1":{
+        "propertyValue":"3",
+        "annotationID":        6899,
+        "sentence":"Mason had just 3 receptions for 31 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"31",
-       "annotationID":       6901,
-       "sentence":"Mason had just 3 receptions for 31 yards."
+       "1":{
+        "propertyValue":"31",
+        "annotationID":        6901,
+        "sentence":"Mason had just 3 receptions for 31 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -12980,30 +14150,45 @@
       "game_won":      true,
       "player_team_score":"31",
       "opponent_score":{
-       "propertyValue":"26",
-       "annotationID":       6903,
-       "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"26",
+        "annotationID":        6903,
+        "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_attempts":{
-       "propertyValue":"17",
-       "annotationID":       6902,
-       "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"17",
+        "annotationID":        6902,
+        "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick.",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"26",
-       "annotationID":       6904,
-       "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"26",
+        "annotationID":        6904,
+        "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_yards":{
-       "propertyValue":"190",
-       "annotationID":       6905,
-       "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"190",
+        "annotationID":        6905,
+        "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_rating":      96.6,
       "passing_touchdowns":{
-       "propertyValue":"2",
-       "annotationID":       6906,
-       "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick."
+       "1":{
+        "propertyValue":"2",
+        "annotationID":        6906,
+        "sentence":"Flacco wasn't great, but he was very solid, going 17-of-26 for 190 yards, 2 touchdowns and a pick.",
+        "confidence":"None"
+       }
       },
       "passing_interceptions":      1,
       "passing_sacks":      1,
@@ -13071,14 +14256,20 @@
       "player_team_score":"31",
       "opponent_score":"26",
       "passing_attempts":{
-       "propertyValue":"1",
-       "annotationID":       6907,
-       "sentence":"Clayton did nothing (1 20-yard catch)."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6907,
+        "sentence":"Clayton did nothing (1 20-yard catch).",
+        "confidence":"Weak"
+       }
       },
       "passing_completions":{
-       "propertyValue":"1",
-       "annotationID":       6908,
-       "sentence":"Clayton did nothing (1 20-yard catch)."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6908,
+        "sentence":"Clayton did nothing (1 20-yard catch).",
+        "confidence":"None"
+       }
       },
       "passing_yards":      0,
       "passing_rating":      79.2,
@@ -13091,14 +14282,20 @@
       "rushing_touchdowns":      0,
       "receiving_targets":      4,
       "receiving_receptions":{
-       "propertyValue":"1",
-       "annotationID":       6909,
-       "sentence":"Clayton did nothing (1 20-yard catch)."
+       "1":{
+        "propertyValue":"1",
+        "annotationID":        6909,
+        "sentence":"Clayton did nothing (1 20-yard catch).",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"20",
-       "annotationID":       6910,
-       "sentence":"Clayton did nothing (1 20-yard catch)."
+       "1":{
+        "propertyValue":"20",
+        "annotationID":        6910,
+        "sentence":"Clayton did nothing (1 20-yard catch).",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,
@@ -13165,26 +14362,38 @@
       "passing_sacks":      0,
       "passing_sacks_yards_lost":      0,
       "rushing_attempts":{
-       "propertyValue":"8",
-       "annotationID":       6912,
-       "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards."
+       "1":{
+        "propertyValue":"8",
+        "annotationID":        6912,
+        "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards.",
+        "confidence":"None"
+       }
       },
       "rushing_yards":{
-       "propertyValue":"36",
-       "annotationID":       6911,
-       "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards."
+       "1":{
+        "propertyValue":"36",
+        "annotationID":        6911,
+        "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards.",
+        "confidence":"Strong"
+       }
       },
       "rushing_touchdowns":      0,
       "receiving_targets":      6,
       "receiving_receptions":{
-       "propertyValue":"5",
-       "annotationID":       6913,
-       "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards."
+       "1":{
+        "propertyValue":"5",
+        "annotationID":        6913,
+        "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_yards":{
-       "propertyValue":"46",
-       "annotationID":       6914,
-       "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards."
+       "1":{
+        "propertyValue":"46",
+        "annotationID":        6914,
+        "sentence":"Rice rushed for 36 yards on 8 carries and chipped in with 5 receptions for 46 yards.",
+        "confidence":"None"
+       }
       },
       "receiving_touchdowns":      0,
       "kick_return_attempts":      0,

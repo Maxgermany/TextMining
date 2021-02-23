@@ -248,9 +248,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   1,
    "defense_tackles":{
-    "propertyValue":"7",
-    "annotationID":    37502,
-    "sentence":"Misi (7 tackles) had sacks."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     37502,
+     "sentence":"Misi (7 tackles) had sacks.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   0,
@@ -351,9 +354,30 @@
    "defense_sacks":   0,
    "defense_tackles":   1,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    42093,
-    "sentence":"Here's this week's edition in case you missed it: These 2 teams played 2 weeks ago, so you know they'll remember each other's names."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     42090,
+     "sentence":"Here's this week's edition in case you missed it: These 2 teams played 2 weeks ago, so you know they'll remember each other's names.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     42091,
+     "sentence":"Here's this week's edition in case you missed it: These 2 teams played 2 weeks ago, so you know they'll remember each other's names.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     42092,
+     "sentence":"Maybe Nessler needs to announce a game between the same 2 teams that he announced 2 weeks ago, since he has all kinds of problems knowing the players' names.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     42093,
+     "sentence":"Maybe Nessler needs to announce a game between the same 2 teams that he announced 2 weeks ago, since he has all kinds of problems knowing the players' names.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

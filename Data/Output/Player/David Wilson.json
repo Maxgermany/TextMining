@@ -87,14 +87,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    29496,
-    "sentence":"Wilson (7-35) ripped off a kick return of 66 yards after halftime."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     29496,
+     "sentence":"Wilson (7-35) ripped off a kick return of 66 yards after halftime.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"35",
-    "annotationID":    29497,
-    "sentence":"Wilson (7-35) ripped off a kick return of 66 yards after halftime."
+    "1":{
+     "propertyValue":"35",
+     "annotationID":     29497,
+     "sentence":"Wilson (7-35) ripped off a kick return of 66 yards after halftime.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -144,9 +150,12 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    33066,
-    "sentence":"He went 26-of-43 for 354 yards, 1 touchdown and the 2 picks (the second 1 was his fault), both to Stevie Brown."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     33066,
+     "sentence":"Colston (4-61) and Graham (5-56) both disappointed statistically in addition to screwing up with key turnovers.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   9,
    "rushing_touchdowns":   0,
@@ -155,9 +164,12 @@
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"4",
-    "annotationID":    33067,
-    "sentence":"He went 26-of-43 for 354 yards, 1 touchdown and the 2 picks (the second 1 was his fault), both to Stevie Brown."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     33067,
+     "sentence":"Colston (4-61) and Graham (5-56) both disappointed statistically in addition to screwing up with key turnovers.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   83,
    "kick_return_touchdowns":   0,
@@ -201,34 +213,91 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    33079,
-    "sentence":"Mark Ingram rushed for 68 yards on just 13 tries."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     33076,
+     "sentence":"Mark Ingram rushed for 68 yards on just 13 tries.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"13",
+     "annotationID":     33079,
+     "sentence":"Speaking of successful running games, Wilson rushed for 100 yards and 2 touchdowns on just 13 carries in relief of an injured Ahmad Bradshaw (11-33) who was in and out of the lineup.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"100",
-    "annotationID":    33077,
-    "sentence":"Speaking of successful running games, Wilson rushed for 100 yards and 2 touchdowns on just 13 carries in relief of an injured Ahmad Bradshaw (11-33) who was in and out of the lineup."
+    "1":{
+     "propertyValue":"100",
+     "annotationID":     33077,
+     "sentence":"Speaking of successful running games, Wilson rushed for 100 yards and 2 touchdowns on just 13 carries in relief of an injured Ahmad Bradshaw (11-33) who was in and out of the lineup.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    33078,
-    "sentence":"- Drew Brees tossed 2 picks, 1 of which bounced right off the hands of Jimmy Graham."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     33069,
+     "sentence":"- Drew Brees tossed 2 picks, 1 of which bounced right off the hands of Jimmy Graham.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     33072,
+     "sentence":"He went 26-of-43 for 354 yards, 1 touchdown and the 2 picks (the second 1 was his fault), both to Stevie Brown.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     33075,
+     "sentence":"Joseph Morgan led the team in receiving (106 yards), doing so on 2 deep completions.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     33078,
+     "sentence":"Speaking of successful running games, Wilson rushed for 100 yards and 2 touchdowns on just 13 carries in relief of an injured Ahmad Bradshaw (11-33) who was in and out of the lineup.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
    "receiving_yards":   0,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"4",
-    "annotationID":    33074,
-    "sentence":"He went 26-of-43 for 354 yards, 1 touchdown and the 2 picks (the second 1 was his fault), both to Stevie Brown."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     33074,
+     "sentence":"Colston (4-61) and Graham (5-56) both disappointed statistically in addition to screwing up with key turnovers.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   227,
    "kick_return_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    33073,
-    "sentence":"Wilson took 1 back for 6."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     33068,
+     "sentence":"Wilson took 1 back for 6.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     33070,
+     "sentence":"- Drew Brees tossed 2 picks, 1 of which bounced right off the hands of Jimmy Graham.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     33071,
+     "sentence":"He went 26-of-43 for 354 yards, 1 touchdown and the 2 picks (the second 1 was his fault), both to Stevie Brown.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     33073,
+     "sentence":"He went 26-of-43 for 354 yards, 1 touchdown and the 2 picks (the second 1 was his fault), both to Stevie Brown.",
+     "confidence":"None"
+    }
    },
    "punt_return_attempts":   0,
    "punt_return_yards":   0,
@@ -270,32 +339,59 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    33180,
-    "sentence":"Wilson is explosive - he rushed for 55 yards on 12 carries - but the coaching staff doesn't trust him on third down."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     33180,
+     "sentence":"Wilson is explosive - he rushed for 55 yards on 12 carries - but the coaching staff doesn't trust him on third down.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"55",
-    "annotationID":    33179,
-    "sentence":"Wilson is explosive - he rushed for 55 yards on 12 carries - but the coaching staff doesn't trust him on third down."
+    "1":{
+     "propertyValue":"55",
+     "annotationID":     33179,
+     "sentence":"Wilson is explosive - he rushed for 55 yards on 12 carries - but the coaching staff doesn't trust him on third down.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    33184,
-    "sentence":"Wilson, meanwhile, was stuffed on a key 3rd-and-1 try that took way too long to develop."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     33181,
+     "sentence":"Wilson, meanwhile, was stuffed on a key 3rd-and-1 try that took way too long to develop.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     33184,
+     "sentence":"All 3 of Manning's targets hurt their fantasy owners.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    33183,
-    "sentence":"Wilson is explosive - he rushed for 55 yards on 12 carries - but the coaching staff doesn't trust him on third down."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     33183,
+     "sentence":"Wilson, meanwhile, was stuffed on a key 3rd-and-1 try that took way too long to develop.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   11,
    "receiving_touchdowns":   0,
    "kick_return_attempts":{
-    "propertyValue":"3",
-    "annotationID":    33185,
-    "sentence":"Wilson, meanwhile, was stuffed on a key 3rd-and-1 try that took way too long to develop."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     33182,
+     "sentence":"Wilson, meanwhile, was stuffed on a key 3rd-and-1 try that took way too long to develop.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     33185,
+     "sentence":"All 3 of Manning's targets hurt their fantasy owners.",
+     "confidence":"None"
+    }
    },
    "kick_return_yards":   66,
    "kick_return_touchdowns":   0,
@@ -339,19 +435,34 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    34153,
-    "sentence":"Wilson (3-17, TD) probably would have been able to gash the Ravens had New York been able to stick with the running game."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     34151,
+     "sentence":"Wilson (3-17, TD) probably would have been able to gash the Ravens had New York been able to stick with the running game.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     34153,
+     "sentence":"He consequently went 25-of-36 for 309 yards and 3 touchdowns (2 passing, 1 rushing), though it helped that.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"17",
-    "annotationID":    34152,
-    "sentence":"Wilson (3-17, TD) probably would have been able to gash the Ravens had New York been able to stick with the running game."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     34152,
+     "sentence":"Wilson (3-17, TD) probably would have been able to gash the Ravens had New York been able to stick with the running game.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    34154,
-    "sentence":"Wilson (3-17, TD) probably would have been able to gash the Ravens had New York been able to stick with the running game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     34154,
+     "sentence":"He consequently went 25-of-36 for 309 yards and 3 touchdowns (2 passing, 1 rushing), though it helped that.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -400,22 +511,31 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    34365,
-    "sentence":"The Giants were still able to move the chains though, as Philadelphia couldn't (or didn't want to) do anything about Ahmad Bradshaw (16-107, TD) and Wilson (15-75)."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     34365,
+     "sentence":"The Giants were still able to move the chains though, as Philadelphia couldn't (or didn't want to) do anything about Ahmad Bradshaw (16-107, TD) and Wilson (15-75).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"75",
-    "annotationID":    34367,
-    "sentence":"The Giants were still able to move the chains though, as Philadelphia couldn't (or didn't want to) do anything about Ahmad Bradshaw (16-107, TD) and Wilson (15-75)."
+    "1":{
+     "propertyValue":"75",
+     "annotationID":     34367,
+     "sentence":"The Giants were still able to move the chains though, as Philadelphia couldn't (or didn't want to) do anything about Ahmad Bradshaw (16-107, TD) and Wilson (15-75).",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
    "receiving_receptions":   1,
    "receiving_yards":{
-    "propertyValue":"15",
-    "annotationID":    34366,
-    "sentence":"The Giants were still able to move the chains though, as Philadelphia couldn't (or didn't want to) do anything about Ahmad Bradshaw (16-107, TD) and Wilson (15-75)."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     34366,
+     "sentence":"The Giants were still able to move the chains though, as Philadelphia couldn't (or didn't want to) do anything about Ahmad Bradshaw (16-107, TD) and Wilson (15-75).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   1,
@@ -461,14 +581,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    35488,
-    "sentence":"He finished with 19 yards on 7 carries, absolutely killing his fantasy owners."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     35488,
+     "sentence":"He finished with 19 yards on 7 carries, absolutely killing his fantasy owners.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"19",
-    "annotationID":    35487,
-    "sentence":"He finished with 19 yards on 7 carries, absolutely killing his fantasy owners."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     35487,
+     "sentence":"He finished with 19 yards on 7 carries, absolutely killing his fantasy owners.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -519,9 +645,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   7,
    "rushing_yards":{
-    "propertyValue":"17",
-    "annotationID":    36035,
-    "sentence":"Wilson and newly signed Brandon Jacobs split carries evenly, with the former outgaining the latter, 17-4."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     36035,
+     "sentence":"Wilson and newly signed Brandon Jacobs split carries evenly, with the former outgaining the latter, 17-4.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   1,
@@ -571,9 +700,12 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"11",
-    "annotationID":    36196,
-    "sentence":"By the time the Panthers went up 31-0, Manning was just 6-of-11 for 37 yards and an ugly interception that he fired into double coverage."
+    "1":{
+     "propertyValue":"11",
+     "annotationID":     36196,
+     "sentence":"By the time the Panthers went up 31-0, Manning was just 6-of-11 for 37 yards and an ugly interception that he fired into double coverage.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   39,
    "rushing_touchdowns":   0,
@@ -624,14 +756,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    36904,
-    "sentence":"Wilson had 55 yards on 13 carries."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     36904,
+     "sentence":"Wilson had 55 yards on 13 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"55",
-    "annotationID":    36903,
-    "sentence":"Wilson had 55 yards on 13 carries."
+    "1":{
+     "propertyValue":"55",
+     "annotationID":     36903,
+     "sentence":"Wilson had 55 yards on 13 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
@@ -681,14 +819,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"6",
-    "annotationID":    37545,
-    "sentence":"Wilson (6-16) was off to a good start with a touchdown, and his absence completely destroyed whatever New York wanted to do on offense."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     37545,
+     "sentence":"Wilson (6-16) was off to a good start with a touchdown, and his absence completely destroyed whatever New York wanted to do on offense.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"16",
-    "annotationID":    37546,
-    "sentence":"Wilson (6-16) was off to a good start with a touchdown, and his absence completely destroyed whatever New York wanted to do on offense."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     37546,
+     "sentence":"Wilson (6-16) was off to a good start with a touchdown, and his absence completely destroyed whatever New York wanted to do on offense.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   1,
@@ -697,9 +841,12 @@
    "receiving_touchdowns":   0,
    "kick_return_attempts":   1,
    "kick_return_yards":{
-    "propertyValue":"16",
-    "annotationID":    37547,
-    "sentence":"Wilson (6-16) was off to a good start with a touchdown, and his absence completely destroyed whatever New York wanted to do on offense."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     37547,
+     "sentence":"Wilson (6-16) was off to a good start with a touchdown, and his absence completely destroyed whatever New York wanted to do on offense.",
+     "confidence":"None"
+    }
    },
    "kick_return_touchdowns":   0,
    "punt_return_attempts":   0,

@@ -127,9 +127,12 @@
    "game_won":   true,
    "player_team_score":"34",
    "opponent_score":{
-    "propertyValue":"31",
-    "annotationID":    46204,
-    "sentence":"He also chipped in as a pass-catcher, hauling in 4 balls for 31 receiving yards."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     46204,
+     "sentence":"He also chipped in as a pass-catcher, hauling in 4 balls for 31 receiving yards.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -154,9 +157,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"9",
-    "annotationID":    46206,
-    "sentence":"Romo's 2 scores went to Bryant (6-89), who drew that aforementioned key pass interference, and Terrance Williams (2-32)."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     46205,
+     "sentence":"They sucked nearly 9 minutes off the clock, and when they were up 17-0, it appeared to be a lock that they were going to pull the upset.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"9",
+     "annotationID":     46206,
+     "sentence":"h-and-inches on the Dallas 9-yard line.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   3,
    "defense_interceptions":   1,

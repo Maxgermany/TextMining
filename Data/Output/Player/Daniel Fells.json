@@ -42,9 +42,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    7813,
-    "sentence":"Fells later fumbled inside the 5."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     7813,
+     "sentence":"Fells later fumbled inside the 5.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   45,
    "receiving_touchdowns":   0,
@@ -82,9 +85,24 @@
    "game_won":   true,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"10",
-    "annotationID":    8913,
-    "sentence":"- Detroit had about 10 drops in this game."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     8910,
+     "sentence":"- Detroit had about 10 drops in this game.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     8911,
+     "sentence":"- The Lions had the ball with 4 minutes remaining in the contest with the score tied at 10.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"10",
+     "annotationID":     8913,
+     "sentence":"But as I noted, Stafford suffered through close to 10 drops in this contest.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -98,9 +116,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    8912,
-    "sentence":"I liked the Lions -3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     8912,
+     "sentence":"I liked the Lions -3.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   1,
    "receiving_yards":   36,

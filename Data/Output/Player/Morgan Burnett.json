@@ -29,9 +29,12 @@
    "game_won":   true,
    "player_team_score":"23",
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    67496,
-    "sentence":"Manning finished 18-of-35 for 199 yards, a touchdown and a lost fumble, and even those ugly stats were helped by garbage time; Manning was 6-of-16 for 87 yards in the opening half."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     67496,
+     "sentence":"Manning finished 18-of-35 for 199 yards, a touchdown and a lost fumble, and even those ugly stats were helped by garbage time; Manning was 6-of-16 for 87 yards in the opening half.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -56,14 +59,26 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"5",
-    "annotationID":    67497,
-    "sentence":"Manning finished 18-of-35 for 199 yards, a touchdown and a lost fumble, and even those ugly stats were helped by garbage time; Manning was 6-of-16 for 87 yards in the opening half."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     67497,
+     "sentence":"He ended up with 5 catches for 56 yards.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    67498,
-    "sentence":"Burnett, and then he fumbled, but was fortunate to have 1 of his teammates recover."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     67495,
+     "sentence":"Burnett, and then he fumbled, but was fortunate to have 1 of his teammates recover.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     67498,
+     "sentence":"The Giants had only 1 other player who caught more than 2 passes; ",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

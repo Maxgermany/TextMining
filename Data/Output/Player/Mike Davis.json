@@ -28,9 +28,12 @@
    "opponent":"STL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"6",
-    "annotationID":    58709,
-    "sentence":"Quinton Patton (2-33), Vernon Davis (6-24) and Torrey Smith (2-19) were next on the receiving list."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     58709,
+     "sentence":"Quinton Patton (2-33), Vernon Davis (6-24) and Torrey Smith (2-19) were next on the receiving list.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -42,25 +45,49 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"10",
-    "annotationID":    58706,
-    "sentence":"Davis, who mustered only 4 yards on 10 carries."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     58705,
+     "sentence":"Davis, who mustered only 4 yards on 10 carries.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     58706,
+     "sentence":"Jerome Simpson saw a team-high 10 targets, but couldn't do anything with them, catching just 3 passes for 34 yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"4",
-    "annotationID":    58704,
-    "sentence":"Davis, who mustered only 4 yards on 10 carries."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     58704,
+     "sentence":"Davis, who mustered only 4 yards on 10 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"3",
-    "annotationID":    58707,
-    "sentence":"Jerome Simpson saw a team-high 10 targets, but couldn't do anything with them, catching just 3 passes for 34 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     58707,
+     "sentence":"Jerome Simpson saw a team-high 10 targets, but couldn't do anything with them, catching just 3 passes for 34 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    58710,
-    "sentence":"Quinton Patton (2-33), Vernon Davis (6-24) and Torrey Smith (2-19) were next on the receiving list."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     58708,
+     "sentence":"Quinton Patton (2-33), Vernon Davis (6-24) and Torrey Smith (2-19) were next on the receiving list.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     58710,
+     "sentence":"Quinton Patton (2-33), Vernon Davis (6-24) and Torrey Smith (2-19) were next on the receiving list.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   14,
    "receiving_touchdowns":   0,
@@ -156,14 +183,20 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"7",
-    "annotationID":    68612,
-    "sentence":"Carlos Hyde was out for the game, so Davis was expected to carry the load; however, Harris got 11 carries, for 39 yards, while Davis just received 7."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     68612,
+     "sentence":"Carlos Hyde was out for the game, so Davis was expected to carry the load; however, Harris got 11 carries, for 39 yards, while Davis just received 7.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"21",
-    "annotationID":    68613,
-    "sentence":"for 21 yards."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     68613,
+     "sentence":"for 21 yards.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   1,
    "receiving_targets":   0,
@@ -216,14 +249,20 @@
    "rushing_yards":   11,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"1",
-    "annotationID":    69725,
-    "sentence":"Davis at the 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     69725,
+     "sentence":"Davis at the 1.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    69726,
-    "sentence":"Davis at the 1."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     69726,
+     "sentence":"Davis at the 1.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   9,
    "receiving_touchdowns":   0,

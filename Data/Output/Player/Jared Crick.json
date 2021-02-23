@@ -78,9 +78,18 @@
    "game_won":   true,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"6",
-    "annotationID":    58972,
-    "sentence":"Antonio Andrews actually ran pretty well for the Titans, notching 64 yards on 16 carries."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     58968,
+     "sentence":"Tight end Delanie Walker led Tennessee with 62 yards on 6 receptions.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"6",
+     "annotationID":     58972,
+     "sentence":"Rookie corner Kevin Johnson made 6 tackles, plus an interception, and played extremely well.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -104,19 +113,46 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    58973,
-    "sentence":"Crick at the Tennessee's 10-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58969,
+     "sentence":"Kendall Wright (4-21), Justin Hunter (2-17) and Dorial Green-Beckham (1-12) couldn't do much with Mettenberger and the offensive line struggling.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     58973,
+     "sentence":"The 1 negative was that ",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    58971,
-    "sentence":"Houston could only get 3 out of the turnover, but it didn't matter because the defense slammed the door on the Titans."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     58967,
+     "sentence":"Houston could only get 3 out of the turnover, but it didn't matter because the defense slammed the door on the Titans.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     58971,
+     "sentence":"Mercilus recorded 3.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    58974,
-    "sentence":"Crick at the Tennessee's 10-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58970,
+     "sentence":"Kendall Wright (4-21), Justin Hunter (2-17) and Dorial Green-Beckham (1-12) couldn't do much with Mettenberger and the offensive line struggling.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     58974,
+     "sentence":"The 1 negative was that ",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -166,9 +202,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    63819,
-    "sentence":"Crick had huge whiffs - allowing the Chiefs to score 2 touchdowns, extending their lead from 13-0 to 27-0 rather quickly."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     63819,
+     "sentence":"Crick had huge whiffs - allowing the Chiefs to score 2 touchdowns, extending their lead from 13-0 to 27-0 rather quickly.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   3,
    "defense_interceptions":   0,

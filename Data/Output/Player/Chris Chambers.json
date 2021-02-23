@@ -91,9 +91,12 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   3,
    "receiving_receptions":{
-    "propertyValue":"1",
-    "annotationID":    4253,
-    "sentence":"Chambers caught 1 pass."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     4253,
+     "sentence":"Chambers caught 1 pass.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":   2,
    "receiving_touchdowns":   0,
@@ -228,9 +231,12 @@
    "opponent":"BAL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"26",
-    "annotationID":    6888,
-    "sentence":"Sproles managed just 26 yards on 10 carries."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     6888,
+     "sentence":"Sproles managed just 26 yards on 10 carries.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"31",
    "passing_attempts":   0,
@@ -245,19 +251,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"10",
-    "annotationID":    6889,
-    "sentence":"Sproles managed just 26 yards on 10 carries."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     6889,
+     "sentence":"Sproles managed just 26 yards on 10 carries.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    6886,
-    "sentence":"Chambers did nothing again (2 rec."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     6886,
+     "sentence":"Chambers did nothing again (2 rec.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"30",
-    "annotationID":    6887,
-    "sentence":", 30 yards)."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     6887,
+     "sentence":", 30 yards).",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -306,9 +321,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    8402,
-    "sentence":"Chambers didn't log a single reception even though he had 4 targets."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     8402,
+     "sentence":"Chambers didn't log a single reception even though he had 4 targets.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   2,
    "receiving_yards":   33,
@@ -359,9 +377,12 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    8403,
-    "sentence":"Chambers didn't log a single reception even though he had 4 targets."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     8403,
+     "sentence":"Chambers didn't log a single reception even though he had 4 targets.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":   0,
    "receiving_yards":   0,
@@ -400,9 +421,12 @@
    "game_won":   false,
    "player_team_score":"21",
    "opponent_score":{
-    "propertyValue":"24",
-    "annotationID":    9190,
-    "sentence":"The Backdoor Bandit II's numbers look solid (23-of-39, 262 yards, 2 TDs), but a lot of that was junk yardage at the end when the Chiefs were down 24-6."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     9190,
+     "sentence":"The Backdoor Bandit II's numbers look solid (23-of-39, 262 yards, 2 TDs), but a lot of that was junk yardage at the end when the Chiefs were down 24-6.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -416,24 +440,48 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"4",
-    "annotationID":    9194,
-    "sentence":"Chambers twice for touchdowns in the 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     9188,
+     "sentence":"Chambers twice for touchdowns in the 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     9194,
+     "sentence":"That was very fluky, as Chambers (3 catches, 70 yards) had only 4 targets, most of which were late in the game.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    9192,
-    "sentence":"Jacksonville was 9-of-16 on third downs and out-gained Kansas City, 426-301."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     9191,
+     "sentence":"Backdoor Bandit II took 3 sacks as well.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     9192,
+     "sentence":"That was very fluky, as Chambers (3 catches, 70 yards) had only 4 targets, most of which were late in the game.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"70",
-    "annotationID":    9193,
-    "sentence":"That was very fluky, as Chambers (3 catches, 70 yards) had only 4 targets, most of which were late in the game."
+    "1":{
+     "propertyValue":"70",
+     "annotationID":     9193,
+     "sentence":"That was very fluky, as Chambers (3 catches, 70 yards) had only 4 targets, most of which were late in the game.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    9189,
-    "sentence":"Jacksonville was 9-of-16 on third downs and out-gained Kansas City, 426-301."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     9189,
+     "sentence":"The Backdoor Bandit II's numbers look solid (23-of-39, 262 yards, 2 TDs), but a lot of that was junk yardage at the end when the Chiefs were down 24-6.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -482,14 +530,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"3",
-    "annotationID":    9749,
-    "sentence":"Chambers had 3 grabs for 60 yards."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     9749,
+     "sentence":"Chambers had 3 grabs for 60 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"60",
-    "annotationID":    9750,
-    "sentence":"Chambers had 3 grabs for 60 yards."
+    "1":{
+     "propertyValue":"60",
+     "annotationID":     9750,
+     "sentence":"Chambers had 3 grabs for 60 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -539,14 +593,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   6,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    10042,
-    "sentence":"Chambers led the Chiefs with 4 receptions and 119 yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     10042,
+     "sentence":"Chambers led the Chiefs with 4 receptions and 119 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"119",
-    "annotationID":    10043,
-    "sentence":"Chambers led the Chiefs with 4 receptions and 119 yards."
+    "1":{
+     "propertyValue":"119",
+     "annotationID":     10043,
+     "sentence":"Chambers led the Chiefs with 4 receptions and 119 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -596,14 +656,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"7",
-    "annotationID":    10648,
-    "sentence":"Chambers had 7 catches for 70 yards and a score against his old team."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     10648,
+     "sentence":"Chambers had 7 catches for 70 yards and a score against his old team.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"70",
-    "annotationID":    10649,
-    "sentence":"Chambers had 7 catches for 70 yards and a score against his old team."
+    "1":{
+     "propertyValue":"70",
+     "annotationID":     10649,
+     "sentence":"Chambers had 7 catches for 70 yards and a score against his old team.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -654,9 +720,12 @@
    "receiving_targets":   9,
    "receiving_receptions":   4,
    "receiving_yards":{
-    "propertyValue":"50",
-    "annotationID":    11494,
-    "sentence":"Chambers led the Chiefs with 50 yards."
+    "1":{
+     "propertyValue":"50",
+     "annotationID":     11494,
+     "sentence":"Chambers led the Chiefs with 50 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -705,19 +774,28 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"5",
-    "annotationID":    11848,
-    "sentence":"Chambers, who hauled in 5 grabs for 114 yards and a score."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     11848,
+     "sentence":"Chambers, who hauled in 5 grabs for 114 yards and a score.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    11849,
-    "sentence":"Chambers, who hauled in 5 grabs for 114 yards and a score."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     11849,
+     "sentence":"Chambers, who hauled in 5 grabs for 114 yards and a score.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"114",
-    "annotationID":    11850,
-    "sentence":"Chambers, who hauled in 5 grabs for 114 yards and a score."
+    "1":{
+     "propertyValue":"114",
+     "annotationID":     11850,
+     "sentence":"Chambers, who hauled in 5 grabs for 114 yards and a score.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   1,
    "kick_return_attempts":   0,
@@ -767,14 +845,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    12782,
-    "sentence":"Chambers (5-80) picked up the slack."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     12782,
+     "sentence":"Chambers (5-80) picked up the slack.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"80",
-    "annotationID":    12783,
-    "sentence":"Chambers (5-80) picked up the slack."
+    "1":{
+     "propertyValue":"80",
+     "annotationID":     12783,
+     "sentence":"Chambers (5-80) picked up the slack.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

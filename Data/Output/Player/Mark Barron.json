@@ -151,9 +151,12 @@
    "defense_sacks":   0,
    "defense_tackles":   6,
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    29408,
-    "sentence":"The signal-caller had another pass bounce off 2 players before "
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     29408,
+     "sentence":"The signal-caller had another pass bounce off 2 players before ",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   1,
    "defense_interception_yards":   12,
@@ -301,9 +304,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"6",
-    "annotationID":    31137,
-    "sentence":"Floyd (6-63), Gates (4-57), "
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     31137,
+     "sentence":"Floyd (6-63), Gates (4-57), ",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -527,9 +533,12 @@
    "game_won":   false,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"31",
-    "annotationID":    38169,
-    "sentence":"Foles completed 22-of-31 passes for 296 yards with 3 touchdowns and a running score."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     38169,
+     "sentence":"Foles completed 22-of-31 passes for 296 yards with 3 touchdowns and a running score.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -554,14 +563,32 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    38168,
-    "sentence":"Just before halftime with Tampa Bay down by 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     38165,
+     "sentence":"Just before halftime with Tampa Bay down by 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     38166,
+     "sentence":"Doug Martin (16-67 rushing, 4-24 receiving) had a big run up the middle to the 1-yard line and Glennon hit a fade to Vincent Jackson (9-114) for his second touchdown.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"4",
+     "annotationID":     38168,
+     "sentence":"A few plays later, Foles rainbowed in a bomb to the end zone for a 47-yard touchdown pass to Cooper (4-120), who beat Johnthan Banks running down the sideline.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    38167,
-    "sentence":"Doug Martin (16-67 rushing, 4-24 receiving) had a big run up the middle to the 1-yard line and Glennon hit a fade to Vincent Jackson (9-114) for his second touchdown."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     38167,
+     "sentence":"Doug Martin (16-67 rushing, 4-24 receiving) had a big run up the middle to the 1-yard line and Glennon hit a fade to Vincent Jackson (9-114) for his second touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -636,14 +663,38 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"24",
-    "annotationID":    39763,
-    "sentence":"That led to a field goal and cut the Bucs' lead to 24-17."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     39757,
+     "sentence":"That led to a field goal and cut the Bucs' lead to 24-17.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"24",
+     "annotationID":     39763,
+     "sentence":"That set up a 10-yard touchdown strike to Baldwin to tie the game at 24 with just under 2 minutes remaining.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"27",
-    "annotationID":    39764,
-    "sentence":"Glennon threw a bullet to Wright for 27 yards for the next play."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     39754,
+     "sentence":"Glennon threw a bullet to Wright for 27 yards for the next play.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"27",
+     "annotationID":     39758,
+     "sentence":"Kearse made a phenomenal leaping catch for 27-yards to Tampa Bay's 3.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"27",
+     "annotationID":     39764,
+     "sentence":"He powered the ball down to the 6-yard line, and that set up the game-winning 27-yard field goal for Seattle.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -668,16 +719,46 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"10",
-    "annotationID":    39762,
-    "sentence":"Wilson then ran the ball into the end zone on 10-yard run off the read option."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     39756,
+     "sentence":"Wilson then ran the ball into the end zone on 10-yard run off the read option.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"10",
+     "annotationID":     39762,
+     "sentence":"That set up a 10-yard touchdown strike to Baldwin to tie the game at 24 with just under 2 minutes remaining.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   1,
    "defense_interceptions":   1,
    "defense_interception_yards":{
-    "propertyValue":"3",
-    "annotationID":    39761,
-    "sentence":"On the ensuing kickoff, Seattle's Jermaine Kearse fumbled the ball to Tampa Bay, so the Bucs were set up at the Seahawks 31-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     39755,
+     "sentence":"He made a big throw to convert a third down to Golden Tate (3-29) for 19 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     39759,
+     "sentence":"Kearse made a phenomenal leaping catch for 27-yards to Tampa Bay's 3.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     39760,
+     "sentence":"The Seattle defense forced a 3.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"3",
+     "annotationID":     39761,
+     "sentence":"He hit Zach Miller (3-49) for 26 yards.",
+     "confidence":"None"
+    }
    },
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
@@ -1167,9 +1248,12 @@
    "defense_sacks":   0,
    "defense_tackles":   4,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    68250,
-    "sentence":"Aside from Beckham, only 1 Giant generated more than 32 receiving yards."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     68250,
+     "sentence":"Aside from Beckham, only 1 Giant generated more than 32 receiving yards.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -1269,9 +1353,12 @@
    "defense_sacks":   0,
    "defense_tackles":   7,
    "defense_tackle_assists":{
-    "propertyValue":"4",
-    "annotationID":    71165,
-    "sentence":"Tannehill also took 4 sacks, but was hit hard on so many occasions that it's a minor miracle that he survived the game without sustaining an injury."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     71165,
+     "sentence":"Tannehill also took 4 sacks, but was hit hard on so many occasions that it's a minor miracle that he survived the game without sustaining an injury.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

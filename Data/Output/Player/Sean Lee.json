@@ -248,14 +248,20 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"15",
-    "annotationID":    37157,
-    "sentence":"He was especially awesome after intermission: 15-of-17 for 183 yards and 2 scores."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     37157,
+     "sentence":"He was especially awesome after intermission: 15-of-17 for 183 yards and 2 scores.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"3",
-    "annotationID":    37156,
-    "sentence":"Rivers finished 35-of-42 for 401 yards, 3 touchdowns and the interception."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     37156,
+     "sentence":"Rivers finished 35-of-42 for 401 yards, 3 touchdowns and the interception.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   1,
    "defense_interception_yards":   52,
@@ -305,9 +311,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"6",
-    "annotationID":    38324,
-    "sentence":"Lee had 10 tackles, wile Carr did a terrific job of covering Pierre Garcon (6-69)."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     38324,
+     "sentence":"Lee had 10 tackles, wile Carr did a terrific job of covering Pierre Garcon (6-69).",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   4,
    "defense_interceptions":   0,
@@ -335,9 +344,18 @@
    "game_won":   true,
    "player_team_score":"17",
    "opponent_score":{
-    "propertyValue":"3",
-    "annotationID":    38639,
-    "sentence":"Lee - his first of 3 picks."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     38638,
+     "sentence":"Lee - his first of 3 picks.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     38639,
+     "sentence":"He finished 11-of-20 for 129 yards with the 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -656,9 +674,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    59558,
-    "sentence":"Not only did it win, but it covered the 3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     59557,
+     "sentence":"Not only did it win, but it covered the 3.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     59558,
+     "sentence":"As a result, the 3 primary Philadelphia backs combined for 173 rushing yards on 34 carries.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   2,
    "defense_interceptions":   0,
@@ -881,9 +908,12 @@
    "opponent":"ATL",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"7",
-    "annotationID":    81247,
-    "sentence":"Clayborn's 6 sacks were 1 shy of the NFL single-game record (Derrick Thomas, 7)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     81247,
+     "sentence":"Clayborn's 6 sacks were 1 shy of the NFL single-game record (Derrick Thomas, 7).",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,
@@ -910,9 +940,30 @@
    "defense_sacks":   0,
    "defense_tackles":   0,
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    81249,
-    "sentence":"Clayborn is not 1 of the better pass-rushers in the NFL."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     81245,
+     "sentence":"Clayborn is not 1 of the better pass-rushers in the NFL.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     81246,
+     "sentence":"Clayborn's 6 sacks were 1 shy of the NFL single-game record (Derrick Thomas, 7).",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     81248,
+     "sentence":"On the offensive side of the ball, Matt Ryan had 1 of his most consistent performances of the season.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     81249,
+     "sentence":"On 1 of his best throws, he hit ",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

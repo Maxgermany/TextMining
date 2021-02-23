@@ -175,9 +175,12 @@
    "opponent":"SFO",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"13",
-    "annotationID":    50892,
-    "sentence":"Murphy punched the ball out of Frank Gore's (13-36) hands and safety Philip Thomas recovered the ball to set up the Redskins at the 49ers' 36-yard line."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     50892,
+     "sentence":"Murphy punched the ball out of Frank Gore's (13-36) hands and safety Philip Thomas recovered the ball to set up the Redskins at the 49ers' 36-yard line.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":   0,
@@ -203,14 +206,20 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    50893,
-    "sentence":"Murphy punched the ball out of Frank Gore's (13-36) hands and safety Philip Thomas recovered the ball to set up the Redskins at the 49ers' 36-yard line."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     50893,
+     "sentence":"A pass to Boldin (9-137) moved it to the 4-yard line before Hyde (7-16) darted into the end zone for the game-winning touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    50894,
-    "sentence":"Murphy punched the ball out of Frank Gore's (13-36) hands and safety Philip Thomas recovered the ball to set up the Redskins at the 49ers' 36-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50894,
+     "sentence":"Ryan Kerrigan beat Jonathan Martin for a sack, and Jason Hatcher got by Mike Iupati for 1 as well.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -481,9 +490,12 @@
    "opponent":"ARI",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"23",
-    "annotationID":    72487,
-    "sentence":"The Redskins countered with a field goal to make it 24-23 Arizona midway through the 4."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     72487,
+     "sentence":"The Redskins countered with a field goal to make it 24-23 Arizona midway through the 4.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"31",
    "passing_attempts":   0,
@@ -508,19 +520,88 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"1",
-    "annotationID":    72495,
-    "sentence":"However, Calais Campbell strip-sacked Cousins and Markus Golden returned the fumble to the Redskins' 10-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     72483,
+     "sentence":"Carson Palmer then fired a fastball to Michael Floyd (3-18-1) for the score and a 17-13 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     72485,
+     "sentence":"Cousins struck back with a 26-yard touchdown pass to Jamison Crowder (3-42-1), who beat Tony Jefferson to get wide open.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     72488,
+     "sentence":"h-and-1 at their own 34-yard line and Johnson ripped off an 18-yard run.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     72490,
+     "sentence":"Nelson (1-42) for a 42-yard touchdown strike just after the 2-minute warning a few plays later.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     72493,
+     "sentence":"Cousins was 21-of-37 for 271 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     72495,
+     "sentence":"Cousins was 21-of-37 for 271 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    72492,
-    "sentence":"Cousins struck back with a 26-yard touchdown pass to Jamison Crowder (3-42-1), who beat Tony Jefferson to get wide open."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     72492,
+     "sentence":"Nelson (1-42) for a 42-yard touchdown strike just after the 2-minute warning a few plays later.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    72496,
-    "sentence":"However, Calais Campbell strip-sacked Cousins and Markus Golden returned the fumble to the Redskins' 10-yard line."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     72484,
+     "sentence":"Carson Palmer then fired a fastball to Michael Floyd (3-18-1) for the score and a 17-13 lead.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     72486,
+     "sentence":"Cousins struck back with a 26-yard touchdown pass to Jamison Crowder (3-42-1), who beat Tony Jefferson to get wide open.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     72489,
+     "sentence":"h-and-1 at their own 34-yard line and Johnson ripped off an 18-yard run.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     72491,
+     "sentence":"Nelson (1-42) for a 42-yard touchdown strike just after the 2-minute warning a few plays later.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"1",
+     "annotationID":     72494,
+     "sentence":"Cousins was 21-of-37 for 271 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"1",
+     "annotationID":     72496,
+     "sentence":"Cousins was 21-of-37 for 271 yards with 1 touchdown and 1 interception.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

@@ -77,9 +77,12 @@
    "opponent":"CHI",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"21",
-    "annotationID":    40051,
-    "sentence":"Stafford finished completing 18-of-35 for 219 yards with 3 touchdowns and an interception."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     40051,
+     "sentence":"Cutler was 21-of-40 for 250 yards with a score and a pick.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"19",
    "passing_attempts":   0,
@@ -447,14 +450,50 @@
    "punt_return_yards":   0,
    "punt_return_touchdowns":   0,
    "defense_sacks":{
-    "propertyValue":"2",
-    "annotationID":    67885,
-    "sentence":"They then got the ball with just over 3 minutes at their own 20."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     67880,
+     "sentence":"With about 2 minutes left, Hoyer got moving with a crossing completion to Meredith (11-113), but on a 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     67882,
+     "sentence":"Ramsey showed his resiliency by holding Jeffery (7-93) to just 1 reception for 3 yards in the final 2 quarters.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     67884,
+     "sentence":"Allen Hurns (5-74), Marqise Lee (6-61), Allen Robinson (3-49) and Julius Thomas (2-28) all chipped in for the Jaguars.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     67885,
+     "sentence":"Defensively, Willie Young played really well for Chicago with 2 sacks.",
+     "confidence":"None"
+    }
    },
    "defense_tackles":{
-    "propertyValue":"3",
-    "annotationID":    67883,
-    "sentence":"Young strip-sacked Bortles, and Chicago recovered at Jacksonville's 30-yard line."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     67879,
+     "sentence":"They then got the ball with just over 3 minutes at their own 20.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     67881,
+     "sentence":"Ramsey showed his resiliency by holding Jeffery (7-93) to just 1 reception for 3 yards in the final 2 quarters.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"3",
+     "annotationID":     67883,
+     "sentence":"Allen Hurns (5-74), Marqise Lee (6-61), Allen Robinson (3-49) and Julius Thomas (2-28) all chipped in for the Jaguars.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,

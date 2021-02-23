@@ -39,9 +39,12 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   1,
    "rushing_yards":{
-    "propertyValue":"40",
-    "annotationID":    32424,
-    "sentence":"Johnson, who picked up 40 yards on the ground on a fake punt."
+    "1":{
+     "propertyValue":"40",
+     "annotationID":     32424,
+     "sentence":"Johnson, who picked up 40 yards on the ground on a fake punt.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -277,9 +280,12 @@
    "opponent":"CAR",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"15",
-    "annotationID":    64263,
-    "sentence":"He could've had a big game on the ground had the Panthers not jumped out to a big lead, as he gained 60 yards and a touchdown on 15 carries."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     64263,
+     "sentence":"He could've had a big game on the ground had the Panthers not jumped out to a big lead, as he gained 60 yards and a touchdown on 15 carries.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"49",
    "passing_attempts":   0,
@@ -305,14 +311,32 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"2",
-    "annotationID":    64261,
-    "sentence":"That occurred when Darren Fells inexplicably leapt into him at the end of a 21-yard reception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     64259,
+     "sentence":"Carson Hoyer, I mean Palmer, went 23-of-40 for 235 yards, 1 touchdown, 4 interceptions and 2 lost fumbles.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     64261,
+     "sentence":"Fitzgerald was guilty of 2 drops.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"2",
-    "annotationID":    64262,
-    "sentence":"That occurred when Darren Fells inexplicably leapt into him at the end of a 21-yard reception."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     64260,
+     "sentence":"Carson Hoyer, I mean Palmer, went 23-of-40 for 235 yards, 1 touchdown, 4 interceptions and 2 lost fumbles.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     64262,
+     "sentence":"Fitzgerald was guilty of 2 drops.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,

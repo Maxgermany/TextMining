@@ -61,9 +61,12 @@
    "point_after_makes":   2,
    "field_goal_attempts":   2,
    "field_goal_makes":{
-    "propertyValue":"1",
-    "annotationID":    12394,
-    "sentence":"Brees was 32-of-37 for 258 yards and a touchdown, and at 1 point in the second half, he had completed 19 passes in a row."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     12394,
+     "sentence":"Brees was 32-of-37 for 258 yards and a touchdown, and at 1 point in the second half, he had completed 19 passes in a row.",
+     "confidence":"None"
+    }
    },
    "punting_attempts":   0,
    "punting_yards":   0,
@@ -407,9 +410,12 @@
    "point_after_attemps":   5,
    "point_after_makes":   5,
    "field_goal_attempts":{
-    "propertyValue":"2",
-    "annotationID":    37340,
-    "sentence":"Brees completed 29-of-35 passes for 288 yards with 2 touchdowns in this game."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     37340,
+     "sentence":"Brees completed 29-of-35 passes for 288 yards with 2 touchdowns in this game.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":   1,
    "punting_attempts":   0,
@@ -458,14 +464,20 @@
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
    "point_after_attemps":{
-    "propertyValue":"2",
-    "annotationID":    37341,
-    "sentence":"Brees completed 29-of-35 passes for 288 yards with 2 touchdowns in this game."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     37341,
+     "sentence":"Brees completed 29-of-35 passes for 288 yards with 2 touchdowns in this game.",
+     "confidence":"None"
+    }
    },
    "point_after_makes":{
-    "propertyValue":"2",
-    "annotationID":    37342,
-    "sentence":"Brees completed 29-of-35 passes for 288 yards with 2 touchdowns in this game."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     37342,
+     "sentence":"Brees completed 29-of-35 passes for 288 yards with 2 touchdowns in this game.",
+     "confidence":"None"
+    }
    },
    "field_goal_attempts":   4,
    "field_goal_makes":   4,
@@ -515,19 +527,46 @@
    "defense_interception_touchdowns":   0,
    "defense_safeties":   0,
    "point_after_attemps":{
-    "propertyValue":"5",
-    "annotationID":    39106,
-    "sentence":"He let the ball hit the ground on just 8 occasions, going 26-of-34 for 332 yards and a whopping 5 touchdowns."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     39104,
+     "sentence":"He let the ball hit the ground on just 8 occasions, going 26-of-34 for 332 yards and a whopping 5 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     39106,
+     "sentence":"5 from ",
+     "confidence":"None"
+    }
    },
    "point_after_makes":{
-    "propertyValue":"5",
-    "annotationID":    39107,
-    "sentence":"He let the ball hit the ground on just 8 occasions, going 26-of-34 for 332 yards and a whopping 5 touchdowns."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     39105,
+     "sentence":"He let the ball hit the ground on just 8 occasions, going 26-of-34 for 332 yards and a whopping 5 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     39107,
+     "sentence":"5 from ",
+     "confidence":"None"
+    }
    },
    "field_goal_attempts":{
-    "propertyValue":"2",
-    "annotationID":    39103,
-    "sentence":"Hartley whiffed on 2 field goals, while Drew Brees was whistled for a pair of false starts in the red zone."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     39102,
+     "sentence":"Hartley whiffed on 2 field goals, while Drew Brees was whistled for a pair of false starts in the red zone.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     39103,
+     "sentence":"It was so suspicious that I assumed the game was fixed (Hartley's 2 misses factored into my conspiracy theory), but the Saints ultimately got their act together, establishing a double-digit lead and never looking back.",
+     "confidence":"None"
+    }
    },
    "field_goal_makes":   0,
    "punting_attempts":   0,
@@ -538,9 +577,12 @@
   "11":{
    "player_id":   9303,
    "year":{
-    "propertyValue":"2013",
-    "annotationID":    40818,
-    "sentence":"It was a questionable call, but that is the 2013 NFL."
+    "1":{
+     "propertyValue":"2013",
+     "annotationID":     40818,
+     "sentence":"It was a questionable call, but that is the 2013 NFL.",
+     "confidence":"None"
+    }
    },
    "date":"2013-11-17",
    "game_number":"10",

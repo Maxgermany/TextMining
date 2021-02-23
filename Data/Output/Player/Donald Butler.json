@@ -77,14 +77,20 @@
    "opponent":"DEN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    40385,
-    "sentence":"That cut the Denver lead to 28-20."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     40385,
+     "sentence":"That cut the Denver lead to 28-20.",
+     "confidence":"None"
+    }
    },
    "opponent_score":{
-    "propertyValue":"28",
-    "annotationID":    40384,
-    "sentence":"That cut the Denver lead to 28-20."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     40384,
+     "sentence":"That cut the Denver lead to 28-20.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -109,9 +115,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"7",
-    "annotationID":    40383,
-    "sentence":"Rivers turned that into 7 points with a short pass to Danny Woodhead (6-27 rushing, 4-17 receiving)."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     40383,
+     "sentence":"Rivers turned that into 7 points with a short pass to Danny Woodhead (6-27 rushing, 4-17 receiving).",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -162,9 +171,18 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"4",
-    "annotationID":    45922,
-    "sentence":"Manuel threw the ball to nobody on 4."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     45921,
+     "sentence":"Manuel threw the ball to nobody on 4.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"4",
+     "annotationID":     45922,
+     "sentence":"Buffalo's offensive line played like garbage in the 4.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   5,
    "defense_interceptions":   0,

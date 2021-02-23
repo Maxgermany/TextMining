@@ -93,9 +93,12 @@
    "receiving_receptions":   4,
    "receiving_yards":   31,
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    22534,
-    "sentence":"The Nelson score was the only 1 for Buffalo."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     22534,
+     "sentence":"The Nelson score was the only 1 for Buffalo.",
+     "confidence":"Weak"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -179,9 +182,12 @@
    "opponent":"NYJ",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"24",
-    "annotationID":    23518,
-    "sentence":"New York stiffened up on defense and Rayner tried to make amends for his kickoff flub by giving his team the 24-21 lead on a booming 53-yard field goal."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     23518,
+     "sentence":"New York stiffened up on defense and Rayner tried to make amends for his kickoff flub by giving his team the 24-21 lead on a booming 53-yard field goal.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"28",
    "passing_attempts":   0,
@@ -196,24 +202,96 @@
    "rushing_yards":   0,
    "rushing_touchdowns":   0,
    "receiving_targets":{
-    "propertyValue":"8",
-    "annotationID":    23520,
-    "sentence":"Nelson for the touchdown and 7-0 lead on a march that took up 8:47 off the clock and nearly put the game in the second quarter."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     23507,
+     "sentence":"Nelson for the touchdown and 7-0 lead on a march that took up 8:47 off the clock and nearly put the game in the second quarter.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"8",
+     "annotationID":     23509,
+     "sentence":"Shonn Greene saw the ball on 3 of the first 4 plays, running twice for 8 yards and collecting an 18-yard reception.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"8",
+     "annotationID":     23512,
+     "sentence":"The former bust made a dumb play on 3rd-and-8 clocking lineman Kraig Urbik to negate a failed play.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"8",
+     "annotationID":     23514,
+     "sentence":"The Bills went right back to picking on Revis to start the second half with an 8-yard pass to Stevie Johnson (8-75 yards, TD), who had his fingerprints all over this result.",
+     "confidence":"None"
+    },
+    "5":{
+     "propertyValue":"8",
+     "annotationID":     23515,
+     "sentence":"The Bills went right back to picking on Revis to start the second half with an 8-yard pass to Stevie Johnson (8-75 yards, TD), who had his fingerprints all over this result.",
+     "confidence":"None"
+    },
+    "6":{
+     "propertyValue":"8",
+     "annotationID":     23520,
+     "sentence":"Sanchez was 6-for-8 on what wound up being the winning drive for 65 yards and his final touchdown pass to, who else, Holmes covering 16 yards with 1:09 left on the clock.",
+     "confidence":"None"
+    }
    },
    "receiving_receptions":{
-    "propertyValue":"5",
-    "annotationID":    23519,
-    "sentence":"Buffalo moved the ball on its next drive, converting a third down when they were put in a second-and-15 situation after a false start by rookie left tackle Chris Hairston."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     23510,
+     "sentence":"He was swarmed for a loss of 5 and Rex Ryan laughed at the play call.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"5",
+     "annotationID":     23513,
+     "sentence":"The Bills took advantage of the great field position at the New York 20 needing just 3 plays for Johnson to beat Revis again on a 5-yard touchdown for the 14-7 lead.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"5",
+     "annotationID":     23519,
+     "sentence":"After a quick exchange of punts, I pointed out on Twitter that the time was now for Sanchez and the Jets, even with 5:44 remaining.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"47",
-    "annotationID":    23508,
-    "sentence":"Nelson for the touchdown and 7-0 lead on a march that took up 8:47 off the clock and nearly put the game in the second quarter."
+    "1":{
+     "propertyValue":"47",
+     "annotationID":     23508,
+     "sentence":"Nelson for the touchdown and 7-0 lead on a march that took up 8:47 off the clock and nearly put the game in the second quarter.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    23521,
-    "sentence":"Shonn Greene saw the ball on 3 of the first 4 plays, running twice for 8 yards and collecting an 18-yard reception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     23511,
+     "sentence":"He was a team captain for this 1.",
+     "confidence":"Weak"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     23516,
+     "sentence":"Breathing room really helped New York, which went to the running game with Greene (13-78) and Joe McKnight (4-21), who probably should have been given a few more rushing attempts in this 1.",
+     "confidence":"Weak"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     23517,
+     "sentence":"Sanchez (17-for-35 180 yards, 4 TDs, 1 INT) threw 3 incompletions to kill the Jets' next drive, distributing his targets (Burress, Patrick Turner, Holmes).",
+     "confidence":"Weak"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     23521,
+     "sentence":"Sanchez was 6-for-8 on what wound up being the winning drive for 65 yards and his final touchdown pass to, who else, Holmes covering 16 yards with 1:09 left on the clock.",
+     "confidence":"Strong"
+    }
    },
    "kick_return_attempts":   0,
    "kick_return_yards":   0,
@@ -311,14 +389,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   5,
    "receiving_receptions":{
-    "propertyValue":"2",
-    "annotationID":    27089,
-    "sentence":"Nelson, who had 2 grabs for 31 yards, tore his ACL."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     27089,
+     "sentence":"Nelson, who had 2 grabs for 31 yards, tore his ACL.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"31",
-    "annotationID":    27090,
-    "sentence":"Nelson, who had 2 grabs for 31 yards, tore his ACL."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     27090,
+     "sentence":"Nelson, who had 2 grabs for 31 yards, tore his ACL.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -368,14 +452,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   7,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    38620,
-    "sentence":"Nelson (4-80) also played well."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     38620,
+     "sentence":"Nelson (4-80) also played well.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"80",
-    "annotationID":    38621,
-    "sentence":"Nelson (4-80) also played well."
+    "1":{
+     "propertyValue":"80",
+     "annotationID":     38621,
+     "sentence":"Nelson (4-80) also played well.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -425,14 +515,20 @@
    "rushing_touchdowns":   0,
    "receiving_targets":   12,
    "receiving_receptions":{
-    "propertyValue":"8",
-    "annotationID":    39171,
-    "sentence":"Nelson caught 8 balls for 80 yards to lead the Jets in both categories, but he's not worth considering in fantasy."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     39171,
+     "sentence":"Nelson caught 8 balls for 80 yards to lead the Jets in both categories, but he's not worth considering in fantasy.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"80",
-    "annotationID":    39172,
-    "sentence":"Nelson caught 8 balls for 80 yards to lead the Jets in both categories, but he's not worth considering in fantasy."
+    "1":{
+     "propertyValue":"80",
+     "annotationID":     39172,
+     "sentence":"Nelson caught 8 balls for 80 yards to lead the Jets in both categories, but he's not worth considering in fantasy.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,

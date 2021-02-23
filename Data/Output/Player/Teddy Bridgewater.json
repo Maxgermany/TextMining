@@ -69,9 +69,12 @@
   "2":{
    "player_id":   2377,
    "year":{
-    "propertyValue":"2014",
-    "annotationID":    46798,
-    "sentence":"However, 1 of the few reasons Bridgewater fell in the 2014 NFL Draft was because some teams were worried about his durability."
+    "1":{
+     "propertyValue":"2014",
+     "annotationID":     46798,
+     "sentence":"However, 1 of the few reasons Bridgewater fell in the 2014 NFL Draft was because some teams were worried about his durability.",
+     "confidence":"None"
+    }
    },
    "date":"2014-09-28",
    "game_number":"4",
@@ -83,19 +86,28 @@
    "player_team_score":"41",
    "opponent_score":"28",
    "passing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    46792,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     46792,
+     "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"30",
-    "annotationID":    46793,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"30",
+     "annotationID":     46793,
+     "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"317",
-    "annotationID":    46794,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"317",
+     "annotationID":     46794,
+     "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   98.9,
    "passing_touchdowns":   0,
@@ -104,14 +116,26 @@
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":   5,
    "rushing_yards":{
-    "propertyValue":"27",
-    "annotationID":    46795,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     46795,
+     "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    46797,
-    "sentence":"He went 19-of-30 for 317 passing yards as well as 27 rushing yards and a score on the ground."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     46796,
+     "sentence":"Bridgewater made some great plays, including 1 where he juked to avoid a sack and rushed upfield to move the chains.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     46797,
+     "sentence":"However, 1 of the few reasons Bridgewater fell in the 2014 NFL Draft was because some teams were worried about his durability.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -150,39 +174,57 @@
    "opponent":"DET",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"3",
-    "annotationID":    47614,
-    "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     47614,
+     "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"23",
-    "annotationID":    47611,
-    "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     47611,
+     "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"37",
-    "annotationID":    47612,
-    "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions."
+    "1":{
+     "propertyValue":"37",
+     "annotationID":     47612,
+     "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"188",
-    "annotationID":    47613,
-    "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions."
+    "1":{
+     "propertyValue":"188",
+     "annotationID":     47613,
+     "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   41.3,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"3",
-    "annotationID":    47615,
-    "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     47615,
+     "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   8,
    "passing_sacks_yards_lost":   45,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    47616,
-    "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     47616,
+     "sentence":"Taking a major step backward from his scintillating debut, Bridgewater went 23-of-37 for 188 yards and 3 interceptions.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   11,
    "rushing_touchdowns":   0,
@@ -231,9 +273,12 @@
    "passing_touchdowns":   1,
    "passing_interceptions":   2,
    "passing_sacks":{
-    "propertyValue":"5",
-    "annotationID":    48020,
-    "sentence":"Bridgewater caught fire after that, leading a 5."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     48020,
+     "sentence":"Bridgewater caught fire after that, leading a 5.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   39,
    "rushing_attempts":   1,
@@ -282,30 +327,45 @@
    "passing_yards":   241,
    "passing_rating":   81.5,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    48872,
-    "sentence":"While Barr helped his team triumph with 8 tackles, 1 sack and the strip-fumble for a touchdown, Bridgewater didn't have as good of a game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48872,
+     "sentence":"While Barr helped his team triumph with 8 tackles, 1 sack and the strip-fumble for a touchdown, Bridgewater didn't have as good of a game.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    48873,
-    "sentence":"While Barr helped his team triumph with 8 tackles, 1 sack and the strip-fumble for a touchdown, Bridgewater didn't have as good of a game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48873,
+     "sentence":"While Barr helped his team triumph with 8 tackles, 1 sack and the strip-fumble for a touchdown, Bridgewater didn't have as good of a game.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"6",
-    "annotationID":    48875,
-    "sentence":"The Vikings were just 6-of-15 on third down, mostly because Bridgewater constantly tossed passes short of the first-down marker."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     48875,
+     "sentence":"The Vikings were just 6-of-15 on third down, mostly because Bridgewater constantly tossed passes short of the first-down marker.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    48874,
-    "sentence":"While Barr helped his team triumph with 8 tackles, 1 sack and the strip-fumble for a touchdown, Bridgewater didn't have as good of a game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     48874,
+     "sentence":"While Barr helped his team triumph with 8 tackles, 1 sack and the strip-fumble for a touchdown, Bridgewater didn't have as good of a game.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"3",
-    "annotationID":    48871,
-    "sentence":"If you somehow missed it, Mike Glennon found Austin Seferian-Jenkins for a short reception in overtime, but linebacker Anthony Barr stripped the ball away, recovered it and scored the game-winning touchdown to help the Vikings improve to 3-5."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     48871,
+     "sentence":"If you somehow missed it, Mike Glennon found Austin Seferian-Jenkins for a short reception in overtime, but linebacker Anthony Barr stripped the ball away, recovered it and scored the game-winning touchdown to help the Vikings improve to 3-5.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -396,30 +456,81 @@
    "player_team_score":"13",
    "opponent_score":"21",
    "passing_attempts":{
-    "propertyValue":"18",
-    "annotationID":    50231,
-    "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     50231,
+     "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    50232,
-    "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     50232,
+     "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"158",
-    "annotationID":    50233,
-    "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone."
+    "1":{
+     "propertyValue":"158",
+     "annotationID":     50233,
+     "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   76.2,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    50234,
-    "sentence":"Jared Allen abused the inept Matt Kalil; it's astonishing how the former Pro Bowl left tackle has transformed into 1 of the worst offensive linemen in the NFL."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50225,
+     "sentence":"Jared Allen abused the inept Matt Kalil; it's astonishing how the former Pro Bowl left tackle has transformed into 1 of the worst offensive linemen in the NFL.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50227,
+     "sentence":"It was so bad that at 1 point, Bridgewater drifted back 25 yards in the pocket on 1 play to avoid pressure.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     50229,
+     "sentence":"It was so bad that at 1 point, Bridgewater drifted back 25 yards in the pocket on 1 play to avoid pressure.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     50234,
+     "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    50235,
-    "sentence":"Jared Allen abused the inept Matt Kalil; it's astonishing how the former Pro Bowl left tackle has transformed into 1 of the worst offensive linemen in the NFL."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     50226,
+     "sentence":"Jared Allen abused the inept Matt Kalil; it's astonishing how the former Pro Bowl left tackle has transformed into 1 of the worst offensive linemen in the NFL.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     50228,
+     "sentence":"It was so bad that at 1 point, Bridgewater drifted back 25 yards in the pocket on 1 play to avoid pressure.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     50230,
+     "sentence":"It was so bad that at 1 point, Bridgewater drifted back 25 yards in the pocket on 1 play to avoid pressure.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"1",
+     "annotationID":     50235,
+     "sentence":"Bridgewater went 18-of-28 for 158 yards, 1 touchdown and an interception, which was just a desperation heave into the end zone.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   11,
@@ -469,21 +580,42 @@
    "passing_yards":   210,
    "passing_rating":   79.8,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    50857,
-    "sentence":"On a third-and-10, Aaron Rodgers threw a perfect pass to Randalll Cobb (5-48) to beat good coverage from Captain Munneryln for a gain of 29."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50855,
+     "sentence":"After a pass to Andrew Quarless (2-50) moved the ball inside the 10, Eddie Lacy dove over the top at the goal line for a touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     50857,
+     "sentence":"Minnesota answered with a nice drive that featured a critical holding call drawn by Cordarraelle Patterson (2-18) and a 4.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"2",
-    "annotationID":    50858,
-    "sentence":"On a third-and-10, Aaron Rodgers threw a perfect pass to Randalll Cobb (5-48) to beat good coverage from Captain Munneryln for a gain of 29."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     50856,
+     "sentence":"After a pass to Andrew Quarless (2-50) moved the ball inside the 10, Eddie Lacy dove over the top at the goal line for a touchdown.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     50858,
+     "sentence":"Minnesota answered with a nice drive that featured a critical holding call drawn by Cordarraelle Patterson (2-18) and a 4.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   14,
    "rushing_attempts":{
-    "propertyValue":"5",
-    "annotationID":    50854,
-    "sentence":"On a third-and-10, Aaron Rodgers threw a perfect pass to Randalll Cobb (5-48) to beat good coverage from Captain Munneryln for a gain of 29."
+    "1":{
+     "propertyValue":"5",
+     "annotationID":     50854,
+     "sentence":"On a third-and-10, Aaron Rodgers threw a perfect pass to Randalll Cobb (5-48) to beat good coverage from Captain Munneryln for a gain of 29.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   32,
    "rushing_touchdowns":   0,
@@ -526,33 +658,48 @@
    "player_team_score":"31",
    "opponent_score":"13",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    51344,
-    "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     51344,
+     "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"21",
-    "annotationID":    51345,
-    "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"21",
+     "annotationID":     51345,
+     "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"138",
-    "annotationID":    51346,
-    "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"138",
+     "annotationID":     51346,
+     "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   120.7,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    51347,
-    "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     51347,
+     "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   20,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    51348,
-    "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     51348,
+     "sentence":"Bridgewater misfired on just 6 occasions, going 15-of-21 for only 138 yards and 2 touchdowns.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   12,
    "rushing_touchdowns":   0,
@@ -600,9 +747,12 @@
    "passing_rating":   117.7,
    "passing_touchdowns":   2,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    51860,
-    "sentence":"Bridgewater had 1 of his best performances of his rookie campaign."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     51860,
+     "sentence":"Bridgewater had 1 of his best performances of his rookie campaign.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   12,
@@ -702,9 +852,12 @@
    "passing_rating":   84.9,
    "passing_touchdowns":   1,
    "passing_interceptions":{
-    "propertyValue":"2",
-    "annotationID":    52708,
-    "sentence":"Bridgewater had some bright spots this week, but he absolutely killed his team with 2 interceptions."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     52708,
+     "sentence":"Bridgewater had some bright spots this week, but he absolutely killed his team with 2 interceptions.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   31,
@@ -750,25 +903,37 @@
    "player_team_score":"35",
    "opponent_score":"37",
    "passing_attempts":{
-    "propertyValue":"19",
-    "annotationID":    53076,
-    "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass."
+    "1":{
+     "propertyValue":"19",
+     "annotationID":     53076,
+     "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"26",
-    "annotationID":    53077,
-    "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass."
+    "1":{
+     "propertyValue":"26",
+     "annotationID":     53077,
+     "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"259",
-    "annotationID":    53078,
-    "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass."
+    "1":{
+     "propertyValue":"259",
+     "annotationID":     53078,
+     "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   114.1,
    "passing_touchdowns":{
-    "propertyValue":"2",
-    "annotationID":    53079,
-    "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     53079,
+     "sentence":"Bridgewater was errant on just 7 throws, going 19-of-26 for 259 yards, 2 touchdowns and an interception, which wasn't his fault, as the ball was deflected on an attempted shovel pass.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   1,
    "passing_sacks":   4,
@@ -815,35 +980,59 @@
    "player_team_score":"13",
    "opponent_score":"9",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    53614,
-    "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     53614,
+     "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"25",
-    "annotationID":    53615,
-    "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     53615,
+     "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"209",
-    "annotationID":    53616,
-    "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"209",
+     "annotationID":     53616,
+     "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   90.2,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    53617,
-    "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     53617,
+     "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    53618,
-    "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     53618,
+     "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":{
-    "propertyValue":"3",
-    "annotationID":    53621,
-    "sentence":"He should've had a second score, a 35-yarder to Jennings, but the ball barely scraped the ground."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     53620,
+     "sentence":"No Viking caught more than 3 passes.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     53621,
+     "sentence":"Jennings (3-45) was second in receiving, trailing only ",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   19,
    "rushing_attempts":   6,
@@ -861,9 +1050,12 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"1",
-    "annotationID":    53619,
-    "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     53619,
+     "sentence":"Bridgewater finished 17-of-25 for 209 yards, 1 touchdown and an interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":   0,
    "defense_interceptions":   0,
@@ -882,9 +1074,12 @@
   "15":{
    "player_id":   2377,
    "year":{
-    "propertyValue":"2015",
-    "annotationID":    55399,
-    "sentence":"As for Bridgewater, he must much better after a dreadful 2015 debut."
+    "1":{
+     "propertyValue":"2015",
+     "annotationID":     55399,
+     "sentence":"As for Bridgewater, he must much better after a dreadful 2015 debut.",
+     "confidence":"None"
+    }
    },
    "date":"2015-09-14",
    "game_number":"1",
@@ -901,9 +1096,12 @@
    "passing_rating":   79,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    55398,
-    "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     55398,
+     "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   5,
    "passing_sacks_yards_lost":   54,
@@ -939,9 +1137,12 @@
   "16":{
    "player_id":   2377,
    "year":{
-    "propertyValue":"2015",
-    "annotationID":    55403,
-    "sentence":"As for Bridgewater, he must much better after a dreadful 2015 debut."
+    "1":{
+     "propertyValue":"2015",
+     "annotationID":     55403,
+     "sentence":"As for Bridgewater, he must much better after a dreadful 2015 debut.",
+     "confidence":"None"
+    }
    },
    "date":"2015-09-20",
    "game_number":"2",
@@ -953,39 +1154,57 @@
    "player_team_score":"26",
    "opponent_score":"16",
    "passing_attempts":{
-    "propertyValue":"14",
-    "annotationID":    55404,
-    "sentence":"Bridgewater, who was woefully inaccurate at San Francisco, misfired on just 4 occasions, going 14-of-18 for 153 yards and a touchdown."
+    "1":{
+     "propertyValue":"14",
+     "annotationID":     55404,
+     "sentence":"Bridgewater, who was woefully inaccurate at San Francisco, misfired on just 4 occasions, going 14-of-18 for 153 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"18",
-    "annotationID":    55405,
-    "sentence":"Bridgewater, who was woefully inaccurate at San Francisco, misfired on just 4 occasions, going 14-of-18 for 153 yards and a touchdown."
+    "1":{
+     "propertyValue":"18",
+     "annotationID":     55405,
+     "sentence":"Bridgewater, who was woefully inaccurate at San Francisco, misfired on just 4 occasions, going 14-of-18 for 153 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"153",
-    "annotationID":    55406,
-    "sentence":"Bridgewater, who was woefully inaccurate at San Francisco, misfired on just 4 occasions, going 14-of-18 for 153 yards and a touchdown."
+    "1":{
+     "propertyValue":"153",
+     "annotationID":     55406,
+     "sentence":"Bridgewater, who was woefully inaccurate at San Francisco, misfired on just 4 occasions, going 14-of-18 for 153 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   120.6,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    55400,
-    "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     55400,
+     "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    55401,
-    "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     55401,
+     "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   2,
    "rushing_attempts":   6,
    "rushing_yards":   21,
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    55402,
-    "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     55402,
+     "sentence":"Later, Peterson coughed up the ball again at the 1-yard line, though an offsides penalty negated the turnover.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -1026,33 +1245,48 @@
    "player_team_score":"31",
    "opponent_score":"14",
    "passing_attempts":{
-    "propertyValue":"13",
-    "annotationID":    56166,
-    "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns."
+    "1":{
+     "propertyValue":"13",
+     "annotationID":     56166,
+     "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    56167,
-    "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     56167,
+     "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"121",
-    "annotationID":    56168,
-    "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns."
+    "1":{
+     "propertyValue":"121",
+     "annotationID":     56168,
+     "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   50.9,
    "passing_touchdowns":   0,
    "passing_interceptions":{
-    "propertyValue":"1",
-    "annotationID":    56169,
-    "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     56169,
+     "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns.",
+     "confidence":"None"
+    }
    },
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"1",
-    "annotationID":    56170,
-    "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     56170,
+     "sentence":"He finished with a paltry line of 13 completions on 24 attempts for 121 yards, 1 interception and no touchdowns.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -1,
    "rushing_touchdowns":   0,
@@ -1094,47 +1328,83 @@
    "game_won":   false,
    "player_team_score":"20",
    "opponent_score":{
-    "propertyValue":"23",
-    "annotationID":    56929,
-    "sentence":"He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     56929,
+     "sentence":"He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"27",
-    "annotationID":    56926,
-    "sentence":"Bridgewater went 27-of-41 for 269 yards and a touchdown."
+    "1":{
+     "propertyValue":"27",
+     "annotationID":     56926,
+     "sentence":"Bridgewater went 27-of-41 for 269 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"41",
-    "annotationID":    56927,
-    "sentence":"Bridgewater went 27-of-41 for 269 yards and a touchdown."
+    "1":{
+     "propertyValue":"41",
+     "annotationID":     56927,
+     "sentence":"Bridgewater went 27-of-41 for 269 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"269",
-    "annotationID":    56928,
-    "sentence":"Bridgewater went 27-of-41 for 269 yards and a touchdown."
+    "1":{
+     "propertyValue":"269",
+     "annotationID":     56928,
+     "sentence":"Bridgewater went 27-of-41 for 269 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   92.4,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    56933,
-    "sentence":"He took a whopping 7 sacks, including 1 that ended the game."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     56925,
+     "sentence":"He took a whopping 7 sacks, including 1 that ended the game.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     56932,
+     "sentence":"He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     56933,
+     "sentence":"h-and-1 just shy of midfield on the opening drive.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"7",
-    "annotationID":    56924,
-    "sentence":"He took a whopping 7 sacks, including 1 that ended the game."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     56924,
+     "sentence":"He took a whopping 7 sacks, including 1 that ended the game.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   57,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    56931,
-    "sentence":"He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     56931,
+     "sentence":"He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"23",
-    "annotationID":    56930,
-    "sentence":"He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4."
+    "1":{
+     "propertyValue":"23",
+     "annotationID":     56930,
+     "sentence":"He also picked up 23 rushing yards on 3 scrambles, 1 of which was a converted sneak on 4.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1176,33 +1446,48 @@
    "player_team_score":"16",
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    57765,
-    "sentence":"He was just 1 yard shy, going 17-of-31 for 249 yards and a touchdown."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     57765,
+     "sentence":"He was just 1 yard shy, going 17-of-31 for 249 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"31",
-    "annotationID":    57766,
-    "sentence":"He was just 1 yard shy, going 17-of-31 for 249 yards and a touchdown."
+    "1":{
+     "propertyValue":"31",
+     "annotationID":     57766,
+     "sentence":"He was just 1 yard shy, going 17-of-31 for 249 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"249",
-    "annotationID":    57767,
-    "sentence":"He was just 1 yard shy, going 17-of-31 for 249 yards and a touchdown."
+    "1":{
+     "propertyValue":"249",
+     "annotationID":     57767,
+     "sentence":"He was just 1 yard shy, going 17-of-31 for 249 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   65.1,
    "passing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    57764,
-    "sentence":"Minnesota dominated the play in the opening half, winning the yardage battle 193-51, with Kansas City recording just 3 first downs."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     57764,
+     "sentence":"He was just 1 yard shy, going 17-of-31 for 249 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   2,
    "passing_sacks":   2,
    "passing_sacks_yards_lost":   12,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    57763,
-    "sentence":"Minnesota dominated the play in the opening half, winning the yardage battle 193-51, with Kansas City recording just 3 first downs."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     57763,
+     "sentence":"Minnesota dominated the play in the opening half, winning the yardage battle 193-51, with Kansas City recording just 3 first downs.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   -5,
    "rushing_touchdowns":   0,
@@ -1253,14 +1538,20 @@
    "passing_sacks":   4,
    "passing_sacks_yards_lost":   31,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    58369,
-    "sentence":"Minnesota responded with Bridgewater using Diggs, Mike Wallace, and handoffs to Adrian Peterson to put up a 3."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     58369,
+     "sentence":"Minnesota responded with Bridgewater using Diggs, Mike Wallace, and handoffs to Adrian Peterson to put up a 3.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"1",
-    "annotationID":    58368,
-    "sentence":"1 overall pick in the 2016 NFL Draft."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     58368,
+     "sentence":"1 overall pick in the 2016 NFL Draft.",
+     "confidence":"Weak"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   0,
@@ -1309,14 +1600,20 @@
    "passing_interceptions":   1,
    "passing_sacks":   1,
    "passing_sacks_yards_lost":{
-    "propertyValue":"7",
-    "annotationID":    58691,
-    "sentence":"In the first half alone, he was 7-of-14 for only 41 yards and an interception."
+    "1":{
+     "propertyValue":"7",
+     "annotationID":     58691,
+     "sentence":"In the first half alone, he was 7-of-14 for only 41 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    58692,
-    "sentence":"However, he found Stefon Diggs for a 40-yard score right after the 2-minute warning near the end of regulation, thanks to a blown coverage."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     58692,
+     "sentence":"However, he found Stefon Diggs for a 40-yard score right after the 2-minute warning near the end of regulation, thanks to a blown coverage.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   21,
    "rushing_touchdowns":   0,
@@ -1414,9 +1711,12 @@
    "passing_touchdowns":   1,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"6",
-    "annotationID":    60042,
-    "sentence":"They sacked Bridgewater 6 times."
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     60042,
+     "sentence":"They sacked Bridgewater 6 times.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   48,
    "rushing_attempts":   4,
@@ -1459,25 +1759,37 @@
    "opponent":"ATL",
    "game_won":   true,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    60295,
-    "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     60295,
+     "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"20",
-    "annotationID":    60296,
-    "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     60296,
+     "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    60297,
-    "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     60297,
+     "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"174",
-    "annotationID":    60298,
-    "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception."
+    "1":{
+     "propertyValue":"174",
+     "annotationID":     60298,
+     "sentence":"Bridgewater completed 20-of-28 passes for 174 yards and an interception.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   72.6,
    "passing_touchdowns":   0,
@@ -1526,27 +1838,39 @@
    "player_team_score":"7",
    "opponent_score":"38",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    60972,
-    "sentence":"Bridgewater went 17-of-28 for 118 yards and an interception, and even those numbers were enhanced by late-game garbage time."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     60972,
+     "sentence":"Bridgewater went 17-of-28 for 118 yards and an interception, and even those numbers were enhanced by late-game garbage time.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"28",
-    "annotationID":    60973,
-    "sentence":"Bridgewater went 17-of-28 for 118 yards and an interception, and even those numbers were enhanced by late-game garbage time."
+    "1":{
+     "propertyValue":"28",
+     "annotationID":     60973,
+     "sentence":"Bridgewater went 17-of-28 for 118 yards and an interception, and even those numbers were enhanced by late-game garbage time.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"118",
-    "annotationID":    60974,
-    "sentence":"Bridgewater went 17-of-28 for 118 yards and an interception, and even those numbers were enhanced by late-game garbage time."
+    "1":{
+     "propertyValue":"118",
+     "annotationID":     60974,
+     "sentence":"Bridgewater went 17-of-28 for 118 yards and an interception, and even those numbers were enhanced by late-game garbage time.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   55.4,
    "passing_touchdowns":   0,
    "passing_interceptions":   1,
    "passing_sacks":{
-    "propertyValue":"4",
-    "annotationID":    60975,
-    "sentence":"By intermission, Bridgewater was just 9-of-16 for only 64 yards and a pick that was a poor overthrow."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     60975,
+     "sentence":"He was constantly under siege, as the 4 sacks he took isn't nearly indicative of the amount of pressure he was under.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   24,
    "rushing_attempts":   1,
@@ -1589,25 +1913,37 @@
    "opponent":"ARI",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"20",
-    "annotationID":    61385,
-    "sentence":"He managed to come back from being down 20-10, and then he moved his team into field-goal range at the very end of regulation to perhaps tie the contest and send it into overime."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     61385,
+     "sentence":"He managed to come back from being down 20-10, and then he moved his team into field-goal range at the very end of regulation to perhaps tie the contest and send it into overime.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"23",
    "passing_attempts":{
-    "propertyValue":"25",
-    "annotationID":    61382,
-    "sentence":"Bridgewater finished 25-of-36 for 335 yards and a touchdown."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     61382,
+     "sentence":"Bridgewater finished 25-of-36 for 335 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"36",
-    "annotationID":    61383,
-    "sentence":"Bridgewater finished 25-of-36 for 335 yards and a touchdown."
+    "1":{
+     "propertyValue":"36",
+     "annotationID":     61383,
+     "sentence":"Bridgewater finished 25-of-36 for 335 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"335",
-    "annotationID":    61384,
-    "sentence":"Bridgewater finished 25-of-36 for 335 yards and a touchdown."
+    "1":{
+     "propertyValue":"335",
+     "annotationID":     61384,
+     "sentence":"Bridgewater finished 25-of-36 for 335 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   108,
    "passing_touchdowns":   1,
@@ -1655,56 +1991,86 @@
    "game_won":   true,
    "player_team_score":"38",
    "opponent_score":{
-    "propertyValue":"17",
-    "annotationID":    62188,
-    "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing)."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     62188,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    62189,
-    "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing)."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     62189,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"20",
-    "annotationID":    62191,
-    "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing)."
+    "1":{
+     "propertyValue":"20",
+     "annotationID":     62191,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"231",
-    "annotationID":    62192,
-    "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing)."
+    "1":{
+     "propertyValue":"231",
+     "annotationID":     62192,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "passing_rating":   154.4,
    "passing_touchdowns":{
-    "propertyValue":"4",
-    "annotationID":    62193,
-    "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     62193,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"1",
-    "annotationID":    62195,
-    "sentence":"He converted a key first down early on a third-and-10 play with a 12-yard pass to Kyle Rudoph, and then he found Stefon Diggs in the back of the end zone to cap off the drive, as the rookie wideout torched the normally beleaguered Tracy Porter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     62195,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":{
-    "propertyValue":"10",
-    "annotationID":    62187,
-    "sentence":"He converted a key first down early on a third-and-10 play with a 12-yard pass to Kyle Rudoph, and then he found Stefon Diggs in the back of the end zone to cap off the drive, as the rookie wideout torched the normally beleaguered Tracy Porter."
+    "1":{
+     "propertyValue":"10",
+     "annotationID":     62187,
+     "sentence":"He converted a key first down early on a third-and-10 play with a 12-yard pass to Kyle Rudoph, and then he found Stefon Diggs in the back of the end zone to cap off the drive, as the rookie wideout torched the normally beleaguered Tracy Porter.",
+     "confidence":"None"
+    }
    },
    "rushing_attempts":{
-    "propertyValue":"4",
-    "annotationID":    62194,
-    "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing)."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     62194,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"17",
-    "annotationID":    62190,
-    "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing)."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     62190,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    62196,
-    "sentence":"He converted a key first down early on a third-and-10 play with a 12-yard pass to Kyle Rudoph, and then he found Stefon Diggs in the back of the end zone to cap off the drive, as the rookie wideout torched the normally beleaguered Tracy Porter."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     62196,
+     "sentence":"He misfired just 3 times, going 17-of-20 for 231 yards and 5 touchdowns (4 passing, 1 rushing).",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   0,
    "receiving_receptions":   0,
@@ -1745,19 +2111,28 @@
    "player_team_score":"49",
    "opponent_score":"17",
    "passing_attempts":{
-    "propertyValue":"15",
-    "annotationID":    63280,
-    "sentence":"Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown."
+    "1":{
+     "propertyValue":"15",
+     "annotationID":     63280,
+     "sentence":"Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown.",
+     "confidence":"Weak"
+    }
    },
    "passing_completions":{
-    "propertyValue":"25",
-    "annotationID":    63281,
-    "sentence":"Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown."
+    "1":{
+     "propertyValue":"25",
+     "annotationID":     63281,
+     "sentence":"Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"168",
-    "annotationID":    63282,
-    "sentence":"Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown."
+    "1":{
+     "propertyValue":"168",
+     "annotationID":     63282,
+     "sentence":"Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   93.4,
    "passing_touchdowns":   1,
@@ -1765,9 +2140,12 @@
    "passing_sacks":   3,
    "passing_sacks_yards_lost":   18,
    "rushing_attempts":{
-    "propertyValue":"2",
-    "annotationID":    63283,
-    "sentence":"Bridgewater managed the game well, going 15-of-25 for 168 yards and a touchdown."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     63283,
+     "sentence":"Bridgewater didn't need to throw very much, which would explain why just 2 players had more than 20 receiving yards.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   12,
    "rushing_touchdowns":   0,
@@ -1808,39 +2186,69 @@
    "opponent":"SEA",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"9",
-    "annotationID":    63921,
-    "sentence":"He did so at the worst moment possible, as the Vikings, up 9-7, converted a first down and appeared to be gaining momentum."
+    "1":{
+     "propertyValue":"9",
+     "annotationID":     63921,
+     "sentence":"He did so at the worst moment possible, as the Vikings, up 9-7, converted a first down and appeared to be gaining momentum.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"10",
    "passing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    63924,
-    "sentence":"Bridgewater certainly played well, completing 17-of-24 passes for 146 yards in an environment in which it was incredibly difficult to air it out."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     63924,
+     "sentence":"Bridgewater certainly played well, completing 17-of-24 passes for 146 yards in an environment in which it was incredibly difficult to air it out.",
+     "confidence":"Strong"
+    }
    },
    "passing_completions":{
-    "propertyValue":"24",
-    "annotationID":    63925,
-    "sentence":"Bridgewater certainly played well, completing 17-of-24 passes for 146 yards in an environment in which it was incredibly difficult to air it out."
+    "1":{
+     "propertyValue":"24",
+     "annotationID":     63925,
+     "sentence":"Bridgewater certainly played well, completing 17-of-24 passes for 146 yards in an environment in which it was incredibly difficult to air it out.",
+     "confidence":"None"
+    }
    },
    "passing_yards":{
-    "propertyValue":"146",
-    "annotationID":    63926,
-    "sentence":"Bridgewater certainly played well, completing 17-of-24 passes for 146 yards in an environment in which it was incredibly difficult to air it out."
+    "1":{
+     "propertyValue":"146",
+     "annotationID":     63926,
+     "sentence":"Bridgewater certainly played well, completing 17-of-24 passes for 146 yards in an environment in which it was incredibly difficult to air it out.",
+     "confidence":"None"
+    }
    },
    "passing_rating":   86.5,
    "passing_touchdowns":   0,
    "passing_interceptions":   0,
    "passing_sacks":{
-    "propertyValue":"3",
-    "annotationID":    63922,
-    "sentence":"All Blair Walsh had to do was drill a 27-yarder after he connected on 3 longer field goals earlier in the contest."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     63919,
+     "sentence":"All Blair Walsh had to do was drill a 27-yarder after he connected on 3 longer field goals earlier in the contest.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     63922,
+     "sentence":"Going into the game, I liked the Vikings to keep this contest close, but I wasn't crazy about it to wager more than 3 units on it because Teddy Bridgewater had never been primarily responsible for winning a big game.",
+     "confidence":"None"
+    }
    },
    "passing_sacks_yards_lost":   21,
    "rushing_attempts":{
-    "propertyValue":"3",
-    "annotationID":    63923,
-    "sentence":"All Blair Walsh had to do was drill a 27-yarder after he connected on 3 longer field goals earlier in the contest."
+    "1":{
+     "propertyValue":"3",
+     "annotationID":     63920,
+     "sentence":"All Blair Walsh had to do was drill a 27-yarder after he connected on 3 longer field goals earlier in the contest.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"3",
+     "annotationID":     63923,
+     "sentence":"Going into the game, I liked the Vikings to keep this contest close, but I wasn't crazy about it to wager more than 3 units on it because Teddy Bridgewater had never been primarily responsible for winning a big game.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":   0,
    "rushing_touchdowns":   0,

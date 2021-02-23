@@ -118,9 +118,12 @@
   "3":{
    "player_id":   20789,
    "year":{
-    "propertyValue":"2015",
-    "annotationID":    55684,
-    "sentence":"h-and-1 to clinch Jacksonville's first win of the 2015 season."
+    "1":{
+     "propertyValue":"2015",
+     "annotationID":     55684,
+     "sentence":"h-and-1 to clinch Jacksonville's first win of the 2015 season.",
+     "confidence":"None"
+    }
    },
    "date":"2015-09-20",
    "game_number":"2",
@@ -229,9 +232,18 @@
    "game_won":   true,
    "player_team_score":"51",
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    61873,
-    "sentence":"Bortles completed 16-of-30 for 250 yards with 3 touchdowns."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     61869,
+     "sentence":"Bortles completed 16-of-30 for 250 yards with 3 touchdowns.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"16",
+     "annotationID":     61873,
+     "sentence":"Frank Gore had 60 yards on 16 carries to lead the Colts.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -256,14 +268,32 @@
    "punt_return_touchdowns":   0,
    "defense_sacks":   0,
    "defense_tackles":{
-    "propertyValue":"8",
-    "annotationID":    61872,
-    "sentence":"Hasselbeck was 18-of-35 for 252 yards."
+    "1":{
+     "propertyValue":"8",
+     "annotationID":     61871,
+     "sentence":"Whitehurst was only 2-of-8 for 8 yards an an interception.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"8",
+     "annotationID":     61872,
+     "sentence":"Whitehurst was only 2-of-8 for 8 yards an an interception.",
+     "confidence":"None"
+    }
    },
    "defense_tackle_assists":{
-    "propertyValue":"1",
-    "annotationID":    61870,
-    "sentence":"h-and-10 to give the Jaguars the ball near midfield."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     61868,
+     "sentence":"Jonathan Cyprien went on to intercept Whitehurst around midfield and return it to the 1-yard line.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     61870,
+     "sentence":"Allen Robinson made only 1 catch, but it was a 4-yard touchdown.",
+     "confidence":"None"
+    }
    },
    "defense_interceptions":   0,
    "defense_interception_yards":   0,
@@ -436,9 +466,12 @@
    "opponent":"LAR",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"17",
-    "annotationID":    79234,
-    "sentence":"Jacksonville got 3 out of the turnover to make it 24-17."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     79234,
+     "sentence":"Jacksonville got 3 out of the turnover to make it 24-17.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"27",
    "passing_attempts":   0,

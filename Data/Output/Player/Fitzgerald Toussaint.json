@@ -29,9 +29,12 @@
    "game_won":   true,
    "player_team_score":"18",
    "opponent_score":{
-    "propertyValue":"16",
-    "annotationID":    63884,
-    "sentence":"He was much better in the second half, going 16-of-27 for 153 yards and a touchdown compared to 7-of-14 for just 59 yards and an interception beforehand."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     63884,
+     "sentence":"He was much better in the second half, going 16-of-27 for 153 yards and a touchdown compared to 7-of-14 for just 59 yards and an interception beforehand.",
+     "confidence":"None"
+    }
    },
    "passing_attempts":   0,
    "passing_completions":   0,
@@ -42,26 +45,38 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"17",
-    "annotationID":    63881,
-    "sentence":"Toussaint ran well, gaining 58 yards on 17 carries."
+    "1":{
+     "propertyValue":"17",
+     "annotationID":     63881,
+     "sentence":"Toussaint ran well, gaining 58 yards on 17 carries.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"58",
-    "annotationID":    63880,
-    "sentence":"Toussaint ran well, gaining 58 yards on 17 carries."
+    "1":{
+     "propertyValue":"58",
+     "annotationID":     63880,
+     "sentence":"Toussaint ran well, gaining 58 yards on 17 carries.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":   0,
    "receiving_targets":   8,
    "receiving_receptions":{
-    "propertyValue":"4",
-    "annotationID":    63882,
-    "sentence":"He was also a big factor catching out of the backfield, as he caught 4 balls for 60 receiving yards."
+    "1":{
+     "propertyValue":"4",
+     "annotationID":     63882,
+     "sentence":"He was also a big factor catching out of the backfield, as he caught 4 balls for 60 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_yards":{
-    "propertyValue":"60",
-    "annotationID":    63883,
-    "sentence":"He was also a big factor catching out of the backfield, as he caught 4 balls for 60 receiving yards."
+    "1":{
+     "propertyValue":"60",
+     "annotationID":     63883,
+     "sentence":"He was also a big factor catching out of the backfield, as he caught 4 balls for 60 receiving yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
@@ -97,9 +112,18 @@
    "opponent":"DEN",
    "game_won":   false,
    "player_team_score":{
-    "propertyValue":"16",
-    "annotationID":    64121,
-    "sentence":"Anderson gained 72 yards and a touchdown on 15 carries, while Ronnie Hillman's 16 attempts went for just 38 yards."
+    "1":{
+     "propertyValue":"16",
+     "annotationID":     64116,
+     "sentence":"Anderson gained 72 yards and a touchdown on 15 carries, while Ronnie Hillman's 16 attempts went for just 38 yards.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"16",
+     "annotationID":     64121,
+     "sentence":"<div class=dfpAdSlots> <div class=dfpAdSlots> <div id=comments><span style=font-weight:bold; font-size:16pt;>LOADING COMMENTS.",
+     "confidence":"None"
+    }
    },
    "opponent_score":"23",
    "passing_attempts":   0,
@@ -111,26 +135,68 @@
    "passing_sacks":   0,
    "passing_sacks_yards_lost":   0,
    "rushing_attempts":{
-    "propertyValue":"12",
-    "annotationID":    64120,
-    "sentence":"He finished with 39 yards on 12 carries, but was guilty of that horrible fumble that gave Denver the victory."
+    "1":{
+     "propertyValue":"12",
+     "annotationID":     64120,
+     "sentence":"He finished with 39 yards on 12 carries, but was guilty of that horrible fumble that gave Denver the victory.",
+     "confidence":"None"
+    }
    },
    "rushing_yards":{
-    "propertyValue":"39",
-    "annotationID":    64119,
-    "sentence":"Roethlisberger went 24-of-37 for 339 yards."
+    "1":{
+     "propertyValue":"39",
+     "annotationID":     64119,
+     "sentence":"He finished with 39 yards on 12 carries, but was guilty of that horrible fumble that gave Denver the victory.",
+     "confidence":"Strong"
+    }
    },
    "rushing_touchdowns":{
-    "propertyValue":"1",
-    "annotationID":    64117,
-    "sentence":"He went 21-of-37 for 222 yards and no touchdowns."
+    "1":{
+     "propertyValue":"1",
+     "annotationID":     64112,
+     "sentence":"If the Steelers hadn't fumbled deep in Denver territory, he would've been 1.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"1",
+     "annotationID":     64113,
+     "sentence":"Of the 5 drops, Demaryius Thomas was guilty of the first 1.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"1",
+     "annotationID":     64117,
+     "sentence":"Roethlisberger played well for the most part, considering that A) he didn't have Antonio Brown, and B) he was battling 1 of the top defenses in the NFL.",
+     "confidence":"None"
+    }
    },
    "receiving_targets":   3,
    "receiving_receptions":   3,
    "receiving_yards":{
-    "propertyValue":"2",
-    "annotationID":    64118,
-    "sentence":"They scored a touchdown, converted the 2."
+    "1":{
+     "propertyValue":"2",
+     "annotationID":     64111,
+     "sentence":"They scored a touchdown, converted the 2.",
+     "confidence":"None"
+    },
+    "2":{
+     "propertyValue":"2",
+     "annotationID":     64114,
+     "sentence":"He left temporarily with an injury in the third quarter, but managed to return a bit later and eventually caught a 2.",
+     "confidence":"None"
+    },
+    "3":{
+     "propertyValue":"2",
+     "annotationID":     64115,
+     "sentence":"With Manning struggling, Sanders and Thomas were the only players who logged more than 2 receptions.",
+     "confidence":"None"
+    },
+    "4":{
+     "propertyValue":"2",
+     "annotationID":     64118,
+     "sentence":"Third-round rookie Sammie Coates appeared to be that guy when he caught a deep pass early, but he finished with just 2 receptions for 61 yards.",
+     "confidence":"None"
+    }
    },
    "receiving_touchdowns":   0,
    "kick_return_attempts":   0,
