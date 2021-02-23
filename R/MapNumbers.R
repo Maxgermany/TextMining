@@ -144,10 +144,6 @@ weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
 
-weeks <- list("01")
-
-years <- list("2008")
-
 # Creating the Folders if not exists
 path <- "..\\Data\\Output"
 if (!(dir.exists(path))){
@@ -232,7 +228,7 @@ for (year in years) {
             numbers <- numExtract(playerComment) # Get numbers from text
             
             # Check for each number if it occurs in the statistics of the player
-            for (number in numbers) {
+            for (number in numbers) { # number[[1]] <- number, number[[2]] <- position
               
               for (property in properties) {
                 
@@ -245,10 +241,24 @@ for (year in years) {
                     
                     sentenceWithNumber <- findSentenceAfterPosition(playerComment, number[[2]])
                     
-                    playerInformation[[propertyName]] <- list(propertyValue, id, sentenceWithNumber) # Add marker and unique ID for annotation, if match is found
-                    names(playerInformation[[propertyName]]) <- c("propertyValue", "annotationID", "sentence") 
-                  
+                    entry <- list(propertyValue, id, sentenceWithNumber) # Create the matching entry consisting of the found number, an unique annotation ID and the matched sentence
+                    names(entry) <- c("propertyValue", "annotationID", "sentence") 
+                    
+                    if(typeof(playerInformation[[propertyName]]) == "list") { # Checks if for a given property-value already exists an annotation
+                      
+                      index <- toString(length(playerInformation[[propertyName]]) + 1) # The number of the new annotation
+                      
+                      playerInformation[[propertyName]][[index]] <- entry
+                      
+                    } else {
+                      
+                      playerInformation[[propertyName]] <- list()
+                      playerInformation[[propertyName]][["1"]] <- entry
+                      
+                    }
+                    
                     id <- id + 1
+                    
                   }
                 
                 }
