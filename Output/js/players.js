@@ -157,6 +157,12 @@ function displayPlayerStats() {
 
                     tr.appendChild(th);
 
+                    th = document.createElement("th");
+
+                    th.innerText = "Confidence";
+
+                    tr.appendChild(th);
+
                     table.appendChild(tr);
 
                     for (const [gameKey, gameValue] of Object.entries(value)) {
@@ -165,27 +171,68 @@ function displayPlayerStats() {
 
                             let tr = document.createElement("tr");
 
-                                let td = document.createElement("td");
+                            let td = document.createElement("td");
 
-                                td.innerText = translate(gameKey);
+                            td.innerText = translate(gameKey);
 
-                                tr.appendChild(td);
+                            tr.appendChild(td);
 
-                                td = document.createElement("td");
+                            td = document.createElement("td");
 
-                                td.innerText = gameValue.propertyValue;
+                            td.innerText = gameValue[1].propertyValue
 
-                                tr.appendChild(td);
+                            tr.appendChild(td);
 
-                                table.appendChild(tr);
+                            td = document.createElement("td");
 
-                                td = document.createElement("td");
+                            td.innerText = gameValue[1].sentence;
 
-                                td.innerText = gameValue.sentence;
+                            tr.appendChild(td);
 
-                                tr.appendChild(td);
+                            td = document.createElement("td");
 
-                                table.appendChild(tr);
+                            td.innerText = gameValue[1].confidence;
+
+                            tr.appendChild(td);
+
+                            table.appendChild(tr);
+
+                            tr = document.createElement("tr");
+
+                            if (Object.keys(gameValue).length > 1) {
+
+                                for (const [commentKey, commentValue] of Object.entries(gameValue)) {
+
+                                    tr = document.createElement("tr");
+
+                                    td = document.createElement("td");
+
+                                    td.innerText = "";
+
+                                    tr.appendChild(td);
+
+                                    td = document.createElement("td");
+
+                                    td.innerText = "";
+
+                                    tr.appendChild(td);
+
+                                    td = document.createElement("td");
+
+                                    td.innerText = commentValue.sentence;
+
+                                    tr.appendChild(td);
+
+                                    td = document.createElement("td");
+
+                                    td.innerText = commentValue.confidence;
+
+                                    tr.appendChild(td);
+
+                                    table.appendChild(tr);
+
+                                }
+                            }
 
                         } else if (gameKey == "comment") {
 
@@ -203,7 +250,7 @@ function displayPlayerStats() {
 
                             td.innerText = gameValue;
 
-                            td.setAttribute("colspan", "2");
+                            td.setAttribute("colspan", "3");
 
                             tr.appendChild(td);
 
@@ -225,13 +272,16 @@ function displayPlayerStats() {
 
                             tr.appendChild(td);
 
-                            table.appendChild(tr);
+                            td = document.createElement("td");
+
+                            tr.appendChild(td);
 
                             td = document.createElement("td");
 
                             tr.appendChild(td);
 
                             table.appendChild(tr);
+
                         }
                     }
 

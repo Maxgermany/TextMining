@@ -116,7 +116,7 @@ function showPlayerData(element, gameNumber) {
 
                                 td = document.createElement('td');
 
-                                td.innerHTML = '<strong style="color:red">' + MyLib.Data.games[gameNumber].players[player][key][key1]["propertyValue"] + "</strong>";
+                                td.innerHTML = '<strong style="color:red">' + MyLib.Data.games[gameNumber].players[player][key][key1][1]["propertyValue"] + "</strong>";
 
                                 tbody.appendChild(td);
 
@@ -124,7 +124,7 @@ function showPlayerData(element, gameNumber) {
 
                                     if (typeof(MyLib.Data.games[gameNumber].players[player]["game information"][key2]) == "object"){
 
-                                        number = MyLib.Data.games[gameNumber].players[player]["game information"][key2]["propertyValue"].toString();
+                                        number = MyLib.Data.games[gameNumber].players[player]["game information"][key2][1]["propertyValue"].toString();
 
                                         output = output.replaceAll(" " + number + " ", '<strong style="color:red"> ' + number + " </strong>");
                                         output = output.replaceAll(" " + number + "-", '<strong style="color:red"> ' + number + "</strong>-");
