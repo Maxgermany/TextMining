@@ -26,6 +26,8 @@ for (year in years) {
   }
 }
 
+wordsPerGame <- 0
+
 for (year in years) {
   
   for (week in weeks) {
@@ -36,12 +38,6 @@ for (year in years) {
     if (file.exists(weekFile)) {
       
       resultWeek <- rjson::fromJSON(file = weekFile) #Parse json from file
-      
-      finalJSON <- list() #The output will be stored in this
-      
-      finalJSON$week <- resultWeek$week
-      
-      finalJSON$year <- resultWeek$year
       
       i <- 1 #For iteration
       
@@ -63,20 +59,23 @@ for (year in years) {
 
             words <- tokenize_words(allComments) #splitting the comments to array of words
 
-            length(words[[1]]) #length of array -> number of words per comment
+            wordsPerComment <- length(words[[1]]) #length of array -> number of words per comment
 
             #sort words by frequency
             tab <- table(words)
             tab <- data_frame(word = names(tab), count = as.numeric(tab))
             arrange(tab, desc(count))
+
+            wordsPerGame <- wordsPerGame + wordsPerComment
           }
+
         }
         
         game$comments <- allComments
         
         finalJSON$games[[i]] <- game
 
-        exportJSON <- rjson::toJSON(finalJSON, 1) #Generate JSON
+        exportJSON <- rjson::toJSON(wordsPerGame, 1) #Generate JSON
       
         fileName <- paste(c("..\\Data\\RTextStatistics\\" , year, "\\week_",  week, "\\game_", i, ".json"), collapse = "")
       
