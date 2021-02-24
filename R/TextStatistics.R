@@ -67,8 +67,6 @@ for (year in years) {
 
             wordsPerComment <- length(words[[1]]) #length of array -> number of words per comment
 
-            
-
             wordsPerGame <- wordsPerGame + wordsPerComment
           }
 
@@ -84,8 +82,7 @@ for (year in years) {
       
         write(exportJSON, fileName) #Save JSON to file
         
-        i <- i + 1
-        
+        i <- i + 1 
       }
     }
   }
@@ -94,9 +91,9 @@ for (year in years) {
 totalWords <- length(listOfWords)
 
 #sort words by frequency
-            tab <- table(totalWords)
-            tab <- data_frame(word = names(tab), count = as.numeric(tab))
-            arrange(tab, desc(count))
+tab <- table(totalWords)
+tab <- data_frame(word = names(tab), count = as.numeric(tab))
+arrange(tab, desc(count))
 
 end_time <- Sys.time()
 
