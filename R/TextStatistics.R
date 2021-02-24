@@ -28,6 +28,8 @@ for (year in years) {
 
 wordsPerGame <- 0
 
+listOfWords <- list()
+
 for (year in years) {
   
   for (week in weeks) {
@@ -36,6 +38,8 @@ for (year in years) {
     weekFile <- paste(c("..\\Data\\Walterfootball\\", year, "\\week_", week, ".json"), collapse = "")
 
     if (file.exists(weekFile)) {
+
+      finalJSON <- list() #The output will be stored in this
       
       resultWeek <- rjson::fromJSON(file = weekFile) #Parse json from file
       
@@ -59,12 +63,11 @@ for (year in years) {
 
             words <- tokenize_words(allComments) #splitting the comments to array of words
 
+            c(listOfWords, words) #collects words
+
             wordsPerComment <- length(words[[1]]) #length of array -> number of words per comment
 
-            #sort words by frequency
-            tab <- table(words)
-            tab <- data_frame(word = names(tab), count = as.numeric(tab))
-            arrange(tab, desc(count))
+            
 
             wordsPerGame <- wordsPerGame + wordsPerComment
           }
@@ -87,6 +90,13 @@ for (year in years) {
     }
   }
 }
+
+totalWords <- length(listOfWords)
+
+#sort words by frequency
+            tab <- table(totalWords)
+            tab <- data_frame(word = names(tab), count = as.numeric(tab))
+            arrange(tab, desc(count))
 
 end_time <- Sys.time()
 
