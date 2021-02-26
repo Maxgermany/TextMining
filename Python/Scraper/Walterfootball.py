@@ -12,15 +12,7 @@ def scrapWalterfootball(year, week):
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    removeScripts(soup)
-
-    removeNoScripts(soup)
-
-    removeFonts(soup)
-
-    removeLinks(soup)
-
-    removeTable(soup)
+    soup = removeUnwantedTags(soup)
 
     mainList = soup.find('div', id='MainContentBlock')
 
@@ -93,9 +85,27 @@ def scrapWalterfootball(year, week):
             # Aufschreiben der Listenpunkte
             for j in range(int(len(points) - 1)):
 
-                temp += '"' + str(j + 1) + '": "' + str(points[j + 1]).replace('"', "").replace('\n', ' ').replace('\r',
-                                                                                                                   '').replace(
-                    '"', "").replace("</li>", "").replace("</div>", "").replace("<center>", "").replace("</center>", "") + '"'
+                temp += '"' + str(j + 1) + '": "'
+
+                # Remove left over tags and escape symbols
+                comment = str(points[j + 1])\
+                    .replace('"', "")\
+                    .replace('\n', ' ')\
+                    .replace('\r', '')\
+                    .replace('"', "")\
+                    .replace("</li>", "")\
+                    .replace("</div>", "")\
+                    .replace("<center>", "")\
+                    .replace("</center>", "")\
+                    .replace("<br. <br=>", "") #That sequence occurs in some reports
+
+                #Remove the list of all game reports at the end of site
+                comment = re.sub('<b>.*</b>.*', '', comment)
+
+                #Remove divs
+                comment = re.sub('<div class=[a-z,A-Z,0-9]*>', '', comment)
+
+                temp += comment + '"'
 
                 if j != int(len(points) - 2):
                     temp += ','
@@ -156,17 +166,7 @@ def scrapWalterfootballCorpus(year, week):
 
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    removeScripts(soup)
-
-    removeNoScripts(soup)
-
-    removeFonts(soup)
-
-    removeLinks(soup)
-
-    removeTable(soup)
-
-    removeBold(soup)
+    soup = removeUnwantedTags(soup, unwantedTagsButKeepContent = ['font', 'a', 'b'])
 
     if "We do not have an article for URL" in str(soup):
         print("Couldn't scrap week " + week + " of " + year + " for corpus")
@@ -177,37 +177,27 @@ def scrapWalterfootballCorpus(year, week):
         soup = soup.find('div', id='MainContentBlock')
 
         for listElement in soup.find_all("li"):
-            file.write(' '.join(listElement.text.replace('\n', ' ').replace('\r', ' ').split()))
+
+            output = ' '.join(listElement.text.replace('\n', ' ').replace('\r', ' ').split())
+
+            #Remove all left over html tags
+            p = re.compile(r'<.*?>')
+            output = p.sub('', output)
+
+            file.write(output)
 
         file.close()
 
+def removeUnwantedTags(soup, unwantedTagsRemoveContent = ['script', 'noscript', 'table', 'span', 'iframe'], unwantedTagsButKeepContent = ['font', 'a', 'i', 'blockquote', 'strike', 'rb', 'u', 'l', 'r']):
 
-def removeScripts(soup):
-    [s.extract() for s in soup('script')]
+    for tag in unwantedTagsRemoveContent:
+        [s.extract() for s in soup(tag)]
 
+    for tag in unwantedTagsButKeepContent:
+        for match in soup.findAll(tag):
+            match.replaceWithChildren()
 
-def removeNoScripts(soup):
-    [s.extract() for s in soup('noscript')]
-
-
-def removeFonts(soup):
-    [s.extract() for s in soup('font')]
-
-
-def removeLinks(soup):
-    [s.extract() for s in soup('a')]
-
-
-def removeTable(soup):
-    [s.extract() for s in soup('table')]
-
-
-def removeBold(soup):
-    [s.extract() for s in soup('b')]#
-
-def removeNonLogoImages(tag):
-    return bool(tag.get("img") and tag.contains(".jpg"))
-
+    return soup
 
 weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18",
          "19", "20"]
