@@ -100,7 +100,11 @@ def scrapWalterfootball(year, week):
                     .replace("<br. <br=>", "") #That sequence occurs in some reports
 
                 #Remove the list of all game reports at the end of site
-                comment = re.sub('<b>.*</b>.*', '', comment)
+                if (j == int(len(points) - 2)): #Checks if comment is last comment on site
+                    comment = re.sub('<b>.*</b>.*', '', comment)
+                else: #Else regulary remove bold tags
+                    comment = re.sub('<b>', '', comment)
+                    comment = re.sub('</b>', '', comment)
 
                 #Remove divs
                 comment = re.sub('<div class=[a-z,A-Z,0-9]*>', '', comment)
@@ -199,13 +203,40 @@ def removeUnwantedTags(soup, unwantedTagsRemoveContent = ['script', 'noscript', 
 
     return soup
 
+def getAmountOfFoundGames():
+    weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18",
+             "19", "20"]
+
+    year = 2008
+
+    amountGames = 0
+
+    while (year <= 2017):
+        for week in weeks:
+
+            path = "..\\..\\Data\\Walterfootball\\" + str(year)
+            path += "\\week_" + week + ".json"
+
+            if os.path.isfile(path):
+                with open(path) as weekFile:
+                    data = json.load(weekFile)
+                    amountGames += int(data["numberOfGames"])
+
+        year += 1
+
+    return amountGames
+
+
+
 weeks = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18",
          "19", "20"]
 
 year = 2008
 
-while (year <= 2017):
-    for i in weeks:
-        scrapWalterfootball(str(year), i)
-        #scrapWalterfootballCorpus(str(year), i)
-    year += 1
+# while (year <= 2017):
+#     for week in weeks:
+#         scrapWalterfootball(str(year), week)
+#         scrapWalterfootballCorpus(str(year), week)
+#     year += 1
+
+print("Found " + str(getAmountOfFoundGames()) + " games.")
