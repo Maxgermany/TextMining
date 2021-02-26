@@ -1,7 +1,11 @@
 var statistics = {
     "Task": "The task was to scrape NFL game reports and map them to a game database.",
-    "Amount of words" : "1000",
-    "Amount of different words" : "700",
+    "Amount of scraped sites" : "197",
+    "Amount of scraped games" : "2520",
+    "Amount of player found" : "2526",
+    "Amount of possible matchings" : "83986",
+    "Amount of words" : "",
+    "Amount of different words" : "",
 }
 
 function populateStatistics() {
