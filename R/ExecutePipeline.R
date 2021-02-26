@@ -1,0 +1,11 @@
+library(stringr)
+library(rjson)
+
+source('MapPlayerName.R')
+print('Mapped player names')
+source('AddMoreInformationToGame.R')
+print('Added more informtation to game')
+source('MapNumbers.R')
+print('Mapped numbers')
+source('CondensePlayerData.R')
+print('Condensed player data')
