@@ -1,6 +1,6 @@
 start_time <- Sys.time()
 
-testingDifferentData = TRUE # Should be true when the program should take the data in the folder Data/Testdata for testing 
+testingDifferentData = FALSE # Should be true when the program should take the data in the folder Data/Testdata for testing 
 
 library(stringr)
 library(rjson)
