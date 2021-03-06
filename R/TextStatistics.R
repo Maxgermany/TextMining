@@ -1,5 +1,3 @@
-start_time <- Sys.time()
-
 library(tidyverse)
 library(tokenizers)
 library(rjson)
@@ -11,27 +9,28 @@ years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2
 
 #Creating the Folders if not exists
 path <- "..\\Data\\RTextstatistics"
-if (!(dir.exists(path))){
+if (!(dir.exists(path))) {
   dir.create(path)
 } else {
   unlink(paste(c(path, "/*"), collapse = "")) # Delete all previous files
   dir.create(path)
 }
-for (year in years) {
-  for (week in weeks) {
-    path <- paste(c("..\\Data\\RTextStatistics\\", year), collapse = "")
-    if (!(dir.exists(path))){
-      dir.create(path)
-    }
-  }
-}
 
+path <- paste(c("..\\Data\\RTextStatistics\\"), collapse = "")
+if (!(dir.exists(path))) {
+  dir.create(path)
+}
+  
 wordsPerGame <- 0
 
 listOfWords <- list()
 
+start_time_wf <- Sys.time()
+
 for (year in years) {
+
   
+
   for (week in weeks) {
 
     #Name of the file for the matching week
@@ -72,20 +71,12 @@ for (year in years) {
 
         }
         
-        game$comments <- allComments
-        
-        finalJSON$games[[i]] <- game
-
-        exportJSON <- rjson::toJSON(wordsPerGame, 1) #Generate JSON
-      
-        fileName <- paste(c("..\\Data\\RTextStatistics\\" , year, "\\week_",  week, "_game_", i, ".json"), collapse = "")
-      
-        write(exportJSON, fileName) #Save JSON to file
-        
         i <- i + 1 
+
       }
     }
   }
+
 }
 
 totalWords <- length(listOfWords)
@@ -95,6 +86,6 @@ tab <- table(totalWords)
 tab <- data_frame(word = names(tab), count = as.numeric(tab))
 arrange(tab, desc(count))
 
-end_time <- Sys.time()
+end_time_wf <- Sys.time()
 
 print(end_time - start_time)

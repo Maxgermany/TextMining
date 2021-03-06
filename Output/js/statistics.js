@@ -6,6 +6,8 @@ var statistics = {
     "Amount of possible matchings" : "83986",
     "Amount of words" : "",
     "Amount of different words" : "",
+    "time to proceed (corpus.txt)" : "",
+    "time to proceed (walterfootball)" : ""
 }
 
 function populateStatistics() {
