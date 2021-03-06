@@ -103,7 +103,7 @@
    "defense_tackles":{
     "1":{
      "propertyValue":"2",
-     "annotationID":     24877,
+     "annotationID":     24797,
      "sentence":"I was shocked to learn that this was only the second time in franchise history that the Bears returned 2 picks for touchdowns in a single game.",
      "confidence":"None"
     }
@@ -133,7 +133,14 @@
    "opponent":"STL",
    "game_won":   true,
    "player_team_score":"23",
-   "opponent_score":"6",
+   "opponent_score":{
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     29759,
+     "sentence":"Wright pick-6 of Sam Bradford, who stared down Danny Amendola.",
+     "confidence":"None"
+    }
+   },
    "passing_attempts":   0,
    "passing_completions":   0,
    "passing_yards":   0,
@@ -169,7 +176,7 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"Wright pick-six of Sam Bradford, who stared down Danny Amendola."
+   "comment":"Wright pick-6 of Sam Bradford, who stared down Danny Amendola."
   }
  },
  "numberGames": 3

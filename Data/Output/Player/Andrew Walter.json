@@ -27,7 +27,14 @@
    "game_location":"H",
    "opponent":"CAR",
    "game_won":   false,
-   "player_team_score":"6",
+   "player_team_score":{
+    "1":{
+     "propertyValue":"6",
+     "annotationID":     3190,
+     "sentence":"Walter took a sack on third-and-6 on Oakland's opening possession.",
+     "confidence":"None"
+    }
+   },
    "opponent_score":"17",
    "passing_attempts":   14,
    "passing_completions":   32,
@@ -38,7 +45,7 @@
    "passing_sacks":{
     "1":{
      "propertyValue":"3",
-     "annotationID":     3178,
+     "annotationID":     3191,
      "sentence":"3.",
      "confidence":"None"
     }
@@ -47,7 +54,7 @@
    "rushing_attempts":{
     "1":{
      "propertyValue":"4",
-     "annotationID":     3179,
+     "annotationID":     3192,
      "sentence":"4.",
      "confidence":"None"
     }
@@ -78,7 +85,7 @@
    "punting_attempts":   0,
    "punting_yards":   0,
    "punting_blocked":   0,
-   "comment":"Walter took a sack on third-and-six on Oakland's opening possession. 3. Walter tossed an interception inside the red zone on the team's second drive. 4. A "
+   "comment":"Walter took a sack on third-and-6 on Oakland's opening possession. 3. Walter tossed an interception inside the red zone on the team's second drive. 4. A "
   },
   "2":{
    "player_id":   23192,
@@ -95,7 +102,7 @@
    "passing_attempts":{
     "1":{
      "propertyValue":"8",
-     "annotationID":     4359,
+     "annotationID":     4372,
      "sentence":"Walter picked up where Russell left off, and finished 8-of-17, 61 yards and an interception.",
      "confidence":"Weak"
     }
@@ -103,7 +110,7 @@
    "passing_completions":{
     "1":{
      "propertyValue":"17",
-     "annotationID":     4360,
+     "annotationID":     4373,
      "sentence":"Walter picked up where Russell left off, and finished 8-of-17, 61 yards and an interception.",
      "confidence":"None"
     }
@@ -111,7 +118,7 @@
    "passing_yards":{
     "1":{
      "propertyValue":"61",
-     "annotationID":     4361,
+     "annotationID":     4374,
      "sentence":"Walter picked up where Russell left off, and finished 8-of-17, 61 yards and an interception.",
      "confidence":"None"
     }

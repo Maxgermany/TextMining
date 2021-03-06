@@ -1,6 +1,6 @@
 start_time <- Sys.time()
 
-testingDifferentData = TRUE # Should be true when the program should take the data in the folder Data/Testdata for testing 
+testingDifferentData = FALSE # Should be true when the program should take the data in the folder Data/Testdata for testing 
 
 library(stringr)
 library(rjson)
@@ -47,38 +47,38 @@ numReplace <- function(text) {
     list(" nine ", " 9 "),
     list(" ten ", " 10 "),
     
-    list("[(]one ", "(1 "),
-    list("[(]two ", "(2 "),
-    list("[(]three ", "(3 "),
-    list("[(]four ", "(4 "),
-    list("[(]five ", "(5 "),
-    list("[(]six ", "(6 "),
-    list("[(]seven ", "(7 "),
-    list("[(]eight ", "(8 "),
-    list("[(]nine ", "(9 "),
-    list("[(]ten ", "(10 "),
+    list("([[:punct:]])one ", "\\11 "),
+    list("([[:punct:]])two ", "(\\12 "),
+    list("([[:punct:]])three ", "\\13 "),
+    list("([[:punct:]])four ", "\\14 "),
+    list("([[:punct:]])five ", "\\15 "),
+    list("([[:punct:]])six ", "\\16 "),
+    list("([[:punct:]])seven ", "\\17 "),
+    list("([[:punct:]])eight ", "\\18 "),
+    list("([[:punct:]])nine ", "\\19 "),
+    list("([[:punct:]])ten ", "\\110 "),
     
-    list(" one[)]", " 1)"),
-    list(" two[)]", " 2)"),
-    list(" three[)]", " 3)"),
-    list(" four[)]", " 4)"),
-    list(" five[)]", " 5)"),
-    list(" six[)]", " 6)"),
-    list(" seven[)]", " 7)"),
-    list(" eight[)]", " 8)"),
-    list(" nine[)]", " 9)"),
-    list(" ten[)]", " 10)"),
+    list(" one([[:punct:]])", " 1\\1"),
+    list(" two([[:punct:]])", " 2\\1"),
+    list(" three([[:punct:]])", " 3\\1"),
+    list(" four([[:punct:]])", " 4\\1"),
+    list(" five([[:punct:]])", " 5\\1"),
+    list(" six([[:punct:]])", " 6\\1"),
+    list(" seven([[:punct:]])", " 7\\1"),
+    list(" eight([[:punct:]])", " 8\\1"),
+    list(" nine([[:punct:]])", " 9\\1"),
+    list(" ten([[:punct:]])", " 10\\1"),
     
-    list(" one.", " 1."),
-    list(" two.", " 2."),
-    list(" three.", " 3."),
-    list(" four.", " 4."),
-    list(" five.", " 5."),
-    list(" six.", " 6."),
-    list(" seven.", " 7."),
-    list(" eight.", " 8."),
-    list(" nine.", " 9."),
-    list(" ten.", " 10."))
+    list("([[:punct:]])one([[:punct:]])", "\\11\\2"),
+    list("([[:punct:]])two([[:punct:]])", "\\12\\2"),
+    list("([[:punct:]])three([[:punct:]])", "\\13\\2"),
+    list("([[:punct:]])four([[:punct:]])", "\\14\\2"),
+    list("([[:punct:]])five([[:punct:]])", "\\15\\2"),
+    list("([[:punct:]])six([[:punct:]])", "\\16\\2"),
+    list("([[:punct:]])seven([[:punct:]])", "\\17\\2"),
+    list("([[:punct:]])eight([[:punct:]])", "\\18\\2"),
+    list("([[:punct:]])nine([[:punct:]])", "\\19\\2"),
+    list("([[:punct:]])ten([[:punct:]])", "\\110\\2"))
   
   for (numberName in numbersList) {
     text <- gsub(numberName[[1]], numberName[[2]], text)
