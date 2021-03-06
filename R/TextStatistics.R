@@ -78,7 +78,7 @@ for (year in years) {
 
         exportJSON <- rjson::toJSON(wordsPerGame, 1) #Generate JSON
       
-        fileName <- paste(c("..\\Data\\RTextStatistics\\" , year, "\\week_",  week, "\\game_", i, ".json"), collapse = "")
+        fileName <- paste(c("..\\Data\\RTextStatistics\\" , year, "\\week_",  week, "_game_", i, ".json"), collapse = "")
       
         write(exportJSON, fileName) #Save JSON to file
         

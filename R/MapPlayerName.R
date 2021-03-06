@@ -1,5 +1,7 @@
 start_time <- Sys.time()
 
+testingDifferentData = TRUE # Should be true when the program should take the data in the folder Data/Testdata for testing 
+
 library(stringr)
 library(rjson)
 
@@ -9,6 +11,9 @@ years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2
 
 #Creating the Folders if not exists
 path <- "..\\Data\\RPlayerNames"
+
+if (testingDifferentData) { path <- "..\\Data\\Testdata\\RPlayerNames" }
+
 if (!(dir.exists(path))){
   dir.create(path)
 } else {
@@ -18,6 +23,9 @@ if (!(dir.exists(path))){
 for (year in years) {
   for (week in weeks) {
     path <- paste(c("..\\Data\\RPlayerNames\\", year), collapse = "")
+    
+    if (testingDifferentData) {path <- paste(c("..\\Data\\Testdata\\RPlayerNames\\", year), collapse = "") }
+    
     if (!(dir.exists(path))){
       dir.create(path)
     }
@@ -38,6 +46,8 @@ for (year in years) {
 
     #Name of the file for the matching week
     weekFile <- paste(c("..\\Data\\Walterfootball\\", year, "\\week_", week, ".json"), collapse = "")
+    
+    if(testingDifferentData) {weekFile <- paste(c("..\\Data\\Testdata\\Source\\", year, "\\week_", week, ".json"), collapse = "")}
 
     if (file.exists(weekFile)) {
       
@@ -95,6 +105,8 @@ for (year in years) {
       exportJSON <- rjson::toJSON(finalJSON, 1) #Generate JSON
       
       fileName <- paste(c("..\\Data\\RPlayerNames\\" , year, "\\week_",  week, ".json"), collapse = "")
+      
+      if (testingDifferentData) { fileName <- paste(c("..\\Data\\Testdata\\RPlayerNames\\" , year, "\\week_",  week, ".json"), collapse = "") }
       
       write(exportJSON, fileName) #Save JSON to file
     }
