@@ -88,7 +88,13 @@ print(totalWords)
 #sort words by frequency
 tab <- table(wordsCorpus[[1]])
 tab <- tibble(word = names(tab), count = as.numeric(tab))
-arrange(tab, desc(count))
+tab <- arrange(tab, desc(count))
+forPlot <- tab %>% slice(1:100)
 
 end_time <- Sys.time()
 print(end_time - start_time) #time needed for corpus read
+
+#plot
+ggplot(forPlot, aes(x = reorder(word, count), y = count), xlab = "words", ylab = "frequency") +
+  geom_point() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
