@@ -101,7 +101,34 @@ forPlot <- tab %>% slice(1:100)
 end_time <- Sys.time()
 print(end_time - start_time) #time needed for corpus read
 
-#plot
+#zipf law calculation
+fr <- c(78716, 43527, 29556, 28851, 26450, 26381, 23550, 21162, 19736, 21452)
+
+p <- fr/sum(fr)
+
+lzipf <- function(s,N) -s*log(1:N)-log(sum(1/(1:N)^s))
+
+opt.f <- function(s) sum((log(p)-lzipf(s,length(p)))^2)
+
+opt <- optimize(opt.f,c(0.5,10))
+
+print(opt)
+
+ll <- function(s) sum(fr*(s*log(1:10)+log(sum(1/(1:10)^s))))
+
+fit <- mle(ll,start=list(s=1))
+
+  mle(minuslogl = ll, start = list(s = 1))
+
+s.sq <- opt$minimum
+s.ll <- coef(fit)
+
+#plot diagram 
+plot(1:10,p,log="xy")
+lines(1:10,exp(lzipf(s.sq,10)),col=2)
+lines(1:10,exp(lzipf(s.ll,10)),col=3)
+
+#plot frequency
 ggplot(forPlot, aes(x = reorder(word, count), y = count), xlab = "words", ylab = "frequency") +
   geom_point() +
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
