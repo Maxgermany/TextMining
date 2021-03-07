@@ -89,6 +89,13 @@ print(totalWords)
 tab <- table(wordsCorpus[[1]])
 tab <- tibble(word = names(tab), count = as.numeric(tab))
 tab <- arrange(tab, desc(count))
+print(tab)
+
+#how many one word
+forData <- tab %>% filter(count == 1)
+print(length(forData[[1]]))
+
+#first 100 entries 
 forPlot <- tab %>% slice(1:100)
 
 end_time <- Sys.time()
