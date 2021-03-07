@@ -73,19 +73,19 @@ function showPlayerData(element, gameNumber) {
 
     for(let player in MyLib.Data.games[gameNumber].players) {
 
-        if(Object.keys(MyLib.Data.games[gameNumber].players[player]).length == 2) {
+        if(Object.keys(MyLib.Data.games[gameNumber].players[player]).length == 2) { //Checks if player has the attribute "player informations" and "game informations" because a small amount doesn't have them
 
             let playerName = MyLib.Data.games[gameNumber].players[player]["player information"].name.toString();
 
-            if (playerName == element.innerText) {
+            if (playerName == element.innerText) { //Checks if player is
 
-                Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (key) {
+                Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (property) {
 
                     let thead = document.createElement('tr');
 
                     let td = document.createElement('th');
 
-                    td.innerText = translate(key);
+                    td.innerText = translate(property);
                     td.setAttribute("colspan", "2");
 
                     thead.appendChild(td);
@@ -93,22 +93,22 @@ function showPlayerData(element, gameNumber) {
                     table.appendChild(thead);
 
 
-                    Object.keys(MyLib.Data.games[gameNumber].players[player][key]).forEach(function (key1) {
+                    Object.keys(MyLib.Data.games[gameNumber].players[player][property]).forEach(function (propertyCategory) {
 
-                        if (MyLib.Data.games[gameNumber].players[player][key][key1] != "None" && MyLib.Data.games[gameNumber].players[player][key][key1] != 0) {
+                        if (MyLib.Data.games[gameNumber].players[player][property][propertyCategory] != "None" && MyLib.Data.games[gameNumber].players[player][property][propertyCategory] != 0) {
 
                             let tbody = document.createElement('tr');
 
                             td = document.createElement('td');
-                            td.innerText = translate(key1);
+                            td.innerText = translate(propertyCategory);
 
                             tbody.appendChild(td);
 
-                            if (typeof(MyLib.Data.games[gameNumber].players[player][key][key1]) == "string" || typeof(MyLib.Data.games[gameNumber].players[player][key][key1]) == "number" || typeof(MyLib.Data.games[gameNumber].players[player][key][key1]) == "boolean") {
+                            if (typeof(MyLib.Data.games[gameNumber].players[player][property][propertyCategory]) == "string" || typeof(MyLib.Data.games[gameNumber].players[player][property][propertyCategory]) == "number" || typeof(MyLib.Data.games[gameNumber].players[player][property][propertyCategory]) == "boolean") {
 
                                 td = document.createElement('td');
 
-                                td.innerText = translate(MyLib.Data.games[gameNumber].players[player][key][key1]);
+                                td.innerText = translate(MyLib.Data.games[gameNumber].players[player][property][propertyCategory]);
 
                                 tbody.appendChild(td);
 
@@ -116,15 +116,15 @@ function showPlayerData(element, gameNumber) {
 
                                 td = document.createElement('td');
 
-                                td.innerHTML = '<strong style="color:red">' + MyLib.Data.games[gameNumber].players[player][key][key1][1]["propertyValue"] + "</strong>";
+                                td.innerHTML = '<strong style="color:red">' + MyLib.Data.games[gameNumber].players[player][property][propertyCategory][1]["propertyValue"] + "</strong>";
 
                                 tbody.appendChild(td);
 
-                                Object.keys(MyLib.Data.games[gameNumber].players[player]["game information"]).forEach(function (key2) {
+                                Object.keys(MyLib.Data.games[gameNumber].players[player]["game information"]).forEach(function (gameProperty) {
 
-                                    if (typeof(MyLib.Data.games[gameNumber].players[player]["game information"][key2]) == "object"){
+                                    if (typeof(MyLib.Data.games[gameNumber].players[player]["game information"][gameProperty]) == "object"){ //Highlights matches
 
-                                        number = MyLib.Data.games[gameNumber].players[player]["game information"][key2][1]["propertyValue"].toString();
+                                        number = MyLib.Data.games[gameNumber].players[player]["game information"][gameProperty][1]["propertyValue"].toString();
 
                                         output = output.replaceAll(" " + number + " ", '<strong style="color:red"> ' + number + " </strong>");
                                         output = output.replaceAll(" " + number + "-", '<strong style="color:red"> ' + number + "</strong>-");
@@ -156,23 +156,23 @@ function showPlayerData(element, gameNumber) {
                     });
                 });
             }
-        } else {
+        } else { //If they don't have "player informations" and "game informations", we will only show the data as table
 
             if (playerName == element.innerText) {
 
-                Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (key) {
+                Object.keys(MyLib.Data.games[gameNumber].players[player]).forEach(function (property) {
 
-                    if (MyLib.Data.games[gameNumber].players[player][key] != "None") {
+                    if (MyLib.Data.games[gameNumber].players[player][property] != "None") {
 
                         let tbody = document.createElement('tr');
 
                         let td = document.createElement('td');
-                        td.innerText = translate(key);
+                        td.innerText = translate(property);
 
                         tbody.appendChild(td);
 
                         td = document.createElement('td');
-                        td.innerText = MyLib.Data.games[gameNumber].players[player][key];
+                        td.innerText = MyLib.Data.games[gameNumber].players[player][property];
 
                         tbody.appendChild(td);
 
