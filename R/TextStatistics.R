@@ -1,6 +1,7 @@
 library(tidyverse)
 library(tokenizers)
 library(rjson)
+library(ggplot2)
 
 start_time <- Sys.time()
 
@@ -8,9 +9,9 @@ weeks <- list("01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", 
 
 years <- list("2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017")
   
-wordsPerGame <- 0
+numberOfWords <- 0
 
-listOfWords <- list()
+listOfWords <- list(0)
 
 for (year in years) {
 
@@ -22,8 +23,8 @@ for (year in years) {
     if (file.exists(weekFile)) {
       
       resultWeek <- rjson::fromJSON(file = weekFile) #Parse json from file
-      
-      i <- 1 #For iteration
+        
+        i <- 1 #For iteration 
       
       while(i <= as.integer(resultWeek$numberOfGames)){
         
@@ -42,81 +43,52 @@ for (year in years) {
 
           } else {
 
-            allComments <- paste(allComments, comment, setp=" ")
-
+            allComments <- paste(comment)
+            
             words <- tokenize_words(allComments) #splitting the comments to array of words
-
-            c(listOfWords, words) #collects words
-
-            wordsPerComment <- count_words(allComments) #count words
-
-            wordsPerGame <- wordsPerGame + wordsPerComment
+            
+            listOfWordsC <-c(listOfWords, words) #collect words for data
+            
+            numberOfWords <- numberOfWords + count_words(allComments) #total words
+          
           }
 
         }
         i <- i + 1
       }
     }
+    else {
+      error <- paste("file not found:", week, "/", year)
+      print(error)
+    }
   }
 
 }
 
-totalWords <- length(listOfWords)
-totalUniqueWords <- length(unique(listOfWords))
-
-print(totalWords)
-print(totalUniqueWords)
+print(numberOfWords)
 
 end_time <- Sys.time()
 
 print(end_time - start_time) #time needed for each article read
 
+#CORPUS.TXT full of mistakes, but interesting to read anyway
 #lets read corpus
 start_time <- Sys.time()
 
 corpus <- paste("..\\Data\\Corpus\\corpus.txt")
 
-text <- readLines(corpus)
+text <- readLines(corpus, encoding = "UTF-8")
 
-words <- tokenize_words(text) #list of words
+wordsCorpus <- tokenize_words(text) #list of words
 
 totalWords <- count_words(text) #count total words
-totalUniqueWords <- length(unique(words)) #total unique words
 
 print(totalWords)
-print(totalUniqueWords)
-
-end_time <- Sys.time()
-print(end_time - start_time) #time needed for corpus read
-
-#lets read corpus chunked
-start_time <- Sys.time()
-
-chunks <- chunk_text(corpus, chunk_size = "100")
-totalChunks <- length(chunks)
-print(totalChunks) #num of chunks created
-
-words <- list()
-totalWords <- 0
-
-i <- 1 #for iteration
-
-while(i <= totalChunks) {
-
-  words <- c(words, tokenize_words(chunks[i]))
-
-  totalWords <- totalWords + length(words[[1]])
-
-  i <- i + 1
-
-}
-
-print(totalWords)
-
-end_time <- Sys.time()
-print(end_time - start_time) #time needed for corpus read
 
 #sort words by frequency
-tab <- table(totalWords)
-tab <- data_frame(word = names(tab), count = as.numeric(tab))
+tab <- table(wordsCorpus[[1]])
+tab <- tibble(word = names(tab), count = as.numeric(tab))
 arrange(tab, desc(count))
+
+end_time <- Sys.time()
+print(end_time - start_time) #time needed for corpus read
