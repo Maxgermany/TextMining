@@ -1,5 +1,5 @@
 var statistics = {
-    "Task": "The task was to scrape NFL game reports and map them to a game database.",
+    "Task": "The task is to scrape NFL game reports and map them to a game database.",
     "Amount of scraped sites" : "197",
     "Amount of scraped games" : "2520",
     "Amount of player found" : "2526",
