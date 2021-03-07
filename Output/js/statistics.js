@@ -5,7 +5,7 @@ var statistics = {
     "Amount of player found" : "2526",
     "Amount of possible matchings" : "83986",
     "Amount of words" : "1389794",
-    "Amount of different words" : "",
+    "Amount of different words" : "15650",
     "Time to proceed (file by file)" : "3.903736 secs",
     "Time to proceed (corpus.txt)" : "0.8529961 secs",
     "Missing weeks" : "16/2010, 10/2015, 12/2017"
