@@ -4,10 +4,10 @@ var statistics = {
     "Amount of scraped games" : "2520",
     "Amount of player found" : "2526",
     "Amount of possible matchings" : "83986",
-    "Amount of words" : "",
+    "Amount of words" : "653427",
     "Amount of different words" : "",
-    "time to proceed (corpus.txt)" : "",
-    "time to proceed (walterfootball)" : ""
+    "Time to proceed (corpus.txt)" : "26.31793 secs",
+    "Time to proceed (corpus chunked)" : "3.193176 mins"
 }
 
 function populateStatistics() {
