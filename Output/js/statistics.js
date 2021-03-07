@@ -7,7 +7,7 @@ var statistics = {
     "Amount of words" : "1389794",
     "Amount of different words" : "",
     "Time to proceed" : "3.903736 secs",
-    "Mssind weeks" : "16/2010, 10/2015, 12/2017"
+    "Missing weeks" : "16/2010, 10/2015, 12/2017"
 }
 
 function populateStatistics() {
