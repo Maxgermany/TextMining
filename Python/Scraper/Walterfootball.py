@@ -163,33 +163,23 @@ def scrapWalterfootball(year, week):
 
 def scrapWalterfootballCorpus(year, week):
 
-    print("Now Scrapping week " + week + " of " + year + " for corpus")
+    filePath = "..\\..\\Data\\Walterfootball\\" + year + "\\week_" + week + ".json"
 
-    url = 'https://walterfootball.com/nflreview' + year + '_' + week + '.php'
-    page = requests.get(url)
+    if os.path.isfile(filePath):
+        file = open(filePath, "r")
 
-    soup = BeautifulSoup(page.content, 'html.parser')
+        fileCorpus = open("..\\..\\Data\\Corpus\\corpus.txt", "a+")
 
-    soup = removeUnwantedTags(soup, unwantedTagsButKeepContent = ['font', 'a', 'b'])
+        data = json.load(file)
 
-    if "We do not have an article for URL" in str(soup):
-        print("Couldn't scrap week " + week + " of " + year + " for corpus")
-    else:
+        for gameNumber in range(1, int(data["numberOfGames"]) + 1):
+            amountComments = int(data["Game " + str(gameNumber)]["comments"]["amount"])
+            i = 1
+            while i <= amountComments:
+                fileCorpus.write(data["Game " + str(gameNumber)]["comments"][str(i)])
+                i += 1
 
-        file = open("..\\..\\Data\\Corpus\\corpus.txt", "a+")
-
-        soup = soup.find('div', id='MainContentBlock')
-
-        for listElement in soup.find_all("li"):
-
-            output = ' '.join(listElement.text.replace('\n', ' ').replace('\r', ' ').split())
-
-            #Remove all left over html tags
-            p = re.compile(r'<.*?>')
-            output = p.sub('', output)
-
-            file.write(output)
-
+        fileCorpus.close()
         file.close()
 
 def removeUnwantedTags(soup, unwantedTagsRemoveContent = ['script', 'noscript', 'table', 'span', 'iframe'], unwantedTagsButKeepContent = ['font', 'a', 'i', 'blockquote', 'strike', 'rb', 'u', 'l', 'r']):
