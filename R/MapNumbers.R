@@ -149,9 +149,19 @@ getConfidence <- function(sentence, property) {
   
   propertyTerm[["passing_attempts"]] <- list("pass", "passing", "attempt")
   
+  propertyTerm[["passing_completions"]] <- list("pass", "passing", "completion", "completed")#
+  
+  propertyTerm[["passing_yards"]] <- list("pass", "passing", "yard")
+  
+  propertyTerm[["passing_touchdowns"]] <- list("pass", "passing", "touch", "touchdowns")
+  
   propertyTerm[["rushing_yards"]] <- list("rush", "rushing", "yard")
   
+  propertyTerm[["rushing_attempts"]] <- list("rush", "rushing", "attempt")
+  
   propertyTerm[["receiving_touchdowns"]] <- list("receive", "receiving", "touchdown")
+  
+  propertyTerm[["receiving_yards"]] <- list("receive", "receiving", "yards")
   
   if (is.null(propertyTerm[[property]])) {
     return("None")
